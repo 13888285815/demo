@@ -6,7 +6,7 @@
   <title>意念科技 - 新闻门户</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
   <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
-  <meta name="last-updated" content="2026-04-08T16:00:00+08:00">
+  <meta name="last-updated" content="2026-04-08T16:30:00+08:00">
   <style>
     :root {
       --primary: #0078d4;
@@ -254,55 +254,55 @@
   <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-08 16:00</div>
 
   <script>
-    // ==================== 数据定义（2026-04-08 16:00 更新）====================
+    // ==================== 数据定义（2026-04-08 16:30 更新）====================
     const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
     let activeChannel = '首页';
 
     // 央视新闻数据（2026年4月8日更新）
     const newsData = [
-      { id: 1, title: '美称以色列总理承诺尊重停火暂停攻击', summary: '白宫消息称，美国总统特朗普在宣布与伊朗进行有条件临时停火前，与以色列总理内塔尼亚胡通了电话，通报情况并获得了以方"尊重停火、暂停攻击"的承诺。', image: 'https://picsum.photos/800/450?random=101', source: '央视新闻', time: '10分钟前', category: '国际', isTop: true },
-      { id: 2, title: '意念科技发布新一代AI助手，引领智能交互革命', summary: '意念科技今日正式发布全新AI助手产品，采用自研大模型，支持多模态交互，性能超越行业平均水平30%。', image: 'https://picsum.photos/400/250?random=102', source: '科技日报', time: '25分钟前', category: '科技' },
-      { id: 3, title: '全球气候峰会达成新协议，2035年减排目标确定', summary: '各国代表就碳中和目标达成一致，将加速新能源转型。', image: 'https://picsum.photos/400/250?random=103', source: '央视新闻', time: '1小时前', category: '国际' },
-      { id: 4, title: '国产大飞机C919完成第1000次商业飞行', summary: 'C919客机累计运送旅客突破50万人次。', image: 'https://picsum.photos/400/250?random=104', source: '澎湃新闻', time: '2小时前', category: '财经' },
-      { id: 5, title: '意念科技云服务用户突破1亿，成为国内第三大云平台', summary: '企业级服务快速增长，安全合规能力获国际认证。', image: 'https://picsum.photos/400/250?random=105', source: '36氪', time: '3小时前', category: '科技' },
-      { id: 6, title: '新能源汽车出口量创历史新高，海外市场持续扩张', summary: '国产新能源车在欧洲市场份额突破15%。', image: 'https://picsum.photos/400/250?random=106', source: '财联社', time: '4小时前', category: '财经' }
+      { id: 1, title: '伊朗接受停火提议，以色列电视台倒计时轰炸等来停火', summary: '伊朗正式宣布接受停火提议，以色列电视台此前已开始倒计时预告轰炸行动，最终等来停火消息。此前美国总统特朗普与以色列总理内塔尼亚胡通话，获得了以方"尊重停火、暂停攻击"的承诺。', image: 'https://picsum.photos/800/450?random=301', source: '央视新闻', time: '30分钟前', category: '国际', isTop: true },
+      { id: 2, title: '美军大批F35将入驻日本三泽基地', summary: '美军计划在日本青森县三泽基地部署大批F-35战斗机，引发地区安全关注。日本防卫省表示将配合美军部署计划。', image: 'https://picsum.photos/400/250?random=302', source: '央视新闻', time: '1小时前', category: '军事' },
+      { id: 3, title: '3月份中国物流业景气指数为50.2%', summary: '中国物流与采购联合会发布数据显示，3月份中国物流业景气指数为50.2%，较上月回升2.7个百分点，重回扩张区间。', image: 'https://picsum.photos/400/250?random=303', source: '央视新闻', time: '2小时前', category: '财经' },
+      { id: 4, title: '2025年我国广告产业收入突破2万亿元', summary: '市场监管总局发布数据，2025年全国广告业事业单位和规模以上企业广告业务收入首次突破2万亿元大关，同比增长显著。', image: 'https://picsum.photos/400/250?random=304', source: '央视新闻', time: '3小时前', category: '财经' },
+      { id: 5, title: '779元滴眼液暴涨至3382元引热议', summary: '一款原价779元的滴眼液被曝价格暴涨至3382元，引发社会广泛关注和讨论。网友质疑药品价格监管机制。', image: 'https://picsum.photos/400/250?random=305', source: '微博热搜', time: '2小时前', category: '社会' },
+      { id: 6, title: '春假叠加清明假期，春日消费市场火力全开', summary: '春假与清明假期叠加效应明显，全国旅游、餐饮、零售等行业消费数据大幅增长，文旅市场迎来春季消费高峰。', image: 'https://picsum.photos/400/250?random=306', source: '央视新闻', time: '4小时前', category: '社会' }
     ];
 
     // B站热门视频数据
     const videoData = [
-      { id: 1, title: '意念科技2026发布会全程回顾', thumbnail: 'https://picsum.photos/320/180?random=201', duration: '45:23', views: '128万', author: '意念科技官方' },
-      { id: 2, title: 'AI如何改变我们的生活？深度解析', thumbnail: 'https://picsum.photos/320/180?random=202', duration: '12:05', views: '89万', author: '科技前沿' },
-      { id: 3, title: '新能源汽车选购指南2026', thumbnail: 'https://picsum.photos/320/180?random=203', duration: '18:42', views: '67万', author: '车评人老王' },
-      { id: 4, title: '一分钟看懂量子计算', thumbnail: 'https://picsum.photos/320/180?random=204', duration: '01:15', views: '234万', author: '科普中国' }
+      { id: 1, title: '魔丸练瑜伽', thumbnail: 'https://picsum.photos/320/180?random=401', duration: '03:42', views: '776万', author: '影视飓风' },
+      { id: 2, title: '金牌打野', thumbnail: 'https://picsum.photos/320/180?random=402', duration: '08:15', views: '643万', author: '英雄联盟赛事' },
+      { id: 3, title: '我被开除了…那就去旅行!!!', thumbnail: 'https://picsum.photos/320/180?random=403', duration: '15:33', views: '558万', author: '影视飓风' },
+      { id: 4, title: '当你穿进老钱班 第21集', thumbnail: 'https://picsum.photos/320/180?random=404', duration: '05:28', views: '407万', author: '剧情解说' }
     ];
 
     // 微博热搜数据
     const trendingData = [
-      { rank: 1, title: '美以停火承诺', heat: '523万', trend: 'up' },
-      { rank: 2, title: '意念科技新品发布', heat: '412万', trend: 'new' },
-      { rank: 3, title: '新能源汽车销量', heat: '356万', trend: 'up' },
-      { rank: 4, title: 'AI大模型突破', heat: '298万', trend: 'up' },
-      { rank: 5, title: '国际油价波动', heat: '245万', trend: 'down' },
-      { rank: 6, title: '春季旅游攻略', heat: '198万', trend: 'stable' },
-      { rank: 7, title: '健康饮食指南', heat: '167万', trend: 'stable' },
-      { rank: 8, title: '职场技能提升', heat: '145万', trend: 'new' },
-      { rank: 9, title: '智能家居推荐', heat: '123万', trend: 'up' },
-      { rank: 10, title: '周末电影推荐', heat: '98万', trend: 'stable' }
+      { rank: 1, title: '宇文玥捞上来了', heat: '109万', trend: 'new' },
+      { rank: 2, title: '779元滴眼液暴涨至3382元', heat: '78万', trend: 'up' },
+      { rank: 3, title: '春假撞怀清明春日消费火力全开', heat: '64万', trend: 'up' },
+      { rank: 4, title: '伊朗向全体人民祝贺胜利', heat: '60万', trend: 'up' },
+      { rank: 5, title: '冰湖重生开局0广', heat: '51万', trend: 'new' },
+      { rank: 6, title: '以色列电视台倒计时轰炸等来停火', heat: '45万', trend: 'up' },
+      { rank: 7, title: '跟着白鹿住必住', heat: '44万', trend: 'new' },
+      { rank: 8, title: '黄杨钿甜新剧开播前发千字文', heat: '43万', trend: 'new' },
+      { rank: 9, title: '美军大批F35将入驻日本三泽基地', heat: '22万', trend: 'up' },
+      { rank: 10, title: '医院回应太平间招搬尸工要笔试面试', heat: '20万', trend: 'new' }
     ];
 
     // 上海天气数据（来自 Open-Meteo API）
     const weatherData = {
       city: '上海',
-      temp: 17,
+      temp: 16,
       condition: '多云',
-      high: 20,
-      low: 12,
-      humidity: 54,
-      wind: '16.8 km/h',
+      high: 19,
+      low: 10,
+      humidity: 58,
+      wind: '16.6 km/h',
       forecast: [
-        { day: '今天', high: 20, low: 12, icon: '⛅' },
-        { day: '明天', high: 22, low: 14, icon: '☀️' },
-        { day: '后天', high: 19, low: 11, icon: '🌧️' }
+        { day: '今天', high: 19, low: 10, icon: '🌧️' },
+        { day: '明天', high: 31, low: 16, icon: '⛈️' },
+        { day: '后天', high: 26, low: 17, icon: '⛈️' }
       ]
     };
 
