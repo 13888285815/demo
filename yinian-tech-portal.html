@@ -6,7 +6,7 @@
   <title>意念科技 - 新闻门户</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
   <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
-  <meta name="last-updated" content="2026-04-09T12:00:00+08:00">
+  <meta name="last-updated" content="2026-04-09T12:30:00+08:00">
   <style>
     :root {
       --primary: #0078d4;
@@ -251,58 +251,58 @@
   </div>
 
   <!-- Update Badge -->
-  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-09 12:00</div>
+  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-09 12:30</div>
 
   <script>
     // ==================== 数据定义（2026-04-09 12:00 更新）====================
     const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
     let activeChannel = '首页';
 
-    // 新闻数据（2026年4月9日 12:00更新，来源：央视新闻 + 澎湃新闻）
+    // 新闻数据（2026年4月9日 12:30更新，来源：央视新闻 + 今日头条）
     const newsData = [
-      { id: 1, title: '两高涉民航安全司法解释今起施行', summary: '最高人民法院、最高人民检察院联合发布的关于办理民航安全领域刑事案件适用法律若干问题的司法解释今日起正式施行，明确相关犯罪的定罪量刑标准。', image: 'https://picsum.photos/800/450?random=301', source: '央视新闻', time: '刚刚', category: '国内', isTop: true },
-      { id: 2, title: '历时160天，第42次南极考察"雪龙"号凯旋', summary: '中国第42次南极科学考察队圆满完成各项任务，"雪龙"号极地科考破冰船载誉归来。此次考察历时160天，科研人员在南极多个站点开展了多学科综合科学考察。', image: 'https://picsum.photos/400/250?random=302', source: '澎湃新闻', time: '10分钟前', category: '国内' },
-      { id: 3, title: '我国在建离岸最远海上风电项目全面开工', summary: '我国目前在建离岸距离最远的海上风电项目已全面开工，该项目对于推动我国清洁能源发展、实现碳达峰碳中和目标具有重要意义。', image: 'https://picsum.photos/400/250?random=303', source: '央视新闻', time: '20分钟前', category: '财经' },
-      { id: 4, title: '第六届消博会将于4月13日举办，展馆搭建全面展开', summary: '第六届中国国际消费品博览会将于4月13日至18日在海南举办，目前展馆搭建工作已全面展开，本届消博会预计将吸引更多国际品牌参展。', image: 'https://picsum.photos/400/250?random=304', source: '央视新闻', time: '30分钟前', category: '财经' },
-      { id: 5, title: '中国与斯里兰卡合作打击跨国电诈，125名涉诈人员被遣返', summary: '中国与斯里兰卡两国警方密切协作，成功打击一个跨国电信网络诈骗犯罪团伙，125名涉诈犯罪嫌疑人被遣返回国接受调查。', image: 'https://picsum.photos/400/250?random=305', source: '澎湃新闻', time: '1小时前', category: '社会' },
-      { id: 6, title: '深圳通报医院"截单"延误抢救事件：涉事医院及责任人受罚', summary: '深圳卫健委通报某医院救护车"截单"延误患者抢救死亡事件，涉事医院及相关责任人受到行政处罚，案件引发社会对医疗急救服务规范的广泛讨论。', image: 'https://picsum.photos/400/250?random=306', source: '澎湃新闻', time: '2小时前', category: '社会' }
+      { id: 1, title: '横琴口岸客流较去年提前29天破千万人次', summary: '据珠海边检总站横琴边检站统计，截至2026年4月9日0时，横琴口岸本年度出入境客流总量突破1000万人次，较去年（2025年5月7日）提前29天，创口岸开通以来最快纪录，反映了琴澳两地往来日益密切、融合持续深化的蓬勃态势。', image: 'https://picsum.photos/800/450?random=301', source: '央视网', time: '刚刚', category: '国内', isTop: true },
+      { id: 2, title: '78亿变1亿 河南3地曝巨额数据造假', summary: '河南多地被曝存在统计数据造假问题，涉及金额从78亿元骤减至1亿元，引发社会广泛关注。相关部门已介入调查。', image: 'https://picsum.photos/400/250?random=302', source: '今日头条', time: '10分钟前', category: '社会' },
+      { id: 3, title: '两高涉民航安全司法解释今起施行', summary: '最高人民法院、最高人民检察院联合发布的关于办理民航安全领域刑事案件适用法律若干问题的司法解释今日起正式施行，明确相关犯罪的定罪量刑标准。', image: 'https://picsum.photos/400/250?random=303', source: '央视新闻', time: '30分钟前', category: '国内' },
+      { id: 4, title: '历时160天，第42次南极考察"雪龙"号凯旋', summary: '中国第42次南极科学考察队圆满完成各项任务，"雪龙"号极地科考破冰船载誉归来。此次考察历时160天，科研人员在南极多个站点开展了多学科综合科学考察。', image: 'https://picsum.photos/400/250?random=304', source: '澎湃新闻', time: '1小时前', category: '国内' },
+      { id: 5, title: '我国在建离岸最远海上风电项目全面开工', summary: '我国目前在建离岸距离最远的海上风电项目已全面开工，该项目对于推动我国清洁能源发展、实现碳达峰碳中和目标具有重要意义。', image: 'https://picsum.photos/400/250?random=305', source: '央视新闻', time: '2小时前', category: '财经' },
+      { id: 6, title: '第六届消博会将于4月13日举办，展馆搭建全面展开', summary: '第六届中国国际消费品博览会将于4月13日至18日在海南举办，目前展馆搭建工作已全面展开，本届消博会预计将吸引更多国际品牌参展。', image: 'https://picsum.photos/400/250?random=306', source: '央视新闻', time: '3小时前', category: '财经' }
     ];
 
-    // B站热门视频数据（2026年4月9日更新，来源：B站排行榜）
+    // B站热门视频数据（2026年4月9日 12:30更新，来源：B站热门榜）
     const videoData = [
-      { id: 1, title: '当你穿进老钱班21', thumbnail: 'https://i1.hdslb.com/bfs/archive/e675ebb67562de41239fce654fb92d64d5fa787d.jpg', duration: '03:05', views: '445万', author: '侯绿萝' },
-      { id: 2, title: '住手！不要用1月新番玷污我啊啊啊！！', thumbnail: 'https://i0.hdslb.com/bfs/archive/e527a6486a25a0a6abc1995adceef6c956630b8e.jpg', duration: '14:13', views: '232万', author: '泛式' },
-      { id: 3, title: '我嫁给你是来享福的不是来吃苦的别再被洗脑了', thumbnail: 'https://i2.hdslb.com/bfs/archive/522b225ad8a655c6ee34cb2bb6a7bbddc2a5b2d2.jpg', duration: '01:34', views: '207万', author: '晓艳教英语' },
+      { id: 1, title: '我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！', thumbnail: 'https://i2.hdslb.com/bfs/archive/522b225ad8a655c6ee34cb2bb6a7bbddc2a5b2d2.jpg', duration: '01:34', views: '235万', author: '晓艳教英语' },
+      { id: 2, title: '当你穿进老钱班21', thumbnail: 'https://i1.hdslb.com/bfs/archive/e675ebb67562de41239fce654fb92d64d5fa787d.jpg', duration: '03:05', views: '459万', author: '侯绿萝' },
+      { id: 3, title: '住手！不要用1月新番玷污我啊啊啊！！', thumbnail: 'https://i0.hdslb.com/bfs/archive/e527a6486a25a0a6abc1995adceef6c956630b8e.jpg', duration: '14:13', views: '232万', author: '泛式' },
       { id: 4, title: '幸福是如童话般美好的念想学姐系列完结卷', thumbnail: 'https://i2.hdslb.com/bfs/archive/ad04033341b0e6ccc4079c4edf4e6fc2eba18ea8.jpg', duration: '06:12', views: '185万', author: '清源唯心' }
     ];
 
-    // 微博热搜数据（2026年4月9日更新）
+    // 今日头条热榜数据（2026年4月9日 12:30更新）
     const trendingData = [
-      { rank: 1, title: '两高涉民航安全司法解释施行', heat: '95万', trend: 'new' },
-      { rank: 2, title: '雪龙号第42次南极考察凯旋', heat: '88万', trend: 'up' },
-      { rank: 3, title: '我国离岸最远海上风电开工', heat: '72万', trend: 'up' },
-      { rank: 4, title: '第六届消博会即将举办', heat: '65万', trend: 'new' },
-      { rank: 5, title: '斯里兰卡跨国电诈125人被遣返', heat: '58万', trend: 'up' },
-      { rank: 6, title: '深圳医院截单延误抢救', heat: '45万', trend: 'new' },
-      { rank: 7, title: 'LittleSnitch for Linux发布', heat: '38万', trend: 'new' },
-      { rank: 8, title: 'Polymarket伊朗停火押注获利', heat: '31万', trend: 'up' },
-      { rank: 9, title: '当你穿进老钱班21', heat: '22万', trend: 'new' },
-      { rank: 10, title: '泛式1月新番吐槽', heat: '18万', trend: 'new' }
+      { rank: 1, title: '78亿变1亿 河南3地曝巨额数据造假', heat: '7824万', trend: 'hot' },
+      { rank: 2, title: '横琴口岸客流提前29天破千万', heat: '4521万', trend: 'up' },
+      { rank: 3, title: '两高涉民航安全司法解释施行', heat: '3892万', trend: 'new' },
+      { rank: 4, title: '雪龙号第42次南极考察凯旋', heat: '3156万', trend: 'up' },
+      { rank: 5, title: '我国离岸最远海上风电开工', heat: '2891万', trend: 'up' },
+      { rank: 6, title: '第六届消博会即将举办', heat: '2345万', trend: 'new' },
+      { rank: 7, title: '我嫁给你是来享福的不是来吃苦的', heat: '1987万', trend: 'new' },
+      { rank: 8, title: '当你穿进老钱班21', heat: '1654万', trend: 'up' },
+      { rank: 9, title: '泛式1月新番吐槽', heat: '1232万', trend: 'new' },
+      { rank: 10, title: '幸福是如童话般美好的念想', heat: '987万', trend: 'new' }
     ];
 
-    // 上海天气数据（来自 Open-Meteo API，2026-04-09 12:00 更新）
+    // 上海天气数据（来自 wttr.in API，2026-04-09 12:30 更新）
     const weatherData = {
       city: '上海',
-      temp: 27,
-      condition: '多云转阵雨',
-      high: 29,
-      low: 16,
-      humidity: 56,
-      wind: '14 km/h',
+      temp: 26,
+      condition: '多云',
+      high: 28,
+      low: 18,
+      humidity: 58,
+      wind: '20 km/h',
       forecast: [
-        { day: '今天', high: 29, low: 16, icon: '🌧️' },
-        { day: '明天', high: 24, low: 17, icon: '⛈️' },
-        { day: '后天', high: 20, low: 14, icon: '☀️' }
+        { day: '今天', high: 28, low: 18, icon: '⛅' },
+        { day: '明天', high: 25, low: 17, icon: '🌧️' },
+        { day: '后天', high: 22, low: 15, icon: '☀️' }
       ]
     };
 
@@ -441,8 +441,8 @@
       if (!data) {
         container.innerHTML = `
           <div class="trending-header">
-            <h3>🔥 实时热搜</h3>
-            <span class="trending-source">微博</span>
+            <h3>🔥 实时热榜</h3>
+            <span class="trending-source">今日头条</span>
           </div>
           <div class="loading">加载中...</div>
         `;
@@ -450,8 +450,8 @@
       }
       container.innerHTML = `
         <div class="trending-header">
-          <h3>🔥 实时热搜</h3>
-          <span class="trending-source">微博</span>
+          <h3>🔥 实时热榜</h3>
+          <span class="trending-source">今日头条</span>
         </div>
         <ul class="trending-list">
           ${data.map(item => `
