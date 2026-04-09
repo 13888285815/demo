@@ -6,7 +6,7 @@
   <title>意念科技 - 新闻门户</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
   <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
-  <meta name="last-updated" content="2026-04-09T16:59:00+08:00">
+  <meta name="last-updated" content="2026-04-09T17:29:00+08:00">
   <style>
     :root {
       --primary: #0078d4;
@@ -251,24 +251,24 @@
   </div>
 
   <!-- Update Badge -->
-  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-09 16:59</div>
+  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-09 17:29</div>
 
   <script>
-    // ==================== 数据定义（2026-04-09 16:59 更新）====================
+    // ==================== 数据定义（2026-04-09 17:29 更新）====================
     const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
     let activeChannel = '首页';
 
-    // 新闻数据（2026年4月9日 16:59更新，来源：央视新闻）
+    // 新闻数据（2026年4月9日 17:29更新，来源：央视新闻/证券时报/新华网）
     const newsData = [
-      { id: 1, title: '国防部：解放军反分裂反干涉手段越来越丰富', summary: '国防部新闻发言人表示，解放军反分裂反干涉手段越来越丰富，有能力也有决心捍卫国家主权和领土完整，任何分裂国家的企图都将遭到坚决挫败。', image: 'https://picsum.photos/800/450?random=501', source: '央视新闻', time: '刚刚', category: '国内', isTop: true },
-      { id: 2, title: '横琴口岸客流较去年提前29天破千万人次', summary: '据珠海边检总站横琴边检站统计，截至2026年4月9日0时，横琴口岸本年度出入境客流总量突破1000万人次，较去年提前29天，创口岸开通以来最快纪录。', image: 'https://picsum.photos/400/250?random=502', source: '央视新闻', time: '30分钟前', category: '国内' },
-      { id: 3, title: '北约秘书长：特朗普对北约盟友的失望"很明显"', summary: '北约秘书长吕特表示，特朗普对北约盟友的失望是显然存在的，但特朗普也认真倾听了关于当前局势的分析，双方就北约未来发展进行了深入交流。', image: 'https://picsum.photos/400/250?random=503', source: '央视新闻', time: '1小时前', category: '国际' },
-      { id: 4, title: '内蒙古布局算电协同 筑牢数智化发展底座', summary: '内蒙古自治区积极推进算电协同发展战略，充分利用丰富的清洁能源优势，打造全国一体化算力网络国家枢纽节点，为数智化发展筑牢坚实底座。', image: 'https://picsum.photos/400/250?random=504', source: '央视新闻', time: '2小时前', category: '财经' },
-      { id: 5, title: '海南多地持续高温 将适时开展人工增雨作业', summary: '海南多地持续高温天气，气象部门密切关注天气变化，将适时开展人工增雨作业，缓解高温带来的影响，保障居民生活和农业生产。', image: 'https://picsum.photos/400/250?random=505', source: '央视新闻', time: '3小时前', category: '国内' },
-      { id: 6, title: '新闻联播、焦点访谈等央视品牌栏目持续聚焦国内外热点', summary: '央视新闻、财经、社会与法等多频道持续关注国内外热点事件，为观众提供权威、及时、全面的信息服务。', image: 'https://picsum.photos/400/250?random=506', source: '央视网', time: '今日', category: '国内' }
+      { id: 1, title: '中美关税战再度升级！中方宣布反制，将美国商品关税提高至84%', summary: '美国总统特朗普宣布对中国商品加征104%关税后，4月9日中方宣布反制措施，将对美国进口商品加征关税从34%提高到84%，同步加码50%。外交部发言人林剑明确回应："对这种霸道霸凌行径，中方坚决反对，绝不接受。"商务部强调奉陪到底。', image: 'https://picsum.photos/800/450?random=601', source: '央视新闻', time: '刚刚', category: '国际', isTop: true },
+      { id: 2, title: '美伊临时停火第一天，以军对黎真主党发动最大规模空袭', summary: '当地时间4月8日，美伊临时停火生效的第一天，以军对黎真主党发动本轮冲突以来最大规模空袭。伊朗称其违反停火协议，关闭霍尔木兹海峡。特朗普称以色列打击黎巴嫩"是另一场单独的冲突"。', image: 'https://picsum.photos/400/250?random=602', source: '证券时报', time: '30分钟前', category: '国际' },
+      { id: 3, title: '王毅将访问朝鲜，外交部回应特朗普涉伊朗言论', summary: '应朝鲜外务省邀请，中共中央政治局委员、外交部长王毅将于4月9日至10日访问朝鲜。外交部发言人毛宁回应特朗普称中国推动伊朗参与停火谈判的言论，表示中方一直积极致力于促和止战。', image: 'https://picsum.photos/400/250?random=603', source: '央视新闻', time: '1小时前', category: '外交' },
+      { id: 4, title: '宁德时代41亿元大手笔押注算电协同', summary: '4月8日晚，宁德时代宣布41亿元投资算电协同项目，为人工智能发展提供能源基础设施支撑，引爆市场关注。', image: 'https://picsum.photos/400/250?random=604', source: '四大证券报', time: '2小时前', category: '财经' },
+      { id: 5, title: '信长星会见中国国民党主席郑丽文一行', summary: '4月8日，中共江苏省委书记信长星在南京会见中国国民党主席郑丽文一行。郑丽文乘高铁前往南京，马英九智囊随行，台湾省传出避战声音。', image: 'https://picsum.photos/400/250?random=605', source: '央视新闻', time: '3小时前', category: '国内' },
+      { id: 6, title: '"券商一哥"中信证券人均薪酬81万冲上热搜', summary: '中信证券以81.28万元人均薪酬登上热搜榜。2025年中信证券实现营业收入748.54亿元，归母净利润300.76亿元，占全行业150家券商收入利润的13.8%和13.7%。', image: 'https://picsum.photos/400/250?random=606', source: '腾讯网', time: '今日', category: '财经' }
     ];
 
-    // B站热门视频数据（2026年4月9日 16:59更新，来源：B站热门榜）
+    // B站热门视频数据（2026年4月9日 17:29更新，来源：B站热门榜）
     const videoData = [
       { id: 1, title: '我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！', thumbnail: 'https://i2.hdslb.com/bfs/archive/522b225ad8a655c6ee34cb2bb6a7bbddc2a5b2d2.jpg', duration: '01:34', views: '290万', author: '晓艳教英语' },
       { id: 2, title: '当你穿进老钱班21', thumbnail: 'https://i1.hdslb.com/bfs/archive/e675ebb67562de41239fce654fb92d64d5fa787d.jpg', duration: '03:05', views: '520万', author: '侯绿萝' },
@@ -276,33 +276,33 @@
       { id: 4, title: '幸福是如童话般美好的念想学姐系列完结卷', thumbnail: 'https://i2.hdslb.com/bfs/archive/ad04033341b0e6ccc4079c4edf4e6fc2eba18ea8.jpg', duration: '06:12', views: '215万', author: '清源唯心' }
     ];
 
-    // 今日头条热榜数据（2026年4月9日 16:59更新）
+    // 今日头条热榜数据（2026年4月9日 17:29更新）
     const trendingData = [
-      { rank: 1, title: '国防部：解放军反分裂手段丰富', heat: '9123万', trend: 'hot' },
-      { rank: 2, title: '横琴口岸客流提前29天破千万', heat: '5789万', trend: 'up' },
-      { rank: 3, title: '北约秘书长谈特朗普对盟友失望', heat: '4621万', trend: 'new' },
-      { rank: 4, title: '内蒙古布局算电协同发展', heat: '3956万', trend: 'up' },
-      { rank: 5, title: '海南持续高温将人工增雨', heat: '3389万', trend: 'new' },
-      { rank: 6, title: '我嫁给你是来享福的不是来吃苦的', heat: '2512万', trend: 'new' },
-      { rank: 7, title: '当你穿进老钱班21', heat: '2015万', trend: 'up' },
-      { rank: 8, title: '泛式1月新番吐槽', heat: '1623万', trend: 'new' },
-      { rank: 9, title: '幸福是如童话般美好的念想', heat: '1287万', trend: 'new' },
-      { rank: 10, title: '新闻联播持续聚焦热点', heat: '1056万', trend: 'new' }
+      { rank: 1, title: '中方对美反制关税提高至84%', heat: '9234万', trend: 'hot' },
+      { rank: 2, title: '美伊停火首日以军大举空袭黎巴嫩', heat: '6812万', trend: 'up' },
+      { rank: 3, title: '王毅将访问朝鲜', heat: '5456万', trend: 'new' },
+      { rank: 4, title: '西湖将连续一周撒7吨漂白粉', heat: '4890万', trend: 'up' },
+      { rank: 5, title: '中信证券人均薪酬81万', heat: '4321万', trend: 'new' },
+      { rank: 6, title: '"香港飞香港"航班系系统测试', heat: '3876万', trend: 'new' },
+      { rank: 7, title: '6G网要来了 下载1部4K电影不到1秒', heat: '3254万', trend: 'up' },
+      { rank: 8, title: '宁德时代41亿押注算电协同', heat: '2789万', trend: 'new' },
+      { rank: 9, title: '信长星会见中国国民党主席郑丽文', heat: '2156万', trend: 'new' },
+      { rank: 10, title: '张雪机车WSBK葡萄牙站两连冠', heat: '1823万', trend: 'new' }
     ];
 
-    // 上海天气数据（来自 wttr.in API，2026-04-09 16:59 更新）
+    // 北京天气数据（2026-04-09 17:29 更新）
     const weatherData = {
-      city: '上海',
-      temp: 27,
-      condition: '多云',
-      high: 27,
-      low: 15,
-      humidity: 54,
-      wind: '11 km/h',
+      city: '北京',
+      temp: 14,
+      condition: '分散性小雨',
+      high: 14,
+      low: 8,
+      humidity: 82,
+      wind: '东风 二三级',
       forecast: [
-        { day: '今天', high: 27, low: 15, icon: '⛅' },
-        { day: '明天', high: 23, low: 16, icon: '🌧️' },
-        { day: '后天', high: 19, low: 14, icon: '⛅' }
+        { day: '今天', high: 14, low: 8, icon: '🌧️' },
+        { day: '明天', high: 25, low: 12, icon: '☀️' },
+        { day: '后天', high: 25, low: 13, icon: '☀️' }
       ]
     };
 
