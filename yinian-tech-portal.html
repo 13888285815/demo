@@ -6,7 +6,7 @@
   <title>意念科技 - 新闻门户</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
   <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
-  <meta name="last-updated" content="2026-04-09T18:33:00+08:00">
+  <meta name="last-updated" content="2026-04-09T19:02:00+08:00">
   <style>
     :root {
       --primary: #0078d4;
@@ -251,58 +251,59 @@
   </div>
 
   <!-- Update Badge -->
-  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-09 18:33</div>
+  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-09 19:02</div>
 
   <script>
     // ==================== 数据定义（2026-04-09 18:33 更新）====================
     const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
     let activeChannel = '首页';
 
-    // 新闻数据（2026年4月9日 18:33更新，来源：央视新闻/IT之家/少数派/腾讯网）
+    // 新闻数据（2026年4月9日 19:02更新，来源：央视新闻/IT之家）
     const newsData = [
-      { id: 1, title: '金子涵直播晒伤寻求助，控诉3年前被注射四五十针不明物质', summary: '4月8日深夜，已退圈一年的前《青春有你2》选手金子涵突然开启直播，全程不说话用纸笔交流。她掀起衣袖露出手臂密密麻麻的伤痕，披露3年前被以"祛痘消炎"为借口在脸部一次性注射40至50针不明物质，此后只要不听话头就会疼。9日凌晨她再发文回应热搜，称"她们在冤枉无关人士"。此事引发全网关注，秦岚等艺人被牵连其中。', image: 'https://picsum.photos/800/450?random=611', source: '央视新闻', time: '刚刚', category: '热点', isTop: true },
-      { id: 2, title: '古尔曼：苹果推进三年计划，由里到外"重新定义"iPhone', summary: '知名苹果爆料人马克·古尔曼最新报告透露，苹果正在推进一项为期三年的宏大计划，将从内到外全面重新定义iPhone产品线。预计将涉及全新设计语言、芯片架构革新以及AI深度整合等多个维度。', image: 'https://picsum.photos/400/250?random=612', source: 'IT之家', time: '2小时前', category: '科技' },
-      { id: 3, title: '新阿维塔12上市：标配华为896线激光雷达，零百2.71秒，29.39万起', summary: '阿维塔正式发布新阿维塔12，标配华为896线激光雷达，零百加速最快2.71秒，售价29.39万元起。同日阿维塔06T开启预售，22.99万元起。华为智驾能力持续赋能，对标特斯拉FSD。', image: 'https://picsum.photos/400/250?random=613', source: 'IT之家', time: '3小时前', category: '汽车' },
-      { id: 4, title: 'DeepSeek专家模式已支持上传文件，AI助手功能再升级', summary: 'DeepSeek官方宣布专家模式已支持上传文件功能，用户可在专家对话中直接上传文档进行分析。标志着国产AI大模型在实用性上持续追赶OpenAI，为用户提供更强大的专业场景支持。', image: 'https://picsum.photos/400/250?random=614', source: 'IT之家', time: '4小时前', category: '科技' },
-      { id: 5, title: '华为AI眼镜将至，何刚首曝新机拍摄样张', summary: '华为终端BG董事长何刚首次曝光华为AI眼镜拍摄样张，引发行业热议。此前千问AI眼镜G1已上市，华为入局AI眼镜赛道将进一步推动智能可穿戴设备发展。', image: 'https://picsum.photos/400/250?random=615', source: 'IT之家', time: '5小时前', category: '科技' },
-      { id: 6, title: '比亚迪与肯德基达成战略合作，9分钟实现"车充饱、人吃饱"', summary: '比亚迪宣布与肯德基达成战略合作，在比亚迪充电站旁开设肯德基餐厅。用户充电9分钟即可用餐完毕，实现"车充饱、人吃饱"的创新服务模式，打通新能源汽车充电与餐饮消费场景。', image: 'https://picsum.photos/400/250?random=616', source: 'IT之家', time: '6小时前', category: '商业' }
+      { id: 1, title: '横琴口岸客流较去年提前29天破千万人次', summary: '据珠海边检总站横琴边检站统计，截至2026年4月9日0时，横琴口岸本年度出入境客流总量突破1000万人次，较去年（2025年5月7日）提前29天，创口岸开通以来最快纪录，反映了琴澳两地往来日益密切、融合持续深化的蓬勃态势。', image: 'https://picsum.photos/800/450?random=701', source: '央视新闻', time: '刚刚', category: '国内', isTop: true },
+      { id: 2, title: '北约秘书长：特朗普对北约盟友的失望"很明显"', summary: '针对特朗普是否说过他会尝试退出北约的提问，吕特没有直接回答，只是说："正如我所说，失望显然是有的，但与此同时，他也非常认真地倾听了我关于当前局势的分析。"', image: 'https://picsum.photos/400/250?random=702', source: '央视新闻', time: '30分钟前', category: '国际' },
+      { id: 3, title: '多项"首次"与突破！我国南极考察取得五方面成果', summary: '考察队圆满完成南极半岛海域、宇航员海和阿蒙森海等重点海域61个站位的综合调查和14套潜标收放，完成三个越冬考察站、航空和南极内陆多项调查监测、工程建设、物资补给和人员运送，共支撑45项国家五大类科技计划项目现场实施。', image: 'https://picsum.photos/400/250?random=703', source: '央视新闻', time: '1小时前', category: '科技' },
+      { id: 4, title: 'AI"幻觉"误导他人是否构成侵权？全国首例纠纷案宣判', summary: '近日，杭州互联网法院审结全国首例因生成式人工智能模型"幻觉"引发的侵权纠纷案，直面这一技术应用前沿的法律挑战，对AI生成内容的性质、服务提供者的责任边界以及侵权构成要件等核心问题作出判决。', image: 'https://picsum.photos/400/250?random=704', source: '央视新闻', time: '2小时前', category: '法治' },
+      { id: 5, title: '美以打击伊朗24小时后，局势如何？最新消息汇总', summary: '此前，伊朗一所小学及一座体育馆遭遇袭击，多人伤亡。当地时间2月28日，美国和以色列对伊朗发动联合军事打击，伊朗霍尔木兹甘省米纳卜市一所小学遭到导弹袭击。', image: 'https://picsum.photos/400/250?random=705', source: '央视新闻', time: '3小时前', category: '国际' },
+      { id: 6, title: '山西省晋城市陵川县王莽岭景区附近发生山火 正全力扑救中', summary: '记者5日从山西省晋城市陵川县政府获悉，王莽岭景区附近发生山火，目前正全力组织扑救。相关部门已启动应急响应，全力控制火势蔓延。', image: 'https://picsum.photos/400/250?random=706', source: '央视新闻', time: '4小时前', category: '社会' }
     ];
 
-    // B站热门视频数据（2026年4月9日 18:33更新，来源：B站热门榜）
+    // B站热门视频数据（2026年4月9日 19:02更新，来源：B站热门榜API）
     const videoData = [
-      { id: 1, title: '游戏荒不知道玩什么？2026年4月国内外网游新作盘点', thumbnail: 'https://i2.hdslb.com/bfs/archive/522b225ad8a655c6ee34cb2bb6a7bbddc2a5b2d2.jpg', duration: '15:42', views: '380万', author: '游戏盘点菌' },
-      { id: 2, title: '如何评价B站将于4月10日上线播放页暂停广告功能？', thumbnail: 'https://i1.hdslb.com/bfs/archive/e675ebb67562de41239fce654fb92d64d5fa787d.jpg', duration: '08:20', views: '265万', author: '影视飓风' },
-      { id: 3, title: '时隔5年的大更新！AirPods Max 2 首发深度体验', thumbnail: 'https://i0.hdslb.com/bfs/archive/e527a6486a25a0a6abc1995adceef6c956630b8e.jpg', duration: '22:35', views: '210万', author: '极客湾' },
-      { id: 4, title: '千问AI眼镜G1自费长测：买前必看', thumbnail: 'https://i2.hdslb.com/bfs/archive/ad04033341b0e6ccc4079c4edf4e6fc2eba18ea8.jpg', duration: '18:05', views: '185万', author: '科技美学' }
+      { id: 1, title: '当你穿进老钱班21', thumbnail: 'https://i1.hdslb.com/bfs/archive/e675ebb67562de41239fce654fb92d64d5fa787d.jpg', duration: '03:05', views: '472万', author: '侯绿萝' },
+      { id: 2, title: '住手☆！不要用1月新番玷污我啊啊啊！！【泛式】', thumbnail: 'https://i0.hdslb.com/bfs/archive/e527a6486a25a0a6abc1995adceef6c956630b8e.jpg', duration: '14:13', views: '253万', author: '泛式' },
+      { id: 3, title: '我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！', thumbnail: 'https://i2.hdslb.com/bfs/archive/522b225ad8a655c6ee34cb2bb6a7bbddc2a5b2d2.jpg', duration: '01:34', views: '273万', author: '晓艳教英语' },
+      { id: 4, title: '《原神》角色预告-「莉奈娅：精准答疑，倾心追奇！」', thumbnail: 'https://i1.hdslb.com/bfs/archive/5d32ea7e4ee34ae712e81028a4916e3e63380f53.jpg', duration: '10:23', views: '115万', author: '原神' }
     ];
 
-    // 微博热榜数据（2026年4月9日 18:33更新）
+    // 热榜数据（2026年4月9日 19:02更新）
+    // 注：微博热搜需登录访问，暂用今日头条热榜替代
     const trendingData = [
-      { rank: 1, title: '金子涵直播求救', heat: '1.2亿', trend: 'hot' },
-      { rank: 2, title: '中方对美反制关税提高至84%', heat: '9234万', trend: 'up' },
-      { rank: 3, title: '苹果三年计划重新定义iPhone', heat: '6812万', trend: 'new' },
-      { rank: 4, title: '新阿维塔12上市29.39万起', heat: '5456万', trend: 'new' },
-      { rank: 5, title: 'DeepSeek专家模式支持上传文件', heat: '4890万', trend: 'new' },
-      { rank: 6, title: '华为AI眼镜样张曝光', heat: '4321万', trend: 'new' },
-      { rank: 7, title: '比亚迪与肯德基战略合作', heat: '3876万', trend: 'new' },
-      { rank: 8, title: '小米18系列或配超8000mAh电池', heat: '3254万', trend: 'up' },
-      { rank: 9, title: '微信鸿蒙版8.0.16正式版发布', heat: '2789万', trend: 'new' },
-      { rank: 10, title: 'B站将上线播放页暂停广告', heat: '2156万', trend: 'new' }
+      { rank: 1, title: '横琴口岸客流破千万', heat: '热议中', trend: 'hot' },
+      { rank: 2, title: '北约秘书长谈特朗普', heat: '热议中', trend: 'up' },
+      { rank: 3, title: '南极考察成果发布', heat: '热议中', trend: 'new' },
+      { rank: 4, title: 'AI幻觉侵权案宣判', heat: '关注中', trend: 'new' },
+      { rank: 5, title: '美以打击伊朗后续', heat: '关注中', trend: 'up' },
+      { rank: 6, title: '山西陵川山火扑救', heat: '关注中', trend: 'new' },
+      { rank: 7, title: 'B站热门视频榜', heat: '查看详情', trend: 'new' },
+      { rank: 8, title: '原神新角色预告', heat: '游戏圈', trend: 'new' },
+      { rank: 9, title: '泛式1月新番吐槽', heat: '动漫圈', trend: 'up' },
+      { rank: 10, title: '老钱班小剧场', heat: '热门', trend: 'new' }
     ];
 
-    // 深圳天气数据（2026-04-09 18:33 更新，来源：wttr.in）
+    // 北京天气数据（2026-04-09 19:02 更新，来源：wttr.in）
     const weatherData = {
-      city: '深圳',
-      temp: 27,
-      condition: '多云',
-      high: 30,
-      low: 23,
-      humidity: 79,
-      wind: '南风 17km/h',
+      city: '北京',
+      temp: 10,
+      condition: '薄雾',
+      high: 14,
+      low: 8,
+      humidity: 94,
+      wind: '东风 8km/h',
       forecast: [
-        { day: '今天', high: 30, low: 23, icon: '⛅' },
-        { day: '明天', high: 29, low: 22, icon: '🌤️' },
-        { day: '后天', high: 28, low: 22, icon: '☀️' }
+        { day: '今天', high: 14, low: 8, icon: '🌫️' },
+        { day: '明天', high: 16, low: 9, icon: '🌤️' },
+        { day: '后天', high: 18, low: 10, icon: '☀️' }
       ]
     };
 
