@@ -6,7 +6,7 @@
   <title>意念科技 - 新闻门户</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
   <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
-  <meta name="last-updated" content="2026-04-09 23:12:35">
+  <meta name="last-updated" content="2026-04-10 09:30">
   <style>
     :root {
       --primary: #0078d4;
@@ -251,59 +251,59 @@
   </div>
 
   <!-- Update Badge -->
-  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-09 19:02</div>
+  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-10 09:30</div>
 
   <script>
-    // ==================== 数据定义（2026-04-09 18:33 更新）====================
+    // ==================== 数据定义（2026-04-10 09:30 更新）====================
     const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
     let activeChannel = '首页';
 
-    // 新闻数据（2026年4月9日 19:02更新，来源：央视新闻/IT之家）
+    // 新闻数据（2026年4月10日 09:30更新，来源：央视新闻）
     const newsData = [
-      { id: 1, title: '横琴口岸客流较去年提前29天破千万人次', summary: '据珠海边检总站横琴边检站统计，截至2026年4月9日0时，横琴口岸本年度出入境客流总量突破1000万人次，较去年（2025年5月7日）提前29天，创口岸开通以来最快纪录，反映了琴澳两地往来日益密切、融合持续深化的蓬勃态势。', image: 'https://picsum.photos/800/450?random=701', source: '央视新闻', time: '刚刚', category: '国内', isTop: true },
-      { id: 2, title: '北约秘书长：特朗普对北约盟友的失望"很明显"', summary: '针对特朗普是否说过他会尝试退出北约的提问，吕特没有直接回答，只是说："正如我所说，失望显然是有的，但与此同时，他也非常认真地倾听了我关于当前局势的分析。"', image: 'https://picsum.photos/400/250?random=702', source: '央视新闻', time: '30分钟前', category: '国际' },
-      { id: 3, title: '多项"首次"与突破！我国南极考察取得五方面成果', summary: '考察队圆满完成南极半岛海域、宇航员海和阿蒙森海等重点海域61个站位的综合调查和14套潜标收放，完成三个越冬考察站、航空和南极内陆多项调查监测、工程建设、物资补给和人员运送，共支撑45项国家五大类科技计划项目现场实施。', image: 'https://picsum.photos/400/250?random=703', source: '央视新闻', time: '1小时前', category: '科技' },
-      { id: 4, title: 'AI"幻觉"误导他人是否构成侵权？全国首例纠纷案宣判', summary: '近日，杭州互联网法院审结全国首例因生成式人工智能模型"幻觉"引发的侵权纠纷案，直面这一技术应用前沿的法律挑战，对AI生成内容的性质、服务提供者的责任边界以及侵权构成要件等核心问题作出判决。', image: 'https://picsum.photos/400/250?random=704', source: '央视新闻', time: '2小时前', category: '法治' },
-      { id: 5, title: '美以打击伊朗24小时后，局势如何？最新消息汇总', summary: '此前，伊朗一所小学及一座体育馆遭遇袭击，多人伤亡。当地时间2月28日，美国和以色列对伊朗发动联合军事打击，伊朗霍尔木兹甘省米纳卜市一所小学遭到导弹袭击。', image: 'https://picsum.photos/400/250?random=705', source: '央视新闻', time: '3小时前', category: '国际' },
-      { id: 6, title: '山西省晋城市陵川县王莽岭景区附近发生山火 正全力扑救中', summary: '记者5日从山西省晋城市陵川县政府获悉，王莽岭景区附近发生山火，目前正全力组织扑救。相关部门已启动应急响应，全力控制火势蔓延。', image: 'https://picsum.photos/400/250?random=706', source: '央视新闻', time: '4小时前', category: '社会' }
+      { id: 1, title: '商务部：推进电商高质量发展 更好服务实体经济', summary: '商务部近日发布关于推进电商高质量发展的指导意见，强调要更好服务实体经济，促进线上线下融合发展，推动电子商务与制造业、农业、服务业深度融合。', image: 'https://picsum.photos/800/450?random=801', source: '央视新闻', time: '刚刚', category: '财经', isTop: true },
+      { id: 2, title: '吴石故居被命名为"全国国家安全教育基地"', summary: '近日，吴石故居被命名为"全国国家安全教育基地"，将进一步发挥爱国主义教育和国家安全教育功能，传承红色基因。', image: 'https://picsum.photos/400/250?random=802', source: '央视新闻', time: '30分钟前', category: '社会' },
+      { id: 3, title: '未能履行承诺 四药企被暂停集采申报资格', summary: '国家药品集中采购办公室发布公告，四家药企因未能履行集采承诺被暂停申报资格，此举旨在维护集中采购秩序，保障药品供应。', image: 'https://picsum.photos/400/250?random=803', source: '央视新闻', time: '1小时前', category: '财经' },
+      { id: 4, title: '多项"首次"与突破！我国南极考察取得五方面成果', summary: '考察队圆满完成南极半岛海域、宇航员海和阿蒙森海等重点海域61个站位的综合调查和14套潜标收放，完成三个越冬考察站、航空和南极内陆多项调查监测、工程建设、物资补给和人员运送，共支撑45项国家五大类科技计划项目现场实施。', image: 'https://picsum.photos/400/250?random=804', source: '央视新闻', time: '2小时前', category: '科技' },
+      { id: 5, title: 'AI"幻觉"误导他人是否构成侵权？全国首例纠纷案宣判', summary: '近日，杭州互联网法院审结全国首例因生成式人工智能模型"幻觉"引发的侵权纠纷案，直面这一技术应用前沿的法律挑战，对AI生成内容的性质、服务提供者的责任边界以及侵权构成要件等核心问题作出判决。', image: 'https://picsum.photos/400/250?random=805', source: '央视新闻', time: '3小时前', category: '法治' },
+      { id: 6, title: '横琴口岸客流较去年提前29天破千万人次', summary: '据珠海边检总站横琴边检站统计，截至2026年4月9日0时，横琴口岸本年度出入境客流总量突破1000万人次，较去年（2025年5月7日）提前29天，创口岸开通以来最快纪录。', image: 'https://picsum.photos/400/250?random=806', source: '央视新闻', time: '4小时前', category: '国内' }
     ];
 
-    // B站热门视频数据（2026年4月9日 19:02更新，来源：B站热门榜API）
+    // B站热门视频数据（2026年4月10日 09:30更新，来源：B站热门榜API）
     const videoData = [
-      { id: 1, title: '当你穿进老钱班21', thumbnail: 'https://i1.hdslb.com/bfs/archive/e675ebb67562de41239fce654fb92d64d5fa787d.jpg', duration: '03:05', views: '472万', author: '侯绿萝' },
-      { id: 2, title: '住手☆！不要用1月新番玷污我啊啊啊！！【泛式】', thumbnail: 'https://i0.hdslb.com/bfs/archive/e527a6486a25a0a6abc1995adceef6c956630b8e.jpg', duration: '14:13', views: '253万', author: '泛式' },
-      { id: 3, title: '我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！', thumbnail: 'https://i2.hdslb.com/bfs/archive/522b225ad8a655c6ee34cb2bb6a7bbddc2a5b2d2.jpg', duration: '01:34', views: '273万', author: '晓艳教英语' },
-      { id: 4, title: '《原神》角色预告-「莉奈娅：精准答疑，倾心追奇！」', thumbnail: 'https://i1.hdslb.com/bfs/archive/5d32ea7e4ee34ae712e81028a4916e3e63380f53.jpg', duration: '10:23', views: '115万', author: '原神' }
+      { id: 1, title: '我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！', thumbnail: 'https://i2.hdslb.com/bfs/archive/522b225ad8a655c6ee34cb2bb6a7bbddc2a5b2d2.jpg', duration: '01:34', views: '318万', author: '晓艳教英语' },
+      { id: 2, title: '《百米自由搏击》', thumbnail: 'https://i2.hdslb.com/bfs/archive/2dd7f70bf37a3b1ed98ee390d00076465034d1ae.jpg', duration: '01:14', views: '474万', author: '伤心欲茄222' },
+      { id: 3, title: '【檀健次】【B站独家】「多见一次」个人巡回演唱会大电影', thumbnail: 'https://i2.hdslb.com/bfs/archive/c59b204c87d6dd07954a4849501fd060e57164df.jpg', duration: '64:51', views: '156万', author: '檀健次' },
+      { id: 4, title: '《溺水の鱼》', thumbnail: 'https://i2.hdslb.com/bfs/archive/ad4a5b65f02608109c47dbfa6753fe65a575d466.jpg', duration: '02:03', views: '358万', author: '伤心欲茄222' }
     ];
 
-    // 热榜数据（2026年4月9日 19:02更新）
-    // 注：微博热搜需登录访问，暂用今日头条热榜替代
+    // 热榜数据（2026年4月10日 09:30更新）
+    // 注：微博热搜需登录访问，暂用央视新闻热点替代
     const trendingData = [
-      { rank: 1, title: '横琴口岸客流破千万', heat: '热议中', trend: 'hot' },
-      { rank: 2, title: '北约秘书长谈特朗普', heat: '热议中', trend: 'up' },
-      { rank: 3, title: '南极考察成果发布', heat: '热议中', trend: 'new' },
-      { rank: 4, title: 'AI幻觉侵权案宣判', heat: '关注中', trend: 'new' },
-      { rank: 5, title: '美以打击伊朗后续', heat: '关注中', trend: 'up' },
-      { rank: 6, title: '山西陵川山火扑救', heat: '关注中', trend: 'new' },
+      { rank: 1, title: '商务部推进电商高质量发展', heat: '热议中', trend: 'hot' },
+      { rank: 2, title: '吴石故居获国家安全教育基地', heat: '热议中', trend: 'new' },
+      { rank: 3, title: '四药企被暂停集采资格', heat: '关注中', trend: 'new' },
+      { rank: 4, title: '我国南极考察成果发布', heat: '关注中', trend: 'up' },
+      { rank: 5, title: 'AI幻觉侵权案宣判', heat: '关注中', trend: 'up' },
+      { rank: 6, title: '横琴口岸客流破千万', heat: '热议中', trend: 'up' },
       { rank: 7, title: 'B站热门视频榜', heat: '查看详情', trend: 'new' },
-      { rank: 8, title: '原神新角色预告', heat: '游戏圈', trend: 'new' },
-      { rank: 9, title: '泛式1月新番吐槽', heat: '动漫圈', trend: 'up' },
-      { rank: 10, title: '老钱班小剧场', heat: '热门', trend: 'new' }
+      { rank: 8, title: '檀健次演唱会电影', heat: '娱乐', trend: 'new' },
+      { rank: 9, title: '百米自由搏击', heat: '热门', trend: 'up' },
+      { rank: 10, title: '原神新角色预告', heat: '游戏圈', trend: 'new' }
     ];
 
-    // 北京天气数据（2026-04-09 19:02 更新，来源：wttr.in）
+    // 北京天气数据（2026-04-10 09:30 更新，来源：wttr.in）
     const weatherData = {
       city: '北京',
-      temp: 10,
-      condition: '薄雾',
-      high: 14,
-      low: 8,
-      humidity: 94,
-      wind: '东风 8km/h',
+      temp: 16,
+      condition: '晴',
+      high: 18,
+      low: 9,
+      humidity: 35,
+      wind: '西北风 6km/h',
       forecast: [
-        { day: '今天', high: 14, low: 8, icon: '🌫️' },
-        { day: '明天', high: 16, low: 9, icon: '🌤️' },
-        { day: '后天', high: 18, low: 10, icon: '☀️' }
+        { day: '今天', high: 18, low: 9, icon: '☀️' },
+        { day: '明天', high: 20, low: 11, icon: '🌤️' },
+        { day: '后天', high: 22, low: 12, icon: '☀️' }
       ]
     };
 
