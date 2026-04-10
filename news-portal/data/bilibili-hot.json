@@ -1,0 +1,87 @@
+{
+  "source": "B站热门",
+  "updateTime": "2026-04-10T11:30:00+08:00",
+  "note": "数据来源于B站排行榜API",
+  "hotVideos": [
+    {
+      "rank": 1,
+      "title": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
+      "author": "晓艳教英语",
+      "view": 3227701,
+      "like": 365119,
+      "bvid": "BV1o7DYB2Exe",
+      "url": "https://www.bilibili.com/video/BV1o7DYB2Exe",
+      "category": "校园学习"
+    },
+    {
+      "rank": 2,
+      "title": "《百米自由搏击》",
+      "author": "伤心欲茄222",
+      "view": 4970706,
+      "like": 373643,
+      "bvid": "BV1ktDpBFEQN",
+      "url": "https://www.bilibili.com/video/BV1ktDpBFEQN",
+      "category": "搞笑"
+    },
+    {
+      "rank": 3,
+      "title": "「多见一次」檀健次个人巡回演唱会大电影",
+      "author": "檀健次",
+      "view": 0,
+      "like": 0,
+      "bvid": "",
+      "url": "",
+      "category": "明星综合"
+    },
+    {
+      "rank": 4,
+      "title": "《溺水の鱼》",
+      "author": "伤心欲茄222",
+      "view": 3607294,
+      "like": 236082,
+      "bvid": "BV1yrSfBAEYk",
+      "url": "https://www.bilibili.com/video/BV1yrSfBAEYk",
+      "category": "搞笑"
+    },
+    {
+      "rank": 5,
+      "title": "比亚迪与肯德基达成战略合作",
+      "author": "热点资讯",
+      "view": 0,
+      "like": 0,
+      "bvid": "",
+      "url": "",
+      "category": "资讯"
+    },
+    {
+      "rank": 6,
+      "title": "B站将于4月10日上线播放页暂停广告",
+      "author": "热点资讯",
+      "view": 0,
+      "like": 0,
+      "bvid": "",
+      "url": "",
+      "category": "科技"
+    },
+    {
+      "rank": 7,
+      "title": "QQ浏览器上线「龙虾」QBotClaw",
+      "author": "热点资讯",
+      "view": 0,
+      "like": 0,
+      "bvid": "",
+      "url": "",
+      "category": "科技"
+    },
+    {
+      "rank": 8,
+      "title": "高铁宠物托运"爱宠行"服务实行",
+      "author": "热点资讯",
+      "view": 0,
+      "like": 0,
+      "bvid": "",
+      "url": "",
+      "category": "生活"
+    }
+  ]
+}

@@ -6,7 +6,7 @@
   <title>意念科技 - 新闻门户</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
   <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
-  <meta name="last-updated" content="2026-04-10 09:30">
+  <meta name="last-updated" content="2026-04-10 11:30">
   <style>
     :root {
       --primary: #0078d4;
@@ -251,59 +251,58 @@
   </div>
 
   <!-- Update Badge -->
-  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-10 09:30</div>
+  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-10 11:30</div>
 
   <script>
     // ==================== 数据定义（2026-04-10 09:30 更新）====================
     const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
     let activeChannel = '首页';
 
-    // 新闻数据（2026年4月10日 09:30更新，来源：央视新闻）
+    // 新闻数据（2026年4月10日 11:30更新，来源：央视新闻+ProSearch）
     const newsData = [
-      { id: 1, title: '商务部：推进电商高质量发展 更好服务实体经济', summary: '商务部近日发布关于推进电商高质量发展的指导意见，强调要更好服务实体经济，促进线上线下融合发展，推动电子商务与制造业、农业、服务业深度融合。', image: 'https://picsum.photos/800/450?random=801', source: '央视新闻', time: '刚刚', category: '财经', isTop: true },
-      { id: 2, title: '吴石故居被命名为"全国国家安全教育基地"', summary: '近日，吴石故居被命名为"全国国家安全教育基地"，将进一步发挥爱国主义教育和国家安全教育功能，传承红色基因。', image: 'https://picsum.photos/400/250?random=802', source: '央视新闻', time: '30分钟前', category: '社会' },
-      { id: 3, title: '未能履行承诺 四药企被暂停集采申报资格', summary: '国家药品集中采购办公室发布公告，四家药企因未能履行集采承诺被暂停申报资格，此举旨在维护集中采购秩序，保障药品供应。', image: 'https://picsum.photos/400/250?random=803', source: '央视新闻', time: '1小时前', category: '财经' },
-      { id: 4, title: '多项"首次"与突破！我国南极考察取得五方面成果', summary: '考察队圆满完成南极半岛海域、宇航员海和阿蒙森海等重点海域61个站位的综合调查和14套潜标收放，完成三个越冬考察站、航空和南极内陆多项调查监测、工程建设、物资补给和人员运送，共支撑45项国家五大类科技计划项目现场实施。', image: 'https://picsum.photos/400/250?random=804', source: '央视新闻', time: '2小时前', category: '科技' },
-      { id: 5, title: 'AI"幻觉"误导他人是否构成侵权？全国首例纠纷案宣判', summary: '近日，杭州互联网法院审结全国首例因生成式人工智能模型"幻觉"引发的侵权纠纷案，直面这一技术应用前沿的法律挑战，对AI生成内容的性质、服务提供者的责任边界以及侵权构成要件等核心问题作出判决。', image: 'https://picsum.photos/400/250?random=805', source: '央视新闻', time: '3小时前', category: '法治' },
-      { id: 6, title: '横琴口岸客流较去年提前29天破千万人次', summary: '据珠海边检总站横琴边检站统计，截至2026年4月9日0时，横琴口岸本年度出入境客流总量突破1000万人次，较去年（2025年5月7日）提前29天，创口岸开通以来最快纪录。', image: 'https://picsum.photos/400/250?random=806', source: '央视新闻', time: '4小时前', category: '国内' }
+      { id: 1, title: '普京宣布东正教复活节停火32小时 乌方表示将跟进', summary: '俄罗斯总统普京宣布东正教复活节停火决定。停火时间从莫斯科时间4月11日16时（北京时间21时）起，持续至4月12日午夜。乌克兰总统泽连斯基表示将采取对等举措。', image: 'https://picsum.photos/800/450?random=901', source: '央视新闻', time: '2小时前', category: '国际', isTop: true },
+      { id: 2, title: '王毅应邀访问朝鲜 释放半岛局势缓和信号', summary: '应朝鲜外务省邀请，外交部长王毅于4月9日至10日对朝鲜进行正式访问。中国以高层外交主动介入，向各方传递"用对话代替对抗"的信号。', image: 'https://picsum.photos/400/250?random=902', source: '央视新闻', time: '3小时前', category: '国际' },
+      { id: 3, title: '以军空袭黎巴嫩致254死1165伤 黎宣布全国哀悼', summary: '以色列对黎巴嫩发动大规模空袭，造成至少254人死亡、1165人受伤。以军宣布已打死真主党领导人纳伊姆·卡西姆。特朗普要求以方行动更低调。', image: 'https://picsum.photos/400/250?random=903', source: '央视新闻', time: '3小时前', category: '国际' },
+      { id: 4, title: '海南多地持续高温 多部门联动抗旱保收', summary: '海南省气象局继续发布高温三级预警，部分乡镇气温可达40摄氏度以上，突破当地4月历史最高气温纪录。', image: 'https://picsum.photos/400/250?random=904', source: '央视新闻', time: '5小时前', category: '国内' },
+      { id: 5, title: '四部门部署规范动力及储能电池行业竞争秩序', summary: '工信部、发改委、市场监管总局、国家能源局联合召开动力及储能电池行业企业座谈会，部署规范产业竞争秩序相关工作。', image: 'https://picsum.photos/400/250?random=905', source: '央视新闻', time: '4小时前', category: '财经' },
+      { id: 6, title: '第十六届北影节"北京展映"开票啦', summary: '第十六届北京国际电影节展映单元正式开票，影迷可在线选座购票。', image: 'https://picsum.photos/400/250?random=906', source: '央视新闻', time: '6小时前', category: '文化' }
     ];
 
-    // B站热门视频数据（2026年4月10日 09:30更新，来源：B站热门榜API）
+    // B站热门视频数据（2026年4月10日 11:30更新，来源：B站排行榜API）
     const videoData = [
-      { id: 1, title: '我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！', thumbnail: 'https://i2.hdslb.com/bfs/archive/522b225ad8a655c6ee34cb2bb6a7bbddc2a5b2d2.jpg', duration: '01:34', views: '318万', author: '晓艳教英语' },
-      { id: 2, title: '《百米自由搏击》', thumbnail: 'https://i2.hdslb.com/bfs/archive/2dd7f70bf37a3b1ed98ee390d00076465034d1ae.jpg', duration: '01:14', views: '474万', author: '伤心欲茄222' },
-      { id: 3, title: '【檀健次】【B站独家】「多见一次」个人巡回演唱会大电影', thumbnail: 'https://i2.hdslb.com/bfs/archive/c59b204c87d6dd07954a4849501fd060e57164df.jpg', duration: '64:51', views: '156万', author: '檀健次' },
-      { id: 4, title: '《溺水の鱼》', thumbnail: 'https://i2.hdslb.com/bfs/archive/ad4a5b65f02608109c47dbfa6753fe65a575d466.jpg', duration: '02:03', views: '358万', author: '伤心欲茄222' }
+      { id: 1, title: '我嫁给你是来享福的，不是来吃苦的！别再被洗脑了！', thumbnail: 'https://i2.hdslb.com/bfs/archive/522b225ad8a655c6ee34cb2bb6a7bbddc2a5b2d2.jpg', duration: '01:34', views: '322万', author: '晓艳教英语' },
+      { id: 2, title: '《百米自由搏击》', thumbnail: 'https://i2.hdslb.com/bfs/archive/2dd7f70bf37a3b1ed98ee390d00076465034d1ae.jpg', duration: '01:14', views: '497万', author: '伤心欲茄222' },
+      { id: 3, title: '「多见一次」檀健次个人巡回演唱会大电影', thumbnail: 'https://i2.hdslb.com/bfs/archive/c59b204c87d6dd07954a4849501fd060e57164df.jpg', duration: '64:51', views: '热播中', author: '檀健次' },
+      { id: 4, title: '《溺水の鱼》', thumbnail: 'https://i2.hdslb.com/bfs/archive/ad4a5b65f02608109c47dbfa6753fe65a575d466.jpg', duration: '02:03', views: '360万', author: '伤心欲茄222' }
     ];
 
-    // 热榜数据（2026年4月10日 09:30更新）
-    // 注：微博热搜需登录访问，暂用央视新闻热点替代
+    // 热榜数据（2026年4月10日 11:30更新，来源：微博热搜+ProSearch）
     const trendingData = [
-      { rank: 1, title: '商务部推进电商高质量发展', heat: '热议中', trend: 'hot' },
-      { rank: 2, title: '吴石故居获国家安全教育基地', heat: '热议中', trend: 'new' },
-      { rank: 3, title: '四药企被暂停集采资格', heat: '关注中', trend: 'new' },
-      { rank: 4, title: '我国南极考察成果发布', heat: '关注中', trend: 'up' },
-      { rank: 5, title: 'AI幻觉侵权案宣判', heat: '关注中', trend: 'up' },
-      { rank: 6, title: '横琴口岸客流破千万', heat: '热议中', trend: 'up' },
-      { rank: 7, title: 'B站热门视频榜', heat: '查看详情', trend: 'new' },
-      { rank: 8, title: '檀健次演唱会电影', heat: '娱乐', trend: 'new' },
-      { rank: 9, title: '百米自由搏击', heat: '热门', trend: 'up' },
-      { rank: 10, title: '原神新角色预告', heat: '游戏圈', trend: 'new' }
+      { rank: 1, title: '香港飞香港航班', heat: '28万', trend: 'hot' },
+      { rank: 2, title: '6G网要来了', heat: '26万', trend: 'new' },
+      { rank: 3, title: '经济学家不建议上班族炒股', heat: '23万', trend: 'up' },
+      { rank: 4, title: 'iPhone 18系列售价或上涨', heat: '21万', trend: 'new' },
+      { rank: 5, title: '以军空袭黎巴嫩致254死', heat: '19.8万', trend: 'hot' },
+      { rank: 6, title: '普京宣布复活节停火32小时', heat: '19.5万', trend: 'up' },
+      { rank: 7, title: '卫生巾或通过减量不加价隐性涨价', heat: '18万', trend: 'new' },
+      { rank: 8, title: '比亚迪与肯德基达成战略合作', heat: '17.5万', trend: 'new' },
+      { rank: 9, title: 'B站将于4月10日上线播放页暂停广告', heat: '16.5万', trend: 'up' },
+      { rank: 10, title: '李佳琦哽咽宣布将短暂退出直播', heat: '15.5万', trend: 'new' }
     ];
 
-    // 北京天气数据（2026-04-10 09:30 更新，来源：wttr.in）
+    // 北京天气数据（2026-04-10 11:30 更新，来源：wttr.in）
     const weatherData = {
       city: '北京',
       temp: 16,
       condition: '晴',
-      high: 18,
+      high: 28,
       low: 9,
-      humidity: 35,
-      wind: '西北风 6km/h',
+      humidity: 63,
+      wind: '西北风 14km/h',
       forecast: [
-        { day: '今天', high: 18, low: 9, icon: '☀️' },
-        { day: '明天', high: 20, low: 11, icon: '🌤️' },
-        { day: '后天', high: 22, low: 12, icon: '☀️' }
+        { day: '今天', high: 28, low: 9, icon: '☀️' },
+        { day: '明天', high: 25, low: 13, icon: '🌤️' },
+        { day: '后天', high: 26, low: 13, icon: '⛅' }
       ]
     };
 

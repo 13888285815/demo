@@ -1,0 +1,17 @@
+{
+  "source": "微博热搜",
+  "updateTime": "2026-04-10T11:30:00+08:00",
+  "note": "数据来源于热搜话题聚合",
+  "hotSearches": [
+    {"rank": 1, "title": "香港飞香港航班", "heat": 280000, "category": "社会"},
+    {"rank": 2, "title": "6G网要来了", "heat": 260000, "category": "科技"},
+    {"rank": 3, "title": "经济学家不建议上班族炒股", "heat": 230000, "category": "财经"},
+    {"rank": 4, "title": "iPhone 18系列售价或上涨", "heat": 210000, "category": "科技"},
+    {"rank": 5, "title": "以军空袭黎巴嫩致254死", "heat": 198000, "category": "国际"},
+    {"rank": 6, "title": "普京宣布复活节停火32小时", "heat": 195000, "category": "国际"},
+    {"rank": 7, "title": "卫生巾或通过减量不加价隐性涨价", "heat": 180000, "category": "民生"},
+    {"rank": 8, "title": "比亚迪与肯德基达成战略合作", "heat": 175000, "category": "商业"},
+    {"rank": 9, "title": "B站将于4月10日上线播放页暂停广告", "heat": 165000, "category": "科技"},
+    {"rank": 10, "title": "李佳琦哽咽宣布将短暂退出直播", "heat": 155000, "category": "娱乐"}
+  ]
+}

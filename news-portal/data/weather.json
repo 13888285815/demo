@@ -1,0 +1,46 @@
+{
+  "source": "wttr.in",
+  "updateTime": "2026-04-10T11:30:00+08:00",
+  "location": "北京",
+  "current": {
+    "temp": 16,
+    "feelsLike": 16,
+    "humidity": 63,
+    "weather": "晴",
+    "weatherEn": "Sunny",
+    "windSpeed": 14,
+    "windDir": "西北",
+    "windDirEn": "NW",
+    "visibility": 6,
+    "uvIndex": 5
+  },
+  "forecast": [
+    {
+      "date": "2026-04-10",
+      "maxTemp": 28,
+      "minTemp": 9,
+      "avgTemp": 18,
+      "weather": "晴转多云",
+      "sunrise": "05:45",
+      "sunset": "18:47"
+    },
+    {
+      "date": "2026-04-11",
+      "maxTemp": 25,
+      "minTemp": 13,
+      "avgTemp": 19,
+      "weather": "多云",
+      "sunrise": "05:44",
+      "sunset": "18:48"
+    },
+    {
+      "date": "2026-04-12",
+      "maxTemp": 26,
+      "minTemp": 13,
+      "avgTemp": 20,
+      "weather": "晴转多云",
+      "sunrise": "05:42",
+      "sunset": "18:49"
+    }
+  ]
+}

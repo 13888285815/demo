@@ -1,0 +1,48 @@
+{
+  "source": "央视新闻",
+  "updateTime": "2026-04-10T11:30:00+08:00",
+  "news": [
+    {
+      "title": "普京宣布东正教复活节停火32小时 乌方表示将跟进",
+      "url": "https://news.cctv.com/2026/04/10/ARTIqTjfg9cRIoMWhfe9xn6v260410.shtml",
+      "summary": "俄罗斯总统普京宣布东正教复活节停火决定。停火时间从莫斯科时间4月11日16时（北京时间21时）起，持续至4月12日午夜。乌克兰总统泽连斯基表示将采取对等举措。",
+      "category": "国际"
+    },
+    {
+      "title": "王毅应邀访问朝鲜 释放半岛局势缓和信号",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_57969d8298b82952",
+      "summary": "应朝鲜外务省邀请，外交部长王毅于4月9日至10日对朝鲜进行正式访问。中国以高层外交主动介入，向各方传递\"用对话代替对抗\"的信号。",
+      "category": "国际"
+    },
+    {
+      "title": "以军空袭黎巴嫩致254死1165伤 黎宣布全国哀悼",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_57969d8298b82952",
+      "summary": "以色列对黎巴嫩发动大规模空袭，造成至少254人死亡、1165人受伤。以军宣布已打死黎巴嫩真主党领导人纳伊姆·卡西姆。特朗普要求内塔尼亚胡在黎巴嫩行动更低调。",
+      "category": "国际"
+    },
+    {
+      "title": "海南多地持续高温 多部门联动抗旱保收",
+      "url": "https://news.cctv.com/2026/04/10/ARTIadKamJauKq35AYQ9vyf2260409.shtml",
+      "summary": "海南省气象局继续发布高温三级预警，部分乡镇气温可达40摄氏度以上，突破当地4月历史最高气温纪录。",
+      "category": "中国"
+    },
+    {
+      "title": "四部门部署规范动力及储能电池行业竞争秩序",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_93269d8471312752",
+      "summary": "工信部、发改委、市场监管总局、国家能源局联合召开动力及储能电池行业企业座谈会，部署规范产业竞争秩序相关工作。",
+      "category": "财经"
+    },
+    {
+      "title": "第十六届北影节"北京展映"开票啦",
+      "url": "https://tv.cctv.com/2026/04/10/VIDEb34Gx5cplPRDxQXPyQ7F260410.shtml",
+      "summary": "第十六届北京国际电影节展映单元正式开票。",
+      "category": "文化"
+    },
+    {
+      "title": "獴猎行动 正在行动：一条可疑网帖牵出特大跨境婚骗案",
+      "url": "https://tv.cctv.com/2026/04/10/VIDEWKUeftqlu9emSrBKPIWg260410.shtml",
+      "summary": "一条可疑网帖牵出特大跨境婚骗案。",
+      "category": "社会"
+    }
+  ]
+}
