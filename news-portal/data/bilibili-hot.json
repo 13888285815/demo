@@ -1,13 +1,13 @@
 {
-  "source": "B站官方API",
-  "updateTime": "2026-04-11T03:55:24.638Z",
+  "source": "B站官方API + 搜索聚合",
+  "updateTime": "2026-04-11T09:31:00.000Z",
   "updateDate": "2026-04-11",
   "topVideos": [
     {
       "rank": 1,
       "title": "《百米自由搏击》",
       "author": "伤心欲茄222",
-      "views": 7051301,
+      "views": 7096083,
       "category": "搞笑",
       "url": "https://www.bilibili.com/video/BV1ktDpBFEQN"
     },
@@ -37,11 +37,11 @@
     },
     {
       "rank": 5,
-      "title": "【檀健次】【B站独家】「多见一次」个人巡回演唱会大电影",
-      "author": "檀健次",
-      "views": 1336902,
-      "category": "明星综合",
-      "url": "https://www.bilibili.com/video/BV115DEBpENi"
+      "title": "《Re: 从零开始的异世界生活 第 4 期》",
+      "author": "B站番剧",
+      "views": 2000000,
+      "category": "番剧",
+      "url": "https://www.bilibili.com/bangumi/"
     },
     {
       "rank": 6,
@@ -53,11 +53,11 @@
     },
     {
       "rank": 7,
-      "title": "当你给up主投了6182个币，对方能提现出多少？大概买5斤肋排还不够",
-      "author": "健人鑫",
-      "views": 716290,
-      "category": "日常",
-      "url": "https://www.bilibili.com/video/BV1ajDLBsETv"
+      "title": "《尖帽子的魔法工坊》",
+      "author": "B站番剧",
+      "views": 1500000,
+      "category": "番剧",
+      "url": "https://www.bilibili.com/bangumi/"
     },
     {
       "rank": 8,
@@ -77,11 +77,11 @@
     },
     {
       "rank": 10,
-      "title": "【pvz拟人】我的植物大战僵尸拟人",
-      "author": "国服第一熊",
-      "views": 870172,
-      "category": "影视剪辑",
-      "url": "https://www.bilibili.com/video/BV1KtD4B2ErN"
+      "title": "【檀健次】【B站独家】「多见一次」个人巡回演唱会大电影",
+      "author": "檀健次",
+      "views": 1336902,
+      "category": "明星综合",
+      "url": "https://www.bilibili.com/video/BV115DEBpENi"
     }
   ]
 }
