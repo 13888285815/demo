@@ -6,7 +6,7 @@
   <title>意念科技 - 新闻门户</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
   <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
-  <meta name="last-updated" content="2026-04-10 11:30">
+  <meta name="last-updated" content="2026-04-11 11:52">
   <style>
     :root {
       --primary: #0078d4;
@@ -251,58 +251,60 @@
   </div>
 
   <!-- Update Badge -->
-  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-10 11:30</div>
+  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-10 12:29</div>
 
   <script>
-    // ==================== 数据定义（2026-04-10 09:30 更新）====================
+    // ==================== 数据定义（2026-04-10 12:29 更新）====================
     const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
     let activeChannel = '首页';
 
-    // 新闻数据（2026年4月10日 11:30更新，来源：央视新闻+ProSearch）
+    // 新闻数据（2026年4月11日 11:52更新，来源：央视新闻+搜索聚合）
     const newsData = [
-      { id: 1, title: '普京宣布东正教复活节停火32小时 乌方表示将跟进', summary: '俄罗斯总统普京宣布东正教复活节停火决定。停火时间从莫斯科时间4月11日16时（北京时间21时）起，持续至4月12日午夜。乌克兰总统泽连斯基表示将采取对等举措。', image: 'https://picsum.photos/800/450?random=901', source: '央视新闻', time: '2小时前', category: '国际', isTop: true },
-      { id: 2, title: '王毅应邀访问朝鲜 释放半岛局势缓和信号', summary: '应朝鲜外务省邀请，外交部长王毅于4月9日至10日对朝鲜进行正式访问。中国以高层外交主动介入，向各方传递"用对话代替对抗"的信号。', image: 'https://picsum.photos/400/250?random=902', source: '央视新闻', time: '3小时前', category: '国际' },
-      { id: 3, title: '以军空袭黎巴嫩致254死1165伤 黎宣布全国哀悼', summary: '以色列对黎巴嫩发动大规模空袭，造成至少254人死亡、1165人受伤。以军宣布已打死真主党领导人纳伊姆·卡西姆。特朗普要求以方行动更低调。', image: 'https://picsum.photos/400/250?random=903', source: '央视新闻', time: '3小时前', category: '国际' },
-      { id: 4, title: '海南多地持续高温 多部门联动抗旱保收', summary: '海南省气象局继续发布高温三级预警，部分乡镇气温可达40摄氏度以上，突破当地4月历史最高气温纪录。', image: 'https://picsum.photos/400/250?random=904', source: '央视新闻', time: '5小时前', category: '国内' },
-      { id: 5, title: '四部门部署规范动力及储能电池行业竞争秩序', summary: '工信部、发改委、市场监管总局、国家能源局联合召开动力及储能电池行业企业座谈会，部署规范产业竞争秩序相关工作。', image: 'https://picsum.photos/400/250?random=905', source: '央视新闻', time: '4小时前', category: '财经' },
-      { id: 6, title: '第十六届北影节"北京展映"开票啦', summary: '第十六届北京国际电影节展映单元正式开票，影迷可在线选座购票。', image: 'https://picsum.photos/400/250?random=906', source: '央视新闻', time: '6小时前', category: '文化' }
+      { id: 1, title: '京雄首次开展"人工智能+教育"深度合作', summary: '北京首都教育新地图和基础教育AI超市面向雄安新区全部学校开放访问和入驻权限，两地围绕人工智能通识课、身心健康教育等开展深入对接。', image: 'https://picsum.photos/800/450?random=901', source: '央视新闻', time: '刚刚', category: '国内', isTop: true },
+      { id: 2, title: '7家涉火车票销售平台被约谈', summary: '中央网信办、国家铁路局联合约谈携程、同程、去哪儿、飞猪、美团、智行火车票、高铁管家等7家平台，严禁自动化抢票干扰12306。', image: 'https://picsum.photos/800/450?random=911', source: '央视新闻', time: '2小时前', category: '社会' },
+      { id: 3, title: '兆瓦级氢燃料航空涡桨发动机首飞成功', summary: '中国航发集团自主研制的兆瓦级氢燃料航空涡桨发动机AEP100配装7.5吨级无人运输机在湖南株洲芦淞机场成功首飞。', image: 'https://picsum.photos/400/250?random=902', source: '央视新闻', time: '5小时前', category: '科技' },
+      { id: 4, title: '普京宣布东正教复活节停火32小时 乌方表示跟进', summary: '俄罗斯总统普京宣布东正教复活节停火，停火时间从莫斯科时间4月11日16时起持续至4月12日午夜，乌克兰表示将采取对等举措跟进。', image: 'https://picsum.photos/400/250?random=903', source: '央视新闻', time: '7小时前', category: '国际' },
+      { id: 5, title: '"海洋地质二号"完成第33航次深海科考任务', summary: '联合16家单位、100名科考人员历时30天，获得多项科研成果。', image: 'https://picsum.photos/400/250?random=904', source: '央视新闻', time: '6小时前', category: '科技' },
+      { id: 6, title: '海南多地持续高温 多部门联动抗旱保收', summary: '海南省气象局继续发布高温三级预警，部分乡镇气温可达40摄氏度以上，突破当地4月历史最高气温纪录。', image: 'https://picsum.photos/400/250?random=905', source: '央视新闻', time: '8小时前', category: '国内' },
+      { id: 7, title: '央视关注贵州：高效利用 推动资源全产业链发展', summary: '贵州立足自身优势，聚焦双碳战略目标，整合资源、创新升级，为高质量发展提供坚实能源保障。', image: 'https://picsum.photos/400/250?random=906', source: '央视新闻', time: '7小时前', category: '国内' },
+      { id: 8, title: '第十六届北影节"北京展映"开票', summary: '第十六届北京国际电影节展映单元正式开票，观众可通过官方渠道购票观影。', image: 'https://picsum.photos/400/250?random=907', source: '央视新闻', time: '7小时前', category: '文化' }
     ];
 
-    // B站热门视频数据（2026年4月10日 11:30更新，来源：B站排行榜API）
+    // B站热门视频数据（2026年4月11日 11:52更新，来源：B站热门API）
     const videoData = [
-      { id: 1, title: '我嫁给你是来享福的，不是来吃苦的！别再被洗脑了！', thumbnail: 'https://i2.hdslb.com/bfs/archive/522b225ad8a655c6ee34cb2bb6a7bbddc2a5b2d2.jpg', duration: '01:34', views: '322万', author: '晓艳教英语' },
-      { id: 2, title: '《百米自由搏击》', thumbnail: 'https://i2.hdslb.com/bfs/archive/2dd7f70bf37a3b1ed98ee390d00076465034d1ae.jpg', duration: '01:14', views: '497万', author: '伤心欲茄222' },
-      { id: 3, title: '「多见一次」檀健次个人巡回演唱会大电影', thumbnail: 'https://i2.hdslb.com/bfs/archive/c59b204c87d6dd07954a4849501fd060e57164df.jpg', duration: '64:51', views: '热播中', author: '檀健次' },
-      { id: 4, title: '《溺水の鱼》', thumbnail: 'https://i2.hdslb.com/bfs/archive/ad4a5b65f02608109c47dbfa6753fe65a575d466.jpg', duration: '02:03', views: '360万', author: '伤心欲茄222' }
+      { id: 1, title: '《百米自由搏击》', thumbnail: 'https://i2.hdslb.com/bfs/archive/2dd7f70bf37a3b1ed98ee390d00076465034d1ae.jpg', duration: '01:14', views: '705万', author: '伤心欲茄222' },
+      { id: 2, title: '《崩坏：星穹铁道》原创动画PV——「死于午后」', thumbnail: 'https://i2.hdslb.com/bfs/archive/c59b204c87d6dd07954a4849501fd060e57164df.jpg', duration: '04:23', views: '219万', author: '崩坏星穹铁道' },
+      { id: 3, title: '五年了，他还是坐上了这个位置…', thumbnail: 'https://picsum.photos/400/225?random=201', duration: '08:30', views: '276万', author: '小潮院长' },
+      { id: 4, title: '我嫁给你是来享福的，不是来吃苦的！', thumbnail: 'https://picsum.photos/400/225?random=202', duration: '01:34', views: '373万', author: '晓艳教英语' }
     ];
 
-    // 热榜数据（2026年4月10日 11:30更新，来源：微博热搜+ProSearch）
+    // 热榜数据（2026年4月11日 11:52更新，来源：微博热搜）
     const trendingData = [
-      { rank: 1, title: '香港飞香港航班', heat: '28万', trend: 'hot' },
-      { rank: 2, title: '6G网要来了', heat: '26万', trend: 'new' },
-      { rank: 3, title: '经济学家不建议上班族炒股', heat: '23万', trend: 'up' },
-      { rank: 4, title: 'iPhone 18系列售价或上涨', heat: '21万', trend: 'new' },
-      { rank: 5, title: '以军空袭黎巴嫩致254死', heat: '19.8万', trend: 'hot' },
-      { rank: 6, title: '普京宣布复活节停火32小时', heat: '19.5万', trend: 'up' },
-      { rank: 7, title: '卫生巾或通过减量不加价隐性涨价', heat: '18万', trend: 'new' },
-      { rank: 8, title: '比亚迪与肯德基达成战略合作', heat: '17.5万', trend: 'new' },
-      { rank: 9, title: 'B站将于4月10日上线播放页暂停广告', heat: '16.5万', trend: 'up' },
-      { rank: 10, title: '李佳琦哽咽宣布将短暂退出直播', heat: '15.5万', trend: 'new' }
+      { rank: 1, title: '浪姐直播 对口型', heat: '50万', trend: 'hot' },
+      { rank: 2, title: '曝黄景瑜王玉雯恋情', heat: '45万', trend: 'hot' },
+      { rank: 3, title: '离婚五天前夫带人砸门', heat: '38万', trend: 'new' },
+      { rank: 4, title: '正当防卫 女子开车撞劫匪', heat: '32万', trend: 'up' },
+      { rank: 5, title: '7家涉火车票平台被约谈', heat: '28万', trend: 'new' },
+      { rank: 6, title: '张雪峰心脏骤停正在抢救', heat: '25万', trend: 'hot' },
+      { rank: 7, title: '北约对美国的反抗', heat: '23万', trend: 'up' },
+      { rank: 8, title: '京雄首次开展人工智能+教育合作', heat: '20万', trend: 'new' },
+      { rank: 9, title: '氢燃料航空涡桨发动机首飞成功', heat: '18万', trend: 'up' },
+      { rank: 10, title: '武汉今日小雨', heat: '15万', trend: 'new' }
     ];
 
-    // 北京天气数据（2026-04-10 11:30 更新，来源：wttr.in）
+    // 北京天气数据（2026-04-11 11:52 更新，来源：天气聚合搜索）
     const weatherData = {
       city: '北京',
-      temp: 16,
-      condition: '晴',
-      high: 28,
+      temp: 22,
+      condition: '晴间多云',
+      high: 22,
       low: 9,
-      humidity: 63,
-      wind: '西北风 14km/h',
+      humidity: 46,
+      wind: '北风转南风 3级 阵风5级',
       forecast: [
-        { day: '今天', high: 28, low: 9, icon: '☀️' },
-        { day: '明天', high: 25, low: 13, icon: '🌤️' },
-        { day: '后天', high: 26, low: 13, icon: '⛅' }
+        { day: '今天', high: 22, low: 9, icon: '🌤️' },
+        { day: '明天', high: 26, low: 13, icon: '☀️' },
+        { day: '后天', high: 24, low: 12, icon: '⛅' }
       ]
     };
 
