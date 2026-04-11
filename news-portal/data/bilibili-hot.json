@@ -1,87 +1,87 @@
 {
-  "source": "B站热门",
-  "updateTime": "2026-04-10T11:30:00+08:00",
-  "note": "数据来源于B站排行榜API",
-  "hotVideos": [
+  "source": "B站官方API",
+  "updateTime": "2026-04-11T03:55:24.638Z",
+  "updateDate": "2026-04-11",
+  "topVideos": [
     {
       "rank": 1,
-      "title": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
-      "author": "晓艳教英语",
-      "view": 3227701,
-      "like": 365119,
-      "bvid": "BV1o7DYB2Exe",
-      "url": "https://www.bilibili.com/video/BV1o7DYB2Exe",
-      "category": "校园学习"
+      "title": "《百米自由搏击》",
+      "author": "伤心欲茄222",
+      "views": 7051301,
+      "category": "搞笑",
+      "url": "https://www.bilibili.com/video/BV1ktDpBFEQN"
     },
     {
       "rank": 2,
-      "title": "《百米自由搏击》",
-      "author": "伤心欲茄222",
-      "view": 4970706,
-      "like": 373643,
-      "bvid": "BV1ktDpBFEQN",
-      "url": "https://www.bilibili.com/video/BV1ktDpBFEQN",
-      "category": "搞笑"
+      "title": "《崩坏：星穹铁道》原创动画·概念PV——「死于午后」",
+      "author": "崩坏星穹铁道",
+      "views": 2192957,
+      "category": "手机游戏",
+      "url": "https://www.bilibili.com/video/BV1YXDfBUETP"
     },
     {
       "rank": 3,
-      "title": "「多见一次」檀健次个人巡回演唱会大电影",
-      "author": "檀健次",
-      "view": 0,
-      "like": 0,
-      "bvid": "",
-      "url": "",
-      "category": "明星综合"
+      "title": "五年了，他还是坐上了这个位置…",
+      "author": "小潮院长",
+      "views": 2769147,
+      "category": "搞笑",
+      "url": "https://www.bilibili.com/video/BV1H7QFBaERe"
     },
     {
       "rank": 4,
-      "title": "《溺水の鱼》",
-      "author": "伤心欲茄222",
-      "view": 3607294,
-      "like": 236082,
-      "bvid": "BV1yrSfBAEYk",
-      "url": "https://www.bilibili.com/video/BV1yrSfBAEYk",
-      "category": "搞笑"
+      "title": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
+      "author": "晓艳教英语",
+      "views": 3735405,
+      "category": "校园学习",
+      "url": "https://www.bilibili.com/video/BV1o7DYB2Exe"
     },
     {
       "rank": 5,
-      "title": "比亚迪与肯德基达成战略合作",
-      "author": "热点资讯",
-      "view": 0,
-      "like": 0,
-      "bvid": "",
-      "url": "",
-      "category": "资讯"
+      "title": "【檀健次】【B站独家】「多见一次」个人巡回演唱会大电影",
+      "author": "檀健次",
+      "views": 1336902,
+      "category": "明星综合",
+      "url": "https://www.bilibili.com/video/BV115DEBpENi"
     },
     {
       "rank": 6,
-      "title": "B站将于4月10日上线播放页暂停广告",
-      "author": "热点资讯",
-      "view": 0,
-      "like": 0,
-      "bvid": "",
-      "url": "",
-      "category": "科技"
+      "title": "北约对美国的反抗",
+      "author": "燕三嘤嘤嘤",
+      "views": 2355065,
+      "category": "人文历史",
+      "url": "https://www.bilibili.com/video/BV1TTDzBUECQ"
     },
     {
       "rank": 7,
-      "title": "QQ浏览器上线「龙虾」QBotClaw",
-      "author": "热点资讯",
-      "view": 0,
-      "like": 0,
-      "bvid": "",
-      "url": "",
-      "category": "科技"
+      "title": "当你给up主投了6182个币，对方能提现出多少？大概买5斤肋排还不够",
+      "author": "健人鑫",
+      "views": 716290,
+      "category": "日常",
+      "url": "https://www.bilibili.com/video/BV1ajDLBsETv"
     },
     {
       "rank": 8,
-      "title": "高铁宠物托运"爱宠行"服务实行",
-      "author": "热点资讯",
-      "view": 0,
-      "like": 0,
-      "bvid": "",
-      "url": "",
-      "category": "生活"
+      "title": "网络热传生物鉴定 第59期",
+      "author": "无穷小亮的科普日常",
+      "views": 1643193,
+      "category": "职业职场",
+      "url": "https://www.bilibili.com/video/BV1PRDxBuET9"
+    },
+    {
+      "rank": 9,
+      "title": "街头猜词挑战之哲学博士",
+      "author": "魏中咸",
+      "views": 2424060,
+      "category": "人文历史",
+      "url": "https://www.bilibili.com/video/BV1ULDpBMEzs"
+    },
+    {
+      "rank": 10,
+      "title": "【pvz拟人】我的植物大战僵尸拟人",
+      "author": "国服第一熊",
+      "views": 870172,
+      "category": "影视剪辑",
+      "url": "https://www.bilibili.com/video/BV1KtD4B2ErN"
     }
   ]
 }

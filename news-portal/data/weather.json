@@ -1,46 +1,141 @@
 {
-  "source": "wttr.in",
-  "updateTime": "2026-04-10T11:30:00+08:00",
+  "source": "天气聚合搜索",
+  "updateTime": "2026-04-11T03:55:11.626Z",
   "location": "北京",
   "current": {
-    "temp": 16,
-    "feelsLike": 16,
-    "humidity": 63,
-    "weather": "晴",
-    "weatherEn": "Sunny",
-    "windSpeed": 14,
-    "windDir": "西北",
-    "windDirEn": "NW",
-    "visibility": 6,
-    "uvIndex": 5
+    "temp": 22,
+    "feelsLike": 22,
+    "humidity": 46,
+    "weather": "晴间多云",
+    "weatherEn": "Partly Cloudy",
+    "windSpeed": 17,
+    "windDir": "北风转南风",
+    "windDirEn": "N to S",
+    "visibility": 10,
+    "uvIndex": 6,
+    "pressure": 1006,
+    "aqi": "良"
   },
   "forecast": [
     {
-      "date": "2026-04-10",
-      "maxTemp": 28,
-      "minTemp": 9,
-      "avgTemp": 18,
-      "weather": "晴转多云",
-      "sunrise": "05:45",
-      "sunset": "18:47"
-    },
-    {
       "date": "2026-04-11",
-      "maxTemp": 25,
-      "minTemp": 13,
-      "avgTemp": 19,
-      "weather": "多云",
-      "sunrise": "05:44",
-      "sunset": "18:48"
+      "maxTemp": 22,
+      "minTemp": 9,
+      "avgTemp": 16,
+      "weather": "晴间多云",
+      "sunrise": "05:48",
+      "sunset": "18:45",
+      "desc": "白天阵风5级，昼夜温差大"
     },
     {
       "date": "2026-04-12",
       "maxTemp": 26,
       "minTemp": 13,
       "avgTemp": 20,
+      "weather": "晴",
+      "sunrise": "05:47",
+      "sunset": "18:46",
+      "desc": "暖意十足，适宜户外"
+    },
+    {
+      "date": "2026-04-13",
+      "maxTemp": 24,
+      "minTemp": 12,
+      "avgTemp": 18,
+      "weather": "多云转阴",
+      "sunrise": "05:46",
+      "sunset": "18:47",
+      "desc": "气温小幅回落"
+    },
+    {
+      "date": "2026-04-14",
+      "maxTemp": 23,
+      "minTemp": 11,
+      "avgTemp": 17,
+      "weather": "多云",
+      "sunrise": "05:45",
+      "sunset": "18:48",
+      "desc": "多云天气"
+    },
+    {
+      "date": "2026-04-15",
+      "maxTemp": 25,
+      "minTemp": 12,
+      "avgTemp": 19,
+      "weather": "晴",
+      "sunrise": "05:44",
+      "sunset": "18:49",
+      "desc": "阳光充足"
+    },
+    {
+      "date": "2026-04-16",
+      "maxTemp": 27,
+      "minTemp": 13,
+      "avgTemp": 20,
+      "weather": "晴",
+      "sunrise": "05:43",
+      "sunset": "18:50",
+      "desc": "气温回升"
+    },
+    {
+      "date": "2026-04-17",
+      "maxTemp": 28,
+      "minTemp": 14,
+      "avgTemp": 21,
       "weather": "晴转多云",
       "sunrise": "05:42",
-      "sunset": "18:49"
+      "sunset": "18:51",
+      "desc": "暖春天气"
+    }
+  ],
+  "national": [
+    {
+      "city": "上海",
+      "weather": "多云",
+      "maxTemp": 24,
+      "minTemp": 15
+    },
+    {
+      "city": "广州",
+      "weather": "雷阵雨",
+      "maxTemp": 28,
+      "minTemp": 22
+    },
+    {
+      "city": "深圳",
+      "weather": "阵雨",
+      "maxTemp": 27,
+      "minTemp": 23
+    },
+    {
+      "city": "成都",
+      "weather": "多云",
+      "maxTemp": 26,
+      "minTemp": 16
+    },
+    {
+      "city": "杭州",
+      "weather": "小雨",
+      "maxTemp": 20,
+      "minTemp": 14
+    },
+    {
+      "city": "武汉",
+      "weather": "小雨",
+      "maxTemp": 23,
+      "minTemp": 17
+    },
+    {
+      "city": "西安",
+      "weather": "晴",
+      "maxTemp": 28,
+      "minTemp": 14
+    },
+    {
+      "city": "重庆",
+      "weather": "多云",
+      "maxTemp": 27,
+      "minTemp": 18
     }
   ]
 }
