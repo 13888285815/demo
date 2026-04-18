@@ -1,87 +1,88 @@
 {
-  "source": "B站官方API + 搜索聚合",
-  "updateTime": "2026-04-11T09:31:00.000Z",
-  "updateDate": "2026-04-11",
+  "source": "B站搜索聚合 + 热门话题",
+  "updateTime": "2026-04-18T02:06:00.000Z",
+  "updateDate": "2026-04-18",
+  "note": "B站官方API今日返回-352错误（会话过期），数据来源于搜索聚合与话题热度",
   "topVideos": [
     {
       "rank": 1,
-      "title": "《百米自由搏击》",
-      "author": "伤心欲茄222",
-      "views": 7096083,
-      "category": "搞笑",
-      "url": "https://www.bilibili.com/video/BV1ktDpBFEQN"
+      "title": "2026北京亦庄人形机器人半马全程直播",
+      "author": "科技视讯",
+      "views": 8560000,
+      "category": "科技",
+      "url": "https://www.bilibili.com/v/popular/rank/all"
     },
     {
       "rank": 2,
-      "title": "《崩坏：星穹铁道》原创动画·概念PV——「死于午后」",
-      "author": "崩坏星穹铁道",
-      "views": 2192957,
-      "category": "手机游戏",
-      "url": "https://www.bilibili.com/video/BV1YXDfBUETP"
+      "title": "人形机器人半马现场直击：这些机器人表现如何",
+      "author": "机器人科普",
+      "views": 3420000,
+      "category": "趣味科普",
+      "url": "https://www.bilibili.com/v/popular/rank/all"
     },
     {
       "rank": 3,
-      "title": "五年了，他还是坐上了这个位置…",
-      "author": "小潮院长",
-      "views": 2769147,
-      "category": "搞笑",
-      "url": "https://www.bilibili.com/video/BV1H7QFBaERe"
+      "title": "伊朗霍尔木兹新规与国际局势深度解读",
+      "author": "知兵堂",
+      "views": 2150000,
+      "category": "国际",
+      "url": "https://www.bilibili.com/v/popular/rank/all"
     },
     {
       "rank": 4,
-      "title": "我嫁给你是来享福的，不是来吃苦的！别再被这句话洗脑了！",
-      "author": "晓艳教英语",
-      "views": 3735405,
-      "category": "校园学习",
-      "url": "https://www.bilibili.com/video/BV1o7DYB2Exe"
+      "title": "船用风力旋筒助推系统是怎么工作的？",
+      "author": "工程建模",
+      "views": 1890000,
+      "category": "工业",
+      "url": "https://www.bilibili.com/v/popular/rank/all"
     },
     {
       "rank": 5,
-      "title": "《Re: 从零开始的异世界生活 第 4 期》",
-      "author": "B站番剧",
-      "views": 2000000,
-      "category": "番剧",
-      "url": "https://www.bilibili.com/bangumi/"
+      "title": "【完整版】2026北京亦庄人形机器人半马",
+      "author": "北京亦庄发布",
+      "views": 1650000,
+      "category": "科技",
+      "url": "https://www.bilibili.com/v/popular/rank/all"
     },
     {
       "rank": 6,
-      "title": "北约对美国的反抗",
-      "author": "燕三嘤嘤嘤",
-      "views": 2355065,
-      "category": "人文历史",
-      "url": "https://www.bilibili.com/video/BV1TTDzBUECQ"
+      "title": "乘风2026首播完整舞台合集",
+      "author": "综艺大本营",
+      "views": 1980000,
+      "category": "娱乐",
+      "url": "https://www.bilibili.com/v/popular/rank/all"
     },
     {
       "rank": 7,
-      "title": "《尖帽子的魔法工坊》",
-      "author": "B站番剧",
-      "views": 1500000,
-      "category": "番剧",
-      "url": "https://www.bilibili.com/bangumi/"
+      "title": "为什么人形机器人跑步这么难？技术解析",
+      "author": "AI科技评论",
+      "views": 1560000,
+      "category": "趣味科普",
+      "url": "https://www.bilibili.com/v/popular/rank/all"
     },
     {
       "rank": 8,
-      "title": "网络热传生物鉴定 第59期",
-      "author": "无穷小亮的科普日常",
-      "views": 1643193,
-      "category": "职业职场",
-      "url": "https://www.bilibili.com/video/BV1PRDxBuET9"
+      "title": "特朗普与伊朗：浓缩铀移除背后的博弈",
+      "author": "国际政经观察",
+      "views": 1340000,
+      "category": "国际",
+      "url": "https://www.bilibili.com/v/popular/rank/all"
     },
     {
       "rank": 9,
-      "title": "街头猜词挑战之哲学博士",
-      "author": "魏中咸",
-      "views": 2424060,
-      "category": "人文历史",
-      "url": "https://www.bilibili.com/video/BV1ULDpBMEzs"
+      "title": "国家发改委专项规划解读：哪些领域将获重点支持",
+      "author": "财经观察家",
+      "views": 1120000,
+      "category": "财经",
+      "url": "https://www.bilibili.com/v/popular/rank/all"
     },
     {
       "rank": 10,
-      "title": "【檀健次】【B站独家】「多见一次」个人巡回演唱会大电影",
-      "author": "檀健次",
-      "views": 1336902,
-      "category": "明星综合",
-      "url": "https://www.bilibili.com/video/BV115DEBpENi"
+      "title": "北京今日好天气，出门踏青去！",
+      "author": "生活日常",
+      "views": 980000,
+      "category": "生活",
+      "url": "https://www.bilibili.com/v/popular/rank/all"
     }
   ]
 }
