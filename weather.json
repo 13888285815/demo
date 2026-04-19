@@ -1,0 +1,25 @@
+{
+  "updateTime": "2026-04-19T11:29:00+08:00",
+  "location": "Shanghai",
+  "current": {
+    "tempC": 21,
+    "tempF": 70,
+    "feelsLikeC": 21,
+    "feelsLikeF": 70,
+    "condition": "Partly cloudy",
+    "humidity": 64,
+    "windSpeedKmph": 17,
+    "windDirection": "NNW",
+    "pressure": 1013,
+    "visibility": 10,
+    "uvIndex": 7,
+    "cloudCover": 75
+  },
+  "astronomy": {
+    "sunrise": "05:22 AM",
+    "sunset": "06:25 PM",
+    "moonrise": "06:09 AM",
+    "moonset": "08:44 PM",
+    "moonPhase": "Waxing Crescent"
+  }
+}

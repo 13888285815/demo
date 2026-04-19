@@ -1,0 +1,24 @@
+{
+  "updateTime": "2026-04-19T11:29:00+08:00",
+  "source": "bilibili.com",
+  "hotVideos": [
+    {
+      "title": "《异环》公测PV丨Play on！",
+      "bvid": "BV1dsQnB7EHb",
+      "url": "https://b23.tv/BV1dsQnB7EHb",
+      "author": "异环",
+      "views": 2463180,
+      "likes": 44182,
+      "category": "其他游戏"
+    },
+    {
+      "title": "口技表演《三打白骨精》",
+      "bvid": "BV1CVdVBjETn",
+      "url": "https://b23.tv/BV1CVdVBjETn",
+      "author": "BBoxer酋长",
+      "views": 3890585,
+      "likes": 461962,
+      "category": "演奏"
+    }
+  ]
+}
