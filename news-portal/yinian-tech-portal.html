@@ -6,7 +6,7 @@
   <title>意念科技 - 新闻门户</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
   <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
-  <meta name="last-updated" content="2026-04-11T17:31:00+08:00">
+  <meta name="last-updated" content="2026-04-19T08:18:00+08:00">
   <style>
     :root {
       --primary: #0078d4;
@@ -132,7 +132,7 @@
     .trending-item .title:hover { color: var(--primary); }
     .trending-item .heat { font-size: 12px; color: var(--text-muted); }
     .trending-item .trend { font-size: 12px; }
-    .trending-item .trend.up { color: #e81123; }
+    .trending-item .trend.up { color: #107c10; }
     .trending-item .trend.down { color: #107c10; }
     .trending-item .trend.new { color: #ff8c00; }
 
@@ -251,61 +251,65 @@
   </div>
 
   <!-- Update Badge -->
-  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-11 17:31</div>
+  <div class="update-badge" id="updateBadge">数据更新时间: 2026-04-19 08:18</div>
 
   <script>
-    // ==================== 数据定义（2026-04-11 17:31 更新）====================
+    // ==================== 数据定义（2026-04-19 08:18 更新）====================
     const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
     let activeChannel = '首页';
 
-    // 央视新闻数据（2026年4月11日 17:31更新）
+    // 央视新闻数据（2026年4月19日 08:18更新）
     const newsData = [
-      { id: 1, title: '习近平总书记会见中国国民党主席郑丽文', summary: '习近平总书记会见中国国民党主席郑丽文，两岸同胞同属中华民族，铸就共同信念。两岸同胞走亲走近，走到一起的大潮流不会改变。', image: 'https://picsum.photos/800/450?random=301', source: '央视新闻', time: '刚刚', category: '国内', isTop: true },
-      { id: 2, title: '习近平向中美乒乓外交55周年纪念大会致贺信', summary: '习近平向中美"乒乓外交"55周年纪念大会暨中美青少年体育交流系列活动启动仪式致贺信。', image: 'https://picsum.photos/400/250?random=302', source: '央视新闻', time: '1小时前', category: '国际' },
-      { id: 3, title: '雄安新区高质量建设和发展大事记', summary: '镜观·回响|"未来之城"的民生温度，总书记在雄安新区考察时重要讲话凝聚高质量发展合力。', image: 'https://picsum.photos/400/250?random=303', source: '央视新闻', time: '2小时前', category: '国内' },
-      { id: 4, title: '普京宣布东正教复活节停火32小时 乌方表示跟进', summary: '俄罗斯总统普京宣布东正教复活节停火，停火时间从莫斯科时间4月11日16时起持续至4月12日午夜，乌克兰表示将采取对等举措跟进。', image: 'https://picsum.photos/400/250?random=304', source: '央视新闻', time: '5小时前', category: '国际' },
-      { id: 5, title: '7家涉火车票平台被约谈严禁自动化抢票', summary: '中央网信办、国家铁路局联合约谈携程、同程、去哪儿、飞猪、美团、智行火车票、高铁管家等7家平台，要求不得利用自动化程序实施大规模抢票操作。', image: 'https://picsum.photos/400/250?random=305', source: '央视新闻', time: '6小时前', category: '社会' },
-      { id: 6, title: '海洋地质二号完成第33航次深海科考任务', summary: '自然资源部中国地质调查局消息，海洋地质二号圆满完成第33航次深海科考任务，联合16家单位、100名科考人员历时30天，获得多项科研成果。', image: 'https://picsum.photos/400/250?random=306', source: '央视新闻', time: '7小时前', category: '科技' },
-      { id: 7, title: '海南多地持续高温 多部门联动抗旱保收', summary: '海南省气象局继续发布高温三级预警，部分乡镇气温可达40摄氏度以上，突破当地4月历史最高气温纪录。', image: 'https://picsum.photos/400/250?random=307', source: '央视新闻', time: '8小时前', category: '国内' },
-      { id: 8, title: '京雄首次开展人工智能+教育深度合作', summary: '北京首都教育新地图和基础教育AI超市面向雄安新区全部学校开放访问和入驻权限。', image: 'https://picsum.photos/400/250?random=308', source: '央视新闻', time: '8小时前', category: '科技' }
+      { id: 1, title: '2026人形机器人半程马拉松赛在北京亦庄鸣枪开跑', summary: '4月19日，由北京市人民政府、中央广播电视总台等联合主办的2026人形机器人半程马拉松赛在北京亦庄鸣枪开跑。超百支人形机器人赛队科技逐路，同台竞速。来自北京荣耀的绝影赤兔队机器人"闪电"率先出发，起跑后便甩开人类跑者近100米，展现出强大运动能力。', image: 'https://picsum.photos/800/450?random=601', source: '央视新闻', time: '今日', category: '科技', isTop: true },
+      { id: 2, title: '丰富文旅体验 享受春光之美', summary: '春日时节，生机盎然，不少人选择出游享受春光，各地丰富的文旅新场景带来了更多度假选择。', image: 'https://picsum.photos/400/250?random=602', source: '央视新闻', time: '今日', category: '国内' },
+      { id: 3, title: '伊朗霍尔木兹海峡将于18日晚起关闭', summary: '伊朗伊斯兰革命卫队海军表示，霍尔木兹海峡将于18日晚起关闭，多艘船只已通过海峡，此举引发国际关注。', image: 'https://picsum.photos/400/250?random=603', source: '百度新闻', time: '今日', category: '国际' },
+      { id: 4, title: '国产光纤市场价格暴涨650%，G.657.A2型号从32元飙升至240元', summary: '国产光纤市场今年一季度呈现爆发式增长，G.657.A2型号价格从32元/芯公里飙升至240元，涨幅达650%。江苏多家企业海外订单激增55%。', image: 'https://picsum.photos/400/250?random=604', source: '百度财经', time: '今日', category: '财经' },
+      { id: 5, title: '日本加速军事扩张，远程导弹射程覆盖中国军港', summary: '日本加速军事扩张，近期将远程导弹前移部署，其射程已覆盖中国军港。此举严重违背"专守防卫"原则。', image: 'https://picsum.photos/400/250?random=605', source: '百度新闻', time: '今日', category: '国际' },
+      { id: 6, title: '泰国泼水节期间242人死亡，中国游客发声', summary: '在宋干节（泼水节）期间的七天，共发生1242起交通事故，造成1200人受伤、242人死亡。', image: 'https://picsum.photos/400/250?random=606', source: '百度新闻', time: '今日', category: '国际' },
+      { id: 7, title: '二手车价格全面下降，经销商陷入"好卖的车收不着"困局', summary: '受新车价格战及调价影响，二手车市场出现"价格倒挂"现象，经销商陷入困局。', image: 'https://picsum.photos/400/250?random=607', source: '百度财经', time: '今日', category: '财经' },
+      { id: 8, title: '"五一"航班出现"取消潮"，东南亚为重灾区', summary: '"五一"前后东南亚、大洋洲出现航班"取消潮"，航油价格高涨和廉价航空密集是主因。', image: 'https://picsum.photos/400/250?random=608', source: '百度新闻', time: '今日', category: '社会' }
     ];
 
-    // B站热门视频数据
+    // B站热门视频数据（2026年4月19日 08:18更新）
     const videoData = [
-      { id: 1, title: '《百米自由搏击》', thumbnail: 'https://picsum.photos/320/180?random=401', duration: '01:14', views: '709万', author: '伤心欲茄222' },
-      { id: 2, title: '《崩坏：星穹铁道》原创动画·概念PV「死于午后」', thumbnail: 'https://picsum.photos/320/180?random=402', duration: '03:00', views: '219万', author: '崩坏星穹铁道' },
-      { id: 3, title: '五年了，他还是坐上了这个位置…', thumbnail: 'https://picsum.photos/320/180?random=403', duration: '05:00', views: '276万', author: '小潮院长' },
-      { id: 4, title: '我嫁给你是来享福的，不是来吃苦的！', thumbnail: 'https://picsum.photos/320/180?random=404', duration: '06:00', views: '373万', author: '晓艳教英语' }
+      { id: 1, title: '郝 哥 不 在', thumbnail: 'http://i2.hdslb.com/bfs/archive/b660ad582fae56bb06b4029e49dc83302864f6d4.jpg', duration: '03:34', views: '335万', author: '岩罗Crv', url: 'https://b23.tv/BV1RwdhBmE3M' },
+      { id: 2, title: '口技表演《三打白骨精》', thumbnail: 'http://i0.hdslb.com/bfs/archive/6a8bf3c3772ab9ed390a9ba33e35ab1b81d2d484.jpg', duration: '07:46', views: '344万', author: 'BBoxer酋长', url: 'https://b23.tv/BV1CVdVBjETn' },
+      { id: 3, title: '《物理兴奋剂》', thumbnail: 'http://i1.hdslb.com/bfs/archive/7e72a686c6e6ad2b1588f10c5ea5b0ce01b5ed22.jpg', duration: '01:46', views: '551万', author: '伤心欲茄222', url: 'https://b23.tv/BV1ZxQpBsEuN' },
+      { id: 4, title: '终于来了！大疆Pocket 4上手', thumbnail: 'http://i1.hdslb.com/bfs/archive/18363340c0b4de9cfcd415a0f94b1abbc693c2e8.jpg', duration: '20:38', views: '382万', author: '影视飓风', url: 'https://b23.tv/BV1DgdhBGEq2' }
     ];
 
-    // 微博热搜数据（2026年4月11日 17:31更新）
+    // 微博/百度热搜数据（2026年4月19日 08:18更新）
     const trendingData = [
-      { rank: 1, title: '浪姐直播 对口型', heat: '50万', trend: 'hot' },
-      { rank: 2, title: '曝黄景瑜王玉雯恋情', heat: '45万', trend: 'hot' },
-      { rank: 3, title: '香港飞香港的航班', heat: '38万', trend: 'new' },
-      { rank: 4, title: 'iPhone 18上热搜', heat: '32万', trend: 'up' },
-      { rank: 5, title: '7家涉火车票平台被约谈', heat: '28万', trend: 'new' },
-      { rank: 6, title: '杨洋暗黑撕漫男', heat: '25万', trend: 'hot' },
-      { rank: 7, title: '肖战冲上热搜', heat: '23万', trend: 'up' },
-      { rank: 8, title: '迪丽热巴古装封神', heat: '20万', trend: 'new' },
-      { rank: 9, title: '北约对美国的反抗', heat: '18万', trend: 'up' },
-      { rank: 10, title: '霍启刚带娃游广西', heat: '15万', trend: 'new' }
+      { rank: 1, title: '加快建设网络强国', heat: '790万', trend: 'hot' },
+      { rank: 2, title: '日本野心彻底暴露', heat: '781万', trend: 'hot' },
+      { rank: 3, title: '二手车价格全面下降', heat: '771万', trend: 'new' },
+      { rank: 4, title: '更加有力有效挑起大梁', heat: '762万', trend: 'hot' },
+      { rank: 5, title: '五一航班为啥出现取消潮', heat: '752万', trend: 'new' },
+      { rank: 6, title: '机器人起跑后迅速甩开人类跑者', heat: '743万', trend: 'hot' },
+      { rank: 7, title: '伊朗霍尔木兹海峡将关闭', heat: '733万', trend: 'new' },
+      { rank: 8, title: '泰国泼水节期间242死', heat: '723万', trend: 'hot' },
+      { rank: 9, title: '价格暴涨650%这一市场被引爆', heat: '714万', trend: 'up' },
+      { rank: 10, title: '这10个饮食习惯正在偷走你的寿命', heat: '704万', trend: 'hot' }
     ];
 
-    // 北京天气数据（2026-04-11 17:31 更新）
+    // 北京天气数据（2026-04-19 08:18 更新）
     const weatherData = {
       city: '北京',
-      temp: 22,
-      condition: '晴',
-      high: 22,
-      low: 8,
-      humidity: 29,
-      wind: '东南风 3级',
+      temp: 17,
+      condition: '晴天',
+      high: 21,
+      low: 9,
+      humidity: 68,
+      wind: '南风 9km/h',
+      pressure: 1008,
+      sunrise: '05:32',
+      sunset: '18:56',
       forecast: [
-        { day: '今天', high: 22, low: 8, icon: '☀️' },
-        { day: '明天', high: 25, low: 12, icon: '⛅' },
-        { day: '后天', high: 18, low: 9, icon: '☁️' }
-      ]
+        { day: '今天', high: 21, low: 9, icon: '☀️' },
+        { day: '明天', high: 23, low: 11, icon: '⛅' },
+        { day: '后天', high: 20, low: 10, icon: '☁️' }
+      ],
+      advice: '早晚温差较大（9-21°C），建议穿着薄外套或长袖衬衫。'
     };
 
     // ==================== 渲染函数 ====================
@@ -373,13 +377,13 @@
       container.innerHTML = `
         <div class="section-header">
           <h2>📺 精选视频</h2>
-          <a href="#" class="more-link">查看更多 →</a>
+          <a href="https://www.bilibili.com/v/popular/rank/all" class="more-link" target="_blank">查看更多 →</a>
         </div>
         <div class="video-grid">
           ${videoData.map(v => `
-            <div class="video-card">
+            <div class="video-card" onclick="window.open('${v.url}', '_blank')">
               <div class="video-thumbnail">
-                <img src="${v.thumbnail}" alt="${v.title}" loading="lazy">
+                <img src="${v.thumbnail}" alt="${v.title}" loading="lazy" onerror="this.src='https://picsum.photos/320/180?random=${v.id}'">
                 <div class="video-overlay">
                   <button class="play-btn">▶</button>
                 </div>
@@ -444,7 +448,7 @@
         container.innerHTML = `
           <div class="trending-header">
             <h3>🔥 实时热搜</h3>
-            <span class="trending-source">微博</span>
+            <span class="trending-source">百度热搜</span>
           </div>
           <div class="loading">加载中...</div>
         `;
@@ -453,7 +457,7 @@
       container.innerHTML = `
         <div class="trending-header">
           <h3>🔥 实时热搜</h3>
-          <span class="trending-source">微博</span>
+          <span class="trending-source">百度热搜</span>
         </div>
         <ul class="trending-list">
           ${data.map(item => `
@@ -464,6 +468,7 @@
               ${item.trend === 'up' ? '<span class="trend up">↑</span>' : ''}
               ${item.trend === 'down' ? '<span class="trend down">↓</span>' : ''}
               ${item.trend === 'new' ? '<span class="trend new">新</span>' : ''}
+              ${item.trend === 'hot' ? '<span class="trend" style="color:#e81123">🔥</span>' : ''}
             </li>
           `).join('')}
         </ul>

@@ -1,77 +1,22 @@
 {
-  "source": "微博热搜 + 搜索聚合",
-  "updateTime": "2026-04-18T02:00:00.000Z",
-  "note": "数据来源于2026年4月18日热搜话题",
-  "hotSearches": [
-    {
-      "rank": 1,
-      "title": "人形机器人半马北京亦庄开跑",
-      "heat": 580000,
-      "category": "科技",
-      "summary": "2026北京亦庄人形机器人半程马拉松鸣枪开跑，20余支机器人队伍同场竞技，新增自主导航模式引发关注"
-    },
-    {
-      "rank": 2,
-      "title": "特朗普称移除浓缩铀不派美军",
-      "heat": 520000,
-      "category": "国际",
-      "summary": "特朗普称伊朗将与美国合作移除浓缩铀，美方不会派部队参与，伊朗方面当天表示拒绝将浓缩铀运往国外方案"
-    },
-    {
-      "rank": 3,
-      "title": "伊朗公布霍尔木兹海峡通行新规",
-      "heat": 460000,
-      "category": "国际",
-      "summary": "伊朗方面公布霍尔木兹海峡船舶通行新规，涉全球能源通道安全，海湾国家密切关注"
-    },
-    {
-      "rank": 4,
-      "title": "国家发改委上半年将出台专项规划",
-      "heat": 390000,
-      "category": "国内",
-      "summary": "国家发展改革委表示2026年上半年一批国家级专项规划将陆续出台，涉及重点领域政策指引"
-    },
-    {
-      "rank": 5,
-      "title": "男子抢救7.5小时用百余支止血针",
-      "heat": 350000,
-      "category": "社会",
-      "summary": "郑州男子酒后吐血抢救7.5小时后离世，家属质疑止血药使用过多，院方回应用药合理"
-    },
-    {
-      "rank": 6,
-      "title": "我国自研船用风力旋筒助推系统发布",
-      "heat": 310000,
-      "category": "科技",
-      "summary": "我国自主研发的船用风力旋筒助推系统正式发布，船舶绿色推进技术获重大突破"
-    },
-    {
-      "rank": 7,
-      "title": "北京今日天气晴朗最高25度",
-      "heat": 280000,
-      "category": "社会",
-      "summary": "北京4月18日晴朗天气，气温回升至25度左右，春光明媚适宜出行"
-    },
-    {
-      "rank": 8,
-      "title": "朝闻天下每日资讯",
-      "heat": 240000,
-      "category": "社会",
-      "summary": "朝闻天下节目关注今日国内外重要资讯，政策动态与国际形势并重"
-    },
-    {
-      "rank": 9,
-      "title": "乘风2026首播热度不减",
-      "heat": 210000,
-      "category": "娱乐",
-      "summary": "《乘风2026》持续热播，姐姐们舞台表现力持续引发观众讨论"
-    },
-    {
-      "rank": 10,
-      "title": "多地迎来晴好周末",
-      "heat": 180000,
-      "category": "社会",
-      "summary": "全国大部地区迎来晴好周末，华北、华东天气晴朗，适宜户外活动"
-    }
+  "source": "百度热搜",
+  "updateTime": "2026-04-19T08:18:00.000Z",
+  "updateDate": "2026-04-19",
+  "hotSearch": [
+    { "rank": 1, "title": "加快建设网络强国", "heat": "7904866", "trend": "hot", "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD" },
+    { "rank": 2, "title": "日本野心彻底暴露", "heat": "7809635", "trend": "hot", "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E5%BD%BB%E5%BA%95%E6%9A%B4%E9%9C%B2" },
+    { "rank": 3, "title": "二手车价格全面下降", "heat": "7714149", "trend": "new", "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%85%A8%E9%9D%A2%E4%B8%8B%E9%99%8D" },
+    { "rank": 4, "title": "更加有力有效挑起大梁", "heat": "7616670", "trend": "hot", "url": "https://www.baidu.com/s?wd=%E6%9B%B4%E5%8A%A0%E6%9C%89%E5%8A%9B%E6%9C%89%E6%95%88%E6%8C%91%E8%B5%B7%E5%A4%A7%E6%A2%B0" },
+    { "rank": 5, "title": "五一航班为啥出现取消潮", "heat": "7523283", "trend": "new", "url": "https://www.baidu.com/s?wd=%E4%BA%94%E4%B8%80%E8%88%AA%E7%8F%AD%E5%8F%91%E7%8E%B0%E5%8F%96%E6%B6%88%E6%BD%AE" },
+    { "rank": 6, "title": "机器人起跑后迅速甩开人类跑者", "heat": "7429260", "trend": "hot", "url": "https://www.baidu.com/s?wd=%E6%9C%BA%E5%99%A8%E4%BA%BA%E8%B5%B7%E8%B7%91%E5%90%8E%E9%80%9F%E9%BA%A6%E6%8B%89%E5%BC%80" },
+    { "rank": 7, "title": "伊朗霍尔木兹海峡将关闭", "heat": "7331261", "trend": "new", "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%B0%86%E5%85%B3%E9%97%AD" },
+    { "rank": 8, "title": "泰国泼水节期间242死", "heat": "7232927", "trend": "hot", "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%B3%BC%E6%B0%B4%E8%8A%82%E6%9C%9F%E9%97%B4242%E6%AD%BB" },
+    { "rank": 9, "title": "价格暴涨650%这一市场被引爆", "heat": "7143977", "trend": "up", "url": "https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8650%25%E8%BF%99%E4%B8%80%E5%B8%82%E5%9C%BA" },
+    { "rank": 10, "title": "这10个饮食习惯正在偷走你的寿命", "heat": "7040803", "trend": "hot", "url": "https://www.baidu.com/s?wd=%E8%BF%9910%E4%B8%AA%E9%A5%AE%E9%A3%9F%E4%B9%A0%E6%83%AF%E6%AD%A3%E5%9C%A8%E5%81%B7%E8%B5%B0%E4%BD%A0%E7%9A%84%E5%AF%BF%E5%91%BD" },
+    { "rank": 11, "title": "人形机器人半程马拉松赛开跑", "heat": "6946481", "trend": "hot", "url": "https://www.baidu.com/s?wd=%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E7%A8%8B%E9%A9%AC%E6%8B%89%E6%9D%BE%E8%B5%9B%E5%BC%80%E8%B7%91" },
+    { "rank": 12, "title": "应县木塔即将全部拆卸系谣言", "heat": "6849481", "trend": "new", "url": "https://www.baidu.com/s?wd=%E5%BA%94%E5%8E%BF%E6%9C%A8%E5%A1%94%E5%8D%B3%E5%B0%86%E5%85%A8%E9%83%A8%E6%8B%86%E5%8D%B8" },
+    { "rank": 13, "title": "听障女孩回应美得像假人", "heat": "6752794", "trend": "up", "url": "https://www.baidu.com/s?wd=%E5%90%AC%E9%9A%9C%E5%A5%B3%E5%AD%90%E5%9B%9E%E5%BA%94%E7%BE%8E%E5%BE%97%E5%83%8F%E5%81%87%E4%BA%BA" },
+    { "rank": 14, "title": "泰国泼水节疑现水枪投毒", "heat": "6659018", "trend": "new", "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%B3%BC%E6%B0%B4%E8%8A%82%E7%96%91%E7%8E%B0%E6%B0%B4%E6%9E%AA%E6%8A%95%E6%AF%92" },
+    { "rank": 15, "title": "女子机场两次拒绝帮陌生人带行李", "heat": "6572646", "trend": "up", "url": "https://www.baidu.com/s?wd=%E5%A5%B3%E5%AD%90%E6%9C%BA%E5%9C%BA%E4%B8%A4%E6%AC%A1%E6%8B%92%E7%BB%9D%E5%B8%AE%E9%99%8C%E7%94%9F%E4%BA%BA%E5%B8%A6%E8%A1%8C" }
   ]
 }

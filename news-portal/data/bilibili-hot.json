@@ -1,88 +1,15 @@
 {
-  "source": "B站搜索聚合 + 热门话题",
-  "updateTime": "2026-04-18T02:06:00.000Z",
-  "updateDate": "2026-04-18",
-  "note": "B站官方API今日返回-352错误（会话过期），数据来源于搜索聚合与话题热度",
+  "source": "B站热门排行榜 API",
+  "updateTime": "2026-04-19T08:18:00.000Z",
+  "updateDate": "2026-04-19",
   "topVideos": [
-    {
-      "rank": 1,
-      "title": "2026北京亦庄人形机器人半马全程直播",
-      "author": "科技视讯",
-      "views": 8560000,
-      "category": "科技",
-      "url": "https://www.bilibili.com/v/popular/rank/all"
-    },
-    {
-      "rank": 2,
-      "title": "人形机器人半马现场直击：这些机器人表现如何",
-      "author": "机器人科普",
-      "views": 3420000,
-      "category": "趣味科普",
-      "url": "https://www.bilibili.com/v/popular/rank/all"
-    },
-    {
-      "rank": 3,
-      "title": "伊朗霍尔木兹新规与国际局势深度解读",
-      "author": "知兵堂",
-      "views": 2150000,
-      "category": "国际",
-      "url": "https://www.bilibili.com/v/popular/rank/all"
-    },
-    {
-      "rank": 4,
-      "title": "船用风力旋筒助推系统是怎么工作的？",
-      "author": "工程建模",
-      "views": 1890000,
-      "category": "工业",
-      "url": "https://www.bilibili.com/v/popular/rank/all"
-    },
-    {
-      "rank": 5,
-      "title": "【完整版】2026北京亦庄人形机器人半马",
-      "author": "北京亦庄发布",
-      "views": 1650000,
-      "category": "科技",
-      "url": "https://www.bilibili.com/v/popular/rank/all"
-    },
-    {
-      "rank": 6,
-      "title": "乘风2026首播完整舞台合集",
-      "author": "综艺大本营",
-      "views": 1980000,
-      "category": "娱乐",
-      "url": "https://www.bilibili.com/v/popular/rank/all"
-    },
-    {
-      "rank": 7,
-      "title": "为什么人形机器人跑步这么难？技术解析",
-      "author": "AI科技评论",
-      "views": 1560000,
-      "category": "趣味科普",
-      "url": "https://www.bilibili.com/v/popular/rank/all"
-    },
-    {
-      "rank": 8,
-      "title": "特朗普与伊朗：浓缩铀移除背后的博弈",
-      "author": "国际政经观察",
-      "views": 1340000,
-      "category": "国际",
-      "url": "https://www.bilibili.com/v/popular/rank/all"
-    },
-    {
-      "rank": 9,
-      "title": "国家发改委专项规划解读：哪些领域将获重点支持",
-      "author": "财经观察家",
-      "views": 1120000,
-      "category": "财经",
-      "url": "https://www.bilibili.com/v/popular/rank/all"
-    },
-    {
-      "rank": 10,
-      "title": "北京今日好天气，出门踏青去！",
-      "author": "生活日常",
-      "views": 980000,
-      "category": "生活",
-      "url": "https://www.bilibili.com/v/popular/rank/all"
-    }
+    { "rank": 1, "title": "郝 哥 不 在", "author": "岩罗Crv", "views": "335万", "category": "鬼畜", "url": "https://b23.tv/BV1RwdhBmE3M", "duration": "03:34", "thumbnail": "http://i2.hdslb.com/bfs/archive/b660ad582fae56bb06b4029e49dc83302864f6d4.jpg" },
+    { "rank": 2, "title": "口技表演《三打白骨精》", "author": "BBoxer酋长", "views": "344万", "category": "演奏", "url": "https://b23.tv/BV1CVdVBjETn", "duration": "07:46", "thumbnail": "http://i0.hdslb.com/bfs/archive/6a8bf3c3772ab9ed390a9ba33e35ab1b81d2d484.jpg" },
+    { "rank": 3, "title": "《物理兴奋剂》", "author": "伤心欲茄222", "views": "551万", "category": "搞笑", "url": "https://b23.tv/BV1ZxQpBsEuN", "duration": "01:46", "thumbnail": "http://i1.hdslb.com/bfs/archive/7e72a686c6e6ad2b1588f10c5ea5b0ce01b5ed22.jpg" },
+    { "rank": 4, "title": "终于来了！大疆Pocket 4上手", "author": "影视飓风", "views": "382万", "category": "数码", "url": "https://b23.tv/BV1DgdhBGEq2", "duration": "20:38", "thumbnail": "http://i1.hdslb.com/bfs/archive/18363340c0b4de9cfcd415a0f94b1abbc693c2e8.jpg" },
+    { "rank": 5, "title": "《崩坏：星穹铁道》千星纪游PV", "author": "崩坏星穹铁道", "views": "308万", "category": "手机游戏", "url": "https://b23.tv/BV118dqBXEgB", "duration": "15:49", "thumbnail": "http://i2.hdslb.com/bfs/archive/be023511cf1462180d2591bb802279f7eeca7249.jpg" },
+    { "rank": 6, "title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经", "author": "未知", "views": "未知", "category": "搞笑", "url": "https://www.bilibili.com/v/popular/rank/all", "duration": "09:19", "thumbnail": "http://i2.hdslb.com/bfs/archive/c710f4f7ea8f9f1bd84be03a2c341d2afd3ccb86.jpg" },
+    { "rank": 7, "title": "《非法组队》", "author": "伤心欲茄222", "views": "117万", "category": "搞笑", "url": "https://b23.tv/BV1QTdHBpEfR", "duration": "02:51", "thumbnail": "http://i2.hdslb.com/bfs/archive/ed255e40a2a83c90f7dd6721a1ad0089dbc4e2cb.jpg" },
+    { "rank": 8, "title": "乘风2026首播完整舞台合集", "author": "综艺大本营", "views": "198万", "category": "娱乐", "url": "https://www.bilibili.com/v/popular/rank/all", "duration": "未知", "thumbnail": "https://picsum.photos/320/180?random=608" }
   ]
 }

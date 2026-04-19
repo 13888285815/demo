@@ -1,54 +1,71 @@
 {
-  "source": "央视新闻 + 搜索聚合",
-  "updateTime": "2026-04-18T02:00:00.000Z",
+  "source": "央视新闻 + 百度热搜聚合",
+  "updateTime": "2026-04-19T08:18:00.000Z",
+  "updateDate": "2026-04-19",
   "news": [
     {
-      "title": "国家发改委：今年上半年一批国家级专项规划将陆续出台",
-      "url": "https://tv.cctv.com/2026/04/18/VIDErks8N3Iy6p2dW5SMl9lU260418.shtml",
-      "summary": "国家发展改革委：2026年上半年一批国家级专项规划将陆续出台，涵盖重点领域政策指引。",
-      "category": "国内"
+      "title": "2026人形机器人半程马拉松赛在北京亦庄鸣枪开跑",
+      "url": "https://news.cctv.com/china/",
+      "summary": "4月19日，由北京市人民政府、中央广播电视总台等联合主办的2026人形机器人半程马拉松赛在北京亦庄鸣枪开跑。超百支人形机器人赛队科技逐路，同台竞速。来自北京荣耀的绝影赤兔队机器人\"闪电\"率先出发，起跑后便甩开人类跑者近100米。",
+      "category": "科技",
+      "isTop": true,
+      "image": "https://picsum.photos/800/450?random=501"
     },
     {
-      "title": "我国自研船用风力旋筒助推系统正式发布",
-      "url": "https://tv.cctv.com/2026/04/18/VIDEP62yQxHnV4OakX2b92mT260418.shtml",
-      "summary": "我国自主研发的船用风力旋筒助推系统正式发布，标志着我国在船舶绿色推进技术领域取得重大突破。",
-      "category": "科技"
+      "title": "丰富文旅体验 享受春光之美",
+      "url": "https://news.cctv.com/2026/04/19/ARTIbDcN2xGFebeANcVSIDFE260419.shtml",
+      "summary": "春日时节，生机盎然，不少人选择出游享受春光，各地丰富的文旅新场景带来了更多度假选择。",
+      "category": "国内",
+      "isTop": false,
+      "image": "https://picsum.photos/400/250?random=502"
     },
     {
-      "title": "伊朗方面公布霍尔木兹海峡船舶通行新规",
-      "url": "https://tv.cctv.com/2026/04/18/VIDEaG70Vo8e9HY2bhAbsZ4R260418.shtml",
-      "summary": "伊朗方面公布霍尔木兹海峡船舶通行新规，涉全球能源通道安全，引起国际社会广泛关注。",
-      "category": "国际"
+      "title": "伊朗霍尔木兹海峡将于18日晚起关闭",
+      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%B0%86%E4%BA%8E18%E6%97%A5%E6%99%9A%E8%B5%B7%E5%85%B3%E9%97%AD",
+      "summary": "伊朗伊斯兰革命卫队海军表示，霍尔木兹海峡将于18日晚起关闭，多艘船只已通过海峡。",
+      "category": "国际",
+      "isTop": false,
+      "image": "https://picsum.photos/400/250?random=503"
     },
     {
-      "title": "特朗普称移除浓缩铀行动不派美军 伊朗拒绝将浓缩铀运往国外",
-      "url": "https://news.cctv.com/2026/04/18/ARTISGmHTAEdUzj7FgCLZEit260418.shtml",
-      "summary": "美国总统特朗普称伊朗将与美国合作移除浓缩铀，美方不会派部队参与，但伊朗方面当天表示拒绝将其浓缩铀运往国外的方案。",
-      "category": "国际"
+      "title": "国产光纤市场价格暴涨650%，G.657.A2型号从32元飙升至240元",
+      "url": "https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8650%25%EF%BC%81%E8%BF%99%E4%B8%80%E5%B8%82%E5%9C%BA%E8%A2%AB%E5%BC%95%E7%88%86",
+      "summary": "国产光纤市场今年一季度呈现爆发式增长，G.657.A2型号价格从32元/芯公里飙升至240元，涨幅达650%。江苏多家企业海外订单激增55%。",
+      "category": "财经",
+      "isTop": false,
+      "image": "https://picsum.photos/400/250?random=504"
     },
     {
-      "title": "2026人形机器人半马，有什么新变化？",
-      "url": "https://news.cctv.com/2026/04/18/ARTIYBz2g3KLhmIdFB2niARF260418.shtml",
-      "summary": "2026北京亦庄人形机器人半马即将鸣枪，过去一年人形机器人实现多项迭代进化，新增"自主导航"模式，配套赛事"机器人勇士挑战赛"同步开启。",
-      "category": "科技"
+      "title": "日本加速军事扩张，远程导弹射程覆盖中国军港",
+      "url": "https://www.baidu.com/s?wd=%E6%97%A5%E6%9C%AC%E9%87%8E%E5%BF%83%E5%BD%BB%E5%BA%95%E6%9A%B4%E9%9C%B2",
+      "summary": "日本加速军事扩张，近期将远程导弹前移部署，其射程已覆盖中国军港。此举严重违背\"专守防卫\"原则，暴露了其觊觎地区霸权的野心。",
+      "category": "国际",
+      "isTop": false,
+      "image": "https://picsum.photos/400/250?random=505"
     },
     {
-      "title": "男子抢救7.5小时用百余支止血针 工作人员称用药合理",
-      "url": "https://news.cctv.com/2026/04/18/ARTIy6iHdKPQFDGlviEAlmEK260418.shtml",
-      "summary": "郑州一名男子因饮酒后吐血送医抢救7.5小时后离世，家属质疑"垂体后叶素"止血药使用100余支、花费7000多元，院方回应称用药合理。",
-      "category": "社会"
+      "title": "泰国泼水节期间242人死亡，中国游客发声",
+      "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%B3%BC%E6%B0%B4%E8%8A%82%E6%9C%9F%E9%97%B4242%E6%AD%BB+%E4%B8%AD%E5%9B%BD%E6%B8%B8%E5%AE%A2%E5%8F%91%E5%A3%B0",
+      "summary": "在宋干节（泼水节）期间的七天，共发生1242起交通事故，造成1200人受伤、242人死亡。",
+      "category": "国际",
+      "isTop": false,
+      "image": "https://picsum.photos/400/250?random=506"
     },
     {
-      "title": "朝闻天下：多地发布政策推动高质量发展",
-      "url": "https://tv.cctv.com/lm/zwtx/",
-      "summary": "今日朝闻天下关注各地政策发布动态，聚焦高质量发展与民生改善领域新举措。",
-      "category": "国内"
+      "title": "二手车价格全面下降，经销商陷入\"好卖的车收不着\"困局",
+      "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%85%A8%E9%9D%A2%E4%B8%8B%E9%99%8D+%E7%BB%8F%E9%94%80%E5%95%86%E9%99%B7%E5%9B%B0%E5%B1%80",
+      "summary": "受新车价格战及调价影响，二手车市场出现\"价格倒挂\"现象，经销商陷入\"好卖的车收不着，收着的车不好卖\"的困局。",
+      "category": "财经",
+      "isTop": false,
+      "image": "https://picsum.photos/400/250?random=507"
     },
     {
-      "title": "新闻直播间：全球目光聚焦中东局势",
-      "url": "https://tv.cctv.com/lm/xwzbj/",
-      "summary": "新闻直播间持续关注中东局势最新进展，伊朗新规与伊核问题引发国际社会广泛讨论。",
-      "category": "国际"
+      "title": "\"五一\"航班出现\"取消潮\"，东南亚为重灾区",
+      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E8%88%AA%E7%8F%AD%E4%B8%BA%E5%95%A5%E5%87%BA%E7%8E%B0%E2%80%9C%E5%8F%96%E6%B6%88%E6%BD%AE%E2%80%9D",
+      "summary": "\"五一\"前后东南亚、大洋洲出现航班\"取消潮\"，东南亚为重灾区。航油价格高涨和廉价航空密集是主因。",
+      "category": "社会",
+      "isTop": false,
+      "image": "https://picsum.photos/400/250?random=508"
     }
   ]
 }

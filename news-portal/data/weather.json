@@ -1,142 +1,26 @@
 {
-  "source": "wttr.in 多城市天气 API",
-  "updateTime": "2026-04-18T02:05:00.000Z",
-  "location": "北京",
-  "current": {
-    "temp": 17,
-    "feelsLike": 17,
-    "humidity": 83,
-    "weather": "雾转晴",
-    "weatherEn": "Mist to Sunny",
-    "windSpeed": 7,
-    "windDir": "东北风",
-    "windDirEn": "ENE",
-    "visibility": 2,
-    "uvIndex": 1,
-    "pressure": 1012,
-    "aqi": "良",
-    "pm25": 18
-  },
+  "source": "wttr.in",
+  "updateTime": "2026-04-19T08:18:00.000Z",
+  "updateDate": "2026-04-19",
+  "city": "北京",
+  "temp": 17,
+  "tempFeelsLike": 17,
+  "condition": "晴天",
+  "conditionCode": 113,
+  "high": 21,
+  "low": 9,
+  "humidity": 68,
+  "wind": "南风 9km/h",
+  "pressure": 1008,
+  "visibility": 10,
+  "uvIndex": 0,
+  "sunrise": "05:32",
+  "sunset": "18:56",
+  "moonPhase": "上弦月",
   "forecast": [
-    {
-      "date": "2026-04-18",
-      "maxTemp": 25,
-      "minTemp": 14,
-      "avgTemp": 20,
-      "weather": "晴",
-      "sunrise": "05:33",
-      "sunset": "18:55",
-      "desc": "晴朗天气，早晨有轻雾，午后阳光充足，适宜户外活动"
-    },
-    {
-      "date": "2026-04-19",
-      "maxTemp": 26,
-      "minTemp": 15,
-      "avgTemp": 21,
-      "weather": "晴",
-      "sunrise": "05:31",
-      "sunset": "18:56",
-      "desc": "气温继续回升，天气晴好"
-    },
-    {
-      "date": "2026-04-20",
-      "maxTemp": 24,
-      "minTemp": 14,
-      "avgTemp": 19,
-      "weather": "多云",
-      "sunrise": "05:30",
-      "sunset": "18:57",
-      "desc": "多云天气，气温略有回落"
-    },
-    {
-      "date": "2026-04-21",
-      "maxTemp": 22,
-      "minTemp": 13,
-      "avgTemp": 18,
-      "weather": "多云",
-      "sunrise": "05:29",
-      "sunset": "18:58",
-      "desc": "云量增多，气温下降"
-    },
-    {
-      "date": "2026-04-22",
-      "maxTemp": 23,
-      "minTemp": 12,
-      "avgTemp": 18,
-      "weather": "晴",
-      "sunrise": "05:27",
-      "sunset": "18:59",
-      "desc": "天气转晴，气温适中"
-    },
-    {
-      "date": "2026-04-23",
-      "maxTemp": 25,
-      "minTemp": 14,
-      "avgTemp": 20,
-      "weather": "晴",
-      "sunrise": "05:26",
-      "sunset": "19:00",
-      "desc": "气温明显回升，阳光充足"
-    },
-    {
-      "date": "2026-04-24",
-      "maxTemp": 27,
-      "minTemp": 16,
-      "avgTemp": 22,
-      "weather": "晴转多云",
-      "sunrise": "05:25",
-      "sunset": "19:01",
-      "desc": "初夏感觉，最高气温可达27度"
-    }
+    { "day": "今天", "date": "04-19", "high": 21, "low": 9, "icon": "☀️", "chanceOfRain": 0 },
+    { "day": "明天", "date": "04-20", "high": 23, "low": 11, "icon": "⛅", "chanceOfRain": 10 },
+    { "day": "后天", "date": "04-21", "high": 20, "low": 10, "icon": "☁️", "chanceOfRain": 20 }
   ],
-  "national": [
-    {
-      "city": "上海",
-      "weather": "多云转晴",
-      "maxTemp": 22,
-      "minTemp": 14
-    },
-    {
-      "city": "广州",
-      "weather": "多云",
-      "maxTemp": 29,
-      "minTemp": 23
-    },
-    {
-      "city": "深圳",
-      "weather": "多云",
-      "maxTemp": 28,
-      "minTemp": 24
-    },
-    {
-      "city": "成都",
-      "weather": "晴",
-      "maxTemp": 26,
-      "minTemp": 17
-    },
-    {
-      "city": "杭州",
-      "weather": "阴",
-      "maxTemp": 20,
-      "minTemp": 15
-    },
-    {
-      "city": "武汉",
-      "weather": "多云",
-      "maxTemp": 24,
-      "minTemp": 17
-    },
-    {
-      "city": "西安",
-      "weather": "晴",
-      "maxTemp": 28,
-      "minTemp": 15
-    },
-    {
-      "city": "重庆",
-      "weather": "晴",
-      "maxTemp": 28,
-      "minTemp": 18
-    }
-  ]
+  "clothingAdvice": "今日北京天气晴朗，早晚温差较大（9-21°C），建议穿着薄外套或长袖衬衫，午后阳光充足可适当减少衣物。"
 }

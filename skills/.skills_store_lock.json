@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "skills": {
+    "vercel": {
+      "name": "Vercel Platform",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=vercel",
+      "source": "skillhub",
+      "version": "1.0.1"
+    },
+    "multi-search-engine": {
+      "name": "Multi Search Engine",
+      "zip_url": "https://lightmake.site/api/v1/download?slug=multi-search-engine",
+      "source": "skillhub",
+      "version": "2.0.1"
+    }
+  }
+}
