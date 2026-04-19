@@ -1,47 +1,57 @@
 {
-  "source": "wttr.in",
-  "updateTime": "2026-04-19T12:32:00.000Z",
-  "updateDate": "2026-04-19",
-  "city": "北京",
-  "temp": 22,
-  "tempFeelsLike": 24,
-  "condition": "多云转晴",
-  "conditionCode": 116,
-  "high": 22,
-  "low": 11,
-  "humidity": 57,
-  "wind": "北北西风 15km/h",
-  "pressure": 1009,
-  "visibility": 10,
-  "uvIndex": 4,
-  "sunrise": "05:32",
-  "sunset": "18:56",
-  "moonPhase": "上弦月",
+  "updateTime": "2026-04-19T16:49:55+08:00",
+  "location": "Shanghai",
+  "current": {
+    "tempC": "23",
+    "feelsLikeC": "23",
+    "condition": "多云转晴",
+    "humidity": "76",
+    "windspeedKmph": "12",
+    "windDirection": "西北风",
+    "pressure": "1012",
+    "visibility": "10",
+    "uvIndex": "强",
+    "cloudCover": "30"
+  },
+  "astronomy": {
+    "sunrise": "05:22 AM",
+    "sunset": "06:25 PM"
+  },
   "forecast": [
     {
-      "day": "今天",
-      "date": "04-19",
-      "high": 22,
-      "low": 11,
-      "icon": "⛅",
-      "chanceOfRain": 0
-    },
-    {
-      "day": "明天",
       "date": "04-20",
-      "high": 24,
-      "low": 10,
-      "icon": "☀️",
-      "chanceOfRain": 5
+      "week": "周一",
+      "weather": "阴",
+      "high": "22°C",
+      "low": "14°C"
     },
     {
-      "day": "后天",
       "date": "04-21",
-      "high": 26,
-      "low": 14,
-      "icon": "☁️",
-      "chanceOfRain": 10
+      "week": "周二",
+      "weather": "阴转小雨",
+      "high": "17°C",
+      "low": "14°C"
+    },
+    {
+      "date": "04-22",
+      "week": "周三",
+      "weather": "中雨",
+      "high": "18°C",
+      "low": "14°C"
+    },
+    {
+      "date": "04-23",
+      "week": "周四",
+      "weather": "小雨转多云",
+      "high": "18°C",
+      "low": "12°C"
+    },
+    {
+      "date": "04-24",
+      "week": "周五",
+      "weather": "阴",
+      "high": "21°C",
+      "low": "13°C"
     }
-  ],
-  "clothingAdvice": "今日北京多云转晴，气温22°C，体感24°C，湿度57%。早晚温差较大（11-22°C），建议穿薄外套或长袖衬衫。紫外线指数4，午后适合户外活动。"
+  ]
 }

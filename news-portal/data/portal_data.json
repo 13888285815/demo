@@ -1,0 +1,188 @@
+{
+  "update_time": "2026-04-19T16:50:25+08:00",
+  "data": {
+    "cctv_news": [
+      {
+        "title": "我国氢能规模化应用取得新突破",
+        "url": "https://news.cctv.com/2026/04/19/ARTIP7e08bv3T2c0hQ4btYq6260419.shtml",
+        "date": "2026-04-19",
+        "summary": "我国首个10万户级天然气掺氢规模化应用项目在山东潍坊正式启动"
+      },
+      {
+        "title": "消博会见证中国大市场以开放姿态持续圈粉世界",
+        "url": "https://news.cctv.com/2026/04/19/ARTIdui6Z69gJ9k13aiXfOyc260419.shtml",
+        "date": "2026-04-19",
+        "summary": "第六届消博会落下帷幕，展览总面积达14.3万平方米，吸引67个国家和地区3413个品牌参展"
+      },
+      {
+        "title": "多份消费品行业报告发布 反映中国汽车智造新动态",
+        "url": "https://news.cctv.com/2026/04/19/ARTIICt06XG4DCE9iQJTmh2K260419.shtml",
+        "date": "2026-04-19",
+        "summary": "中国消费品质量安全促进会联合多家机构发布2026年消费品行业系列研究报告"
+      },
+      {
+        "title": "广东：第139届广交会第一期今天结束",
+        "url": "https://tv.cctv.com/2026/04/19/VIDEzWyYeb42od7uqrCGmaoG260419.shtml",
+        "date": "2026-04-19",
+        "summary": "第139届广交会第一期于4月19日结束"
+      },
+      {
+        "title": "五一假期购票：今天可买5月3日火车票",
+        "url": "https://tv.cctv.com/2026/04/19/VIDEHksc2JPz18LKxKALP9G9260419.shtml",
+        "date": "2026-04-19",
+        "summary": "五一假期火车票购票提示"
+      }
+    ],
+    "weibo_hot": [
+      {
+        "title": "让互联网更好造福人民",
+        "url": "",
+        "date": "2026-04-19",
+        "summary": "热度:热 来源:百度热搜"
+      },
+      {
+        "title": "12306三天拒绝出票105.6万张",
+        "url": "",
+        "date": "2026-04-19",
+        "summary": "热度:新 来源:百度热搜"
+      },
+      {
+        "title": "外军舰强闯 解放军军舰主炮上弹",
+        "url": "",
+        "date": "2026-04-19",
+        "summary": "热度:热 来源:百度热搜"
+      },
+      {
+        "title": "自家孩子趴桌睡为何给别人捐躺椅",
+        "url": "",
+        "date": "2026-04-19",
+        "summary": "热度:新 来源:百度热搜"
+      },
+      {
+        "title": "攻玉回应换男主",
+        "url": "",
+        "date": "2026-04-19",
+        "summary": "热度:高 来源:微博热搜"
+      },
+      {
+        "title": "五一列车增开",
+        "url": "",
+        "date": "2026-04-19",
+        "summary": "热度:高 来源:微博热搜"
+      },
+      {
+        "title": "曝李小冉退出浪姐",
+        "url": "",
+        "date": "2026-04-19",
+        "summary": "热度:高 来源:微博热搜"
+      },
+      {
+        "title": "卸沙现场一具尸体随沙料倾泻而出",
+        "url": "",
+        "date": "2026-04-19",
+        "summary": "热度:高 来源:微博热搜"
+      },
+      {
+        "title": "谁家猫怀孕都怀到脖子上了",
+        "url": "",
+        "date": "2026-04-19",
+        "summary": "热度:高 来源:微博热搜"
+      },
+      {
+        "title": "宇树机器人打破人类1500米世界纪录",
+        "url": "",
+        "date": "2026-04-19",
+        "summary": "热度:高 来源:微博热搜"
+      }
+    ],
+    "weather": {
+      "updateTime": "2026-04-19T16:49:55+08:00",
+      "location": "Shanghai",
+      "current": {
+        "tempC": "23",
+        "feelsLikeC": "23",
+        "condition": "多云转晴",
+        "humidity": "76",
+        "windspeedKmph": "12",
+        "windDirection": "西北风",
+        "pressure": "1012",
+        "visibility": "10",
+        "uvIndex": "强",
+        "cloudCover": "30"
+      },
+      "astronomy": {
+        "sunrise": "05:22 AM",
+        "sunset": "06:25 PM"
+      },
+      "forecast": [
+        {
+          "date": "04-20",
+          "week": "周一",
+          "weather": "阴",
+          "high": "22°C",
+          "low": "14°C"
+        },
+        {
+          "date": "04-21",
+          "week": "周二",
+          "weather": "阴转小雨",
+          "high": "17°C",
+          "low": "14°C"
+        },
+        {
+          "date": "04-22",
+          "week": "周三",
+          "weather": "中雨",
+          "high": "18°C",
+          "low": "14°C"
+        },
+        {
+          "date": "04-23",
+          "week": "周四",
+          "weather": "小雨转多云",
+          "high": "18°C",
+          "low": "12°C"
+        },
+        {
+          "date": "04-24",
+          "week": "周五",
+          "weather": "阴",
+          "high": "21°C",
+          "low": "13°C"
+        }
+      ]
+    },
+    "bilibili_hot": [
+      {
+        "title": "口技表演《三打白骨精》",
+        "url": "https://b23.tv/BV1CVdVBjETn",
+        "date": "2026-04-19",
+        "summary": "作者:BBoxer酋长 播放:4,703,503 点赞:548,654"
+      },
+      {
+        "title": "郝 哥 不 在",
+        "url": "https://b23.tv/BV1RwdhBmE3M",
+        "date": "2026-04-19",
+        "summary": "作者:岩罗Crv 播放:3,577,540 点赞:378,302"
+      },
+      {
+        "title": "《物理兴奋剂》",
+        "url": "https://b23.tv/BV1ZxQpBsEuN",
+        "date": "2026-04-19",
+        "summary": "作者:伤心欲茄222 播放:5,705,227 点赞:501,895"
+      },
+      {
+        "title": "终于来了！大疆Pocket 4上手",
+        "url": "https://b23.tv/BV1DgdhBGEq2",
+        "date": "2026-04-19",
+        "summary": "作者:影视飓风 播放:3,953,445 点赞:296,600"
+      },
+      {
+        "title": "《崩坏：星穹铁道》千星纪游PV",
+        "url": "https://b23.tv/BV118dqBXEgB",
+        "date": "2026-04-19",
+        "summary": "作者:崩坏星穹铁道 播放:3,140,556 点赞:260,656"
+      }
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "updateTime": "2026-04-19T16:50:17+08:00",
+  "source": "bilibili.com 排行榜",
+  "hotVideos": [
+    {
+      "title": "口技表演《三打白骨精》",
+      "bvid": "BV1CVdVBjETn",
+      "url": "https://b23.tv/BV1CVdVBjETn",
+      "author": "BBoxer酋长",
+      "views": 4703503,
+      "likes": 548654,
+      "category": "音乐现场"
+    },
+    {
+      "title": "郝 哥 不 在",
+      "bvid": "BV1RwdhBmE3M",
+      "url": "https://b23.tv/BV1RwdhBmE3M",
+      "author": "岩罗Crv",
+      "views": 3577540,
+      "likes": 378302,
+      "category": "鬼畜综合"
+    },
+    {
+      "title": "《物理兴奋剂》",
+      "bvid": "BV1ZxQpBsEuN",
+      "url": "https://b23.tv/BV1ZxQpBsEuN",
+      "author": "伤心欲茄222",
+      "views": 5705227,
+      "likes": 501895,
+      "category": "语言类小剧场"
+    },
+    {
+      "title": "终于来了！大疆Pocket 4上手",
+      "bvid": "BV1DgdhBGEq2",
+      "url": "https://b23.tv/BV1DgdhBGEq2",
+      "author": "影视飓风",
+      "views": 3953445,
+      "likes": 296600,
+      "category": "摄影摄像"
+    },
+    {
+      "title": "《崩坏：星穹铁道》千星纪游PV",
+      "bvid": "BV118dqBXEgB",
+      "url": "https://b23.tv/BV118dqBXEgB",
+      "author": "崩坏星穹铁道",
+      "views": 3140556,
+      "likes": 260656,
+      "category": "单人RPG游戏"
+    }
+  ]
+}
