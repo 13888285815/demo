@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-04-19T13:03:09+08:00",
+  "updateTime": "2026-04-19T14:33:40.229379+08:00",
   "source": "news.cctv.com",
   "headlines": [
     {
@@ -27,6 +27,5 @@
       "url": "https://tv.cctv.com/2026/04/19/VIDEHksc2JPz18LKxKALP9G9260419.shtml",
       "description": "五一假期火车票购票提示"
     }
-  ],
-  "note": "央视新闻通过直接抓取 news.cctv.com 获取"
+  ]
 }

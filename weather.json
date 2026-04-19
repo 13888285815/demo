@@ -1,26 +1,59 @@
 {
-  "updateTime": "2026-04-19T13:03:09+08:00",
+  "updateTime": "2026-04-19T14:33:40.229379+08:00",
   "location": "Shanghai",
   "current": {
-    "tempC": 20,
-    "tempF": 69,
-    "feelsLikeC": 20,
-    "feelsLikeF": 69,
+    "tempC": "23",
+    "feelsLikeC": "25",
     "condition": "Partly cloudy",
-    "humidity": 68,
-    "windSpeedKmph": 17,
+    "humidity": "57",
+    "windspeedKmph": "17",
     "windDirection": "NNW",
-    "pressure": 1013,
-    "visibility": 10,
-    "uvIndex": 7,
-    "cloudCover": 75
+    "pressure": "1012",
+    "visibility": "10",
+    "uvIndex": "8",
+    "cloudCover": "75"
   },
   "astronomy": {
     "sunrise": "05:22 AM",
     "sunset": "06:25 PM",
     "moonrise": "06:09 AM",
-    "moonset": "08:44 PM",
-    "moonPhase": "Waxing Crescent"
+    "moonset": "08:44 PM"
   },
-  "source": "wttr.in"
+  "forecast": [
+    {
+      "date": "04-20",
+      "week": "",
+      "high": "17°C",
+      "low": "",
+      "weather": "Cloudy"
+    },
+    {
+      "date": "04-21",
+      "week": "",
+      "high": "17°C",
+      "low": "",
+      "weather": "Partly Cloudy"
+    },
+    {
+      "date": "04-22",
+      "week": "",
+      "high": "",
+      "low": "",
+      "weather": ""
+    },
+    {
+      "date": "04-23",
+      "week": "",
+      "high": "",
+      "low": "",
+      "weather": ""
+    },
+    {
+      "date": "04-24",
+      "week": "",
+      "high": "",
+      "low": "",
+      "weather": ""
+    }
+  ]
 }
