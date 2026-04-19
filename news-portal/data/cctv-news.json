@@ -1,23 +1,31 @@
 {
-  "source": "央视新闻 + 百度热搜聚合",
-  "updateTime": "2026-04-19T01:59:00.000Z",
+  "source": "央视新闻 + 热搜聚合",
+  "updateTime": "2026-04-19T12:32:00.000Z",
   "updateDate": "2026-04-19",
   "news": [
     {
-      "title": "50分26秒！人形机器人半马冠军出炉",
-      "url": "https://www.baidu.com/s?wd=50%E5%88%8626%E7%A7%92%EF%BC%81%E4%BA%BA%E5%BD%A2%E6%9C%BA%E5%99%A8%E4%BA%BA%E5%8D%8A%E9%A9%AC%E5%86%A0%E5%86%9B%E5%87%BA%E7%82%89",
-      "summary": "2026人形机器人半程马拉松赛在北京亦庄举行，超百支人形机器人赛队同台竞速。宇树机器人以50分26秒的成绩夺冠，但冲线前突然摔倒引发关注。\"闪电\"起跑后便甩开人类跑者，最萌机器人拿着奶瓶跑完全程。",
-      "category": "科技",
+      "title": "丰富文旅体验 享受春光之美",
+      "url": "https://news.cctv.com/2026/04/19/ARTIbDcN2xGFebeANcVSIDFE260419.shtml",
+      "summary": "春日时节，生机盎然，不少人选择出游享受春光，各地丰富的文旅新场景带来了更多度假选择。生态文旅激活消费新活力。",
+      "category": "国内",
       "isTop": true,
-      "image": "https://picsum.photos/800/450?random=601"
+      "image": "https://picsum.photos/800/450?random=701"
     },
     {
-      "title": "加快网络强国建设",
-      "url": "https://www.baidu.com/s?wd=%E5%8A%A0%E5%BF%AB%E5%BB%BA%E8%AE%BE%E7%BD%91%E7%BB%9C%E5%BC%BA%E5%9B%BD",
-      "summary": "加快建设网络强国、数字中国成为当前重点方向。同时更加有力有效挑起大梁，推动经济社会高质量发展。",
+      "title": "第139届广交会第一期今天结束",
+      "url": "https://tv.cctv.com/2026/04/19/VIDEzWyYeb42od7uqrCGmaoG260419.shtml",
+      "summary": "广东：第139届广交会第一期今天结束，绿色低碳产品受国际采购商关注，中国企业加速开拓海外市场。",
       "category": "国内",
       "isTop": false,
-      "image": "https://picsum.photos/400/250?random=602"
+      "image": "https://picsum.photos/400/250?random=702"
+    },
+    {
+      "title": "\"五一\"假期购票 今天可买5月3日火车票",
+      "url": "https://tv.cctv.com/2026/04/19/VIDEHksc2JPz18LKxKALP9G9260419.shtml",
+      "summary": "\"五一\"假期购票进入高峰，今天可购买5月3日火车票。提醒旅客提前规划行程，错峰出行。",
+      "category": "社会",
+      "isTop": false,
+      "image": "https://picsum.photos/400/250?random=703"
     },
     {
       "title": "加速军事松绑 日本军国主义企图死灰复燃",
@@ -25,31 +33,47 @@
       "summary": "日本首次正式全面参加\"盾牌-2026\"多国联合演习，作战人员首次踏上菲律宾本土，远程导弹射程已覆盖中国军港，严重违背\"专守防卫\"原则。",
       "category": "国际",
       "isTop": false,
-      "image": "https://picsum.photos/400/250?random=603"
+      "image": "https://picsum.photos/400/250?random=704"
     },
     {
-      "title": "伊朗霍尔木兹海峡关闭，印度就油轮遭袭向伊朗提出抗议",
-      "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1%E5%B0%86%E4%BA%8E18%E6%97%A5%E6%99%9A%E8%B5%B7%E5%85%B3%E9%97%AD",
-      "summary": "伊朗伊斯兰革命卫队海军宣布霍尔木兹海峡已于18日晚关闭。美以袭击伊朗进入第51天，印度就油轮遭袭向伊朗提出抗议。多艘船只已通过海峡。",
+      "title": "日本与澳大利亚签订合同 向澳出口护卫舰",
+      "url": "https://tv.cctv.com/2026/04/19/VIDETzEn0tQ6sWBRVfOTjhW9260419.shtml",
+      "summary": "日本与澳大利亚签订合同，向澳出口护卫舰，引发地区安全关注。",
       "category": "国际",
       "isTop": false,
-      "image": "https://picsum.photos/400/250?random=604"
+      "image": "https://picsum.photos/400/250?random=705"
     },
     {
-      "title": "国产光纤价格暴涨650%，全球爆单",
-      "url": "https://www.baidu.com/s?wd=%E4%BB%B7%E6%A0%BC%E6%9A%B4%E6%B6%A8650%25%EF%BC%81%E5%9B%BD%E4%BA%A7%E5%85%89%E7%BA%A4%E5%85%A8%E7%90%83%E7%88%86%E5%8D%95",
-      "summary": "国产光纤市场今年一季度呈现爆发式增长，G.657.A2型号价格从32元/芯公里飙升至240元，涨幅达650%。江苏多家企业海外订单激增55%，光纤价格暴涨650%成为微博热议话题。",
+      "title": "\"五一\"航班出现取消潮 东南亚为重灾区",
+      "url": "https://news.cctv.com/2026/04/18/ARTIq7s1yNhoCvcg4vEAtnPN260418.shtml",
+      "summary": "\"五一\"前后东南亚、大洋洲出现航班\"取消潮\"，东南亚为重灾区。航油价格高涨和廉价航空密集是主因。机票被取消怎么办？",
+      "category": "社会",
+      "isTop": false,
+      "image": "https://picsum.photos/400/250?random=706"
+    },
+    {
+      "title": "50分26秒！人形机器人半马冠军出炉",
+      "url": "https://www.baidu.com/s?wd=人形机器人半马冠军",
+      "summary": "2026人形机器人半程马拉松赛在北京亦庄举行，超百支人形机器人赛队同台竞速。宇树机器人以50分26秒的成绩夺冠。",
+      "category": "科技",
+      "isTop": false,
+      "image": "https://picsum.photos/400/250?random=707"
+    },
+    {
+      "title": "国产光纤价格暴涨650% 全球爆单",
+      "url": "https://www.baidu.com/s?wd=国产光纤价格暴涨650",
+      "summary": "国产光纤市场一季度呈现爆发式增长，G.657.A2型号价格从32元/芯公里飙升至240元，涨幅达650%。江苏多家企业海外订单激增55%。",
       "category": "财经",
       "isTop": false,
-      "image": "https://picsum.photos/400/250?random=605"
+      "image": "https://picsum.photos/400/250?random=708"
     },
     {
-      "title": "广交会：绿色低碳产品受关注 加速开拓海外市场",
-      "url": "https://tv.cctv.com/2026/04/19/VIDEJbfsmp0GHYJ6AEpBCC4x260419.shtml",
-      "summary": "第135届广交会上，绿色低碳产品备受国际采购商关注，中国企业加速开拓海外市场。生态文旅激活消费新活力。",
-      "category": "国内",
+      "title": "伊朗霍尔木兹海峡关闭",
+      "url": "https://www.baidu.com/s?wd=伊朗霍尔木兹海峡关闭",
+      "summary": "伊朗伊斯兰革命卫队海军宣布霍尔木兹海峡已于18日晚关闭。美以袭击伊朗进入第51天，印度就油轮遭袭向伊朗提出抗议。",
+      "category": "国际",
       "isTop": false,
-      "image": "https://picsum.photos/400/250?random=606"
+      "image": "https://picsum.photos/400/250?random=709"
     },
     {
       "title": "网传青岛胶东国际机场现恶性案件？假的！",
@@ -57,31 +81,7 @@
       "summary": "针对网传青岛胶东国际机场发生恶性案件的消息，官方辟谣称系虚假信息，提醒广大网民不造谣、不信谣、不传谣。",
       "category": "社会",
       "isTop": false,
-      "image": "https://picsum.photos/400/250?random=607"
-    },
-    {
-      "title": "二手车价格全面下降，经销商陷困局",
-      "url": "https://www.baidu.com/s?wd=%E4%BA%8C%E6%89%8B%E8%BD%A6%E4%BB%B7%E6%A0%BC%E5%85%A8%E9%9D%A2%E4%B8%8B%E9%99%8D+%E7%BB%8F%E9%94%80%E5%95%86%E9%99%B7%E5%9B%B0%E5%B1%80",
-      "summary": "受新车价格战及调价影响，二手车市场出现\"价格倒挂\"现象，经销商陷入\"好卖的车收不着，收着的车不好卖\"的困局。",
-      "category": "财经",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=608"
-    },
-    {
-      "title": "泰国泼水节期间242死，疑现水枪投毒",
-      "url": "https://www.baidu.com/s?wd=%E6%B3%B0%E5%9B%BD%E6%B3%BC%E6%B0%B4%E8%8A%82%E7%96%91%E7%8E%B0%E2%80%9C%E6%B0%B4%E6%9E%AA%E6%8A%95%E6%AF%92%E2%80%9D",
-      "summary": "宋干节（泼水节）期间七天共发生1242起交通事故，造成1200人受伤、242人死亡。此外还曝出泼水节疑现\"水枪投毒\"事件，引发中国游客关注。",
-      "category": "国际",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=609"
-    },
-    {
-      "title": "\"五一\"航班出现取消潮，东南亚为重灾区",
-      "url": "https://www.baidu.com/s?wd=%E2%80%9C%E4%BA%94%E4%B8%80%E2%80%9D%E8%88%AA%E7%8F%AD%E4%B8%BA%E5%95%A5%E5%87%BA%E7%8E%B0%E2%80%9C%E5%8F%96%E6%B6%88%E6%BD%AE%E2%80%9D",
-      "summary": "\"五一\"前后东南亚、大洋洲出现航班\"取消潮\"，东南亚为重灾区。航油价格高涨和廉价航空密集是主因。",
-      "category": "社会",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=610"
+      "image": "https://picsum.photos/400/250?random=710"
     }
   ]
 }

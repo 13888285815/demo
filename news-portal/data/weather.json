@@ -1,26 +1,47 @@
 {
   "source": "wttr.in",
-  "updateTime": "2026-04-19T01:59:00.000Z",
+  "updateTime": "2026-04-19T12:32:00.000Z",
   "updateDate": "2026-04-19",
   "city": "北京",
-  "temp": 20,
-  "tempFeelsLike": 20,
-  "condition": "晴天",
-  "conditionCode": 113,
+  "temp": 22,
+  "tempFeelsLike": 24,
+  "condition": "多云转晴",
+  "conditionCode": 116,
   "high": 22,
   "low": 11,
-  "humidity": 45,
-  "wind": "西南风 5km/h",
-  "pressure": 1008,
+  "humidity": 57,
+  "wind": "北北西风 15km/h",
+  "pressure": 1009,
   "visibility": 10,
-  "uvIndex": 1,
+  "uvIndex": 4,
   "sunrise": "05:32",
   "sunset": "18:56",
   "moonPhase": "上弦月",
   "forecast": [
-    { "day": "今天", "date": "04-19", "high": 22, "low": 11, "icon": "☀️", "chanceOfRain": 0 },
-    { "day": "明天", "date": "04-20", "high": 24, "low": 10, "icon": "⛅", "chanceOfRain": 5 },
-    { "day": "后天", "date": "04-21", "high": 26, "low": 14, "icon": "☁️", "chanceOfRain": 10 }
+    {
+      "day": "今天",
+      "date": "04-19",
+      "high": 22,
+      "low": 11,
+      "icon": "⛅",
+      "chanceOfRain": 0
+    },
+    {
+      "day": "明天",
+      "date": "04-20",
+      "high": 24,
+      "low": 10,
+      "icon": "☀️",
+      "chanceOfRain": 5
+    },
+    {
+      "day": "后天",
+      "date": "04-21",
+      "high": 26,
+      "low": 14,
+      "icon": "☁️",
+      "chanceOfRain": 10
+    }
   ],
-  "clothingAdvice": "今日北京晴天，气温20°C，体感舒适，湿度45%。早晚温差较大（11-22°C），建议穿着薄外套或长袖衬衫，午后阳光充足。紫外线指数低，适合户外活动。"
+  "clothingAdvice": "今日北京多云转晴，气温22°C，体感24°C，湿度57%。早晚温差较大（11-22°C），建议穿薄外套或长袖衬衫。紫外线指数4，午后适合户外活动。"
 }
