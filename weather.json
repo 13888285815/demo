@@ -1,13 +1,13 @@
 {
-  "updateTime": "2026-04-19T11:29:00+08:00",
+  "updateTime": "2026-04-19T11:59:00+08:00",
   "location": "Shanghai",
   "current": {
-    "tempC": 21,
-    "tempF": 70,
-    "feelsLikeC": 21,
-    "feelsLikeF": 70,
+    "tempC": 20,
+    "tempF": 69,
+    "feelsLikeC": 20,
+    "feelsLikeF": 69,
     "condition": "Partly cloudy",
-    "humidity": 64,
+    "humidity": 68,
     "windSpeedKmph": 17,
     "windDirection": "NNW",
     "pressure": 1013,
@@ -21,5 +21,6 @@
     "moonrise": "06:09 AM",
     "moonset": "08:44 PM",
     "moonPhase": "Waxing Crescent"
-  }
+  },
+  "source": "wttr.in"
 }

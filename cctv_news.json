@@ -1,5 +1,5 @@
 {
-  "updateTime": "2026-04-19T11:29:00+08:00",
+  "updateTime": "2026-04-19T11:59:00+08:00",
   "source": "news.cctv.com",
   "headlines": [
     {
@@ -14,5 +14,6 @@
       "title": "伊朗伊斯兰革命卫队宣布关闭霍尔木兹海峡",
       "url": "https://tv.cctv.com/2026/04/19/VIDEhU8S9itdMTFgu92C2f4o260419.shtml"
     }
-  ]
+  ],
+  "note": "央视新闻 RSS 源通过搜索和既有数据获取"
 }
