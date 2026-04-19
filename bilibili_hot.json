@@ -1,51 +1,51 @@
 {
-  "updateTime": "2026-04-19T11:59:00+08:00",
+  "updateTime": "2026-04-19T13:03:09+08:00",
   "source": "bilibili.com",
   "hotVideos": [
-    {
-      "title": "《异环》公测PV丨Play on！",
-      "bvid": "BV1dsQnB7EHb",
-      "url": "https://b23.tv/BV1dsQnB7EHb",
-      "author": "异环",
-      "views": 2555644,
-      "likes": 48075,
-      "category": "其他游戏"
-    },
     {
       "title": "口技表演《三打白骨精》",
       "bvid": "BV1CVdVBjETn",
       "url": "https://b23.tv/BV1CVdVBjETn",
       "author": "BBoxer酋长",
-      "views": 3980252,
-      "likes": 472151,
-      "category": "演奏"
+      "views": 4154296,
+      "likes": 491850,
+      "category": "音乐现场"
     },
     {
-      "title": "《异环》公测前瞻特别节目回顾",
-      "bvid": "BV1ZXd8B9EeD",
-      "url": "https://b23.tv/BV1ZXd8B9EeD",
-      "author": "异环",
-      "views": 1393892,
-      "likes": 30475,
-      "category": "其他游戏"
+      "title": "《物理兴奋剂》",
+      "bvid": "BV1ZxQpBsEuN",
+      "url": "https://b23.tv/BV1ZxQpBsEuN",
+      "author": "伤心欲茄222",
+      "views": 5705227,
+      "likes": 501895,
+      "category": "语言类小剧场"
     },
     {
-      "title": "疑似三打白骨精现场真实画面流出",
-      "bvid": "BV11ZdJB6ECR",
-      "url": "https://b23.tv/BV11ZdJB6ECR",
-      "author": "潘子鸟",
-      "views": 975520,
-      "likes": 82750,
-      "category": "搞笑"
+      "title": "郝 哥 不 在",
+      "bvid": "BV1RwdhBmE3M",
+      "url": "https://b23.tv/BV1RwdhBmE3M",
+      "author": "岩罗Crv",
+      "views": 3471722,
+      "likes": 367959,
+      "category": "鬼畜综合"
     },
     {
-      "title": "《生鱼忧患 死鱼安乐》",
-      "bvid": "BV1vBd7B1EVL",
-      "url": "https://b23.tv/BV1vBd7B1EVL",
-      "author": "IPx的粉红豹",
-      "views": 2957319,
-      "likes": 131107,
-      "category": "搞笑"
+      "title": "终于来了！大疆Pocket 4上手",
+      "bvid": "BV1DgdhBGEq2",
+      "url": "https://b23.tv/BV1DgdhBGEq2",
+      "author": "影视飓风",
+      "views": 3953445,
+      "likes": 296600,
+      "category": "摄影摄像"
+    },
+    {
+      "title": "《崩坏：星穹铁道》千星纪游PV：「第999场：GAME NOT OVER」",
+      "bvid": "BV118dqBXEgB",
+      "url": "https://b23.tv/BV118dqBXEgB",
+      "author": "崩坏星穹铁道",
+      "views": 3140556,
+      "likes": 260656,
+      "category": "单人RPG游戏"
     }
   ]
 }
