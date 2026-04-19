@@ -1,6 +1,6 @@
 {
-  "source": "B站热门排行榜 API",
-  "updateTime": "2026-04-19T08:18:00.000Z",
+  "source": "B站热门排行榜 + 百度热搜",
+  "updateTime": "2026-04-19T01:59:00.000Z",
   "updateDate": "2026-04-19",
   "topVideos": [
     { "rank": 1, "title": "郝 哥 不 在", "author": "岩罗Crv", "views": "335万", "category": "鬼畜", "url": "https://b23.tv/BV1RwdhBmE3M", "duration": "03:34", "thumbnail": "http://i2.hdslb.com/bfs/archive/b660ad582fae56bb06b4029e49dc83302864f6d4.jpg" },
@@ -8,8 +8,10 @@
     { "rank": 3, "title": "《物理兴奋剂》", "author": "伤心欲茄222", "views": "551万", "category": "搞笑", "url": "https://b23.tv/BV1ZxQpBsEuN", "duration": "01:46", "thumbnail": "http://i1.hdslb.com/bfs/archive/7e72a686c6e6ad2b1588f10c5ea5b0ce01b5ed22.jpg" },
     { "rank": 4, "title": "终于来了！大疆Pocket 4上手", "author": "影视飓风", "views": "382万", "category": "数码", "url": "https://b23.tv/BV1DgdhBGEq2", "duration": "20:38", "thumbnail": "http://i1.hdslb.com/bfs/archive/18363340c0b4de9cfcd415a0f94b1abbc693c2e8.jpg" },
     { "rank": 5, "title": "《崩坏：星穹铁道》千星纪游PV", "author": "崩坏星穹铁道", "views": "308万", "category": "手机游戏", "url": "https://b23.tv/BV118dqBXEgB", "duration": "15:49", "thumbnail": "http://i2.hdslb.com/bfs/archive/be023511cf1462180d2591bb802279f7eeca7249.jpg" },
-    { "rank": 6, "title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经", "author": "未知", "views": "未知", "category": "搞笑", "url": "https://www.bilibili.com/v/popular/rank/all", "duration": "09:19", "thumbnail": "http://i2.hdslb.com/bfs/archive/c710f4f7ea8f9f1bd84be03a2c341d2afd3ccb86.jpg" },
+    { "rank": 6, "title": "楚人美游记合集：当楚人美被孙悟空拐去取经", "author": "综合热门", "views": "热门", "category": "搞笑", "url": "https://www.bilibili.com/v/popular/rank/all", "duration": "09:19", "thumbnail": "http://i2.hdslb.com/bfs/archive/c710f4f7ea8f9f1bd84be03a2c341d2afd3ccb86.jpg" },
     { "rank": 7, "title": "《非法组队》", "author": "伤心欲茄222", "views": "117万", "category": "搞笑", "url": "https://b23.tv/BV1QTdHBpEfR", "duration": "02:51", "thumbnail": "http://i2.hdslb.com/bfs/archive/ed255e40a2a83c90f7dd6721a1ad0089dbc4e2cb.jpg" },
-    { "rank": 8, "title": "乘风2026首播完整舞台合集", "author": "综艺大本营", "views": "198万", "category": "娱乐", "url": "https://www.bilibili.com/v/popular/rank/all", "duration": "未知", "thumbnail": "https://picsum.photos/320/180?random=608" }
+    { "rank": 8, "title": "乘风2026首播完整舞台合集", "author": "综艺大本营", "views": "198万", "category": "娱乐", "url": "https://www.bilibili.com/v/popular/rank/all", "duration": "合集", "thumbnail": "https://picsum.photos/320/180?random=608" },
+    { "rank": 9, "title": "人形机器人半程马拉松赛精彩集锦", "author": "央视新闻", "views": "热门", "category": "科技", "url": "https://www.bilibili.com/v/popular/rank/all", "duration": "合集", "thumbnail": "https://picsum.photos/320/180?random=609" },
+    { "rank": 10, "title": "张雪机车WSBK荷兰站精彩回顾", "author": "体育热门", "views": "热门", "category": "体育", "url": "https://www.bilibili.com/v/popular/rank/all", "duration": "合集", "thumbnail": "https://picsum.photos/320/180?random=610" }
   ]
 }
