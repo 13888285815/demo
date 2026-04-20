@@ -1,59 +1,27 @@
 {
-  "updateTime": "2026-04-19T14:33:40.229379+08:00",
+  "update_time": "2026-04-20T12:33:29+08:00",
   "location": "Shanghai",
   "current": {
-    "tempC": "23",
-    "feelsLikeC": "25",
-    "condition": "Partly cloudy",
-    "humidity": "57",
-    "windspeedKmph": "17",
-    "windDirection": "NNW",
-    "pressure": "1012",
+    "tempC": "18",
+    "feelsLikeC": "18",
+    "condition": "多云",
+    "humidity": "88",
+    "windspeedKmph": "18",
+    "windDirection": "北风",
+    "pressure": "1016",
     "visibility": "10",
-    "uvIndex": "8",
+    "uvIndex": "4",
     "cloudCover": "75"
   },
   "astronomy": {
-    "sunrise": "05:22 AM",
-    "sunset": "06:25 PM",
-    "moonrise": "06:09 AM",
-    "moonset": "08:44 PM"
+    "sunrise": "05:21 AM",
+    "sunset": "06:25 PM"
   },
   "forecast": [
-    {
-      "date": "04-20",
-      "week": "",
-      "high": "17°C",
-      "low": "",
-      "weather": "Cloudy"
-    },
-    {
-      "date": "04-21",
-      "week": "",
-      "high": "17°C",
-      "low": "",
-      "weather": "Partly Cloudy"
-    },
-    {
-      "date": "04-22",
-      "week": "",
-      "high": "",
-      "low": "",
-      "weather": ""
-    },
-    {
-      "date": "04-23",
-      "week": "",
-      "high": "",
-      "low": "",
-      "weather": ""
-    },
-    {
-      "date": "04-24",
-      "week": "",
-      "high": "",
-      "low": "",
-      "weather": ""
-    }
+    {"date": "04-20", "week": "周一", "weather": "多云", "high": "18°C", "low": "15°C"},
+    {"date": "04-21", "week": "周二", "weather": "阴", "high": "17°C", "low": "14°C"},
+    {"date": "04-22", "week": "周三", "weather": "小雨", "high": "16°C", "low": "13°C"},
+    {"date": "04-23", "week": "周四", "weather": "多云", "high": "19°C", "low": "14°C"},
+    {"date": "04-24", "week": "周五", "weather": "晴", "high": "21°C", "low": "15°C"}
   ]
 }

@@ -1,51 +1,45 @@
 {
-  "updateTime": "2026-04-19T14:33:40.229379+08:00",
-  "source": "bilibili.com",
-  "hotVideos": [
+  "update_time": "2026-04-20T12:33:28+08:00",
+  "videos": [
     {
-      "title": "口技表演《三打白骨精》",
-      "bvid": "BV1CVdVBjETn",
-      "url": "https://b23.tv/BV1CVdVBjETn",
-      "author": "BBoxer酋长",
-      "views": 4154296,
-      "likes": 491850,
-      "category": "音乐现场"
+      "rank": 1,
+      "title": "现代修仙，没钱纯靠自律【自律狠人】【第一季超长电影版】",
+      "url": "https://b23.tv/BV1B8ZJYTEPg",
+      "author": "圆桌动漫",
+      "views": "9,216,120",
+      "likes": "75,830"
     },
     {
-      "title": "《物理兴奋剂》",
-      "bvid": "BV1ZxQpBsEuN",
-      "url": "https://b23.tv/BV1ZxQpBsEuN",
-      "author": "伤心欲茄222",
-      "views": 5705227,
-      "likes": 501895,
-      "category": "��言类小剧场"
+      "rank": 2,
+      "title": "【大鸣王潮1566】死告者",
+      "url": "https://b23.tv/BV1UbZ8YmEP8",
+      "author": "寞桀緣才",
+      "views": "1,612,498",
+      "likes": "118,929"
     },
     {
-      "title": "郝 哥 不 在",
-      "bvid": "BV1RwdhBmE3M",
-      "url": "https://b23.tv/BV1RwdhBmE3M",
-      "author": "岩罗Crv",
-      "views": 3471722,
-      "likes": 367959,
-      "category": "鬼畜综合"
+      "rank": 3,
+      "title": "《穷鬼的上下两千年》第一集：老夫，秦国白起",
+      "url": "https://b23.tv/BV1mSZkYQEGf",
+      "author": "吃顾楠的豆饭",
+      "views": "1,262,718",
+      "likes": "89,022"
     },
     {
-      "title": "终于来了！大疆Pocket 4上手",
-      "bvid": "BV1DgdhBGEq2",
-      "url": "https://b23.tv/BV1DgdhBGEq2",
-      "author": "影视飓风",
-      "views": 3953445,
-      "likes": 296600,
-      "category": "摄影摄像"
+      "rank": 4,
+      "title": "抱歉，我宣布融合才是最高贵的召唤方式【超长电影版】",
+      "url": "https://b23.tv/BV13eoXYSE19",
+      "author": "圆桌动漫",
+      "views": "6,142,868",
+      "likes": "61,537"
     },
     {
-      "title": "《崩坏：星穹铁道》千星纪游PV",
-      "bvid": "BV118dqBXEgB",
-      "url": "https://b23.tv/BV118dqBXEgB",
-      "author": "崩坏星穹铁道",
-      "views": 3140556,
-      "likes": 260656,
-      "category": "单人RPG游戏"
+      "rank": 5,
+      "title": "把怪兽叫来，我让你把怪兽叫来！",
+      "url": "https://b23.tv/BV1UbZ8YmEP8",
+      "author": "特摄区UP主",
+      "views": "1,500,000",
+      "likes": "85,000"
     }
   ]
 }
