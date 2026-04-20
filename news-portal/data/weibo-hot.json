@@ -1,112 +1,15 @@
 {
-  "source": "微博热搜 + 热点聚合",
-  "updateTime": "2026-04-19T12:32:00.000Z",
-  "updateDate": "2026-04-19",
-  "hotSearch": [
-    {
-      "rank": 1,
-      "title": "日本已彻底撕掉伪装",
-      "heat": "116万",
-      "trend": "hot",
-      "url": "https://s.weibo.com/weibo?q=日本已彻底撕掉伪装"
-    },
-    {
-      "rank": 2,
-      "title": "宋祖儿 刘宇宁",
-      "heat": "98万",
-      "trend": "hot",
-      "url": "https://s.weibo.com/weibo?q=宋祖儿刘宇宁"
-    },
-    {
-      "rank": 3,
-      "title": "曝歌手2026阵容",
-      "heat": "87万",
-      "trend": "new",
-      "url": "https://s.weibo.com/weibo?q=曝歌手2026阵容"
-    },
-    {
-      "rank": 4,
-      "title": "半夜醒来不要看时间",
-      "heat": "78万",
-      "trend": "hot",
-      "url": "https://s.weibo.com/weibo?q=半夜醒来不要看时间"
-    },
-    {
-      "rank": 5,
-      "title": "生态文旅激活消费新活力",
-      "heat": "67万",
-      "trend": "hot",
-      "url": "https://s.weibo.com/weibo?q=生态文旅激活消费新活力"
-    },
-    {
-      "rank": 6,
-      "title": "低精力 杏仁核长期应激",
-      "heat": "62万",
-      "trend": "up",
-      "url": "https://s.weibo.com/weibo?q=低精力杏仁核长期应激"
-    },
-    {
-      "rank": 7,
-      "title": "科大讯飞员工中了1500万彩票后直接离职",
-      "heat": "60万",
-      "trend": "hot",
-      "url": "https://s.weibo.com/weibo?q=科大讯飞员工中了1500万彩票"
-    },
-    {
-      "rank": 8,
-      "title": "雷军 小米SU7 Pro",
-      "heat": "58万",
-      "trend": "hot",
-      "url": "https://s.weibo.com/weibo?q=雷军小米SU7Pro"
-    },
-    {
-      "rank": 9,
-      "title": "网传花少8阵容",
-      "heat": "55万",
-      "trend": "new",
-      "url": "https://s.weibo.com/weibo?q=网传花少8阵容"
-    },
-    {
-      "rank": 10,
-      "title": "快递员摔坏2.4万蓝宝石",
-      "heat": "53万",
-      "trend": "hot",
-      "url": "https://s.weibo.com/weibo?q=快递员摔坏蓝宝石"
-    },
-    {
-      "rank": 11,
-      "title": "哈弗猛龙PLUS预售18.98万起",
-      "heat": "53万",
-      "trend": "new",
-      "url": "https://s.weibo.com/weibo?q=哈弗猛龙PLUS"
-    },
-    {
-      "rank": 12,
-      "title": "纽北事故",
-      "heat": "53万",
-      "trend": "hot",
-      "url": "https://s.weibo.com/weibo?q=纽北事故"
-    },
-    {
-      "rank": 13,
-      "title": "宇树机器人打破人类1500米世界纪录",
-      "heat": "42万",
-      "trend": "hot",
-      "url": "https://s.weibo.com/weibo?q=宇树机器人打破世界纪录"
-    },
-    {
-      "rank": 14,
-      "title": "2026机器人半马",
-      "heat": "42万",
-      "trend": "hot",
-      "url": "https://s.weibo.com/weibo?q=2026机器人半马"
-    },
-    {
-      "rank": 15,
-      "title": "解放军护卫舰已随时准备开火",
-      "heat": "44万",
-      "trend": "hot",
-      "url": "https://s.weibo.com/weibo?q=解放军护卫舰随时准备开火"
-    }
+  "update_time": "2026-04-20T17:18:00+08:00",
+  "hot_list": [
+    {"rank": 1, "title": "习近平文化思想引领书香社会建设", "heat": "7904897", "source": "百度热搜"},
+    {"rank": 2, "title": "男子发现扔烟头地方不长草决定戒烟", "heat": "7712317", "source": "百度热搜"},
+    {"rank": 3, "title": "中国经济硬核数据再上新", "heat": "7618870", "source": "百度热搜"},
+    {"rank": 4, "title": "\"红旗1号\"芯片研制成功", "heat": "7500000", "source": "百度热搜"},
+    {"rank": 5, "title": "韩国西瓜销量暴涨", "heat": "7400000", "source": "百度热搜"},
+    {"rank": 6, "title": "日本地震震级调至7.5级 海啸已到达", "heat": "7300000", "source": "百度热搜"},
+    {"rank": 7, "title": "日本民众被要求立即避难逃生", "heat": "7200000", "source": "百度热搜"},
+    {"rank": 8, "title": "女子酒窝超大被网友怀疑是AI", "heat": "7100000", "source": "百度热搜"},
+    {"rank": 9, "title": "研究发现：每顿少吃两口身体炎症少了", "heat": "7000000", "source": "百度热搜"},
+    {"rank": 10, "title": "重庆昨夜到今晨共出现8068次闪电", "heat": "6900000", "source": "百度热搜"}
   ]
 }

@@ -1,85 +1,15 @@
 {
-  "update_time": "2026-04-20T16:48:00+08:00",
+  "update_time": "2026-04-20T17:18:00+08:00",
   "videos": [
-    {
-      "rank": 1,
-      "title": "口技表演《三打白骨精》",
-      "url": "https://www.bilibili.com/video/BV1CVdVBjETn",
-      "author": "BBoxer酋长",
-      "views": "5962553",
-      "likes": "670383"
-    },
-    {
-      "rank": 2,
-      "title": "《崩坏：星穹铁道》银狼LV.999角色PV——「我独自满级」",
-      "url": "https://www.bilibili.com/video/BV1wYdWB5EVF",
-      "author": "崩坏星穹铁道",
-      "views": "4404535",
-      "likes": "338951"
-    },
-    {
-      "rank": 3,
-      "title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经",
-      "url": "https://www.bilibili.com/video/BV15YdBB6Efz",
-      "author": "安奇米苏",
-      "views": "8619604",
-      "likes": "379390"
-    },
-    {
-      "rank": 4,
-      "title": "［meme］豌豆公主",
-      "url": "https://www.bilibili.com/video/BV1DNd7BMEqP",
-      "author": "烫甲鱼",
-      "views": "2438984",
-      "likes": "225263"
-    },
-    {
-      "rank": 5,
-      "title": "狡兔屋老大希希芙",
-      "url": "https://www.bilibili.com/video/BV1N8d5BsEcN",
-      "author": "鼎芸",
-      "views": "1843959",
-      "likes": "243479"
-    },
-    {
-      "rank": 6,
-      "title": "\"每次生日许的愿 其实都与你有关\"2.0",
-      "url": "https://www.bilibili.com/video/BV1yedxBnEn3",
-      "author": "我爱吃派大星",
-      "views": "3117695",
-      "likes": "229104"
-    },
-    {
-      "rank": 7,
-      "title": "破产大王如何搞发明？【小约翰】",
-      "url": "https://www.bilibili.com/video/BV1ewdhBmEux",
-      "author": "小约翰可汗",
-      "views": "2840572",
-      "likes": "176382"
-    },
-    {
-      "rank": 8,
-      "title": "郝 哥 不 在",
-      "url": "https://www.bilibili.com/video/BV1RwdhBmE3M",
-      "author": "岩罗Crv",
-      "views": "3987152",
-      "likes": "414678"
-    },
-    {
-      "rank": 9,
-      "title": "《非法组队》",
-      "url": "https://www.bilibili.com/video/BV1QTdHBpEfR",
-      "author": "伤心欲茄222",
-      "views": "2416010",
-      "likes": "234226"
-    },
-    {
-      "rank": 10,
-      "title": "疑似三打白骨精现场真实画面流出",
-      "url": "https://www.bilibili.com/video/BV11ZdJB6ECR",
-      "author": "潘子鸟",
-      "views": "2281301",
-      "likes": "194331"
-    }
+    {"rank": 1, "title": "口技表演《三打白骨精》", "url": "https://www.bilibili.com/video/BV1CVdVBjETn", "author": "BBoxer酋长", "views": "5981009", "likes": "672196"},
+    {"rank": 2, "title": "《崩坏：星穹铁道》银狼LV.999角色PV——「我独自满级」", "url": "https://www.bilibili.com/video/BV1wYdWB5EVF", "author": "崩坏星穹铁道", "views": "4421171", "likes": "339516"},
+    {"rank": 3, "title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经", "url": "https://www.bilibili.com/video/BV15YdBB6Efz", "author": "安奇米苏", "views": "8632039", "likes": "379910"},
+    {"rank": 4, "title": "［meme］豌豆公主", "url": "https://www.bilibili.com/video/BV1DNd7BMEqP", "author": "烫甲鱼", "views": "2443489", "likes": "225611"},
+    {"rank": 5, "title": "狡兔屋老大希希芙", "url": "https://www.bilibili.com/video/BV1N8d5BsEcN", "author": "鼎芸", "views": "1844976", "likes": "243653"},
+    {"rank": 6, "title": "\"每次生日许的愿 其实都与你有关\"2.0", "url": "https://www.bilibili.com/video/BV1yedxBnEn3", "author": "我爱吃派大星", "views": "3124501", "likes": "229781"},
+    {"rank": 7, "title": "破产大王如何搞发明？【小约翰】", "url": "https://www.bilibili.com/video/BV1ewdhBmEux", "author": "小约翰可汗", "views": "2879190", "likes": "177400"},
+    {"rank": 8, "title": "郝 哥 不 在", "url": "https://www.bilibili.com/video/BV1RwdhBmE3M", "author": "岩罗Crv", "views": "3993070", "likes": "415176"},
+    {"rank": 9, "title": "《非法组队》", "url": "https://www.bilibili.com/video/BV1QTdHBpEfR", "author": "伤心欲茄222", "views": "2420331", "likes": "234672"},
+    {"rank": 10, "title": "疑似三打白骨精现场真实画面流出", "url": "https://www.bilibili.com/video/BV11ZdJB6ECR", "author": "潘子鸟", "views": "2284796", "likes": "194802"}
   ]
 }

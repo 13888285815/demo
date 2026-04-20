@@ -1,87 +1,47 @@
 {
-  "source": "央视新闻 + 热搜聚合",
-  "updateTime": "2026-04-19T12:32:00.000Z",
-  "updateDate": "2026-04-19",
+  "update_time": "2026-04-20T17:18:00+08:00",
   "news": [
     {
-      "title": "丰富文旅体验 享受春光之美",
-      "url": "https://news.cctv.com/2026/04/19/ARTIbDcN2xGFebeANcVSIDFE260419.shtml",
-      "summary": "春日时节，生机盎然，不少人选择出游享受春光，各地丰富的文旅新场景带来了更多度假选择。生态文旅激活消费新活力。",
-      "category": "国内",
-      "isTop": true,
-      "image": "https://picsum.photos/800/450?random=701"
+      "title": "习近平文化思想引领书香社会建设 全国首个全民阅读活动周启幕",
+      "url": "https://www.xinhuanet.com/",
+      "date": "2026-04-20",
+      "summary": "国务院批复设立的全国首个全民阅读活动周与第五届全民阅读大会于4月20日同步启幕。"
     },
     {
-      "title": "第139届广交会第一期今天结束",
-      "url": "https://tv.cctv.com/2026/04/19/VIDEzWyYeb42od7uqrCGmaoG260419.shtml",
-      "summary": "广东：第139届广交会第一期今天结束，绿色低碳产品受国际采购商关注，中国企业加速开拓海外市场。",
-      "category": "国内",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=702"
+      "title": "一季度中国经济硬核数据再上新 GDP同比增长5.0%",
+      "url": "https://www.xinhuanet.com/",
+      "date": "2026-04-20",
+      "summary": "一季度GDP同比增长5.0%，2025年网络视听行业市场规模达1.29万亿元，2026年以旧换新销售额已超5000亿。"
     },
     {
-      "title": "\"五一\"假期购票 今天可买5月3日火车票",
-      "url": "https://tv.cctv.com/2026/04/19/VIDEHksc2JPz18LKxKALP9G9260419.shtml",
-      "summary": "\"五一\"假期购票进入高峰，今天可购买5月3日火车票。提醒旅客提前规划行程，错峰出行。",
-      "category": "社会",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=703"
+      "title": "日本发生7.5级地震 气象厅发布海啸警报",
+      "url": "https://www.xinhuanet.com/",
+      "date": "2026-04-20",
+      "summary": "当地时间4月20日，日本气象厅将该国东北部沿海地区的地震震级调整至7.5级，发布海啸警报要求民众立即避难。"
     },
     {
-      "title": "加速军事松绑 日本军国主义企图死灰复燃",
-      "url": "https://news.cctv.com/2026/04/19/ARTIkXfI1dkgeqyYVYAzvQJa260419.shtml",
-      "summary": "日本首次正式全面参加\"盾牌-2026\"多国联合演习，作战人员首次踏上菲律宾本土，远程导弹射程已覆盖中国军港，严重违背\"专守防卫\"原则。",
-      "category": "国际",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=704"
+      "title": "\"五一\"假期我国航空公司国际航线运力足",
+      "url": "https://tv.cctv.com/2026/04/20/VIDE5wDv5g7LoFMPI1ULJG0g260420.shtml",
+      "date": "2026-04-20",
+      "summary": "五一假期临近，我国航空公司持续加大国际航线运力投放，出境游热度持续攀升。"
     },
     {
-      "title": "日本与澳大利亚签订合同 向澳出口护卫舰",
-      "url": "https://tv.cctv.com/2026/04/19/VIDETzEn0tQ6sWBRVfOTjhW9260419.shtml",
-      "summary": "日本与澳大利亚签订合同，向澳出口护卫舰，引发地区安全关注。",
-      "category": "国际",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=705"
+      "title": "警惕线下交付式电信诈骗套路",
+      "url": "https://tv.cctv.com/2026/04/20/VIDEKMhaeZwudID3U8XNP27n260420.shtml",
+      "date": "2026-04-20",
+      "summary": "公安机关提醒：近期出现新型线下交付式电信诈骗，嫌疑人以快递、燃气检修等名义上门，要求被害人转账。"
     },
     {
-      "title": "\"五一\"航班出现取消潮 东南亚为重灾区",
-      "url": "https://news.cctv.com/2026/04/18/ARTIq7s1yNhoCvcg4vEAtnPN260418.shtml",
-      "summary": "\"五一\"前后东南亚、大洋洲出现航班\"取消潮\"，东南亚为重灾区。航油价格高涨和廉价航空密集是主因。机票被取消怎么办？",
-      "category": "社会",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=706"
+      "title": "千亿超长期特别国债来了 个人可投资",
+      "url": "https://www.xinhuanet.com/",
+      "date": "2026-04-20",
+      "summary": "4月24日财政部将分别发行20年期340亿元和30年期850亿元超长期特别国债，个人可投资。"
     },
     {
-      "title": "50分26秒！人形机器人半马冠军出炉",
-      "url": "https://www.baidu.com/s?wd=人形机器人半马冠军",
-      "summary": "2026人形机器人半程马拉松赛在北京亦庄举行，超百支人形机器人赛队同台竞速。宇树机器人以50分26秒的成绩夺冠。",
-      "category": "科技",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=707"
-    },
-    {
-      "title": "国产光纤价格暴涨650% 全球爆单",
-      "url": "https://www.baidu.com/s?wd=国产光纤价格暴涨650",
-      "summary": "国产光纤市场一季度呈现爆发式增长，G.657.A2型号价格从32元/芯公里飙升至240元，涨幅达650%。江苏多家企业海外订单激增55%。",
-      "category": "财经",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=708"
-    },
-    {
-      "title": "伊朗霍尔木兹海峡关闭",
-      "url": "https://www.baidu.com/s?wd=伊朗霍尔木兹海峡关闭",
-      "summary": "伊朗伊斯兰革命卫队海军宣布霍尔木兹海峡已于18日晚关闭。美以袭击伊朗进入第51天，印度就油轮遭袭向伊朗提出抗议。",
-      "category": "国际",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=709"
-    },
-    {
-      "title": "网传青岛胶东国际机场现恶性案件？假的！",
-      "url": "https://tv.cctv.com/2026/04/19/VIDEofgqdtSSjIRHlbrKHO4d260419.shtml",
-      "summary": "针对网传青岛胶东国际机场发生恶性案件的消息，官方辟谣称系虚假信息，提醒广大网民不造谣、不信谣、不传谣。",
-      "category": "社会",
-      "isTop": false,
-      "image": "https://picsum.photos/400/250?random=710"
+      "title": "万达电影正式更名 彻底告别王健林时代",
+      "url": "https://www.xinhuanet.com/",
+      "date": "2026-04-20",
+      "summary": "A股院线第一股万达电影4月20日起更名为儒意电影娱乐股份有限公司，证券代码不变。"
     }
   ]
 }

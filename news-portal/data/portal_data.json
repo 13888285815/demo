@@ -1,188 +1,50 @@
 {
-  "update_time": "2026-04-19T16:50:25+08:00",
+  "update_time": "2026-04-20T17:18:00+08:00",
   "data": {
     "cctv_news": [
-      {
-        "title": "我国氢能规模化应用取得新突破",
-        "url": "https://news.cctv.com/2026/04/19/ARTIP7e08bv3T2c0hQ4btYq6260419.shtml",
-        "date": "2026-04-19",
-        "summary": "我国首个10万户级天然气掺氢规模化应用项目在山东潍坊正式启动"
-      },
-      {
-        "title": "消博会见证中国大市场以开放姿态持续圈粉世界",
-        "url": "https://news.cctv.com/2026/04/19/ARTIdui6Z69gJ9k13aiXfOyc260419.shtml",
-        "date": "2026-04-19",
-        "summary": "第六届消博会落下帷幕，展览总面积达14.3万平方米，吸引67个国家和地区3413个品牌参展"
-      },
-      {
-        "title": "多份消费品行业报告发布 反映中国汽车智造新动态",
-        "url": "https://news.cctv.com/2026/04/19/ARTIICt06XG4DCE9iQJTmh2K260419.shtml",
-        "date": "2026-04-19",
-        "summary": "中国消费品质量安全促进会联合多家机构发布2026年消费品行业系列研究报告"
-      },
-      {
-        "title": "广东：第139届广交会第一期今天结束",
-        "url": "https://tv.cctv.com/2026/04/19/VIDEzWyYeb42od7uqrCGmaoG260419.shtml",
-        "date": "2026-04-19",
-        "summary": "第139届广交会第一期于4月19日结束"
-      },
-      {
-        "title": "五一假期购票：今天可买5月3日火车票",
-        "url": "https://tv.cctv.com/2026/04/19/VIDEHksc2JPz18LKxKALP9G9260419.shtml",
-        "date": "2026-04-19",
-        "summary": "五一假期火车票购票提示"
-      }
+      {"title": "习近平文化思想引领书香社会建设 全国首个全民阅读活动周启幕", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "国务院批复设立的全国首个全民阅读活动周与第五届全民阅读大会于4月20日同步启幕。"},
+      {"title": "一季度中国经济硬核数据再上新 GDP同比增长5.0%", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "一季度GDP同比增长5.0%，2025年网络视听行业市场规模达1.29万亿元，2026年以旧换新销售额已超5000亿。"},
+      {"title": "日本发生7.5级地震 气象厅发布海啸警报", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "当地时间4月20日，日本气象厅将该国东北部沿海地区的地震震级调整至7.5级，发布海啸警报要求民众立即避难。"},
+      {"title": "\"五一\"假期我国航空公司国际航线运力足", "url": "https://tv.cctv.com/2026/04/20/VIDE5wDv5g7LoFMPI1ULJG0g260420.shtml", "date": "2026-04-20", "summary": "五一假期临近，我国航空公司持续加大国际航线运力投放，出境游热度持续攀升。"},
+      {"title": "警惕线下交付式电信诈骗套路", "url": "https://tv.cctv.com/2026/04/20/VIDEKMhaeZwudID3U8XNP27n260420.shtml", "date": "2026-04-20", "summary": "公安机关提醒：近期出现新型线下交付式电信诈骗，嫌疑人以快递、燃气检修等名义上门，要求被害人转账。"},
+      {"title": "千亿超长期特别国债来了 个人可投资", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "4月24日财政部将分别发行20年期340亿元和30年期850亿元超长期特别国债，个人可投资。"},
+      {"title": "万达电影正式更名 彻底告别王健林时代", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "A股院线第一股万达电影4月20日起更名为儒意电影娱乐股份有限公司，证券代码不变。"}
     ],
     "weibo_hot": [
-      {
-        "title": "让互联网更好造福人民",
-        "url": "",
-        "date": "2026-04-19",
-        "summary": "热度:热 来源:百度热搜"
-      },
-      {
-        "title": "12306三天拒绝出票105.6万张",
-        "url": "",
-        "date": "2026-04-19",
-        "summary": "热度:新 来源:百度热搜"
-      },
-      {
-        "title": "外军舰强闯 解放军军舰主炮上弹",
-        "url": "",
-        "date": "2026-04-19",
-        "summary": "热度:热 来源:百度热搜"
-      },
-      {
-        "title": "自家孩子趴桌睡为何给别人捐躺椅",
-        "url": "",
-        "date": "2026-04-19",
-        "summary": "热度:新 来源:百度热搜"
-      },
-      {
-        "title": "攻玉回应换男主",
-        "url": "",
-        "date": "2026-04-19",
-        "summary": "热度:高 来源:微博热搜"
-      },
-      {
-        "title": "五一列车增开",
-        "url": "",
-        "date": "2026-04-19",
-        "summary": "热度:高 来源:微博热搜"
-      },
-      {
-        "title": "曝李小冉退出浪姐",
-        "url": "",
-        "date": "2026-04-19",
-        "summary": "热度:高 来源:微博热搜"
-      },
-      {
-        "title": "卸沙现场一具尸体随沙料倾泻而出",
-        "url": "",
-        "date": "2026-04-19",
-        "summary": "热度:高 来源:微博热搜"
-      },
-      {
-        "title": "谁家猫怀孕都怀到脖子上了",
-        "url": "",
-        "date": "2026-04-19",
-        "summary": "热度:高 来源:微博热搜"
-      },
-      {
-        "title": "宇树机器人打破人类1500米世界纪录",
-        "url": "",
-        "date": "2026-04-19",
-        "summary": "热度:高 来源:微博热搜"
-      }
+      {"rank": 1, "title": "习近平文化思想引领书香社会建设", "heat": "7904897", "source": "百度热搜"},
+      {"rank": 2, "title": "男子发现扔烟头地方不长草决定戒烟", "heat": "7712317", "source": "百度热搜"},
+      {"rank": 3, "title": "中国经济硬核数据再上新", "heat": "7618870", "source": "百度热搜"},
+      {"rank": 4, "title": "\"红旗1号\"芯片研制成功", "heat": "7500000", "source": "百度热搜"},
+      {"rank": 5, "title": "韩国西瓜销量暴涨", "heat": "7400000", "source": "百度热搜"},
+      {"rank": 6, "title": "日本地震震级调至7.5级 海啸已到达", "heat": "7300000", "source": "百度热搜"},
+      {"rank": 7, "title": "日本民众被要求立即避难逃生", "heat": "7200000", "source": "百度热搜"},
+      {"rank": 8, "title": "女子酒窝超大被网友怀疑是AI", "heat": "7100000", "source": "百度热搜"},
+      {"rank": 9, "title": "研究发现：每顿少吃两口身体炎症少了", "heat": "7000000", "source": "百度热搜"},
+      {"rank": 10, "title": "重庆昨夜到今晨共出现8068次闪电", "heat": "6900000", "source": "百度热搜"}
     ],
     "weather": {
-      "updateTime": "2026-04-19T16:49:55+08:00",
       "location": "Shanghai",
-      "current": {
-        "tempC": "23",
-        "feelsLikeC": "23",
-        "condition": "多云转晴",
-        "humidity": "76",
-        "windspeedKmph": "12",
-        "windDirection": "西北风",
-        "pressure": "1012",
-        "visibility": "10",
-        "uvIndex": "强",
-        "cloudCover": "30"
-      },
-      "astronomy": {
-        "sunrise": "05:22 AM",
-        "sunset": "06:25 PM"
-      },
+      "current": {"tempC": "17", "feelsLikeC": "17", "condition": "多云", "humidity": "83", "windspeedKmph": "22", "windDirection": "北风", "pressure": "1016", "visibility": "10", "uvIndex": "1", "cloudCover": "75"},
+      "astronomy": {"sunrise": "05:21 AM", "sunset": "06:25 PM"},
       "forecast": [
-        {
-          "date": "04-20",
-          "week": "周一",
-          "weather": "阴",
-          "high": "22°C",
-          "low": "14°C"
-        },
-        {
-          "date": "04-21",
-          "week": "周二",
-          "weather": "阴转小雨",
-          "high": "17°C",
-          "low": "14°C"
-        },
-        {
-          "date": "04-22",
-          "week": "周三",
-          "weather": "中雨",
-          "high": "18°C",
-          "low": "14°C"
-        },
-        {
-          "date": "04-23",
-          "week": "周四",
-          "weather": "小雨转多云",
-          "high": "18°C",
-          "low": "12°C"
-        },
-        {
-          "date": "04-24",
-          "week": "周五",
-          "weather": "阴",
-          "high": "21°C",
-          "low": "13°C"
-        }
+        {"date": "04-20", "week": "周一", "weather": "多云", "high": "17", "low": "11"},
+        {"date": "04-21", "week": "周二", "weather": "晴", "high": "18", "low": "11"},
+        {"date": "04-22", "week": "周三", "weather": "小雨", "high": "15", "low": "13"},
+        {"date": "04-23", "week": "周四", "weather": "多云", "high": "16", "low": "10"},
+        {"date": "04-24", "week": "周五", "weather": "晴", "high": "19", "low": "12"}
       ]
     },
     "bilibili_hot": [
-      {
-        "title": "口技表演《三打白骨精》",
-        "url": "https://b23.tv/BV1CVdVBjETn",
-        "date": "2026-04-19",
-        "summary": "作者:BBoxer酋长 播放:4,703,503 点赞:548,654"
-      },
-      {
-        "title": "郝 哥 不 在",
-        "url": "https://b23.tv/BV1RwdhBmE3M",
-        "date": "2026-04-19",
-        "summary": "作者:岩罗Crv 播放:3,577,540 点赞:378,302"
-      },
-      {
-        "title": "《物理兴奋剂》",
-        "url": "https://b23.tv/BV1ZxQpBsEuN",
-        "date": "2026-04-19",
-        "summary": "作者:伤心欲茄222 播放:5,705,227 点赞:501,895"
-      },
-      {
-        "title": "终于来了！大疆Pocket 4上手",
-        "url": "https://b23.tv/BV1DgdhBGEq2",
-        "date": "2026-04-19",
-        "summary": "作者:影视飓风 播放:3,953,445 点赞:296,600"
-      },
-      {
-        "title": "《崩坏：星穹铁道》千星纪游PV",
-        "url": "https://b23.tv/BV118dqBXEgB",
-        "date": "2026-04-19",
-        "summary": "作者:崩坏星穹铁道 播放:3,140,556 点赞:260,656"
-      }
+      {"rank": 1, "title": "口技表演《三打白骨精》", "url": "https://www.bilibili.com/video/BV1CVdVBjETn", "author": "BBoxer酋长", "views": "5981009", "likes": "672196"},
+      {"rank": 2, "title": "《崩坏：星穹铁道》银狼LV.999角色PV——「我独自满级」", "url": "https://www.bilibili.com/video/BV1wYdWB5EVF", "author": "崩坏星穹铁道", "views": "4421171", "likes": "339516"},
+      {"rank": 3, "title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经", "url": "https://www.bilibili.com/video/BV15YdBB6Efz", "author": "安奇米苏", "views": "8632039", "likes": "379910"},
+      {"rank": 4, "title": "［meme］豌豆公主", "url": "https://www.bilibili.com/video/BV1DNd7BMEqP", "author": "烫甲鱼", "views": "2443489", "likes": "225611"},
+      {"rank": 5, "title": "狡兔屋老大希希芙", "url": "https://www.bilibili.com/video/BV1N8d5BsEcN", "author": "鼎芸", "views": "1844976", "likes": "243653"},
+      {"rank": 6, "title": "\"每次生日许的愿 其实都与你有关\"2.0", "url": "https://www.bilibili.com/video/BV1yedxBnEn3", "author": "我爱吃派大星", "views": "3124501", "likes": "229781"},
+      {"rank": 7, "title": "破产大王如何搞发明？【小约翰】", "url": "https://www.bilibili.com/video/BV1ewdhBmEux", "author": "小约翰可汗", "views": "2879190", "likes": "177400"},
+      {"rank": 8, "title": "郝 哥 不 在", "url": "https://www.bilibili.com/video/BV1RwdhBmE3M", "author": "岩罗Crv", "views": "3993070", "likes": "415176"},
+      {"rank": 9, "title": "《非法组队》", "url": "https://www.bilibili.com/video/BV1QTdHBpEfR", "author": "伤心欲茄222", "views": "2420331", "likes": "234672"},
+      {"rank": 10, "title": "疑似三打白骨精现场真实画面流出", "url": "https://www.bilibili.com/video/BV11ZdJB6ECR", "author": "潘子鸟", "views": "2284796", "likes": "194802"}
     ]
   }
 }

@@ -1,249 +1,50 @@
 {
-  "update_time": "2026-04-20T16:48:00+08:00",
+  "update_time": "2026-04-20T17:18:00+08:00",
   "data": {
     "cctv_news": [
-      {
-        "title": "习近平文化思想引领书香社会建设 全国首个全民阅读活动周启幕",
-        "url": "https://www.xinhuanet.com/",
-        "date": "2026-04-20",
-        "summary": "国务院批复设立的全国首个全民阅读活动周与第五届全民阅读大会于4月20日同步启幕。"
-      },
-      {
-        "title": "一季度中国经济硬核数据再上新 GDP同比增长5.0%",
-        "url": "https://www.xinhuanet.com/",
-        "date": "2026-04-20",
-        "summary": "一季度GDP同比增长5.0%，2025年网络视听行业市场规模达1.29万亿元，2026年以旧换新销售额已超5000亿。"
-      },
-      {
-        "title": "日本发生7.5级地震 气象厅发布海啸警报",
-        "url": "https://www.xinhuanet.com/",
-        "date": "2026-04-20",
-        "summary": "当地时间4月20日，日本气象厅将该国东北部沿海地区的地震震级调整至7.5级，发布海啸警报要求民众立即避难。"
-      },
-      {
-        "title": "千亿超长期特别国债来了 个人可投资",
-        "url": "https://www.xinhuanet.com/",
-        "date": "2026-04-20",
-        "summary": "4月24日财政部将分别发行20年期340亿元和30年期850亿元超长期特别国债，个人可投资。"
-      },
-      {
-        "title": "万达电影正式更名 彻底告别王健林时代",
-        "url": "https://www.xinhuanet.com/",
-        "date": "2026-04-20",
-        "summary": "A股院线第一股万达电影4月20日起更名为儒意电影娱乐股份有限公司，证券代码不变。"
-      },
-      {
-        "title": "2026年全国知识产权宣传周活动启动",
-        "url": "https://tv.cctv.com/2026/04/20/VIDEdQWsAXwf3A5HBE2GGHoS260420.shtml",
-        "date": "2026-04-20",
-        "summary": "全国知识产权宣传周活动正式启动。"
-      },
-      {
-        "title": "《我在故宫修文物》导演叶君去世 享年43岁",
-        "url": "https://www.xinhuanet.com/",
-        "date": "2026-04-20",
-        "summary": "清华大学影视传播研究中心发布讣告，纪录片导演叶君先生因病医治无效去世，享年43岁。"
-      }
+      {"title": "习近平文化思想引领书香社会建设 全国首个全民阅读活动周启幕", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "国务院批复设立的全国首个全民阅读活动周与第五届全民阅读大会于4月20日同步启幕。"},
+      {"title": "一季度中国经济硬核数据再上新 GDP同比增长5.0%", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "一季度GDP同比增长5.0%，2025年网络视听行业市场规模达1.29万亿元，2026年以旧换新销售额已超5000亿。"},
+      {"title": "日本发生7.5级地震 气象厅发布海啸警报", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "当地时间4月20日，日本气象厅将该国东北部沿海地区的地震震级调整至7.5级，发布海啸警报要求民众立即避难。"},
+      {"title": "\"五一\"假期我国航空公司国际航线运力足", "url": "https://tv.cctv.com/2026/04/20/VIDE5wDv5g7LoFMPI1ULJG0g260420.shtml", "date": "2026-04-20", "summary": "五一假期临近，我国航空公司持续加大国际航线运力投放，出境游热度持续攀升。"},
+      {"title": "警惕线下交付式电信诈骗套路", "url": "https://tv.cctv.com/2026/04/20/VIDEKMhaeZwudID3U8XNP27n260420.shtml", "date": "2026-04-20", "summary": "公安机关提醒：近期出现新型线下交付式电信诈骗，嫌疑人以快递、燃气检修等名义上门，要求被害人转账。"},
+      {"title": "千亿超长期特别国债来了 个人可投资", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "4月24日财政部将分别发行20年期340亿元和30年期850亿元超长期特别国债，个人可投资。"},
+      {"title": "万达电影正式更名 彻底告别王健林时代", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "A股院线第一股万达电影4月20日起更名为儒意电影娱乐股份有限公司，证券代码不变。"}
     ],
     "weibo_hot": [
-      {
-        "rank": 1,
-        "title": "习近平文化思想引领书香社会建设",
-        "heat": "7903990",
-        "source": "百度热搜"
-      },
-      {
-        "rank": 2,
-        "title": "日本发生7.5级地震",
-        "heat": "7807929",
-        "source": "百度热搜"
-      },
-      {
-        "rank": 3,
-        "title": "小伙入职1天 公司40多部手机失灵",
-        "heat": "7713008",
-        "source": "百度热搜"
-      },
-      {
-        "rank": 4,
-        "title": "中国经济硬核数据再上新",
-        "heat": "7616733",
-        "source": "百度热搜"
-      },
-      {
-        "rank": 5,
-        "title": "《我在故宫修文物》导演去世 享年43岁",
-        "heat": "7520486",
-        "source": "百度热搜"
-      },
-      {
-        "rank": 6,
-        "title": "万达电影更名 彻底告别王健林时代",
-        "heat": "7426386",
-        "source": "百度热搜"
-      },
-      {
-        "rank": 7,
-        "title": "日本民众被要求立即避难逃生",
-        "heat": "7231969",
-        "source": "百度热搜"
-      },
-      {
-        "rank": 8,
-        "title": "千亿超长期特别国债来了 个人可投资",
-        "heat": "7136202",
-        "source": "百度热搜"
-      },
-      {
-        "rank": 9,
-        "title": "全国首个全民阅读活动周启幕",
-        "heat": "7043000",
-        "source": "百度热搜"
-      },
-      {
-        "rank": 10,
-        "title": "日本气象厅发布海啸警报",
-        "heat": "6950000",
-        "source": "百度热搜"
-      }
-    ],
-    "bilibili_hot": [
-      {
-        "rank": 1,
-        "title": "口技表演《三打白骨精》",
-        "url": "https://www.bilibili.com/video/BV1CVdVBjETn",
-        "author": "BBoxer酋长",
-        "views": "5962553",
-        "likes": "670383"
-      },
-      {
-        "rank": 2,
-        "title": "《崩坏：星穹铁道》银狼LV.999角色PV——「我独自满级」",
-        "url": "https://www.bilibili.com/video/BV1wYdWB5EVF",
-        "author": "崩坏星穹铁道",
-        "views": "4404535",
-        "likes": "338951"
-      },
-      {
-        "rank": 3,
-        "title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经",
-        "url": "https://www.bilibili.com/video/BV15YdBB6Efz",
-        "author": "安奇米苏",
-        "views": "8619604",
-        "likes": "379390"
-      },
-      {
-        "rank": 4,
-        "title": "［meme］豌豆公主",
-        "url": "https://www.bilibili.com/video/BV1DNd7BMEqP",
-        "author": "烫甲鱼",
-        "views": "2438984",
-        "likes": "225263"
-      },
-      {
-        "rank": 5,
-        "title": "狡兔屋老大希希芙",
-        "url": "https://www.bilibili.com/video/BV1N8d5BsEcN",
-        "author": "鼎芸",
-        "views": "1843959",
-        "likes": "243479"
-      },
-      {
-        "rank": 6,
-        "title": "\"每次生日许的愿 其实都与你有关\"2.0",
-        "url": "https://www.bilibili.com/video/BV1yedxBnEn3",
-        "author": "我爱吃派大星",
-        "views": "3117695",
-        "likes": "229104"
-      },
-      {
-        "rank": 7,
-        "title": "破产大王如何搞发明？【小约翰】",
-        "url": "https://www.bilibili.com/video/BV1ewdhBmEux",
-        "author": "小约翰可汗",
-        "views": "2840572",
-        "likes": "176382"
-      },
-      {
-        "rank": 8,
-        "title": "郝 哥 不 在",
-        "url": "https://www.bilibili.com/video/BV1RwdhBmE3M",
-        "author": "岩罗Crv",
-        "views": "3987152",
-        "likes": "414678"
-      },
-      {
-        "rank": 9,
-        "title": "《非法组队》",
-        "url": "https://www.bilibili.com/video/BV1QTdHBpEfR",
-        "author": "伤心欲茄222",
-        "views": "2416010",
-        "likes": "234226"
-      },
-      {
-        "rank": 10,
-        "title": "疑似三打白骨精现场真实画面流出",
-        "url": "https://www.bilibili.com/video/BV11ZdJB6ECR",
-        "author": "潘子鸟",
-        "views": "2281301",
-        "likes": "194331"
-      }
+      {"rank": 1, "title": "习近平文化思想引领书香社会建设", "heat": "7904897", "source": "百度热搜"},
+      {"rank": 2, "title": "男子发现扔烟头地方不长草决定戒烟", "heat": "7712317", "source": "百度热搜"},
+      {"rank": 3, "title": "中国经济硬核数据再上新", "heat": "7618870", "source": "百度热搜"},
+      {"rank": 4, "title": "\"红旗1号\"芯片研制成功", "heat": "7500000", "source": "百度热搜"},
+      {"rank": 5, "title": "韩国西瓜销量暴涨", "heat": "7400000", "source": "百度热搜"},
+      {"rank": 6, "title": "日本地震震级调至7.5级 海啸已到达", "heat": "7300000", "source": "百度热搜"},
+      {"rank": 7, "title": "日本民众被要求立即避难逃生", "heat": "7200000", "source": "百度热搜"},
+      {"rank": 8, "title": "女子酒窝超大被网友怀疑是AI", "heat": "7100000", "source": "百度热搜"},
+      {"rank": 9, "title": "研究发现：每顿少吃两口身体炎症少了", "heat": "7000000", "source": "百度热搜"},
+      {"rank": 10, "title": "重庆昨夜到今晨共出现8068次闪电", "heat": "6900000", "source": "百度热搜"}
     ],
     "weather": {
       "location": "Shanghai",
-      "current": {
-        "tempC": "17",
-        "feelsLikeC": "17",
-        "condition": "多云",
-        "humidity": "83",
-        "windspeedKmph": "22",
-        "windDirection": "北风",
-        "pressure": "1016",
-        "visibility": "10",
-        "uvIndex": "1",
-        "cloudCover": "75"
-      },
-      "astronomy": {
-        "sunrise": "05:21 AM",
-        "sunset": "06:25 PM"
-      },
+      "current": {"tempC": "17", "feelsLikeC": "17", "condition": "多云", "humidity": "83", "windspeedKmph": "22", "windDirection": "北风", "pressure": "1016", "visibility": "10", "uvIndex": "1", "cloudCover": "75"},
+      "astronomy": {"sunrise": "05:21 AM", "sunset": "06:25 PM"},
       "forecast": [
-        {
-          "date": "04-20",
-          "week": "周一",
-          "weather": "多云",
-          "high": "17",
-          "low": "11"
-        },
-        {
-          "date": "04-21",
-          "week": "周二",
-          "weather": "晴",
-          "high": "18",
-          "low": "11"
-        },
-        {
-          "date": "04-22",
-          "week": "周三",
-          "weather": "小雨",
-          "high": "15",
-          "low": "13"
-        },
-        {
-          "date": "04-23",
-          "week": "周四",
-          "weather": "多云",
-          "high": "16",
-          "low": "10"
-        },
-        {
-          "date": "04-24",
-          "week": "周五",
-          "weather": "晴",
-          "high": "19",
-          "low": "12"
-        }
+        {"date": "04-20", "week": "周一", "weather": "多云", "high": "17", "low": "11"},
+        {"date": "04-21", "week": "周二", "weather": "晴", "high": "18", "low": "11"},
+        {"date": "04-22", "week": "周三", "weather": "小雨", "high": "15", "low": "13"},
+        {"date": "04-23", "week": "周四", "weather": "多云", "high": "16", "low": "10"},
+        {"date": "04-24", "week": "周五", "weather": "晴", "high": "19", "low": "12"}
       ]
-    }
+    },
+    "bilibili_hot": [
+      {"rank": 1, "title": "口技表演《三打白骨精》", "url": "https://www.bilibili.com/video/BV1CVdVBjETn", "author": "BBoxer酋长", "views": "5981009", "likes": "672196"},
+      {"rank": 2, "title": "《崩坏：星穹铁道》银狼LV.999角色PV——「我独自满级」", "url": "https://www.bilibili.com/video/BV1wYdWB5EVF", "author": "崩坏星穹铁道", "views": "4421171", "likes": "339516"},
+      {"rank": 3, "title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经", "url": "https://www.bilibili.com/video/BV15YdBB6Efz", "author": "安奇米苏", "views": "8632039", "likes": "379910"},
+      {"rank": 4, "title": "［meme］豌豆公主", "url": "https://www.bilibili.com/video/BV1DNd7BMEqP", "author": "烫甲鱼", "views": "2443489", "likes": "225611"},
+      {"rank": 5, "title": "狡兔屋老大希希芙", "url": "https://www.bilibili.com/video/BV1N8d5BsEcN", "author": "鼎芸", "views": "1844976", "likes": "243653"},
+      {"rank": 6, "title": "\"每次生日许的愿 其实都与你有关\"2.0", "url": "https://www.bilibili.com/video/BV1yedxBnEn3", "author": "我爱吃派大星", "views": "3124501", "likes": "229781"},
+      {"rank": 7, "title": "破产大王如何搞发明？【小约翰】", "url": "https://www.bilibili.com/video/BV1ewdhBmEux", "author": "小约翰可汗", "views": "2879190", "likes": "177400"},
+      {"rank": 8, "title": "郝 哥 不 在", "url": "https://www.bilibili.com/video/BV1RwdhBmE3M", "author": "岩罗Crv", "views": "3993070", "likes": "415176"},
+      {"rank": 9, "title": "《非法组队》", "url": "https://www.bilibili.com/video/BV1QTdHBpEfR", "author": "伤心欲茄222", "views": "2420331", "likes": "234672"},
+      {"rank": 10, "title": "疑似三打白骨精现场真实画面流出", "url": "https://www.bilibili.com/video/BV11ZdJB6ECR", "author": "潘子鸟", "views": "2284796", "likes": "194802"}
+    ]
   }
 }
