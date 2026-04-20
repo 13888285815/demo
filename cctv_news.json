@@ -1,31 +1,67 @@
 {
-  "updateTime": "2026-04-19T14:33:40.229379+08:00",
-  "source": "news.cctv.com",
-  "headlines": [
+  "update_time": "2026-04-20 16:18 (北京时间)",
+  "source": "https://news.cctv.com/",
+  "items": [
     {
-      "title": "我国氢能规模化应用取得新突破",
-      "url": "https://news.cctv.com/2026/04/19/ARTIP7e08bv3T2c0hQ4btYq6260419.shtml",
-      "description": "我国首个10万户级天然气掺氢规模化应用项目在山东潍坊正式启动"
+      "title": "2026年全国知识产权宣传周活动启动",
+      "url": "https://tv.cctv.com/2026/04/20/VIDEdQWsAXwf3A5HBE2GGHoS260420.shtml",
+      "category": "国内",
+      "time": "2026-04-20"
     },
     {
-      "title": "消博会见证中国大市场以开放姿态持续圈粉世界",
-      "url": "https://news.cctv.com/2026/04/19/ARTIdui6Z69gJ9k13aiXfOyc260419.shtml",
-      "description": "第六届消博会落下帷幕，展览总面积达14.3万平方米，吸引67个国家和地区3413个品牌参展"
+      "title": "生活服务台：网传"空气炸锅做的食物会致癌"是真的吗？",
+      "url": "https://tv.cctv.com/2026/04/20/VIDEx1P7MyaBFkXQRvB75pZe260420.shtml",
+      "category": "生活服务",
+      "time": "2026-04-20"
     },
     {
-      "title": "多份消费品行业报告发布 反映中国汽车智造新动态",
-      "url": "https://news.cctv.com/2026/04/19/ARTIICt06XG4DCE9iQJTmh2K260419.shtml",
-      "description": "中国消费品质量安全促进会联合多家机构发布2026年消费品行业系列研究报告"
+      "title": "二十四节气之谷雨：春饮新茶 清心明目",
+      "url": "https://tv.cctv.com/2026/04/20/VIDEpy6RCFxXapRjwNKprcpT260420.shtml",
+      "category": "文化",
+      "time": "2026-04-20"
     },
     {
-      "title": "广东：第139届广交会第一期今天结束",
-      "url": "https://tv.cctv.com/2026/04/19/VIDEzWyYeb42od7uqrCGmaoG260419.shtml",
-      "description": "第139届广交会第一期于4月19日结束"
+      "title": "新闻联播",
+      "url": "https://tv.cctv.com/lm/xwlb/",
+      "category": "联播节目",
+      "time": "每日"
     },
     {
-      "title": "五一假期购票：今天可买5月3日火车票",
-      "url": "https://tv.cctv.com/2026/04/19/VIDEHksc2JPz18LKxKALP9G9260419.shtml",
-      "description": "五一假期火车票购票提示"
+      "title": "焦点访谈",
+      "url": "https://tv.cctv.com/lm/jdft/",
+      "category": "深度报道",
+      "time": "每日"
+    },
+    {
+      "title": "天天学习",
+      "url": "https://news.cctv.com/tiantianxuexi/index.shtml",
+      "category": "学习",
+      "time": "持续更新"
+    },
+    {
+      "title": "联播+",
+      "url": "https://news.cctv.com/lbjj/",
+      "category": "要闻",
+      "time": "持续更新"
+    },
+    {
+      "title": "热解读",
+      "url": "https://news.cctv.com/rjd/index.shtml",
+      "category": "解读",
+      "time": "持续更新"
+    },
+    {
+      "title": "8点见",
+      "url": "https://news.cctv.com/8dianjian/index.shtml",
+      "category": "早间",
+      "time": "每日 08:00"
     }
+  ],
+  "featured_program": [
+    {"name": "新闻联播", "url": "https://tv.cctv.com/lm/xwlb/"},
+    {"name": "焦点访谈", "url": "https://tv.cctv.com/lm/jdft/"},
+    {"name": "东方时空", "url": "https://tv.cctv.com/lm/dfsk/"},
+    {"name": "今日亚洲", "url": "https://tv.cctv.com/lm/jryz/"},
+    {"name": "今日关注", "url": "https://tv.cctv.com/lm/jrgz/"}
   ]
 }
