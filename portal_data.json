@@ -1,51 +1,206 @@
 {
-  "update_time": "2026-04-20T12:33:30+08:00",
+  "update_time": "2026-04-20T16:48:00+08:00",
   "data": {
     "cctv_news": [
+      {
+        "title": "习近平文化思想引领书香社会建设 全国首个全民阅读活动周启幕",
+        "url": "https://www.xinhuanet.com/",
+        "date": "2026-04-20",
+        "summary": "国务院批复设立的全国首个全民阅读活动周与第五届全民阅读大会于4月20日同步启幕。"
+      },
+      {
+        "title": "一季度中国经济硬核数据再上新 GDP同比增长5.0%",
+        "url": "https://www.xinhuanet.com/",
+        "date": "2026-04-20",
+        "summary": "一季度GDP同比增长5.0%，2025年网络视听行业市场规模达1.29万亿元，2026年以旧换新销售额已超5000亿。"
+      },
+      {
+        "title": "日本发生7.5级地震 气象厅发布海啸警报",
+        "url": "https://www.xinhuanet.com/",
+        "date": "2026-04-20",
+        "summary": "当地时间4月20日，日本气象厅将该国东北部沿海地区的地震震级调整至7.5级，发布海啸警报要求民众立即避难。"
+      },
+      {
+        "title": "千亿超长期特别国债来了 个人可投资",
+        "url": "https://www.xinhuanet.com/",
+        "date": "2026-04-20",
+        "summary": "4月24日财政部将分别发行20年期340亿元和30年期850亿元超长期特别国债，个人可投资。"
+      },
+      {
+        "title": "万达电影正式更名 彻底告别王健林时代",
+        "url": "https://www.xinhuanet.com/",
+        "date": "2026-04-20",
+        "summary": "A股院线第一股万达电影4月20日起更名为儒意电影娱乐股份有限公司，证券代码不变。"
+      },
       {
         "title": "2026年全国知识产权宣传周活动启动",
         "url": "https://tv.cctv.com/2026/04/20/VIDEdQWsAXwf3A5HBE2GGHoS260420.shtml",
         "date": "2026-04-20",
-        "summary": "全国知识产权宣传周活动正式启动"
+        "summary": "全国知识产权宣传周活动正式启动。"
       },
       {
-        "title": "生活服务台：网传空气炸锅做的食物会致癌是真的吗？",
-        "url": "https://tv.cctv.com/2026/04/20/VIDEx1P7MyaBFkXQRvB75pZe260420.shtml",
+        "title": "《我在故宫修文物》导演叶君去世 享年43岁",
+        "url": "https://www.xinhuanet.com/",
         "date": "2026-04-20",
-        "summary": "专家解读空气炸锅食品安全问题"
-      },
-      {
-        "title": "二十四节气之谷雨：春饮新茶 清心明目",
-        "url": "https://tv.cctv.com/2026/04/20/VIDEpy6RCFxXapRjwNKprcpT260420.shtml",
-        "date": "2026-04-20",
-        "summary": "谷雨节气传统文化与养生知识"
+        "summary": "清华大学影视传播研究中心发布讣告，纪录片导演叶君先生因病医治无效去世，享年43岁。"
       }
     ],
     "weibo_hot": [
-      {"title": "建设网络强国", "heat": "7904624", "source": "百度热搜"},
-      {"title": "小米回应网传雷军被堵车里维权", "heat": "7809348", "source": "百度热搜"},
-      {"title": "微信这两项设置很关键 涉及资金安全", "heat": "7713837", "source": "百度热搜"},
-      {"title": "今日谷雨", "heat": "7616067", "source": "百度热搜"},
-      {"title": "莫氏鸡煲休息1天：真的干不动了", "heat": "7521971", "source": "百度热搜"},
-      {"title": "笋之大 一猫吃不下", "heat": "7425268", "source": "百度热搜"},
-      {"title": "伊朗：美军向伊朗货船开火 伊军还击", "heat": "7327544", "source": "百度热搜"},
-      {"title": "万达电影更名 彻底告别王健林时代", "heat": "7238684", "source": "百度热搜"},
-      {"title": "女数学家王虹获得2026年突破奖", "heat": "7139863", "source": "百度热搜"},
-      {"title": "近三成英国年轻人选择同父母居住", "heat": "7046553", "source": "百度热搜"}
+      {
+        "rank": 1,
+        "title": "习近平文化思想引领书香社会建设",
+        "heat": "7903990",
+        "source": "百度热搜"
+      },
+      {
+        "rank": 2,
+        "title": "日本发生7.5级地震",
+        "heat": "7807929",
+        "source": "百度热搜"
+      },
+      {
+        "rank": 3,
+        "title": "小伙入职1天 公司40多部手机失灵",
+        "heat": "7713008",
+        "source": "百度热搜"
+      },
+      {
+        "rank": 4,
+        "title": "中国经济硬核数据再上新",
+        "heat": "7616733",
+        "source": "百度热搜"
+      },
+      {
+        "rank": 5,
+        "title": "《我在故宫修文物》导演去世 享年43岁",
+        "heat": "7520486",
+        "source": "百度热搜"
+      },
+      {
+        "rank": 6,
+        "title": "万达电影更名 彻底告别王健林时代",
+        "heat": "7426386",
+        "source": "百度热搜"
+      },
+      {
+        "rank": 7,
+        "title": "日本民众被要求立即避难逃生",
+        "heat": "7231969",
+        "source": "百度热搜"
+      },
+      {
+        "rank": 8,
+        "title": "千亿超长期特别国债来了 个人可投资",
+        "heat": "7136202",
+        "source": "百度热搜"
+      },
+      {
+        "rank": 9,
+        "title": "全国首个全民阅读活动周启幕",
+        "heat": "7043000",
+        "source": "百度热搜"
+      },
+      {
+        "rank": 10,
+        "title": "日本气象厅发布海啸警报",
+        "heat": "6950000",
+        "source": "百度热搜"
+      }
+    ],
+    "bilibili_hot": [
+      {
+        "rank": 1,
+        "title": "口技表演《三打白骨精》",
+        "url": "https://www.bilibili.com/video/BV1CVdVBjETn",
+        "author": "BBoxer酋长",
+        "views": "5962553",
+        "likes": "670383"
+      },
+      {
+        "rank": 2,
+        "title": "《崩坏：星穹铁道》银狼LV.999角色PV——「我独自满级」",
+        "url": "https://www.bilibili.com/video/BV1wYdWB5EVF",
+        "author": "崩坏星穹铁道",
+        "views": "4404535",
+        "likes": "338951"
+      },
+      {
+        "rank": 3,
+        "title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经",
+        "url": "https://www.bilibili.com/video/BV15YdBB6Efz",
+        "author": "安奇米苏",
+        "views": "8619604",
+        "likes": "379390"
+      },
+      {
+        "rank": 4,
+        "title": "［meme］豌豆公主",
+        "url": "https://www.bilibili.com/video/BV1DNd7BMEqP",
+        "author": "烫甲鱼",
+        "views": "2438984",
+        "likes": "225263"
+      },
+      {
+        "rank": 5,
+        "title": "狡兔屋老大希希芙",
+        "url": "https://www.bilibili.com/video/BV1N8d5BsEcN",
+        "author": "鼎芸",
+        "views": "1843959",
+        "likes": "243479"
+      },
+      {
+        "rank": 6,
+        "title": "\"每次生日许的愿 其实都与你有关\"2.0",
+        "url": "https://www.bilibili.com/video/BV1yedxBnEn3",
+        "author": "我爱吃派大星",
+        "views": "3117695",
+        "likes": "229104"
+      },
+      {
+        "rank": 7,
+        "title": "破产大王如何搞发明？【小约翰】",
+        "url": "https://www.bilibili.com/video/BV1ewdhBmEux",
+        "author": "小约翰可汗",
+        "views": "2840572",
+        "likes": "176382"
+      },
+      {
+        "rank": 8,
+        "title": "郝 哥 不 在",
+        "url": "https://www.bilibili.com/video/BV1RwdhBmE3M",
+        "author": "岩罗Crv",
+        "views": "3987152",
+        "likes": "414678"
+      },
+      {
+        "rank": 9,
+        "title": "《非法组队》",
+        "url": "https://www.bilibili.com/video/BV1QTdHBpEfR",
+        "author": "伤心欲茄222",
+        "views": "2416010",
+        "likes": "234226"
+      },
+      {
+        "rank": 10,
+        "title": "疑似三打白骨精现场真实画面流出",
+        "url": "https://www.bilibili.com/video/BV11ZdJB6ECR",
+        "author": "潘子鸟",
+        "views": "2281301",
+        "likes": "194331"
+      }
     ],
     "weather": {
-      "updateTime": "2026-04-20T12:33:29+08:00",
       "location": "Shanghai",
       "current": {
-        "tempC": "18",
-        "feelsLikeC": "18",
+        "tempC": "17",
+        "feelsLikeC": "17",
         "condition": "多云",
-        "humidity": "88",
-        "windspeedKmph": "18",
+        "humidity": "83",
+        "windspeedKmph": "22",
         "windDirection": "北风",
         "pressure": "1016",
         "visibility": "10",
-        "uvIndex": "4",
+        "uvIndex": "1",
         "cloudCover": "75"
       },
       "astronomy": {
@@ -53,49 +208,42 @@
         "sunset": "06:25 PM"
       },
       "forecast": [
-        {"date": "04-20", "week": "周一", "weather": "多云", "high": "18°C", "low": "15°C"},
-        {"date": "04-21", "week": "周二", "weather": "阴", "high": "17°C", "low": "14°C"},
-        {"date": "04-22", "week": "周三", "weather": "小雨", "high": "16°C", "low": "13°C"},
-        {"date": "04-23", "week": "周四", "weather": "多云", "high": "19°C", "low": "14°C"},
-        {"date": "04-24", "week": "周五", "weather": "晴", "high": "21°C", "low": "15°C"}
+        {
+          "date": "04-20",
+          "week": "周一",
+          "weather": "多云",
+          "high": "17",
+          "low": "11"
+        },
+        {
+          "date": "04-21",
+          "week": "周二",
+          "weather": "晴",
+          "high": "18",
+          "low": "11"
+        },
+        {
+          "date": "04-22",
+          "week": "周三",
+          "weather": "小雨",
+          "high": "15",
+          "low": "13"
+        },
+        {
+          "date": "04-23",
+          "week": "周四",
+          "weather": "多云",
+          "high": "16",
+          "low": "10"
+        },
+        {
+          "date": "04-24",
+          "week": "周五",
+          "weather": "晴",
+          "high": "19",
+          "low": "12"
+        }
       ]
-    },
-    "bilibili_hot": [
-      {
-        "title": "现代修仙，没钱纯靠自律【自律狠人】【第一季超长电影版】",
-        "url": "https://b23.tv/BV1B8ZJYTEPg",
-        "author": "圆桌动漫",
-        "views": "9,216,120",
-        "likes": "75,830"
-      },
-      {
-        "title": "【大鸣王潮1566】死告者",
-        "url": "https://b23.tv/BV1UbZ8YmEP8",
-        "author": "寞桀緣才",
-        "views": "1,612,498",
-        "likes": "118,929"
-      },
-      {
-        "title": "《穷鬼的上下两千年》第一集：老夫，秦国白起",
-        "url": "https://b23.tv/BV1mSZkYQEGf",
-        "author": "吃顾楠的豆饭",
-        "views": "1,262,718",
-        "likes": "89,022"
-      },
-      {
-        "title": "抱歉，我宣布融合才是最高贵的召唤方式【超长电影版】",
-        "url": "https://b23.tv/BV13eoXYSE19",
-        "author": "圆桌动漫",
-        "views": "6,142,868",
-        "likes": "61,537"
-      },
-      {
-        "title": "把怪兽叫来，我让你把怪兽叫来！",
-        "url": "https://b23.tv/BV1UbZ8YmEP8",
-        "author": "特摄区UP主",
-        "views": "1,500,000",
-        "likes": "85,000"
-      }
-    ]
+    }
   }
 }

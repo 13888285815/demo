@@ -1,67 +1,47 @@
 {
-  "update_time": "2026-04-20 16:18 (北京时间)",
-  "source": "https://news.cctv.com/",
-  "items": [
+  "update_time": "2026-04-20T16:48:00+08:00",
+  "news": [
+    {
+      "title": "习近平文化思想引领书香社会建设 全国首个全民阅读活动周启幕",
+      "url": "https://www.xinhuanet.com/",
+      "date": "2026-04-20",
+      "summary": "国务院批复设立的全国首个全民阅读活动周与第五届全民阅读大会于4月20日同步启幕。"
+    },
+    {
+      "title": "一季度中国经济硬核数据再上新 GDP同比增长5.0%",
+      "url": "https://www.xinhuanet.com/",
+      "date": "2026-04-20",
+      "summary": "一季度GDP同比增长5.0%，2025年网络视听行业市场规模达1.29万亿元，2026年以旧换新销售额已超5000亿。"
+    },
+    {
+      "title": "日本发生7.5级地震 气象厅发布海啸警报",
+      "url": "https://www.xinhuanet.com/",
+      "date": "2026-04-20",
+      "summary": "当地时间4月20日，日本气象厅将该国东北部沿海地区的地震震级调整至7.5级，发布海啸警报要求民众立即避难。"
+    },
+    {
+      "title": "千亿超长期特别国债来了 个人可投资",
+      "url": "https://www.xinhuanet.com/",
+      "date": "2026-04-20",
+      "summary": "4月24日财政部将分别发行20年期340亿元和30年期850亿元超长期特别国债，个人可投资。"
+    },
+    {
+      "title": "万达电影正式更名 彻底告别王健林时代",
+      "url": "https://www.xinhuanet.com/",
+      "date": "2026-04-20",
+      "summary": "A股院线第一股万达电影4月20日起更名为儒意电影娱乐股份有限公司，证券代码不变。"
+    },
     {
       "title": "2026年全国知识产权宣传周活动启动",
       "url": "https://tv.cctv.com/2026/04/20/VIDEdQWsAXwf3A5HBE2GGHoS260420.shtml",
-      "category": "国内",
-      "time": "2026-04-20"
+      "date": "2026-04-20",
+      "summary": "全国知识产权宣传周活动正式启动。"
     },
     {
-      "title": "生活服务台：网传"空气炸锅做的食物会致癌"是真的吗？",
-      "url": "https://tv.cctv.com/2026/04/20/VIDEx1P7MyaBFkXQRvB75pZe260420.shtml",
-      "category": "生活服务",
-      "time": "2026-04-20"
-    },
-    {
-      "title": "二十四节气之谷雨：春饮新茶 清心明目",
-      "url": "https://tv.cctv.com/2026/04/20/VIDEpy6RCFxXapRjwNKprcpT260420.shtml",
-      "category": "文化",
-      "time": "2026-04-20"
-    },
-    {
-      "title": "新闻联播",
-      "url": "https://tv.cctv.com/lm/xwlb/",
-      "category": "联播节目",
-      "time": "每日"
-    },
-    {
-      "title": "焦点访谈",
-      "url": "https://tv.cctv.com/lm/jdft/",
-      "category": "深度报道",
-      "time": "每日"
-    },
-    {
-      "title": "天天学习",
-      "url": "https://news.cctv.com/tiantianxuexi/index.shtml",
-      "category": "学习",
-      "time": "持续更新"
-    },
-    {
-      "title": "联播+",
-      "url": "https://news.cctv.com/lbjj/",
-      "category": "要闻",
-      "time": "持续更新"
-    },
-    {
-      "title": "热解读",
-      "url": "https://news.cctv.com/rjd/index.shtml",
-      "category": "解读",
-      "time": "持续更新"
-    },
-    {
-      "title": "8点见",
-      "url": "https://news.cctv.com/8dianjian/index.shtml",
-      "category": "早间",
-      "time": "每日 08:00"
+      "title": "《我在故宫修文物》导演叶君去世 享年43岁",
+      "url": "https://www.xinhuanet.com/",
+      "date": "2026-04-20",
+      "summary": "清华大学影视传播研究中心发布讣告，纪录片导演叶君先生因病医治无效去世，享年43岁。"
     }
-  ],
-  "featured_program": [
-    {"name": "新闻联播", "url": "https://tv.cctv.com/lm/xwlb/"},
-    {"name": "焦点访谈", "url": "https://tv.cctv.com/lm/jdft/"},
-    {"name": "东方时空", "url": "https://tv.cctv.com/lm/dfsk/"},
-    {"name": "今日亚洲", "url": "https://tv.cctv.com/lm/jryz/"},
-    {"name": "今日关注", "url": "https://tv.cctv.com/lm/jrgz/"}
   ]
 }

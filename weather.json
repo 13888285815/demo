@@ -1,59 +1,57 @@
 {
-  "update_time": "2026-04-20 16:18 (北京时间)",
-  "update_timestamp": "2026-04-20T08:18:00Z",
-  "location": "北京",
+  "update_time": "2026-04-20T16:48:00+08:00",
+  "location": "Shanghai",
   "current": {
-    "temp_C": 23,
-    "temp_F": 74,
-    "feelsLike_C": 23,
-    "weather": "Sunny",
-    "weatherCode": 113,
-    "humidity": 8,
-    "windSpeed_Kmph": 21,
-    "windDir": "WNW",
-    "pressure_mb": 1013,
-    "visibility_km": 10,
-    "uvIndex": 3,
-    "cloudCover": 0,
-    "precip_MM": 0.0
+    "tempC": "17",
+    "feelsLikeC": "17",
+    "condition": "多云",
+    "humidity": "83",
+    "windspeedKmph": "22",
+    "windDirection": "北风",
+    "pressure": "1016",
+    "visibility": "10",
+    "uvIndex": "1",
+    "cloudCover": "75"
+  },
+  "astronomy": {
+    "sunrise": "05:21 AM",
+    "sunset": "06:25 PM"
   },
   "forecast": [
     {
-      "date": "2026-04-20",
-      "avgTemp_C": 16,
-      "avgTemp_F": 62,
-      "weather": "Sunny",
-      "chanceOfSunshine": 88,
-      "chanceOfRain": 0,
-      "sunrise": "05:30 AM",
-      "sunset": "06:57 PM",
-      "moonPhase": "Waxing Crescent",
-      "moonIllumination": 9
+      "date": "04-20",
+      "week": "周一",
+      "weather": "多云",
+      "high": "17",
+      "low": "11"
     },
     {
-      "date": "2026-04-21",
-      "avgTemp_C": 20,
-      "avgTemp_F": 68,
-      "weather": "Partly Cloudy",
-      "chanceOfSunshine": 75,
-      "chanceOfRain": 5,
-      "sunrise": "05:29 AM",
-      "sunset": "06:59 PM"
+      "date": "04-21",
+      "week": "周二",
+      "weather": "晴",
+      "high": "18",
+      "low": "11"
     },
     {
-      "date": "2026-04-22",
-      "avgTemp_C": 21,
-      "avgTemp_F": 70,
-      "weather": "Sunny",
-      "chanceOfSunshine": 90,
-      "chanceOfRain": 0,
-      "sunrise": "05:27 AM",
-      "sunset": "07:00 PM"
+      "date": "04-22",
+      "week": "周三",
+      "weather": "小雨",
+      "high": "15",
+      "low": "13"
+    },
+    {
+      "date": "04-23",
+      "week": "周四",
+      "weather": "多云",
+      "high": "16",
+      "low": "10"
+    },
+    {
+      "date": "04-24",
+      "week": "周五",
+      "weather": "晴",
+      "high": "19",
+      "low": "12"
     }
-  ],
-  "advisory": {
-    "clothing": "白天温暖宜人，早晚偏凉，建议薄外套+长袖，日照强烈注意防晒",
-    "outdoor": "适宜户外活动，紫外线较强，外出注意遮阳",
-    "airQuality": "今日空气质量良好，湿度低，适合通风"
-  }
+  ]
 }
