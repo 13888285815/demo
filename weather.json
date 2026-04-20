@@ -1,27 +1,42 @@
 {
-  "update_time": "2026-04-20T17:18:00+08:00",
+  "update_time": "2026-04-20 18:18 (北京时间)",
+  "update_timestamp": "2026-04-20T10:18:00Z",
   "location": "Shanghai",
   "current": {
-    "tempC": "17",
-    "feelsLikeC": "17",
-    "condition": "多云",
+    "temp_C": "17",
+    "FeelsLikeC": "17",
     "humidity": "83",
     "windspeedKmph": "22",
-    "windDirection": "北风",
-    "pressure": "1016",
+    "winddir16Point": "N",
+    "weatherDesc": "Partly cloudy",
     "visibility": "10",
-    "uvIndex": "1",
-    "cloudCover": "75"
-  },
-  "astronomy": {
-    "sunrise": "05:21 AM",
-    "sunset": "06:25 PM"
+    "pressure": "1016"
   },
   "forecast": [
-    {"date": "04-20", "week": "周一", "weather": "多云", "high": "17", "low": "11"},
-    {"date": "04-21", "week": "周二", "weather": "晴", "high": "18", "low": "11"},
-    {"date": "04-22", "week": "周三", "weather": "小雨", "high": "15", "low": "13"},
-    {"date": "04-23", "week": "周四", "weather": "多云", "high": "16", "low": "10"},
-    {"date": "04-24", "week": "周五", "weather": "晴", "high": "19", "low": "12"}
-  ]
+    {
+      "date": "2026-04-20",
+      "maxTempC": "17",
+      "minTempC": "11",
+      "desc": "Mist",
+      "chanceOfRain": "78"
+    },
+    {
+      "date": "2026-04-21",
+      "maxTempC": "18",
+      "minTempC": "11",
+      "desc": "Clear ",
+      "chanceOfRain": "0"
+    },
+    {
+      "date": "2026-04-22",
+      "maxTempC": "15",
+      "minTempC": "13",
+      "desc": "Light rain",
+      "chanceOfRain": "100"
+    }
+  ],
+  "advisory": {
+    "clothing": "毛衣/外套，早晚凉",
+    "activity": "适宜室内活动"
+  }
 }
