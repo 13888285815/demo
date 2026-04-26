@@ -1,27 +1,31 @@
 {
-  "update_time": "2026-04-26T13:29:00+08:00",
-  "location": "Shanghai",
+  "update_time": "2026-04-26T14:00:00+08:00",
+  "location": "北京",
   "current": {
-    "tempC": "26",
-    "feelsLikeC": "25",
-    "condition": "晴转多云",
-    "humidity": "50",
+    "date": "2026-04-26",
+    "tempC": "22",
+    "feelsLikeC": "20",
+    "condition": "多云转晴",
+    "humidity": "38",
     "windspeedKmph": "12",
-    "windDirection": "东南风",
-    "pressure": "1016",
+    "windDirection": "东北风",
+    "pressure": "1012",
     "visibility": "10",
-    "uvIndex": "6",
+    "uvIndex": "5",
     "cloudCover": "30"
   },
   "astronomy": {
-    "sunrise": "05:21 AM",
-    "sunset": "06:25 PM"
+    "sunrise": "05:21",
+    "sunset": "19:03"
   },
   "forecast": [
-    {"date": "04-26", "week": "周日", "weather": "晴转多云", "high": "26", "low": "12"},
-    {"date": "04-27", "week": "周一", "weather": "多云转阵雨", "high": "25", "low": "14"},
-    {"date": "04-28", "week": "周二", "weather": "中雨", "high": "18", "low": "13"},
-    {"date": "04-29", "week": "周三", "weather": "阵雨转多云", "high": "20", "low": "12"},
-    {"date": "04-30", "week": "周四", "weather": "多云", "high": "22", "low": "12"}
-  ]
+    {"date": "04-26", "week": "今天", "weather": "多云转晴", "high": "22", "low": "11"},
+    {"date": "04-27", "week": "周一", "weather": "晴", "high": "22", "low": "11"},
+    {"date": "04-28", "week": "周二", "weather": "晴", "high": "23", "low": "9"},
+    {"date": "04-29", "week": "周三", "weather": "晴", "high": "25", "low": "10"},
+    {"date": "04-30", "week": "周四", "weather": "多云", "high": "27", "low": "14"},
+    {"date": "05-01", "week": "周五", "weather": "雷阵雨转多云", "high": "25", "low": "14"},
+    {"date": "05-02", "week": "周六", "weather": "多云转晴", "high": "27", "low": "15"}
+  ],
+  "alert": "今天白天阵风6级左右，夜间山区有小阵雨，注意防风防火。下周工作日晴到多云为主，27日白天北风较大阵风7-8级。"
 }

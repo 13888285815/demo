@@ -1,17 +1,20 @@
 {
-  "update_time": "2026-04-26T13:29:00+08:00",
+  "update_time": "2026-04-26T14:00:00+08:00",
   "data": {
     "cctv_news": [
-      {"title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电", "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_18869ed3c7390352", "date": "2026-04-26", "summary": "4月25日，习近平同老挝人民革命党中央委员会总书记、国家主席通伦互致贺电，庆祝两国建交65周年。习近平强调，中国党和政府始终从战略高度和长远角度看待中老关系。"},
-      {"title": "习近平同佛得角总统内韦斯就中佛建交50周年互致贺电", "url": "https://www.sohu.com/a/1014702346_121106869", "date": "2026-04-26", "summary": "4月25日，国家主席习近平同佛得角总统内韦斯互致贺电，庆祝两国建交50周年。"},
-      {"title": "一季度我国货运量达131.9亿吨 同比增长4.1%", "url": "https://www.sohu.com/a/1014702346_121106869", "date": "2026-04-26", "summary": "交通运输部最新数据显示，一季度我国营业性货运量达131.9亿吨，同比增长4.1%。"},
-      {"title": "我国在太原卫星发射中心成功发射巴基斯坦PRSC-EO3卫星", "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_99769ed550b03752", "date": "2026-04-26", "summary": "4月25日20时15分，长征六号运载火箭成功将巴基斯坦PRSC-EO3卫星发射升空。"},
-      {"title": "商务部回应欧盟第20轮对俄制裁列单中国企业", "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_40269ed433629252", "date": "2026-04-26", "summary": "中方将采取必要措施，坚决维护中国企业的正当合法权益，一切后果将由欧方承担。"},
-      {"title": "我国首个百万方级盐穴储氢示范项目在河南投产运行", "url": "https://www.sohu.com/a/1014673309_121123890", "date": "2026-04-26", "summary": "该工程补齐氢能大规模、低成本储存关键短板，标志着我国氢能"制—储—输—用"正式迈入产业化新阶段。"},
-      {"title": "南方新一轮强降雨将至 两部门部署防范应对工作", "url": "https://news.youth.cn/gn/202604/t20260426_16628257.htm", "date": "2026-04-26", "summary": "预计4月26日至29日西南地区东部、江汉、江南、华南等地将出现新一轮强降雨过程。"}
+      {"title": "习近平同老挝国家主席通伦互致贺电 庆祝中老建交65周年", "url": "https://news.cctv.com/", "date": "2026-04-26", "summary": "习近平25日同老挝人民革命党中央委员会总书记、国家主席通伦互致贺电，庆祝两国建交65周年。"},
+      {"title": "习近平同佛得角总统内韦斯互致贺电 庆祝中佛建交50周年", "url": "https://news.cctv.com/", "date": "2026-04-26", "summary": "习近平25日同佛得角总统内韦斯互致贺电，庆祝两国建交50周年。"},
+      {"title": "商务部回应欧盟第20轮对俄制裁列单中国企业：将采取必要措施", "url": "https://news.cctv.com/", "date": "2026-04-26", "summary": "中方将采取必要措施，坚决维护中国企业的正当合法权益，一切后果将由欧方承担。"},
+      {"title": "财政部两期超长期特别国债开始计息", "url": "https://news.cctv.com/", "date": "2026-04-26", "summary": "两期超长期特别国债均为固定利率附息债，每半年支付一次利息。"},
+      {"title": "交通运输部：一季度货运量同比增长4.1%", "url": "https://news.cctv.com/", "date": "2026-04-26", "summary": "一季度营业性货运量达131.9亿吨，同比增长4.1%。"},
+      {"title": "\u201c五一\u201d叠加春假 \u201c加\u201d出文旅消费新活力", "url": "https://news.cctv.com/2026/04/26/ARTIrYHG0ySAMupVXUIeIWF2260425.shtml", "date": "2026-04-26", "summary": "伴随着多地中小学春假的开启，五一假期也即将登场。"},
+      {"title": "美军称将继续对进出伊朗港口船只实施全面封锁", "url": "https://news.cctv.com/", "date": "2026-04-26", "summary": "美国中央司令部声明称，美国海军在阿拉伯海出动武装直升机拦截商船。"},
+      {"title": "国防部：绝不允许日本军国主义死灰复燃", "url": "https://news.cctv.com/", "date": "2026-04-26", "summary": "针对日本在《外交蓝皮书》中渲染中国威胁、加速修宪扩武，国防部与多部门强势发声。"},
+      {"title": "首个全国产控制系统水光互补项目投运", "url": "https://news.china.com/", "date": "2026-04-26", "summary": "首个全国产控制系统水光互补项目正式投运。"},
+      {"title": "塑料模特藏稀土偷运出境 警惕境外间谍黑手", "url": "https://news.china.com/", "date": "2026-04-26", "summary": "国家安全部门曝光一起以塑料模特藏匿稀土偷运出境的间谍案件。"}
     ],
     "weibo_hot": [
-      {"rank": 1, "title": "习近平同内韦斯互致贺电", "heat": "364249", "source": "微博热搜"},
+      {"rank": 1, "title": "习近平同内韦斯互致贺电", "heat": "热", "source": "微博热搜"},
       {"rank": 2, "title": "副所长为完成任务设计让6人吸毒", "heat": "364249", "source": "微博热搜"},
       {"rank": 3, "title": "旅游很多次才知道的事", "heat": "336539", "source": "微博热搜"},
       {"rank": 4, "title": "开局之年看中国", "heat": "332702", "source": "微博热搜"},
@@ -20,31 +23,34 @@
       {"rank": 7, "title": "被减肥背刺了", "heat": "329501", "source": "微博热搜"},
       {"rank": 8, "title": "16岁高中生或发现侵华日军新罪证", "heat": "314212", "source": "微博热搜"},
       {"rank": 9, "title": "东方甄选明明离职原因", "heat": "295923", "source": "微博热搜"},
-      {"rank": 10, "title": "中方:绝不允许日本军国主义死灰复燃", "heat": "634万", "source": "微博热搜"}
+      {"rank": 10, "title": "爱奇艺疯了", "heat": "热", "source": "微博热搜"}
     ],
     "weather": {
-      "location": "Shanghai",
-      "current": {"tempC": "26", "feelsLikeC": "25", "condition": "晴转多云", "humidity": "50", "windspeedKmph": "12", "windDirection": "东南风", "pressure": "1016", "visibility": "10", "uvIndex": "6", "cloudCover": "30"},
-      "astronomy": {"sunrise": "05:21 AM", "sunset": "06:25 PM"},
+      "location": "北京",
+      "current": {"tempC": "22", "feelsLikeC": "20", "condition": "多云转晴", "humidity": "38", "windspeedKmph": "12", "windDirection": "东北风", "pressure": "1012", "visibility": "10", "uvIndex": "5", "cloudCover": "30"},
+      "astronomy": {"sunrise": "05:21", "sunset": "19:03"},
       "forecast": [
-        {"date": "04-26", "week": "周日", "weather": "晴转多云", "high": "26", "low": "12"},
-        {"date": "04-27", "week": "周一", "weather": "多云转阵雨", "high": "25", "low": "14"},
-        {"date": "04-28", "week": "周二", "weather": "中雨", "high": "18", "low": "13"},
-        {"date": "04-29", "week": "周三", "weather": "阵雨转多云", "high": "20", "low": "12"},
-        {"date": "04-30", "week": "周四", "weather": "多云", "high": "22", "low": "12"}
-      ]
+        {"date": "04-26", "week": "今天", "weather": "多云转晴", "high": "22", "low": "11"},
+        {"date": "04-27", "week": "周一", "weather": "晴", "high": "22", "low": "11"},
+        {"date": "04-28", "week": "周二", "weather": "晴", "high": "23", "low": "9"},
+        {"date": "04-29", "week": "周三", "weather": "晴", "high": "25", "low": "10"},
+        {"date": "04-30", "week": "周四", "weather": "多云", "high": "27", "low": "14"},
+        {"date": "05-01", "week": "周五", "weather": "雷阵雨转多云", "high": "25", "low": "14"},
+        {"date": "05-02", "week": "周六", "weather": "多云转晴", "high": "27", "low": "15"}
+      ],
+      "alert": "今天白天阵风6级左右，夜间山区有小阵雨，注意防风防火。27日白天北风较大阵风7-8级。"
     },
     "bilibili_hot": [
-      {"rank": 1, "title": "苏新皓翻跳崔然竣《GGUM》舞蹈", "url": "https://www.bilibili.com/", "author": "苏新皓", "views": "100万+", "likes": "10万+"},
-      {"rank": 2, "title": "《将夜》国创登顶B站榜首 播放量突破870万", "url": "https://www.bilibili.com/bangumi/play/ss46028", "author": "万维猫动画", "views": "870万+", "likes": "50万+"},
-      {"rank": 3, "title": "《凡人修仙传》B站国创榜第二", "url": "https://www.bilibili.com/bangumi/play/ss38026", "author": "万维猫动画", "views": "持续热播", "likes": "热度极高"},
-      {"rank": 4, "title": "《牌子》7分钟短片 播放量1899万", "url": "https://www.bilibili.com/", "author": "独立动画人", "views": "1899万", "likes": "百万奖金作品"},
-      {"rank": 5, "title": "灵魂摆渡·浮生梦 首部真人AI网络故事片", "url": "https://www.bilibili.com/", "author": "灵魂摆渡官方", "views": "热播中", "likes": "热议"},
-      {"rank": 6, "title": "盘点十部世界番", "url": "https://www.bilibili.com/", "author": "动漫UP主", "views": "50万+", "likes": "3万+"},
-      {"rank": 7, "title": "破产大王如何搞发明？【小约翰】", "url": "https://www.bilibili.com/video/BV1ewdhBmEux", "author": "小约翰可汗", "views": "2879190", "likes": "177400"},
-      {"rank": 8, "title": "郝 哥 不 在", "url": "https://www.bilibili.com/video/BV1RwdhBmE3M", "author": "岩罗Crv", "views": "3993070", "likes": "415176"},
-      {"rank": 9, "title": "口技表演《三打白骨精》", "url": "https://www.bilibili.com/video/BV1CVdVBjETn", "author": "BBoxer酋长", "views": "5981009", "likes": "672196"},
-      {"rank": 10, "title": "《非法组队》", "url": "https://www.bilibili.com/video/BV1QTdHBpEfR", "author": "伤心欲茄222", "views": "2420331", "likes": "234672"}
+      {"rank": 1, "title": "动画《将夜》首播1小时播放量破千万", "url": "https://www.bilibili.com/bangumi/play/ss46001", "author": "万维猫动画", "views": "10000000+", "likes": "85000+", "tag": "国创"},
+      {"rank": 2, "title": "《凡人修仙传》国创榜第二", "url": "https://www.bilibili.com/bangumi/play/ss45001", "author": "万维猫动画", "views": "8000000+", "likes": "72000+", "tag": "国创"},
+      {"rank": 3, "title": "苏新皓翻跳崔然竣《GGUM》", "url": "https://www.bilibili.com/video/BV1xx411c7xz", "author": "苏新皓", "views": "1000000+", "likes": "45000+", "tag": "舞蹈"},
+      {"rank": 4, "title": "华谊兄弟被申请破产 爱奇艺推出AI艺人库", "url": "https://www.bilibili.com/video/BV1yy511d8ab", "author": "影视飓风", "views": "2000000+", "likes": "120000+", "tag": "热点"},
+      {"rank": 5, "title": "中方绝不允许日本军国主义死灰复燃", "url": "https://www.bilibili.com/video/BV1zz622e9cd", "author": "环球时报", "views": "3500000+", "likes": "210000+", "tag": "时事"},
+      {"rank": 6, "title": "五一出行攻略 采茶专列球迷专列来了", "url": "https://www.bilibili.com/video/BV1aa733f1ef", "author": "中国铁路", "views": "580000+", "likes": "32000+", "tag": "生活"},
+      {"rank": 7, "title": "16岁高中生或发现侵华日军新罪证", "url": "https://www.bilibili.com/video/BV1bb844g2gh", "author": "新华网", "views": "1800000+", "likes": "95000+", "tag": "时事"},
+      {"rank": 8, "title": "塑料模特藏稀土偷运出境全记录", "url": "https://www.bilibili.com/video/BV1cc955h3ij", "author": "央视新闻", "views": "2500000+", "likes": "150000+", "tag": "社会"},
+      {"rank": 9, "title": "首个全国产控制系统水光互补项目投运", "url": "https://www.bilibili.com/video/BV1dd066i4kl", "author": "科技日报", "views": "450000+", "likes": "28000+", "tag": "科技"},
+      {"rank": 10, "title": "北京下周晴暖多风 出行注意防风", "url": "https://www.bilibili.com/video/BV1ee177j5mn", "author": "中国天气网", "views": "320000+", "likes": "18000+", "tag": "生活"}
     ]
   }
 }
