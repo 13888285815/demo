@@ -1,50 +1,457 @@
 {
-  "update_time": "2026-04-20T17:18:00+08:00",
-  "data": {
-    "cctv_news": [
-      {"title": "习近平文化思想引领书香社会建设 全国首个全民阅读活动周启幕", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "国务院批复设立的全国首个全民阅读活动周与第五届全民阅读大会于4月20日同步启幕。"},
-      {"title": "一季度中国经济硬核数据再上新 GDP同比增长5.0%", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "一季度GDP同比增长5.0%，2025年网络视听行业市场规模达1.29万亿元，2026年以旧换新销售额已超5000亿。"},
-      {"title": "日本发生7.5级地震 气象厅发布海啸警报", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "当地时间4月20日，日本气象厅将该国东北部沿海地区的地震震级调整至7.5级，发布海啸警报要求民众立即避难。"},
-      {"title": "\"五一\"假期我国航空公司国际航线运力足", "url": "https://tv.cctv.com/2026/04/20/VIDE5wDv5g7LoFMPI1ULJG0g260420.shtml", "date": "2026-04-20", "summary": "五一假期临近，我国航空公司持续加大国际航线运力投放，出境游热度持续攀升。"},
-      {"title": "警惕线下交付式电信诈骗套路", "url": "https://tv.cctv.com/2026/04/20/VIDEKMhaeZwudID3U8XNP27n260420.shtml", "date": "2026-04-20", "summary": "公安机关提醒：近期出现新型线下交付式电信诈骗，嫌疑人以快递、燃气检修等名义上门，要求被害人转账。"},
-      {"title": "千亿超长期特别国债来了 个人可投资", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "4月24日财政部将分别发行20年期340亿元和30年期850亿元超长期特别国债，个人可投资。"},
-      {"title": "万达电影正式更名 彻底告别王健林时代", "url": "https://www.xinhuanet.com/", "date": "2026-04-20", "summary": "A股院线第一股万达电影4月20日起更名为儒意电影娱乐股份有限公司，证券代码不变。"}
+  "update_time": "2026-04-26 11:49 (北京时间)",
+  "update_timestamp": 1777175780,
+  "data_sources": {
+    "cctv_news": "https://www.toutiao.com/",
+    "weibo_hot": "https://weibo.com/ajax/side/hotSearch",
+    "weather": "wttr.in/Chengdu",
+    "bilibili_hot": "https://www.bilibili.com/"
+  },
+  "summary": {
+    "top_weibo": [
+      {
+        "rank": 1,
+        "word": "白宫晚宴枪击事件枪手身亡",
+        "num": 2021903,
+        "label": "热"
+      },
+      {
+        "rank": 2,
+        "word": "特朗普公布枪手强闯安检录像",
+        "num": 983737,
+        "label": "新"
+      },
+      {
+        "rank": 3,
+        "word": "南方又一轮降雨降温",
+        "num": 924453,
+        "label": "新"
+      },
+      {
+        "rank": 4,
+        "word": "向确定性出发",
+        "num": 924375,
+        "label": "商"
+      },
+      {
+        "rank": 5,
+        "word": "一袋糯米 全部暴露",
+        "num": 924060,
+        "label": "新"
+      }
     ],
-    "weibo_hot": [
-      {"rank": 1, "title": "习近平文化思想引领书香社会建设", "heat": "7904897", "source": "百度热搜"},
-      {"rank": 2, "title": "男子发现扔烟头地方不长草决定戒烟", "heat": "7712317", "source": "百度热搜"},
-      {"rank": 3, "title": "中国经济硬核数据再上新", "heat": "7618870", "source": "百度热搜"},
-      {"rank": 4, "title": "\"红旗1号\"芯片研制成功", "heat": "7500000", "source": "百度热搜"},
-      {"rank": 5, "title": "韩国西瓜销量暴涨", "heat": "7400000", "source": "百度热搜"},
-      {"rank": 6, "title": "日本地震震级调至7.5级 海啸已到达", "heat": "7300000", "source": "百度热搜"},
-      {"rank": 7, "title": "日本民众被要求立即避难逃生", "heat": "7200000", "source": "百度热搜"},
-      {"rank": 8, "title": "女子酒窝超大被网友怀疑是AI", "heat": "7100000", "source": "百度热搜"},
-      {"rank": 9, "title": "研究发现：每顿少吃两口身体炎症少了", "heat": "7000000", "source": "百度热搜"},
-      {"rank": 10, "title": "重庆昨夜到今晨共出现8068次闪电", "heat": "6900000", "source": "百度热搜"}
+    "top_bilibili": [
+      {
+        "rank": 1,
+        "title": "⚡对 对 子 战 神 4⚡",
+        "category": "鬼畜调教",
+        "views": 5701700,
+        "author": "洛温阿特金森"
+      },
+      {
+        "rank": 2,
+        "title": "\"音乐一响 神兵登场\"",
+        "category": "音乐综合",
+        "views": 6243113,
+        "author": "醉心日推音乐"
+      },
+      {
+        "rank": 3,
+        "title": "宝岛珠还，功成无我",
+        "category": "短片",
+        "views": 3231164,
+        "author": "朱铁雄"
+      },
+      {
+        "rank": 4,
+        "title": "翻译翻译 什么叫猛攻！",
+        "category": "影视剪辑",
+        "views": 7005662,
+        "author": "三角洲行动"
+      },
+      {
+        "rank": 5,
+        "title": "《原神》幕后的故事：向至冬，向未来",
+        "category": "手机游戏",
+        "views": 1986922,
+        "author": "原神"
+      }
+    ],
+    "weather_current": {
+      "temp": "26°C",
+      "feels_like": "28°C",
+      "weather": "Patchy rain nearby",
+      "wind": "9 km/h",
+      "humidity": "51%",
+      "visibility": "10 km"
+    },
+    "news_count": 12
+  },
+  "detailed": {
+    "news": [
+      {
+        "title": "郑丽文正式宣 战 (1) (2)",
+        "url": "",
+        "category": "视频",
+        "time": "2026-04-26"
+      },
+      {
+        "title": "中国核武器#现身#伊朗？洞库导弹字样曝光，开始给中国“埋雷”？",
+        "url": "",
+        "category": "视频",
+        "time": "2026-04-26"
+      },
+      {
+        "title": "41票赞成49票反对！美投票结果出来了，特朗普：美头号敌人或出现",
+        "url": "",
+        "category": "视频",
+        "time": "2026-04-26"
+      },
+      {
+        "title": "发改委“大老虎”落马！周末打虎不手软，今年第24只",
+        "url": "",
+        "category": "新闻",
+        "time": "2026-04-26"
+      },
+      {
+        "title": "大家要有心理准备，明后两天，金价或将重现15年历史！",
+        "url": "",
+        "category": "视频",
+        "time": "2026-04-26"
+      },
+      {
+        "title": "保安扇女子耳光事件新监控曝光：保安身份被扒，暴力推车门夹腿",
+        "url": "",
+        "category": "视频",
+        "time": "2026-04-26"
+      },
+      {
+        "title": "金价重现历史了！要有心理准备，下月，金价或将重现2015年历",
+        "url": "",
+        "category": "视频",
+        "time": "2026-04-26"
+      },
+      {
+        "title": "CBA积分榜最新排名出炉！北京杀进前三，辽宁跌入谷底",
+        "url": "",
+        "category": "视频",
+        "time": "2026-04-26"
+      },
+      {
+        "title": "存钱的注意了！5月1日新规正式执行，12万至50万存取利息全部调整",
+        "url": "",
+        "category": "新闻",
+        "time": "2026-04-26"
+      },
+      {
+        "title": "伊朗传来意外的好消息 (8)",
+        "url": "",
+        "category": "视频",
+        "time": "2026-04-26"
+      },
+      {
+        "title": "退休警察谈“女子与保安冲突事件”：不构成互殴，保安大概率属于滥用职权",
+        "url": "",
+        "category": "新闻",
+        "time": "2026-04-26"
+      },
+      {
+        "title": "五角大楼附近客车相撞致数十人受伤 现场监控曝光",
+        "url": "",
+        "category": "视频",
+        "time": "2026-04-26"
+      }
+    ],
+    "weibo": [
+      {
+        "rank": 1,
+        "word": "白宫晚宴枪击事件枪手身亡",
+        "num": 2021903,
+        "label": "热"
+      },
+      {
+        "rank": 2,
+        "word": "特朗普公布枪手强闯安检录像",
+        "num": 983737,
+        "label": "新"
+      },
+      {
+        "rank": 3,
+        "word": "南方又一轮降雨降温",
+        "num": 924453,
+        "label": "新"
+      },
+      {
+        "rank": 4,
+        "word": "向确定性出发",
+        "num": 924375,
+        "label": "商"
+      },
+      {
+        "rank": 5,
+        "word": "一袋糯米 全部暴露",
+        "num": 924060,
+        "label": "新"
+      },
+      {
+        "rank": 6,
+        "word": "张若昀评论区",
+        "num": 907460,
+        "label": "新"
+      },
+      {
+        "rank": 7,
+        "word": "东方甄选4名主播同日宣布离职",
+        "num": 827842,
+        "label": ""
+      },
+      {
+        "rank": 8,
+        "word": "阚清子老公不抢曾沛慈的第一solo",
+        "num": 823375,
+        "label": "新"
+      },
+      {
+        "rank": 9,
+        "word": "羽毛球取消21分制",
+        "num": 729562,
+        "label": "新"
+      },
+      {
+        "rank": 10,
+        "word": "看上去很贵实际便宜又好玩的城市",
+        "num": 546719,
+        "label": ""
+      },
+      {
+        "rank": 11,
+        "word": "榴莲已经20多元一斤了",
+        "num": 416165,
+        "label": ""
+      },
+      {
+        "rank": 12,
+        "word": "宁艺卓回怼粉丝",
+        "num": 409173,
+        "label": "热"
+      },
+      {
+        "rank": 13,
+        "word": "阚清子说自己胖了干啥都心酸",
+        "num": 399413,
+        "label": "新"
+      },
+      {
+        "rank": 14,
+        "word": "俞敏洪回应多位主播离职",
+        "num": 389275,
+        "label": ""
+      },
+      {
+        "rank": 15,
+        "word": "齐思钧表情",
+        "num": 381885,
+        "label": ""
+      },
+      {
+        "rank": 16,
+        "word": "周杰伦方回应新豪宅在昆凌父亲名下",
+        "num": 371913,
+        "label": ""
+      },
+      {
+        "rank": 17,
+        "word": "DeepSeek致谢近300研发者10人已离职",
+        "num": 342237,
+        "label": "新"
+      },
+      {
+        "rank": 18,
+        "word": "森林狼vs掘金",
+        "num": 333938,
+        "label": ""
+      },
+      {
+        "rank": 19,
+        "word": "得知胎儿色盲孕晚期女子称害了孩子",
+        "num": 333443,
+        "label": ""
+      },
+      {
+        "rank": 20,
+        "word": "特朗普因安全原因离开白宫晚宴",
+        "num": 325154,
+        "label": ""
+      },
+      {
+        "rank": 21,
+        "word": "火湖G3漏吹詹姆斯踩线",
+        "num": 315560,
+        "label": ""
+      },
+      {
+        "rank": 22,
+        "word": "建议大家衣服不要攒一起洗",
+        "num": 314484,
+        "label": ""
+      },
+      {
+        "rank": 23,
+        "word": "网传浪姐二公个喜排名",
+        "num": 306466,
+        "label": ""
+      },
+      {
+        "rank": 24,
+        "word": "张檬小五儿子一岁了",
+        "num": 294683,
+        "label": ""
+      },
+      {
+        "rank": 25,
+        "word": "22岁女孩运动减肥把肌肉练爆了",
+        "num": 241367,
+        "label": ""
+      }
     ],
     "weather": {
-      "location": "Shanghai",
-      "current": {"tempC": "17", "feelsLikeC": "17", "condition": "多云", "humidity": "83", "windspeedKmph": "22", "windDirection": "北风", "pressure": "1016", "visibility": "10", "uvIndex": "1", "cloudCover": "75"},
-      "astronomy": {"sunrise": "05:21 AM", "sunset": "06:25 PM"},
+      "update_time": "2026-04-26 11:49 (北京时间)",
+      "location": "成都",
+      "current": {
+        "temp": "26°C",
+        "feels_like": "28°C",
+        "weather": "Patchy rain nearby",
+        "wind": "9 km/h",
+        "humidity": "51%",
+        "visibility": "10 km"
+      },
       "forecast": [
-        {"date": "04-20", "week": "周一", "weather": "多云", "high": "17", "low": "11"},
-        {"date": "04-21", "week": "周二", "weather": "晴", "high": "18", "low": "11"},
-        {"date": "04-22", "week": "周三", "weather": "小雨", "high": "15", "low": "13"},
-        {"date": "04-23", "week": "周四", "weather": "多云", "high": "16", "low": "10"},
-        {"date": "04-24", "week": "周五", "weather": "晴", "high": "19", "low": "12"}
+        {
+          "date": "2026-04-26",
+          "max_temp": "25",
+          "min_temp": "19",
+          "weather": "Patchy rain nearby"
+        },
+        {
+          "date": "2026-04-27",
+          "max_temp": "20",
+          "min_temp": "18",
+          "weather": "Patchy rain nearby"
+        },
+        {
+          "date": "2026-04-28",
+          "max_temp": "22",
+          "min_temp": "16",
+          "weather": "Partly Cloudy "
+        }
       ]
     },
-    "bilibili_hot": [
-      {"rank": 1, "title": "口技表演《三打白骨精》", "url": "https://www.bilibili.com/video/BV1CVdVBjETn", "author": "BBoxer酋长", "views": "5981009", "likes": "672196"},
-      {"rank": 2, "title": "《崩坏：星穹铁道》银狼LV.999角色PV——「我独自满级」", "url": "https://www.bilibili.com/video/BV1wYdWB5EVF", "author": "崩坏星穹铁道", "views": "4421171", "likes": "339516"},
-      {"rank": 3, "title": "楚人美游记 1-5 合集：当楚人美被孙悟空拐去取经", "url": "https://www.bilibili.com/video/BV15YdBB6Efz", "author": "安奇米苏", "views": "8632039", "likes": "379910"},
-      {"rank": 4, "title": "［meme］豌豆公主", "url": "https://www.bilibili.com/video/BV1DNd7BMEqP", "author": "烫甲鱼", "views": "2443489", "likes": "225611"},
-      {"rank": 5, "title": "狡兔屋老大希希芙", "url": "https://www.bilibili.com/video/BV1N8d5BsEcN", "author": "鼎芸", "views": "1844976", "likes": "243653"},
-      {"rank": 6, "title": "\"每次生日许的愿 其实都与你有关\"2.0", "url": "https://www.bilibili.com/video/BV1yedxBnEn3", "author": "我爱吃派大星", "views": "3124501", "likes": "229781"},
-      {"rank": 7, "title": "破产大王如何搞发明？【小约翰】", "url": "https://www.bilibili.com/video/BV1ewdhBmEux", "author": "小约翰可汗", "views": "2879190", "likes": "177400"},
-      {"rank": 8, "title": "郝 哥 不 在", "url": "https://www.bilibili.com/video/BV1RwdhBmE3M", "author": "岩罗Crv", "views": "3993070", "likes": "415176"},
-      {"rank": 9, "title": "《非法组队》", "url": "https://www.bilibili.com/video/BV1QTdHBpEfR", "author": "伤心欲茄222", "views": "2420331", "likes": "234672"},
-      {"rank": 10, "title": "疑似三打白骨精现场真实画面流出", "url": "https://www.bilibili.com/video/BV11ZdJB6ECR", "author": "潘子鸟", "views": "2284796", "likes": "194802"}
+    "bilibili": [
+      {
+        "rank": 1,
+        "title": "⚡对 对 子 战 神 4⚡",
+        "category": "鬼畜调教",
+        "views": 5701700,
+        "author": "洛温阿特金森"
+      },
+      {
+        "rank": 2,
+        "title": "\"音乐一响 神兵登场\"",
+        "category": "音乐综合",
+        "views": 6243113,
+        "author": "醉心日推音乐"
+      },
+      {
+        "rank": 3,
+        "title": "宝岛珠还，功成无我",
+        "category": "短片",
+        "views": 3231164,
+        "author": "朱铁雄"
+      },
+      {
+        "rank": 4,
+        "title": "翻译翻译 什么叫猛攻！",
+        "category": "影视剪辑",
+        "views": 7005662,
+        "author": "三角洲行动"
+      },
+      {
+        "rank": 5,
+        "title": "《原神》幕后的故事：向至冬，向未来",
+        "category": "手机游戏",
+        "views": 1986922,
+        "author": "原神"
+      },
+      {
+        "rank": 6,
+        "title": "对不起...",
+        "category": "搞笑",
+        "views": 2728940,
+        "author": "逗比的雀巢"
+      },
+      {
+        "rank": 7,
+        "title": "唱着山歌来买瓜",
+        "category": "鬼畜剧场",
+        "views": 4210467,
+        "author": "猫屎花生"
+      },
+      {
+        "rank": 8,
+        "title": "腹有视频气自滑✨",
+        "category": "短片",
+        "views": 2911989,
+        "author": "papi酱"
+      },
+      {
+        "rank": 9,
+        "title": "如何在亚马逊雨林里种树？【硬核狠人88】",
+        "category": "人文历史",
+        "views": 2447568,
+        "author": "小约翰可汗"
+      },
+      {
+        "rank": 10,
+        "title": "你可以熬夜，但第二天必须去做这些恢复。",
+        "category": "校园学习",
+        "views": 3524435,
+        "author": "心理能量1101"
+      },
+      {
+        "rank": 11,
+        "title": "城市大富翁（4）",
+        "category": "日常",
+        "views": 2223986,
+        "author": "雨哥到处跑"
+      },
+      {
+        "rank": 12,
+        "title": "45岁派出所所长执勤中不幸牺牲，从辅警到所长，他用25年走完忠诚之路！",
+        "category": "日常",
+        "views": 3968945,
+        "author": "人民日报"
+      },
+      {
+        "rank": 13,
+        "title": "这个世界上这么讨人嫌，让人想沙的脸居然有两张…《enemy》第二集",
+        "category": "短片",
+        "views": 1746203,
+        "author": "煎饼果仔呀"
+      },
+      {
+        "rank": 14,
+        "title": "同学你的学帽掉了",
+        "category": "搞笑",
+        "views": 2159294,
+        "author": "大森子哈哈哈"
+      },
+      {
+        "rank": 15,
+        "title": "《谁家之AI夺舍了我的父母》",
+        "category": "搞笑",
+        "views": 2294569,
+        "author": "嘞是唐孃孃"
+      }
     ]
   }
 }

@@ -1,42 +1,32 @@
 {
-  "update_time": "2026-04-20 18:18 (北京时间)",
-  "update_timestamp": "2026-04-20T10:18:00Z",
-  "location": "Shanghai",
+  "update_time": "2026-04-26 11:49 (北京时间)",
+  "location": "成都",
   "current": {
-    "temp_C": "17",
-    "FeelsLikeC": "17",
-    "humidity": "83",
-    "windspeedKmph": "22",
-    "winddir16Point": "N",
-    "weatherDesc": "Partly cloudy",
-    "visibility": "10",
-    "pressure": "1016"
+    "temp": "26°C",
+    "feels_like": "28°C",
+    "weather": "Patchy rain nearby",
+    "wind": "9 km/h",
+    "humidity": "51%",
+    "visibility": "10 km"
   },
   "forecast": [
     {
-      "date": "2026-04-20",
-      "maxTempC": "17",
-      "minTempC": "11",
-      "desc": "Mist",
-      "chanceOfRain": "78"
+      "date": "2026-04-26",
+      "max_temp": "25",
+      "min_temp": "19",
+      "weather": "Patchy rain nearby"
     },
     {
-      "date": "2026-04-21",
-      "maxTempC": "18",
-      "minTempC": "11",
-      "desc": "Clear ",
-      "chanceOfRain": "0"
+      "date": "2026-04-27",
+      "max_temp": "20",
+      "min_temp": "18",
+      "weather": "Patchy rain nearby"
     },
     {
-      "date": "2026-04-22",
-      "maxTempC": "15",
-      "minTempC": "13",
-      "desc": "Light rain",
-      "chanceOfRain": "100"
+      "date": "2026-04-28",
+      "max_temp": "22",
+      "min_temp": "16",
+      "weather": "Partly Cloudy "
     }
-  ],
-  "advisory": {
-    "clothing": "毛衣/外套，早晚凉",
-    "activity": "适宜室内活动"
-  }
+  ]
 }

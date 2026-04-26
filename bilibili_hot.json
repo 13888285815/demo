@@ -1,229 +1,111 @@
 {
-  "update_time": "2026-04-20 18:18 (北京时间)",
-  "update_timestamp": "2026-04-20T10:18:00Z",
-  "category": "全站",
-  "total_count": 20,
-  "videos": [
+  "update_time": "2026-04-26 11:49 (北京时间)",
+  "source": "https://www.bilibili.com/",
+  "items": [
     {
-      "bvid": "BV1vgd5BMEsG",
-      "title": "《明日方舟：终末地》过场动画 - 却海",
-      "tname": "手机游戏",
-      "owner": "",
-      "views": 1532720,
-      "likes": 61498,
-      "coins": 10744,
-      "favorites": 10397,
-      "pic": "http://i2.hdslb.com/bfs/archive/ad24c1b5c310445e55e915e33a318f62226d5316.jpg"
+      "rank": 1,
+      "title": "⚡对 对 子 战 神 4⚡",
+      "category": "鬼畜调教",
+      "views": 5701700,
+      "author": "洛温阿特金森"
     },
     {
-      "bvid": "BV1EWdfBTEGy",
-      "title": "见面5秒开始战斗",
-      "tname": "鬼畜剧场",
-      "owner": "",
-      "views": 412043,
-      "likes": 37106,
-      "coins": 10923,
-      "favorites": 8489,
-      "pic": "http://i1.hdslb.com/bfs/archive/7b385203755ff71b4be01aec69c1f7dcc37d5984.jpg"
+      "rank": 2,
+      "title": "\"音乐一响 神兵登场\"",
+      "category": "音乐综合",
+      "views": 6243113,
+      "author": "醉心日推音乐"
     },
     {
-      "bvid": "BV13yoABuEms",
-      "title": "《无限流大爷》",
-      "tname": "搞笑",
-      "owner": "",
-      "views": 683738,
-      "likes": 59349,
-      "coins": 1858,
-      "favorites": 2523,
-      "pic": "http://i1.hdslb.com/bfs/archive/161836753d37904f43e0104b5f2f82ba5c14457f.jpg"
+      "rank": 3,
+      "title": "宝岛珠还，功成无我",
+      "category": "短片",
+      "views": 3231164,
+      "author": "朱铁雄"
     },
     {
-      "bvid": "BV1ewdhBmEux",
-      "title": "破产大王如何搞发明？【小约翰】",
-      "tname": "人文历史",
-      "owner": "",
-      "views": 2972298,
-      "likes": 180101,
-      "coins": 71393,
-      "favorites": 41441,
-      "pic": "http://i1.hdslb.com/bfs/archive/2fac9b2f24e544b4a221191a19879f32eced480c.jpg"
+      "rank": 4,
+      "title": "翻译翻译 什么叫猛攻！",
+      "category": "影视剪辑",
+      "views": 7005662,
+      "author": "三角洲行动"
     },
     {
-      "bvid": "BV1x7oNBvEZs",
-      "title": "《无限暖暖》2.5版本套装PV | 栖骨生花&渡者无归",
-      "tname": "手机游戏",
-      "owner": "",
-      "views": 547552,
-      "likes": 9664,
-      "coins": 2471,
-      "favorites": 1452,
-      "pic": "http://i1.hdslb.com/bfs/archive/2c47752e2285acc39bf962ae94495b81c1890aa6.jpg"
+      "rank": 5,
+      "title": "《原神》幕后的故事：向至冬，向未来",
+      "category": "手机游戏",
+      "views": 1986922,
+      "author": "原神"
     },
     {
-      "bvid": "BV1NUdoBVEWn",
-      "title": "【你们村有大龄未婚青年吗】“我就是”",
-      "tname": "搞笑",
-      "owner": "",
-      "views": 574417,
-      "likes": 24638,
-      "coins": 5652,
-      "favorites": 1935,
-      "pic": "http://i1.hdslb.com/bfs/archive/ff6d99735057e8958b702cc7cc77214824ebee65.jpg"
+      "rank": 6,
+      "title": "对不起...",
+      "category": "搞笑",
+      "views": 2728940,
+      "author": "逗比的雀巢"
     },
     {
-      "bvid": "BV1CVdVBjETn",
-      "title": "口技表演《三打白骨精》",
-      "tname": "演奏",
-      "owner": "",
-      "views": 6030190,
-      "likes": 676862,
-      "coins": 222977,
-      "favorites": 139634,
-      "pic": "http://i0.hdslb.com/bfs/archive/6a8bf3c3772ab9ed390a9ba33e35ab1b81d2d484.jpg"
+      "rank": 7,
+      "title": "唱着山歌来买瓜",
+      "category": "鬼畜剧场",
+      "views": 4210467,
+      "author": "猫屎花生"
     },
     {
-      "bvid": "BV1dsQnB7EHb",
-      "title": "《异环》公测PV丨Play on！",
-      "tname": "同人·手书",
-      "owner": "",
-      "views": 7134295,
-      "likes": 151300,
-      "coins": 14229,
-      "favorites": 25538,
-      "pic": "http://i2.hdslb.com/bfs/archive/e87014363957db46508a86f3872ec3c29c4aab58.jpg"
+      "rank": 8,
+      "title": "腹有视频气自滑✨",
+      "category": "短片",
+      "views": 2911989,
+      "author": "papi酱"
     },
     {
-      "bvid": "BV1MPdBB8EEN",
-      "title": "《重返未来：1999》三周年特别版本·3.7版本PV：他者的悲哀",
-      "tname": "手机游戏",
-      "owner": "",
-      "views": 3270962,
-      "likes": 52586,
-      "coins": 10752,
-      "favorites": 17926,
-      "pic": "http://i2.hdslb.com/bfs/archive/54c2c246c9fcedcc4cf3d3e1cc32acdcd376570c.jpg"
+      "rank": 9,
+      "title": "如何在亚马逊雨林里种树？【硬核狠人88】",
+      "category": "人文历史",
+      "views": 2447568,
+      "author": "小约翰可汗"
     },
     {
-      "bvid": "BV1fcdZBAEwk",
-      "title": "老实了，能不能送我回去",
-      "tname": "短片",
-      "owner": "",
-      "views": 2436056,
-      "likes": 100359,
-      "coins": 1215,
-      "favorites": 3777,
-      "pic": "http://i1.hdslb.com/bfs/archive/205d680bc97eb16e3ac323de22333318e06f13ff.jpg"
+      "rank": 10,
+      "title": "你可以熬夜，但第二天必须去做这些恢复。",
+      "category": "校园学习",
+      "views": 3524435,
+      "author": "心理能量1101"
     },
     {
-      "bvid": "BV1xJoNBPEey",
-      "title": "二舅彻底退场！",
-      "tname": "亲子",
-      "owner": "",
-      "views": 238513,
-      "likes": 30315,
-      "coins": 29804,
-      "favorites": 2104,
-      "pic": "http://i2.hdslb.com/bfs/archive/6b591620da1ee80e3030c734e3714a44a95834ac.jpg"
+      "rank": 11,
+      "title": "城市大富翁（4）",
+      "category": "日常",
+      "views": 2223986,
+      "author": "雨哥到处跑"
     },
     {
-      "bvid": "BV1wYdWB5EVF",
-      "title": "《崩坏：星穹铁道》银狼LV.999角色PV——「我独自满级」",
-      "tname": "手机游戏",
-      "owner": "",
-      "views": 4460558,
-      "likes": 341088,
-      "coins": 179906,
-      "favorites": 100146,
-      "pic": "http://i2.hdslb.com/bfs/archive/1dd6a05f83dbc9f830ecd7bbce96b44a8b736bd5.jpg"
+      "rank": 12,
+      "title": "45岁派出所所长执勤中不幸牺牲，从辅警到所长，他用25年走完忠诚之路！",
+      "category": "日常",
+      "views": 3968945,
+      "author": "人民日报"
     },
     {
-      "bvid": "BV1uYdRByEXX",
-      "title": "刘巳道重拍《哭声》：怀疑即有罪，神明皆恶鬼，万般抉择，皆赴既定终局  /  上集",
-      "tname": "影视杂谈",
-      "owner": "",
-      "views": 1412164,
-      "likes": 77603,
-      "coins": 68568,
-      "favorites": 52500,
-      "pic": "http://i0.hdslb.com/bfs/archive/c4d7907d8fc803e0ca5bef413dd61810bae9bb6f.jpg"
+      "rank": 13,
+      "title": "这个世界上这么讨人嫌，让人想沙的脸居然有两张…《enemy》第二集",
+      "category": "短片",
+      "views": 1746203,
+      "author": "煎饼果仔呀"
     },
     {
-      "bvid": "BV1MWdZBEE2t",
-      "title": "10星罗隐解放大脑，快速启动，贪婪一开直接开打",
-      "tname": "手机游戏",
-      "owner": "",
-      "views": 541508,
-      "likes": 33736,
-      "coins": 1350,
-      "favorites": 1665,
-      "pic": "http://i1.hdslb.com/bfs/archive/9d0ca86917099ea36bb1f57522ed4e28c286cd53.jpg"
+      "rank": 14,
+      "title": "同学你的学帽掉了",
+      "category": "搞笑",
+      "views": 2159294,
+      "author": "大森子哈哈哈"
     },
     {
-      "bvid": "BV14MdfB7EiM",
-      "title": "多年以后，面对这个视频，我还是会回想起做布丁的那个美妙的下午",
-      "tname": "美食制作",
-      "owner": "",
-      "views": 619993,
-      "likes": 33451,
-      "coins": 787,
-      "favorites": 4223,
-      "pic": "http://i0.hdslb.com/bfs/archive/d62df75b1e8607c7cf28cb8c36dc83f697ed5e98.jpg"
-    },
-    {
-      "bvid": "BV17Cd5B1E8P",
-      "title": "全明星登场无限城！无惨；你们都是什么柱？！",
-      "tname": "MAD·AMV",
-      "owner": "",
-      "views": 2044800,
-      "likes": 121643,
-      "coins": 30996,
-      "favorites": 34507,
-      "pic": "http://i1.hdslb.com/bfs/archive/5a71b081d228086f1e57ca7b6d6252f1c7a035c9.jpg"
-    },
-    {
-      "bvid": "BV1amdJB7EzS",
-      "title": "5分钟看完不结婚的一生，到底是什么样子？—自制AI短片",
-      "tname": "影视剪辑",
-      "owner": "",
-      "views": 790579,
-      "likes": 40787,
-      "coins": 12017,
-      "favorites": 14362,
-      "pic": "http://i1.hdslb.com/bfs/archive/5f987519323fdc5da6e50dfa8c7411c5fe82c313.jpg"
-    },
-    {
-      "bvid": "BV1y4ddBqEii",
-      "title": "☝️当手作娘又开始灵机一动",
-      "tname": "手工",
-      "owner": "",
-      "views": 980138,
-      "likes": 60235,
-      "coins": 574,
-      "favorites": 6590,
-      "pic": "http://i2.hdslb.com/bfs/archive/f86d923ad891afccb126ca673ba9a8d72771aa5e.jpg"
-    },
-    {
-      "bvid": "BV1j6oNBSE9V",
-      "title": "新西兰夯爆了！",
-      "tname": "出行",
-      "owner": "",
-      "views": 267497,
-      "likes": 23853,
-      "coins": 6078,
-      "favorites": 3334,
-      "pic": "http://i1.hdslb.com/bfs/archive/69773d3c28c0d213ff02c481fab4cb08253baca7.jpg"
-    },
-    {
-      "bvid": "BV1c2dEBFEsR",
-      "title": "不同时间炸牛肉",
-      "tname": "搞笑",
-      "owner": "",
-      "views": 2046218,
-      "likes": 46760,
-      "coins": 683,
-      "favorites": 2821,
-      "pic": "http://i2.hdslb.com/bfs/archive/321c201ef72ef9c4059a25d6c459b76a1dfce9fd.jpg"
+      "rank": 15,
+      "title": "《谁家之AI夺舍了我的父母》",
+      "category": "搞笑",
+      "views": 2294569,
+      "author": "嘞是唐孃孃"
     }
-  ],
-  "trending_topics": []
+  ]
 }
