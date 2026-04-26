@@ -1,457 +1,50 @@
 {
-  "update_time": "2026-04-26 11:49 (北京时间)",
-  "update_timestamp": 1777175780,
-  "data_sources": {
-    "cctv_news": "https://www.toutiao.com/",
-    "weibo_hot": "https://weibo.com/ajax/side/hotSearch",
-    "weather": "wttr.in/Chengdu",
-    "bilibili_hot": "https://www.bilibili.com/"
-  },
-  "summary": {
-    "top_weibo": [
-      {
-        "rank": 1,
-        "word": "白宫晚宴枪击事件枪手身亡",
-        "num": 2021903,
-        "label": "热"
-      },
-      {
-        "rank": 2,
-        "word": "特朗普公布枪手强闯安检录像",
-        "num": 983737,
-        "label": "新"
-      },
-      {
-        "rank": 3,
-        "word": "南方又一轮降雨降温",
-        "num": 924453,
-        "label": "新"
-      },
-      {
-        "rank": 4,
-        "word": "向确定性出发",
-        "num": 924375,
-        "label": "商"
-      },
-      {
-        "rank": 5,
-        "word": "一袋糯米 全部暴露",
-        "num": 924060,
-        "label": "新"
-      }
+  "update_time": "2026-04-26T13:29:00+08:00",
+  "data": {
+    "cctv_news": [
+      {"title": "习近平同老挝人民革命党中央委员会总书记、国家主席通伦就中老建交65周年互致贺电", "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_18869ed3c7390352", "date": "2026-04-26", "summary": "4月25日，习近平同老挝人民革命党中央委员会总书记、国家主席通伦互致贺电，庆祝两国建交65周年。习近平强调，中国党和政府始终从战略高度和长远角度看待中老关系。"},
+      {"title": "习近平同佛得角总统内韦斯就中佛建交50周年互致贺电", "url": "https://www.sohu.com/a/1014702346_121106869", "date": "2026-04-26", "summary": "4月25日，国家主席习近平同佛得角总统内韦斯互致贺电，庆祝两国建交50周年。"},
+      {"title": "一季度我国货运量达131.9亿吨 同比增长4.1%", "url": "https://www.sohu.com/a/1014702346_121106869", "date": "2026-04-26", "summary": "交通运输部最新数据显示，一季度我国营业性货运量达131.9亿吨，同比增长4.1%。"},
+      {"title": "我国在太原卫星发射中心成功发射巴基斯坦PRSC-EO3卫星", "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_99769ed550b03752", "date": "2026-04-26", "summary": "4月25日20时15分，长征六号运载火箭成功将巴基斯坦PRSC-EO3卫星发射升空。"},
+      {"title": "商务部回应欧盟第20轮对俄制裁列单中国企业", "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_40269ed433629252", "date": "2026-04-26", "summary": "中方将采取必要措施，坚决维护中国企业的正当合法权益，一切后果将由欧方承担。"},
+      {"title": "我国首个百万方级盐穴储氢示范项目在河南投产运行", "url": "https://www.sohu.com/a/1014673309_121123890", "date": "2026-04-26", "summary": "该工程补齐氢能大规模、低成本储存关键短板，标志着我国氢能"制—储—输—用"正式迈入产业化新阶段。"},
+      {"title": "南方新一轮强降雨将至 两部门部署防范应对工作", "url": "https://news.youth.cn/gn/202604/t20260426_16628257.htm", "date": "2026-04-26", "summary": "预计4月26日至29日西南地区东部、江汉、江南、华南等地将出现新一轮强降雨过程。"}
     ],
-    "top_bilibili": [
-      {
-        "rank": 1,
-        "title": "⚡对 对 子 战 神 4⚡",
-        "category": "鬼畜调教",
-        "views": 5701700,
-        "author": "洛温阿特金森"
-      },
-      {
-        "rank": 2,
-        "title": "\"音乐一响 神兵登场\"",
-        "category": "音乐综合",
-        "views": 6243113,
-        "author": "醉心日推音乐"
-      },
-      {
-        "rank": 3,
-        "title": "宝岛珠还，功成无我",
-        "category": "短片",
-        "views": 3231164,
-        "author": "朱铁雄"
-      },
-      {
-        "rank": 4,
-        "title": "翻译翻译 什么叫猛攻！",
-        "category": "影视剪辑",
-        "views": 7005662,
-        "author": "三角洲行动"
-      },
-      {
-        "rank": 5,
-        "title": "《原神》幕后的故事：向至冬，向未来",
-        "category": "手机游戏",
-        "views": 1986922,
-        "author": "原神"
-      }
-    ],
-    "weather_current": {
-      "temp": "26°C",
-      "feels_like": "28°C",
-      "weather": "Patchy rain nearby",
-      "wind": "9 km/h",
-      "humidity": "51%",
-      "visibility": "10 km"
-    },
-    "news_count": 12
-  },
-  "detailed": {
-    "news": [
-      {
-        "title": "郑丽文正式宣 战 (1) (2)",
-        "url": "",
-        "category": "视频",
-        "time": "2026-04-26"
-      },
-      {
-        "title": "中国核武器#现身#伊朗？洞库导弹字样曝光，开始给中国“埋雷”？",
-        "url": "",
-        "category": "视频",
-        "time": "2026-04-26"
-      },
-      {
-        "title": "41票赞成49票反对！美投票结果出来了，特朗普：美头号敌人或出现",
-        "url": "",
-        "category": "视频",
-        "time": "2026-04-26"
-      },
-      {
-        "title": "发改委“大老虎”落马！周末打虎不手软，今年第24只",
-        "url": "",
-        "category": "新闻",
-        "time": "2026-04-26"
-      },
-      {
-        "title": "大家要有心理准备，明后两天，金价或将重现15年历史！",
-        "url": "",
-        "category": "视频",
-        "time": "2026-04-26"
-      },
-      {
-        "title": "保安扇女子耳光事件新监控曝光：保安身份被扒，暴力推车门夹腿",
-        "url": "",
-        "category": "视频",
-        "time": "2026-04-26"
-      },
-      {
-        "title": "金价重现历史了！要有心理准备，下月，金价或将重现2015年历",
-        "url": "",
-        "category": "视频",
-        "time": "2026-04-26"
-      },
-      {
-        "title": "CBA积分榜最新排名出炉！北京杀进前三，辽宁跌入谷底",
-        "url": "",
-        "category": "视频",
-        "time": "2026-04-26"
-      },
-      {
-        "title": "存钱的注意了！5月1日新规正式执行，12万至50万存取利息全部调整",
-        "url": "",
-        "category": "新闻",
-        "time": "2026-04-26"
-      },
-      {
-        "title": "伊朗传来意外的好消息 (8)",
-        "url": "",
-        "category": "视频",
-        "time": "2026-04-26"
-      },
-      {
-        "title": "退休警察谈“女子与保安冲突事件”：不构成互殴，保安大概率属于滥用职权",
-        "url": "",
-        "category": "新闻",
-        "time": "2026-04-26"
-      },
-      {
-        "title": "五角大楼附近客车相撞致数十人受伤 现场监控曝光",
-        "url": "",
-        "category": "视频",
-        "time": "2026-04-26"
-      }
-    ],
-    "weibo": [
-      {
-        "rank": 1,
-        "word": "白宫晚宴枪击事件枪手身亡",
-        "num": 2021903,
-        "label": "热"
-      },
-      {
-        "rank": 2,
-        "word": "特朗普公布枪手强闯安检录像",
-        "num": 983737,
-        "label": "新"
-      },
-      {
-        "rank": 3,
-        "word": "南方又一轮降雨降温",
-        "num": 924453,
-        "label": "新"
-      },
-      {
-        "rank": 4,
-        "word": "向确定性出发",
-        "num": 924375,
-        "label": "商"
-      },
-      {
-        "rank": 5,
-        "word": "一袋糯米 全部暴露",
-        "num": 924060,
-        "label": "新"
-      },
-      {
-        "rank": 6,
-        "word": "张若昀评论区",
-        "num": 907460,
-        "label": "新"
-      },
-      {
-        "rank": 7,
-        "word": "东方甄选4名主播同日宣布离职",
-        "num": 827842,
-        "label": ""
-      },
-      {
-        "rank": 8,
-        "word": "阚清子老公不抢曾沛慈的第一solo",
-        "num": 823375,
-        "label": "新"
-      },
-      {
-        "rank": 9,
-        "word": "羽毛球取消21分制",
-        "num": 729562,
-        "label": "新"
-      },
-      {
-        "rank": 10,
-        "word": "看上去很贵实际便宜又好玩的城市",
-        "num": 546719,
-        "label": ""
-      },
-      {
-        "rank": 11,
-        "word": "榴莲已经20多元一斤了",
-        "num": 416165,
-        "label": ""
-      },
-      {
-        "rank": 12,
-        "word": "宁艺卓回怼粉丝",
-        "num": 409173,
-        "label": "热"
-      },
-      {
-        "rank": 13,
-        "word": "阚清子说自己胖了干啥都心酸",
-        "num": 399413,
-        "label": "新"
-      },
-      {
-        "rank": 14,
-        "word": "俞敏洪回应多位主播离职",
-        "num": 389275,
-        "label": ""
-      },
-      {
-        "rank": 15,
-        "word": "齐思钧表情",
-        "num": 381885,
-        "label": ""
-      },
-      {
-        "rank": 16,
-        "word": "周杰伦方回应新豪宅在昆凌父亲名下",
-        "num": 371913,
-        "label": ""
-      },
-      {
-        "rank": 17,
-        "word": "DeepSeek致谢近300研发者10人已离职",
-        "num": 342237,
-        "label": "新"
-      },
-      {
-        "rank": 18,
-        "word": "森林狼vs掘金",
-        "num": 333938,
-        "label": ""
-      },
-      {
-        "rank": 19,
-        "word": "得知胎儿色盲孕晚期女子称害了孩子",
-        "num": 333443,
-        "label": ""
-      },
-      {
-        "rank": 20,
-        "word": "特朗普因安全原因离开白宫晚宴",
-        "num": 325154,
-        "label": ""
-      },
-      {
-        "rank": 21,
-        "word": "火湖G3漏吹詹姆斯踩线",
-        "num": 315560,
-        "label": ""
-      },
-      {
-        "rank": 22,
-        "word": "建议大家衣服不要攒一起洗",
-        "num": 314484,
-        "label": ""
-      },
-      {
-        "rank": 23,
-        "word": "网传浪姐二公个喜排名",
-        "num": 306466,
-        "label": ""
-      },
-      {
-        "rank": 24,
-        "word": "张檬小五儿子一岁了",
-        "num": 294683,
-        "label": ""
-      },
-      {
-        "rank": 25,
-        "word": "22岁女孩运动减肥把肌肉练爆了",
-        "num": 241367,
-        "label": ""
-      }
+    "weibo_hot": [
+      {"rank": 1, "title": "习近平同内韦斯互致贺电", "heat": "364249", "source": "微博热搜"},
+      {"rank": 2, "title": "副所长为完成任务设计让6人吸毒", "heat": "364249", "source": "微博热搜"},
+      {"rank": 3, "title": "旅游很多次才知道的事", "heat": "336539", "source": "微博热搜"},
+      {"rank": 4, "title": "开局之年看中国", "heat": "332702", "source": "微博热搜"},
+      {"rank": 5, "title": "齐思钧表情", "heat": "332481", "source": "微博热搜"},
+      {"rank": 6, "title": "李昀锐连孟子义名字都不提", "heat": "332013", "source": "微博热搜"},
+      {"rank": 7, "title": "被减肥背刺了", "heat": "329501", "source": "微博热搜"},
+      {"rank": 8, "title": "16岁高中生或发现侵华日军新罪证", "heat": "314212", "source": "微博热搜"},
+      {"rank": 9, "title": "东方甄选明明离职原因", "heat": "295923", "source": "微博热搜"},
+      {"rank": 10, "title": "中方:绝不允许日本军国主义死灰复燃", "heat": "634万", "source": "微博热搜"}
     ],
     "weather": {
-      "update_time": "2026-04-26 11:49 (北京时间)",
-      "location": "成都",
-      "current": {
-        "temp": "26°C",
-        "feels_like": "28°C",
-        "weather": "Patchy rain nearby",
-        "wind": "9 km/h",
-        "humidity": "51%",
-        "visibility": "10 km"
-      },
+      "location": "Shanghai",
+      "current": {"tempC": "26", "feelsLikeC": "25", "condition": "晴转多云", "humidity": "50", "windspeedKmph": "12", "windDirection": "东南风", "pressure": "1016", "visibility": "10", "uvIndex": "6", "cloudCover": "30"},
+      "astronomy": {"sunrise": "05:21 AM", "sunset": "06:25 PM"},
       "forecast": [
-        {
-          "date": "2026-04-26",
-          "max_temp": "25",
-          "min_temp": "19",
-          "weather": "Patchy rain nearby"
-        },
-        {
-          "date": "2026-04-27",
-          "max_temp": "20",
-          "min_temp": "18",
-          "weather": "Patchy rain nearby"
-        },
-        {
-          "date": "2026-04-28",
-          "max_temp": "22",
-          "min_temp": "16",
-          "weather": "Partly Cloudy "
-        }
+        {"date": "04-26", "week": "周日", "weather": "晴转多云", "high": "26", "low": "12"},
+        {"date": "04-27", "week": "周一", "weather": "多云转阵雨", "high": "25", "low": "14"},
+        {"date": "04-28", "week": "周二", "weather": "中雨", "high": "18", "low": "13"},
+        {"date": "04-29", "week": "周三", "weather": "阵雨转多云", "high": "20", "low": "12"},
+        {"date": "04-30", "week": "周四", "weather": "多云", "high": "22", "low": "12"}
       ]
     },
-    "bilibili": [
-      {
-        "rank": 1,
-        "title": "⚡对 对 子 战 神 4⚡",
-        "category": "鬼畜调教",
-        "views": 5701700,
-        "author": "洛温阿特金森"
-      },
-      {
-        "rank": 2,
-        "title": "\"音乐一响 神兵登场\"",
-        "category": "音乐综合",
-        "views": 6243113,
-        "author": "醉心日推音乐"
-      },
-      {
-        "rank": 3,
-        "title": "宝岛珠还，功成无我",
-        "category": "短片",
-        "views": 3231164,
-        "author": "朱铁雄"
-      },
-      {
-        "rank": 4,
-        "title": "翻译翻译 什么叫猛攻！",
-        "category": "影视剪辑",
-        "views": 7005662,
-        "author": "三角洲行动"
-      },
-      {
-        "rank": 5,
-        "title": "《原神》幕后的故事：向至冬，向未来",
-        "category": "手机游戏",
-        "views": 1986922,
-        "author": "原神"
-      },
-      {
-        "rank": 6,
-        "title": "对不起...",
-        "category": "搞笑",
-        "views": 2728940,
-        "author": "逗比的雀巢"
-      },
-      {
-        "rank": 7,
-        "title": "唱着山歌来买瓜",
-        "category": "鬼畜剧场",
-        "views": 4210467,
-        "author": "猫屎花生"
-      },
-      {
-        "rank": 8,
-        "title": "腹有视频气自滑✨",
-        "category": "短片",
-        "views": 2911989,
-        "author": "papi酱"
-      },
-      {
-        "rank": 9,
-        "title": "如何在亚马逊雨林里种树？【硬核狠人88】",
-        "category": "人文历史",
-        "views": 2447568,
-        "author": "小约翰可汗"
-      },
-      {
-        "rank": 10,
-        "title": "你可以熬夜，但第二天必须去做这些恢复。",
-        "category": "校园学习",
-        "views": 3524435,
-        "author": "心理能量1101"
-      },
-      {
-        "rank": 11,
-        "title": "城市大富翁（4）",
-        "category": "日常",
-        "views": 2223986,
-        "author": "雨哥到处跑"
-      },
-      {
-        "rank": 12,
-        "title": "45岁派出所所长执勤中不幸牺牲，从辅警到所长，他用25年走完忠诚之路！",
-        "category": "日常",
-        "views": 3968945,
-        "author": "人民日报"
-      },
-      {
-        "rank": 13,
-        "title": "这个世界上这么讨人嫌，让人想沙的脸居然有两张…《enemy》第二集",
-        "category": "短片",
-        "views": 1746203,
-        "author": "煎饼果仔呀"
-      },
-      {
-        "rank": 14,
-        "title": "同学你的学帽掉了",
-        "category": "搞笑",
-        "views": 2159294,
-        "author": "大森子哈哈哈"
-      },
-      {
-        "rank": 15,
-        "title": "《谁家之AI夺舍了我的父母》",
-        "category": "搞笑",
-        "views": 2294569,
-        "author": "嘞是唐孃孃"
-      }
+    "bilibili_hot": [
+      {"rank": 1, "title": "苏新皓翻跳崔然竣《GGUM》舞蹈", "url": "https://www.bilibili.com/", "author": "苏新皓", "views": "100万+", "likes": "10万+"},
+      {"rank": 2, "title": "《将夜》国创登顶B站榜首 播放量突破870万", "url": "https://www.bilibili.com/bangumi/play/ss46028", "author": "万维猫动画", "views": "870万+", "likes": "50万+"},
+      {"rank": 3, "title": "《凡人修仙传》B站国创榜第二", "url": "https://www.bilibili.com/bangumi/play/ss38026", "author": "万维猫动画", "views": "持续热播", "likes": "热度极高"},
+      {"rank": 4, "title": "《牌子》7分钟短片 播放量1899万", "url": "https://www.bilibili.com/", "author": "独立动画人", "views": "1899万", "likes": "百万奖金作品"},
+      {"rank": 5, "title": "灵魂摆渡·浮生梦 首部真人AI网络故事片", "url": "https://www.bilibili.com/", "author": "灵魂摆渡官方", "views": "热播中", "likes": "热议"},
+      {"rank": 6, "title": "盘点十部世界番", "url": "https://www.bilibili.com/", "author": "动漫UP主", "views": "50万+", "likes": "3万+"},
+      {"rank": 7, "title": "破产大王如何搞发明？【小约翰】", "url": "https://www.bilibili.com/video/BV1ewdhBmEux", "author": "小约翰可汗", "views": "2879190", "likes": "177400"},
+      {"rank": 8, "title": "郝 哥 不 在", "url": "https://www.bilibili.com/video/BV1RwdhBmE3M", "author": "岩罗Crv", "views": "3993070", "likes": "415176"},
+      {"rank": 9, "title": "口技表演《三打白骨精》", "url": "https://www.bilibili.com/video/BV1CVdVBjETn", "author": "BBoxer酋长", "views": "5981009", "likes": "672196"},
+      {"rank": 10, "title": "《非法组队》", "url": "https://www.bilibili.com/video/BV1QTdHBpEfR", "author": "伤心欲茄222", "views": "2420331", "likes": "234672"}
     ]
   }
 }

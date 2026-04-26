@@ -1,32 +1,27 @@
 {
-  "update_time": "2026-04-26 11:49 (北京时间)",
-  "location": "成都",
+  "update_time": "2026-04-26T13:29:00+08:00",
+  "location": "Shanghai",
   "current": {
-    "temp": "26°C",
-    "feels_like": "28°C",
-    "weather": "Patchy rain nearby",
-    "wind": "9 km/h",
-    "humidity": "51%",
-    "visibility": "10 km"
+    "tempC": "26",
+    "feelsLikeC": "25",
+    "condition": "晴转多云",
+    "humidity": "50",
+    "windspeedKmph": "12",
+    "windDirection": "东南风",
+    "pressure": "1016",
+    "visibility": "10",
+    "uvIndex": "6",
+    "cloudCover": "30"
+  },
+  "astronomy": {
+    "sunrise": "05:21 AM",
+    "sunset": "06:25 PM"
   },
   "forecast": [
-    {
-      "date": "2026-04-26",
-      "max_temp": "25",
-      "min_temp": "19",
-      "weather": "Patchy rain nearby"
-    },
-    {
-      "date": "2026-04-27",
-      "max_temp": "20",
-      "min_temp": "18",
-      "weather": "Patchy rain nearby"
-    },
-    {
-      "date": "2026-04-28",
-      "max_temp": "22",
-      "min_temp": "16",
-      "weather": "Partly Cloudy "
-    }
+    {"date": "04-26", "week": "周日", "weather": "晴转多云", "high": "26", "low": "12"},
+    {"date": "04-27", "week": "周一", "weather": "多云转阵雨", "high": "25", "low": "14"},
+    {"date": "04-28", "week": "周二", "weather": "中雨", "high": "18", "low": "13"},
+    {"date": "04-29", "week": "周三", "weather": "阵雨转多云", "high": "20", "low": "12"},
+    {"date": "04-30", "week": "周四", "weather": "多云", "high": "22", "low": "12"}
   ]
 }

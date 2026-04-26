@@ -1,51 +1,15 @@
 {
-  "updateTime": "2026-04-19T16:50:17+08:00",
-  "source": "bilibili.com 排行榜",
-  "hotVideos": [
-    {
-      "title": "口技表演《三打白骨精》",
-      "bvid": "BV1CVdVBjETn",
-      "url": "https://b23.tv/BV1CVdVBjETn",
-      "author": "BBoxer酋长",
-      "views": 4703503,
-      "likes": 548654,
-      "category": "音乐现场"
-    },
-    {
-      "title": "郝 哥 不 在",
-      "bvid": "BV1RwdhBmE3M",
-      "url": "https://b23.tv/BV1RwdhBmE3M",
-      "author": "岩罗Crv",
-      "views": 3577540,
-      "likes": 378302,
-      "category": "鬼畜综合"
-    },
-    {
-      "title": "《物理兴奋剂》",
-      "bvid": "BV1ZxQpBsEuN",
-      "url": "https://b23.tv/BV1ZxQpBsEuN",
-      "author": "伤心欲茄222",
-      "views": 5705227,
-      "likes": 501895,
-      "category": "语言类小剧场"
-    },
-    {
-      "title": "终于来了！大疆Pocket 4上手",
-      "bvid": "BV1DgdhBGEq2",
-      "url": "https://b23.tv/BV1DgdhBGEq2",
-      "author": "影视飓风",
-      "views": 3953445,
-      "likes": 296600,
-      "category": "摄影摄像"
-    },
-    {
-      "title": "《崩坏：星穹铁道》千星纪游PV",
-      "bvid": "BV118dqBXEgB",
-      "url": "https://b23.tv/BV118dqBXEgB",
-      "author": "崩坏星穹铁道",
-      "views": 3140556,
-      "likes": 260656,
-      "category": "单人RPG游戏"
-    }
+  "update_time": "2026-04-26T13:29:00+08:00",
+  "videos": [
+    {"rank": 1, "title": "苏新皓翻跳崔然竣《GGUM》舞蹈", "url": "https://www.bilibili.com/", "author": "苏新皓", "views": "100万+", "likes": "10万+"},
+    {"rank": 2, "title": "《将夜》国创登顶B站榜首 播放量突破870万", "url": "https://www.bilibili.com/bangumi/play/ss46028", "author": "万维猫动画", "views": "870万+", "likes": "50万+"},
+    {"rank": 3, "title": "《凡人修仙传》B站国创榜第二", "url": "https://www.bilibili.com/bangumi/play/ss38026", "author": "万维猫动画", "views": "持续热播", "likes": "热度极高"},
+    {"rank": 4, "title": "《牌子》7分钟短片 播放量1899万", "url": "https://www.bilibili.com/", "author": "独立动画人", "views": "1899万", "likes": "百万奖金作品"},
+    {"rank": 5, "title": "灵魂摆渡·浮生梦 首部真人AI网络故事片", "url": "https://www.bilibili.com/", "author": "灵魂摆渡官方", "views": "热播中", "likes": "热议"},
+    {"rank": 6, "title": "盘点十部世界番", "url": "https://www.bilibili.com/", "author": "动漫UP主", "views": "50万+", "likes": "3万+"},
+    {"rank": 7, "title": "破产大王如何搞发明？【小约翰】", "url": "https://www.bilibili.com/video/BV1ewdhBmEux", "author": "小约翰可汗", "views": "2879190", "likes": "177400"},
+    {"rank": 8, "title": "郝 哥 不 在", "url": "https://www.bilibili.com/video/BV1RwdhBmE3M", "author": "岩罗Crv", "views": "3993070", "likes": "415176"},
+    {"rank": 9, "title": "口技表演《三打白骨精》", "url": "https://www.bilibili.com/video/BV1CVdVBjETn", "author": "BBoxer酋长", "views": "5981009", "likes": "672196"},
+    {"rank": 10, "title": "《非法组队》", "url": "https://www.bilibili.com/video/BV1QTdHBpEfR", "author": "伤心欲茄222", "views": "2420331", "likes": "234672"}
   ]
 }
