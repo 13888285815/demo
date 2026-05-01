@@ -1,31 +1,43 @@
 {
-  "updateTime": "2026-04-19T16:49:55+08:00",
-  "source": "news.cctv.com",
+  "update_time": "2026-05-01T17:06:00+08:00",
+  "source": "央视网 news.cctv.com",
   "headlines": [
     {
-      "title": "我国氢能规模化应用取得新突破",
-      "url": "https://news.cctv.com/2026/04/19/ARTIP7e08bv3T2c0hQ4btYq6260419.shtml",
-      "description": "我国首个10万户级天然气掺氢规模化应用项目在山东潍坊正式启动"
+      "title": "今年一季度电子信息制造业生产按下“加速键”",
+      "url": "https://news.cctv.com/2026/05/01/ARTIWIAipwsfibsiCXJFmhou260501.shtml",
+      "time": "2026-05-01",
+      "category": "经济"
     },
     {
-      "title": "消博会见证中国大市场以开放姿态持续圈粉世界",
-      "url": "https://news.cctv.com/2026/04/19/ARTIdui6Z69gJ9k13aiXfOyc260419.shtml",
-      "description": "第六届消博会落下帷幕，展览总面积达14.3万平方米，吸引67个国家和地区3413个品牌参展"
+      "title": "透过数据看“五一”假期出行“热”力十足",
+      "url": "https://news.cctv.com/2026/05/01/ARTIA383DDPSDHPCSnHlccHi260501.shtml",
+      "time": "2026-05-01",
+      "category": "社会"
     },
     {
-      "title": "多份消费品行业报告发布 反映中国汽车智造新动态",
-      "url": "https://news.cctv.com/2026/04/19/ARTIICt06XG4DCE9iQJTmh2K260419.shtml",
-      "description": "中国消费品质量安全促进会联合多家机构发布2026年消费品行业系列研究报告"
+      "title": "“五一”假期各地文旅活动精彩纷呈 消费活力持续释放",
+      "url": "https://news.cctv.com/2026/05/01/ARTIgMIXrZYyVgwcaJzedQpZ260501.shtml",
+      "time": "2026-05-01",
+      "category": "社会"
     },
     {
-      "title": "广东：第139届广交会第一期今天结束",
-      "url": "https://tv.cctv.com/2026/04/19/VIDEzWyYeb42od7uqrCGmaoG260419.shtml",
-      "description": "第139届广交会第一期于4月19日结束"
+      "title": "第139届广交会第三期开展",
+      "url": "https://tv.cctv.com/2026/05/01/VIDE6tyHNk9Xl0YJURbwUB4V260501.shtml",
+      "time": "2026-05-01",
+      "category": "经济"
     },
     {
-      "title": "五一假期购票：今天可买5月3日火车票",
-      "url": "https://tv.cctv.com/2026/04/19/VIDEHksc2JPz18LKxKALP9G9260419.shtml",
-      "description": "五一假期火车票购票提示"
+      "title": "5月1日12时起我国四大海域进入伏季休渔期",
+      "url": "https://tv.cctv.com/2026/05/01/VIDEsyhMzpPxsyMqFJSr68eG260501.shtml",
+      "time": "2026-05-01",
+      "category": "国内"
+    },
+    {
+      "title": "5月1日至5月3日我国多地有降水降温过程",
+      "url": "https://tv.cctv.com/2026/05/01/VIDEqLhDfVGEgnMCp1W1qNJ4260501.shtml",
+      "time": "2026-05-01",
+      "category": "国内"
     }
-  ]
+  ],
+  "summary": "央视新闻今日关注：五一假期首日出行客流旺盛；电子信息制造业快速增长；各地文旅活动精彩纷呈消费活力释放"
 }

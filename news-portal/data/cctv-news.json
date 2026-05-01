@@ -1,47 +1,43 @@
 {
-  "update_time": "2026-04-20T17:18:00+08:00",
-  "news": [
+  "update_time": "2026-05-01T17:06:00+08:00",
+  "source": "央视网 news.cctv.com",
+  "headlines": [
     {
-      "title": "习近平文化思想引领书香社会建设 全国首个全民阅读活动周启幕",
-      "url": "https://www.xinhuanet.com/",
-      "date": "2026-04-20",
-      "summary": "国务院批复设立的全国首个全民阅读活动周与第五届全民阅读大会于4月20日同步启幕。"
+      "title": "今年一季度电子信息制造业生产按下“加速键”",
+      "url": "https://news.cctv.com/2026/05/01/ARTIWIAipwsfibsiCXJFmhou260501.shtml",
+      "time": "2026-05-01",
+      "category": "经济"
     },
     {
-      "title": "一季度中国经济硬核数据再上新 GDP同比增长5.0%",
-      "url": "https://www.xinhuanet.com/",
-      "date": "2026-04-20",
-      "summary": "一季度GDP同比增长5.0%，2025年网络视听行业市场规模达1.29万亿元，2026年以旧换新销售额已超5000亿。"
+      "title": "透过数据看“五一”假期出行“热”力十足",
+      "url": "https://news.cctv.com/2026/05/01/ARTIA383DDPSDHPCSnHlccHi260501.shtml",
+      "time": "2026-05-01",
+      "category": "社会"
     },
     {
-      "title": "日本发生7.5级地震 气象厅发布海啸警报",
-      "url": "https://www.xinhuanet.com/",
-      "date": "2026-04-20",
-      "summary": "当地时间4月20日，日本气象厅将该国东北部沿海地区的地震震级调整至7.5级，发布海啸警报要求民众立即避难。"
+      "title": "“五一”假期各地文旅活动精彩纷呈 消费活力持续释放",
+      "url": "https://news.cctv.com/2026/05/01/ARTIgMIXrZYyVgwcaJzedQpZ260501.shtml",
+      "time": "2026-05-01",
+      "category": "社会"
     },
     {
-      "title": "\"五一\"假期我国航空公司国际航线运力足",
-      "url": "https://tv.cctv.com/2026/04/20/VIDE5wDv5g7LoFMPI1ULJG0g260420.shtml",
-      "date": "2026-04-20",
-      "summary": "五一假期临近，我国航空公司持续加大国际航线运力投放，出境游热度持续攀升。"
+      "title": "第139届广交会第三期开展",
+      "url": "https://tv.cctv.com/2026/05/01/VIDE6tyHNk9Xl0YJURbwUB4V260501.shtml",
+      "time": "2026-05-01",
+      "category": "经济"
     },
     {
-      "title": "警惕线下交付式电信诈骗套路",
-      "url": "https://tv.cctv.com/2026/04/20/VIDEKMhaeZwudID3U8XNP27n260420.shtml",
-      "date": "2026-04-20",
-      "summary": "公安机关提醒：近期出现新型线下交付式电信诈骗，嫌疑人以快递、燃气检修等名义上门，要求被害人转账。"
+      "title": "5月1日12时起我国四大海域进入伏季休渔期",
+      "url": "https://tv.cctv.com/2026/05/01/VIDEsyhMzpPxsyMqFJSr68eG260501.shtml",
+      "time": "2026-05-01",
+      "category": "国内"
     },
     {
-      "title": "千亿超长期特别国债来了 个人可投资",
-      "url": "https://www.xinhuanet.com/",
-      "date": "2026-04-20",
-      "summary": "4月24日财政部将分别发行20年期340亿元和30年期850亿元超长期特别国债，个人可投资。"
-    },
-    {
-      "title": "万达电影正式更名 彻底告别王健林时代",
-      "url": "https://www.xinhuanet.com/",
-      "date": "2026-04-20",
-      "summary": "A股院线第一股万达电影4月20日起更名为儒意电影娱乐股份有限公司，证券代码不变。"
+      "title": "5月1日至5月3日我国多地有降水降温过程",
+      "url": "https://tv.cctv.com/2026/05/01/VIDEqLhDfVGEgnMCp1W1qNJ4260501.shtml",
+      "time": "2026-05-01",
+      "category": "国内"
     }
-  ]
+  ],
+  "summary": "央视新闻今日关注：五一假期首日出行客流旺盛；电子信息制造业快速增长；各地文旅活动精彩纷呈消费活力释放"
 }
