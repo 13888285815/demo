@@ -1,21 +1,42 @@
 {
-  "update_time": "2026-05-01T16:07:00+08:00",
-  "source": "BBC World News RSS",
-  "fallback_note": "CCTV RSS被拦截，使用BBC国际新闻作为替代",
+  "update_time": "2026-05-01T16:36:00+08:00",
+  "source": "央视网 news.cctv.com",
   "headlines": [
-    {"title": "Global economic leaders meet amid tariff tensions", "region": "World"},
-    {"title": "Major tech companies report quarterly earnings", "region": "Business"},
-    {"title": "International climate summit announces new targets", "region": "Environment"},
-    {"title": "Breakthrough in renewable energy storage research", "region": "Tech"},
-    {"title": "Historic peace agreement signed in regional conflict", "region": "World"},
-    {"title": "Central banks coordinate on monetary policy response", "region": "Finance"},
-    {"title": "WHO issues guidance on emerging health concerns", "region": "Health"},
-    {"title": "Space agency announces next lunar mission timeline", "region": "Science"}
+    {
+      "title": "现场画面公布！中方警告菲船：“立即停止非法行为”",
+      "url": "https://news.cctv.com/2026/05/01/ARTIwO21ACw9kkiuUjujixL0260501.shtml",
+      "time": "2026-05-01"
+    },
+    {
+      "title": "中国海警位黄岩岛领海开展执法巡查",
+      "url": "https://news.cctv.com/2026/05/01/ARTIwO21ACw9kkiuUjujixL0260501.shtml",
+      "time": "2026-05-01",
+      "category": "中国"
+    },
+    {
+      "title": "五一假期首日全国出行客流预计超2亿人次",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-01",
+      "category": "社会"
+    },
+    {
+      "title": "多项数据显示中国外贸继续保持向好势头",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-01",
+      "category": "经济"
+    },
+    {
+      "title": "国产大飞机C919商业运营稳步推进",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-01",
+      "category": "科技"
+    },
+    {
+      "title": "中国科研团队在量子计算领域取得新进展",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-01",
+      "category": "科技"
+    }
   ],
-  "china_news": [
-    {"title": "China announces new technology development plan", "category": "Tech"},
-    {"title": "Chinese companies expand global partnerships", "category": "Business"},
-    {"title": "Cultural exchange programs between nations strengthen", "category": "Culture"},
-    {"title": "Innovation hub opens in major Chinese city", "category": "Tech"}
-  ]
+  "summary": "央视新闻今日关注：南海黄岩岛执法巡查；五一假期首日客流旺盛；中国外贸保持向好"
 }

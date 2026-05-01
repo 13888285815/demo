@@ -1,17 +1,43 @@
 {
-  "portal_name": "意念科技新闻门户",
-  "update_time": "2026-05-01T16:07:37+08:00",
-  "version": "2.0",
-  "data_sources": {
-    "news": {"source": "BBC World News", "status": "active", "note": "CCTV RSS被拦截，使用BBC国际新闻"},
-    "weibo": {"source": "微博实时热搜API", "status": "active"},
-    "weather": {"source": "wttr.in", "status": "active", "city": "北京"},
-    "bilibili": {"source": "B站官方排行榜API", "status": "active"}
+  "timestamp": "2026-05-01T16:36:00+08:00",
+  "weather": {
+    "city": "北京",
+    "temp_C": 26,
+    "feels_like_C": 24,
+    "description": "多云转晴",
+    "humidity": 28,
+    "wind_speed_kmh": 10,
+    "uv_index": 3,
+    "forecast": [
+      {"date": "2026-05-01", "max_C": 28, "min_C": 17, "description": "多云"},
+      {"date": "2026-05-02", "max_C": 26, "min_C": 12, "description": "晴"},
+      {"date": "2026-05-03", "max_C": 22, "min_C": 12, "description": "小雨"}
+    ],
+    "tips": "今日气温26°C体感舒适，紫外线中等适宜户外，明日转晴后日有小雨请防范"
   },
-  "quick_summary": {
-    "top_weibo": "五一档票房",
-    "top_bilibili": "《代号：神不言》首曝PV",
-    "weather": "北京 26°C 多云",
-    "highlight": "五一假期首日，娱乐内容热度飙升"
+  "cctv_news": {
+    "headlines": [
+      {"title": "现场画面公布！中方警告菲船：“立即停止非法行为”", "category": "中国"},
+      {"title": "中国海警位黄岩岛领海开展执法巡查", "category": "中国"},
+      {"title": "五一假期首日全国出行客流预计超2亿人次", "category": "社会"},
+      {"title": "多项数据显示中国外贸继续保持向好势头", "category": "经济"},
+      {"title": "国产大飞机C919商业运营稳步推进", "category": "科技"},
+      {"title": "中国科研团队在量子计算领域取得新进展", "category": "科技"}
+    ]
+  },
+  "weibo_hot": {
+    "top3": [
+      {"rank": 1, "word": "五一档票房", "heat": "115万", "label": "热"},
+      {"rank": 2, "word": "南开大学已成立调查组", "heat": "86万", "label": ""},
+      {"rank": 3, "word": "用画笔定格追光的他们是什么体验", "heat": "74万", "label": "新"}
+    ],
+    "total": 50
+  },
+  "bilibili_hot": {
+    "top3": [
+      {"rank": 1, "title": "极致还原Billie jean现场名场面|【定格动画】", "views": "452万", "likes": "57万"},
+      {"rank": 2, "title": "朱志鑫&苏新皓｜罗生门", "views": "280万", "likes": "9万"},
+      {"rank": 3, "title": "NMIXX \"Crescendo\" M/V", "views": "153万", "likes": "10万"}
+    ]
   }
 }

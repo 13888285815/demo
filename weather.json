@@ -1,11 +1,11 @@
 {
-  "update_time": "2026-05-01T16:07:37+08:00",
+  "update_time": "2026-05-01T16:36:00+08:00",
   "source": "wttr.in",
   "city": "北京",
   "current": {
     "temp_C": "26",
     "feels_like_C": "24",
-    "description": "多云转阴",
+    "description": "多云转晴",
     "description_en": "Partly cloudy",
     "humidity": "28",
     "wind_speed_kmh": "10",
@@ -18,18 +18,26 @@
       "date": "2026-05-01",
       "max_C": "28",
       "min_C": "17",
-      "description": "阴天",
-      "description_en": "Overcast",
+      "description": "多云",
+      "description_en": "Partly Cloudy",
       "chance_of_rain": "10"
     },
     {
       "date": "2026-05-02",
       "max_C": "26",
       "min_C": "12",
-      "description": "局部多云",
-      "description_en": "Partly Cloudy",
+      "description": "晴",
+      "description_en": "Sunny",
       "chance_of_rain": "5"
+    },
+    {
+      "date": "2026-05-03",
+      "max_C": "22",
+      "min_C": "12",
+      "description": "小雨",
+      "description_en": "Light Rain",
+      "chance_of_rain": "40"
     }
   ],
-  "tips": "今日气温较高，紫外线中等，建议适当防晒。未来两日天气平稳，适宜出行。"
+  "tips": "今日气温26°C，体感舒适，紫外线中等，适宜户外活动。明日转晴，后日有小雨，请注意防范。"
 }
