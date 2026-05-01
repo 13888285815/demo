@@ -1,31 +1,31 @@
 {
-  "update_time": "2026-05-01T18:10:00+08:00",
+  "update_time": "2026-05-02T03:33:00+08:00",
   "source": "wttr.in Shanghai",
   "location": "上海 (Shanghai)",
   "current": {
-    "tempC": 23,
-    "feelsLikeC": 25,
-    "condition": "Sunny (晴)",
-    "humidity": "47%",
-    "windspeedKmph": 10,
-    "windDirection": "ESE (东风偏东)",
-    "pressure": "1014 mb",
+    "tempC": 16,
+    "feelsLikeC": 16,
+    "condition": "Partly Cloudy (多云)",
+    "humidity": "68%",
+    "windspeedKmph": 18,
+    "windDirection": "SSE (南偏东风)",
+    "pressure": "1012 mb",
     "visibility": "10 km",
     "uvIndex": "0",
     "cloudcover": "0%",
-    "observation_time": "2026-05-01 17:04"
+    "observation_time": "2026-05-02 03:39"
   },
   "astronomy": {
-    "sunrise": "05:10",
-    "sunset": "18:33",
-    "moonrise": "18:19",
-    "moonset": "04:27",
-    "moon_phase": "Full Moon (满月)"
+    "sunrise": "05:09",
+    "sunset": "18:34",
+    "moonrise": "19:18",
+    "moonset": "04:59",
+    "moon_phase": "Waning Gibbous (亏凸月)"
   },
   "forecast": [
-    {"date": "05-01", "week": "周五", "weather": "Sunny", "high": "24", "low": "12"},
-    {"date": "05-02", "week": "周六", "weather": "Partly Cloudy", "high": "22", "low": "16"},
-    {"date": "05-03", "week": "周日", "weather": "Partly Cloudy", "high": "25", "low": "16"}
+    {"date": "05-02", "week": "周六", "weather": "Partly Cloudy", "high": "22", "low": "16", "icon": "⛅"},
+    {"date": "05-03", "week": "周日", "weather": "Partly Cloudy", "high": "25", "low": "16", "icon": "🌤️"},
+    {"date": "05-04", "week": "周一", "weather": "Sunny", "high": "26", "low": "14", "icon": "☀️"}
   ],
-  "alert": "五一劳动节当天上海晴好宜出行，紫外线指数较高，户外需注意防晒。今晚满月可见，五一假期后半段多云为主。"
+  "alert": "凌晨上海气温16°C体感偏凉，白天最高22°C多云为主。五一假期后半段天气转好，适宜出行。日出05:09，日落18:34。"
 }

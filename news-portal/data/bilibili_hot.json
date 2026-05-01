@@ -1,98 +1,98 @@
 {
-  "update_time": "2026-05-01T17:06:00+08:00",
-  "source": "B站全站日榜 (tophub.today)",
+  "update_time": "2026-05-02T03:33:00+08:00",
+  "source": "B站全站排行榜 (api.bilibili.com)",
   "period": "全站综合排行",
   "videos": [
     {
       "rank": 1,
-      "title": "极致还原Billie jean现场名场面|【定格动画】",
-      "url": "https://www.bilibili.com/video/av116481710882837/",
-      "views": "453.7万"
+      "title": "【朱志鑫&苏新皓｜罗生门】"爱从来没有标准答案"",
+      "url": "https://b23.tv/BV1oi98BmEkL",
+      "views": "52.6万",
+      "danmaku": "71.7万",
+      "author": "SummerReunion",
+      "bvid": "BV1oi98BmEkL"
     },
     {
       "rank": 2,
-      "title": "【朱志鑫&苏新皓｜罗生门】",
-      "url": "https://www.bilibili.com/video/av116492263754702/",
-      "views": "28.9万"
+      "title": "极致还原Billie jean现场名场面|【定格动画】",
+      "url": "https://b23.tv/BV19K9CB1EoM",
+      "views": "493.5万",
+      "danmaku": "2699",
+      "author": "Moouyo默铀",
+      "bvid": "BV19K9CB1EoM"
     },
     {
       "rank": 3,
-      "title": "【NMIXX】\"Crescendo\" M/V",
-      "url": "https://www.bilibili.com/video/av116480788137877/",
-      "views": "154.4万"
+      "title": "梓渝"游"点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》",
+      "url": "https://b23.tv/BV1t29vBjEcU",
+      "views": "94.8万",
+      "danmaku": "102.5万",
+      "author": "梓渝工作室",
+      "bvid": "BV1t29vBjEcU"
     },
     {
       "rank": 4,
-      "title": "唱 戏 买 瓜",
-      "url": "https://www.bilibili.com/video/av116480603593378/",
-      "views": "332.7万"
+      "title": "线条重现中式美学世界",
+      "url": "https://b23.tv/BV1KX9xBHE42",
+      "views": "548.8万",
+      "danmaku": "1.2万",
+      "author": "左右大大",
+      "bvid": "BV1KX9xBHE42"
     },
     {
       "rank": 5,
-      "title": "眼\"色\"游戏（12）",
-      "url": "https://www.bilibili.com/video/av116480553262005/",
-      "views": "348.9万"
+      "title": "唱 戏 买 瓜",
+      "url": "https://b23.tv/BV1ys9rBRENA",
+      "views": "356.7万",
+      "danmaku": "6905",
+      "author": "新世纪咖啡战士v",
+      "bvid": "BV1ys9rBRENA"
     },
     {
       "rank": 6,
       "title": "《明日方舟》EP - Innocence",
       "url": "https://www.bilibili.com/video/av116487566264319/",
-      "views": "103.5万"
+      "views": "103.5万",
+      "danmaku": "-",
+      "author": "明日方舟",
+      "bvid": ""
     },
     {
       "rank": 7,
-      "title": "梓渝\"游\"点意思2026巡回演唱会纪录片",
-      "url": "https://www.bilibili.com/video/av116495115878558/",
-      "views": "35.8万"
+      "title": ""见过花开就好 何必在意花为谁开"2.0",
+      "url": "https://www.bilibili.com/video/av116483959035824/",
+      "views": "466.4万",
+      "danmaku": "-",
+      "author": "-",
+      "bvid": ""
     },
     {
       "rank": 8,
-      "title": "\"见过花开就好 何必在意花为谁开\"2.0",
-      "url": "https://www.bilibili.com/video/av116483959035824/",
-      "views": "466.4万"
+      "title": "《代号：神不言》首曝PV&实机技术演示",
+      "url": "https://www.bilibili.com/video/av116474060544844/",
+      "views": "1071.5万",
+      "danmaku": "-",
+      "author": "心动网络",
+      "bvid": ""
     },
     {
       "rank": 9,
-      "title": "《代号：神不言》首曝PV&实机技术演示",
-      "url": "https://www.bilibili.com/video/av116474060544844/",
-      "views": "1071.5万"
+      "title": "食人魔楼！《黑夜告白》P1",
+      "url": "https://www.bilibili.com/video/av116481777993460/",
+      "views": "920.8万",
+      "danmaku": "-",
+      "author": "哔哩哔哩",
+      "bvid": ""
     },
     {
       "rank": 10,
-      "title": "线条重现中式美学世界",
-      "url": "https://www.bilibili.com/video/av116488337948762/",
-      "views": "377.5万"
-    },
-    {
-      "rank": 11,
-      "title": "食人魔楼！《黑夜告白》P1",
-      "url": "https://www.bilibili.com/video/av116481777993460/",
-      "views": "920.8万"
-    },
-    {
-      "rank": 12,
       "title": "《天打雷劈の好心人》",
       "url": "https://www.bilibili.com/video/av116478422615720/",
-      "views": "561.2万"
-    },
-    {
-      "rank": 13,
-      "title": "在意大利摆摊卖中餐，用烟火温暖异国日常",
-      "url": "https://www.bilibili.com/video/av116490485372209/",
-      "views": "246.4万"
-    },
-    {
-      "rank": 14,
-      "title": "当你穿进老钱班23",
-      "url": "https://www.bilibili.com/video/av116482079982294/",
-      "views": "253.6万"
-    },
-    {
-      "rank": 15,
-      "title": "贵州免费风景堪比游戏大作",
-      "url": "https://www.bilibili.com/video/av116479781568713/",
-      "views": "285.2万"
+      "views": "561.2万",
+      "danmaku": "-",
+      "author": "-",
+      "bvid": ""
     }
   ],
-  "summary": "B站热门榜首为定格动画《极致还原Billie jean现场名场面》播放454万；游戏PV《代号：神不言》播放量1072万夺冠；悬疑剧《黑夜告白》播放921万"
+  "summary": "B站热门：定格动画《极致还原Billie jean》播放494万；《代号：神不言》PV播放1072万霸榜；《线条重现中式美学世界》549万播放飙升"
 }

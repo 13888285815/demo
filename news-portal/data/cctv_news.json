@@ -1,43 +1,67 @@
 {
-  "update_time": "2026-05-01T17:06:00+08:00",
+  "update_time": "2026-05-02T03:33:00+08:00",
   "source": "央视网 news.cctv.com",
   "headlines": [
     {
-      "title": "今年一季度电子信息制造业生产按下“加速键”",
-      "url": "https://news.cctv.com/2026/05/01/ARTIWIAipwsfibsiCXJFmhou260501.shtml",
-      "time": "2026-05-01",
-      "category": "经济"
-    },
-    {
-      "title": "透过数据看“五一”假期出行“热”力十足",
-      "url": "https://news.cctv.com/2026/05/01/ARTIA383DDPSDHPCSnHlccHi260501.shtml",
-      "time": "2026-05-01",
-      "category": "社会"
-    },
-    {
-      "title": "“五一”假期各地文旅活动精彩纷呈 消费活力持续释放",
-      "url": "https://news.cctv.com/2026/05/01/ARTIgMIXrZYyVgwcaJzedQpZ260501.shtml",
-      "time": "2026-05-01",
-      "category": "社会"
-    },
-    {
-      "title": "第139届广交会第三期开展",
-      "url": "https://tv.cctv.com/2026/05/01/VIDE6tyHNk9Xl0YJURbwUB4V260501.shtml",
-      "time": "2026-05-01",
-      "category": "经济"
-    },
-    {
-      "title": "5月1日12时起我国四大海域进入伏季休渔期",
-      "url": "https://tv.cctv.com/2026/05/01/VIDEsyhMzpPxsyMqFJSr68eG260501.shtml",
+      "title": "多个"大国工程"假期里持续刷新"进度条" 推动中国高质量发展稳中向好",
+      "url": "https://news.cctv.com/2026/05/01/ARTIcpfBtFTiTP2x6DyhNm8J260501.shtml",
       "time": "2026-05-01",
       "category": "国内"
     },
     {
-      "title": "5月1日至5月3日我国多地有降水降温过程",
-      "url": "https://tv.cctv.com/2026/05/01/VIDEqLhDfVGEgnMCp1W1qNJ4260501.shtml",
+      "title": "各地文旅热潮涌动 "花式"举措守护出行体验",
+      "url": "https://news.cctv.com/2026/05/01/ARTIbhU7kF9memMRKnEj82My260501.shtml",
+      "time": "2026-05-01",
+      "category": "社会"
+    },
+    {
+      "title": "春假与"五一"假期衔接催热消费高峰",
+      "url": "https://news.cctv.com/2026/05/01/ARTIG9Do2G5fH4GApph7GwTI260501.shtml",
+      "time": "2026-05-01",
+      "category": "经济"
+    },
+    {
+      "title": "我国科学家揭示反刍动物甲烷排放调控机制",
+      "url": "https://news.cctv.com/2026/05/01/ARTIvftZvEDcxLMDfhWMWmKS260501.shtml",
+      "time": "2026-05-01",
+      "category": "科技"
+    },
+    {
+      "title": "全长59.9公里 亚洲最长地铁环线一期开通运营",
+      "url": "https://news.cctv.com/2026/05/01/ARTIOWx7z4TaiaDrJKDGN3JU260501.shtml",
       "time": "2026-05-01",
       "category": "国内"
+    },
+    {
+      "title": "我国对53个非洲建交国全面实施零关税",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-01",
+      "category": "国际"
+    },
+    {
+      "title": "美辩称袭击伊朗系"自卫" 伊朗怒斥：赤裸裸的侵略",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-01",
+      "category": "国际"
+    },
+    {
+      "title": "新修订《渔业法》5月1日起正式施行",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-01",
+      "category": "国内"
+    },
+    {
+      "title": ""五一"假期首日 全国铁路预计发送旅客2480万人次",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-01",
+      "category": "社会"
+    },
+    {
+      "title": "北京：依托"国之重器" 打造国际科创策源地",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-01",
+      "category": "科技"
     }
   ],
-  "summary": "央视新闻今日关注：五一假期首日出行客流旺盛；电子信息制造业快速增长；各地文旅活动精彩纷呈消费活力释放"
+  "summary": "央视新闻5月2日关注：五一假期大国工程持续推进；全国铁路首日预计发送2480万人次；亚洲最长地铁环线开通；53个非洲建交国零关税实施；美伊局势持续紧张"
 }
