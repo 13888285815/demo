@@ -1,36 +1,36 @@
 {
-  "update_time": "2026-05-02T03:33:00+08:00",
+  "update_time": "2026-05-03T01:13:00+08:00",
   "source": "央视网 news.cctv.com",
   "headlines": [
     {
-      "title": "多个"大国工程"假期里持续刷新"进度条" 推动中国高质量发展稳中向好",
+      "title": "我国首个算电协同绿电直供项目投运",
+      "url": "https://tv.cctv.com/2026/05/02/VIDEUjpzwzzGtmiZ4EPF7TuQ260502.shtml",
+      "time": "2026-05-02",
+      "category": "科技"
+    },
+    {
+      "title": "我国抽水蓄能电站最深竖井全线贯通",
+      "url": "https://tv.cctv.com/2026/05/02/VIDEW4foPwHvdnB5dbX6DXAM260502.shtml",
+      "time": "2026-05-02",
+      "category": "国内"
+    },
+    {
+      "title": "美国威胁提高欧盟输美汽车关税",
+      "url": "https://tv.cctv.com/2026/05/02/VIDEUwckNSGiG7jFIckEKe9A260502.shtml",
+      "time": "2026-05-02",
+      "category": "国际"
+    },
+    {
+      "title": "多个\"大国工程\"假期里持续刷新\"进度条\"",
       "url": "https://news.cctv.com/2026/05/01/ARTIcpfBtFTiTP2x6DyhNm8J260501.shtml",
       "time": "2026-05-01",
       "category": "国内"
     },
     {
-      "title": "各地文旅热潮涌动 "花式"举措守护出行体验",
+      "title": "各地文旅热潮涌动",
       "url": "https://news.cctv.com/2026/05/01/ARTIbhU7kF9memMRKnEj82My260501.shtml",
       "time": "2026-05-01",
       "category": "社会"
-    },
-    {
-      "title": "春假与"五一"假期衔接催热消费高峰",
-      "url": "https://news.cctv.com/2026/05/01/ARTIG9Do2G5fH4GApph7GwTI260501.shtml",
-      "time": "2026-05-01",
-      "category": "经济"
-    },
-    {
-      "title": "我国科学家揭示反刍动物甲烷排放调控机制",
-      "url": "https://news.cctv.com/2026/05/01/ARTIvftZvEDcxLMDfhWMWmKS260501.shtml",
-      "time": "2026-05-01",
-      "category": "科技"
-    },
-    {
-      "title": "全长59.9公里 亚洲最长地铁环线一期开通运营",
-      "url": "https://news.cctv.com/2026/05/01/ARTIOWx7z4TaiaDrJKDGN3JU260501.shtml",
-      "time": "2026-05-01",
-      "category": "国内"
     },
     {
       "title": "我国对53个非洲建交国全面实施零关税",
@@ -39,29 +39,29 @@
       "category": "国际"
     },
     {
-      "title": "美辩称袭击伊朗系"自卫" 伊朗怒斥：赤裸裸的侵略",
+      "title": "全长59.9公里 亚洲最长地铁环线一期开通运营",
+      "url": "https://news.cctv.com/2026/05/01/ARTIOWx7z4TaiaDrJKDGN3JU260501.shtml",
+      "time": "2026-05-01",
+      "category": "国内"
+    },
+    {
+      "title": "我国科学家揭示反刍动物甲烷排放调控机制",
+      "url": "https://news.cctv.com/2026/05/01/ARTIvftZvEDcxLMDfhWMWmKS260501.shtml",
+      "time": "2026-05-01",
+      "category": "科技"
+    },
+    {
+      "title": "美辩称袭击伊朗系\"自卫\" 伊朗怒斥：赤裸裸的侵略",
       "url": "https://news.cctv.com/",
       "time": "2026-05-01",
       "category": "国际"
     },
     {
-      "title": "新修订《渔业法》5月1日起正式施行",
-      "url": "https://news.cctv.com/",
+      "title": "春假与\"五一\"假期衔接催热消费高峰",
+      "url": "https://news.cctv.com/2026/05/01/ARTIG9Do2G5fH4GApph7GwTI260501.shtml",
       "time": "2026-05-01",
-      "category": "国内"
-    },
-    {
-      "title": ""五一"假期首日 全国铁路预计发送旅客2480万人次",
-      "url": "https://news.cctv.com/",
-      "time": "2026-05-01",
-      "category": "社会"
-    },
-    {
-      "title": "北京：依托"国之重器" 打造国际科创策源地",
-      "url": "https://news.cctv.com/",
-      "time": "2026-05-01",
-      "category": "科技"
+      "category": "经济"
     }
   ],
-  "summary": "央视新闻5月2日关注：五一假期大国工程持续推进；全国铁路首日预计发送2480万人次；亚洲最长地铁环线开通；53个非洲建交国零关税实施；美伊局势持续紧张"
+  "summary": "央视新闻5月2日关注：我国首个算电协同绿电直供项目投运；抽水蓄能电站最深竖井贯通；美国威胁提高欧盟汽车关税；亚洲最长地铁环线开通；53个非洲建交国零关税"
 }

@@ -1,19 +1,46 @@
 {
-  "update_time": "2026-05-02T03:33:00+08:00",
+  "update_time": "2026-05-03T01:13:00+08:00",
   "source": "B站全站排行榜 (api.bilibili.com)",
   "period": "全站综合排行",
   "videos": [
     {
       "rank": 1,
-      "title": "【朱志鑫&苏新皓｜罗生门】"爱从来没有标准答案"",
-      "url": "https://b23.tv/BV1oi98BmEkL",
-      "views": "52.6万",
-      "danmaku": "71.7万",
-      "author": "SummerReunion",
-      "bvid": "BV1oi98BmEkL"
+      "title": "《逆向坍塌：F》首曝PV&实机演示",
+      "url": "https://b23.tv/BV1DZRKBuExZ",
+      "views": "34.8万",
+      "danmaku": "300",
+      "author": "逆向坍塌制作组",
+      "bvid": "BV1DZRKBuExZ"
     },
     {
       "rank": 2,
+      "title": "爆肝10小时纯手工拆100只无骨鸡爪！能卖1000元？！",
+      "url": "https://b23.tv/BV1Dm9tBaEd3",
+      "views": "46.3万",
+      "danmaku": "374",
+      "author": "闲D嘞",
+      "bvid": "BV1Dm9tBaEd3"
+    },
+    {
+      "rank": 3,
+      "title": "《无实物表演》",
+      "url": "https://b23.tv/BV1NhRMBiEcy",
+      "views": "374.6万",
+      "danmaku": "2476",
+      "author": "酸奶煎个蛋",
+      "bvid": "BV1NhRMBiEcy"
+    },
+    {
+      "rank": 4,
+      "title": "【独家】永生之大道归一 第4集 伏鬼驱魔",
+      "url": "https://b23.tv/",
+      "views": "-",
+      "danmaku": "-",
+      "author": "-",
+      "bvid": ""
+    },
+    {
+      "rank": 5,
       "title": "极致还原Billie jean现场名场面|【定格动画】",
       "url": "https://b23.tv/BV19K9CB1EoM",
       "views": "493.5万",
@@ -22,8 +49,8 @@
       "bvid": "BV19K9CB1EoM"
     },
     {
-      "rank": 3,
-      "title": "梓渝"游"点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》",
+      "rank": 6,
+      "title": "梓渝\"游\"点意思2026巡回演唱会第一阶段纪录片",
       "url": "https://b23.tv/BV1t29vBjEcU",
       "views": "94.8万",
       "danmaku": "102.5万",
@@ -31,7 +58,7 @@
       "bvid": "BV1t29vBjEcU"
     },
     {
-      "rank": 4,
+      "rank": 7,
       "title": "线条重现中式美学世界",
       "url": "https://b23.tv/BV1KX9xBHE42",
       "views": "548.8万",
@@ -40,7 +67,7 @@
       "bvid": "BV1KX9xBHE42"
     },
     {
-      "rank": 5,
+      "rank": 8,
       "title": "唱 戏 买 瓜",
       "url": "https://b23.tv/BV1ys9rBRENA",
       "views": "356.7万",
@@ -49,39 +76,12 @@
       "bvid": "BV1ys9rBRENA"
     },
     {
-      "rank": 6,
-      "title": "《明日方舟》EP - Innocence",
-      "url": "https://www.bilibili.com/video/av116487566264319/",
-      "views": "103.5万",
-      "danmaku": "-",
-      "author": "明日方舟",
-      "bvid": ""
-    },
-    {
-      "rank": 7,
-      "title": ""见过花开就好 何必在意花为谁开"2.0",
-      "url": "https://www.bilibili.com/video/av116483959035824/",
-      "views": "466.4万",
-      "danmaku": "-",
-      "author": "-",
-      "bvid": ""
-    },
-    {
-      "rank": 8,
+      "rank": 9,
       "title": "《代号：神不言》首曝PV&实机技术演示",
       "url": "https://www.bilibili.com/video/av116474060544844/",
       "views": "1071.5万",
       "danmaku": "-",
       "author": "心动网络",
-      "bvid": ""
-    },
-    {
-      "rank": 9,
-      "title": "食人魔楼！《黑夜告白》P1",
-      "url": "https://www.bilibili.com/video/av116481777993460/",
-      "views": "920.8万",
-      "danmaku": "-",
-      "author": "哔哩哔哩",
       "bvid": ""
     },
     {
@@ -94,5 +94,5 @@
       "bvid": ""
     }
   ],
-  "summary": "B站热门：定格动画《极致还原Billie jean》播放494万；《代号：神不言》PV播放1072万霸榜；《线条重现中式美学世界》549万播放飙升"
+  "summary": "B站热门：《无实物表演》374万播放登顶；《逆向坍塌：F》新游戏PV发布；爆肝10小时拆无骨鸡爪46万播放；《代号：神不言》1072万播放霸榜"
 }
