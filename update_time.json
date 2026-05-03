@@ -1,1 +1,9 @@
-{"update_time": "2026-05-03T22:25:00+08:00"}
+{
+  "last_update": "2026-05-04T06:38:00+08:00",
+  "components": [
+    "cctv_news",
+    "weibo_hot",
+    "weather",
+    "bilibili_hot"
+  ]
+}

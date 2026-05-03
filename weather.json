@@ -1,75 +1,54 @@
 {
-  "update_time": "2026-05-03T22:25:00+08:00",
-  "cities": [
+  "update_time": "2026-05-04T06:38:00+08:00",
+  "location": "深圳",
+  "current": {
+    "temp_C": 22,
+    "feels_like_C": 25,
+    "humidity": 78,
+    "weather": "多云",
+    "wind_speed_kmph": 8,
+    "wind_dir": "北",
+    "visibility_km": 10,
+    "pressure_mb": 1012,
+    "cloudcover": 75,
+    "uv_index": 0
+  },
+  "forecast": [
     {
-      "city": "北京",
-      "date": "2026-05-03",
-      "week": "周日",
-      "weather": "Clear",
-      "weather_cn": "晴",
-      "temp": "9°C",
-      "temp_feels": "9°C",
-      "humidity": "53%",
-      "wind": "N, 5 km/h",
-      "wind_cn": "北风 5km/h",
-      "aqi": "34",
-      "aqi_label": "优"
+      "date": "2026-05-04",
+      "max_temp_C": 25,
+      "min_temp_C": 20,
+      "avg_temp_C": 22,
+      "weather": "小雨转多云",
+      "humidity_avg": 68,
+      "rain_chance": 88,
+      "uv_index": 3
     },
     {
-      "city": "上海",
-      "date": "2026-05-03",
-      "week": "周日",
-      "weather": "Clear",
-      "weather_cn": "晴",
-      "temp": "17°C",
-      "temp_feels": "17°C",
-      "humidity": "77%",
-      "wind": "N, 13 km/h",
-      "wind_cn": "北风 13km/h",
-      "aqi": "68",
-      "aqi_label": "良"
+      "date": "2026-05-05",
+      "max_temp_C": 24,
+      "min_temp_C": 21,
+      "avg_temp_C": 22,
+      "weather": "小雨",
+      "humidity_avg": 80,
+      "rain_chance": 100,
+      "uv_index": 7
     },
     {
-      "city": "广州",
-      "date": "2026-05-03",
-      "week": "周日",
-      "weather": "Light Rain",
-      "weather_cn": "小雨",
-      "temp": "23°C",
-      "temp_feels": "25°C",
-      "humidity": "73%",
-      "wind": "NNE, 13 km/h",
-      "wind_cn": "东北偏北风 13km/h",
-      "aqi": "N/A",
-      "aqi_label": "N/A"
-    },
-    {
-      "city": "深圳",
-      "date": "2026-05-03",
-      "week": "周日",
-      "weather": "Rain Shower",
-      "weather_cn": "阵雨",
-      "temp": "23°C",
-      "temp_feels": "25°C",
-      "humidity": "94%",
-      "wind": "NNE, 15 km/h",
-      "wind_cn": "东北偏北风 15km/h",
-      "aqi": "61",
-      "aqi_label": "良"
-    },
-    {
-      "city": "杭州",
-      "date": "2026-05-03",
-      "week": "周日",
-      "weather": "Clear",
-      "weather_cn": "晴",
-      "temp": "21°C",
-      "temp_feels": "21°C",
-      "humidity": "43%",
-      "wind": "W, 7 km/h",
-      "wind_cn": "西风 7km/h",
-      "aqi": "38",
-      "aqi_label": "优"
+      "date": "2026-05-06",
+      "max_temp_C": 28,
+      "min_temp_C": 22,
+      "avg_temp_C": 25,
+      "weather": "多云转晴",
+      "humidity_avg": 78,
+      "rain_chance": 33,
+      "uv_index": 9
     }
-  ]
+  ],
+  "astronomy": {
+    "sunrise": "05:50",
+    "sunset": "18:52",
+    "moon_phase": "亏凸月",
+    "moon_illumination": "95%"
+  }
 }

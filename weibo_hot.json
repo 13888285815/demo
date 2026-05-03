@@ -1,22 +1,146 @@
-[
-  {"rank": 1, "keyword": "张雪机车德比斯退赛", "hot": "", "heat": 1250000},
-  {"rank": 2, "keyword": "乒乓球", "hot": "", "heat": 860000},
-  {"rank": 3, "keyword": "单日近3亿人跨区域流动", "hot": "", "heat": 730000},
-  {"rank": 4, "keyword": "白鹿被孟子义说挂相", "hot": "", "heat": 730000},
-  {"rank": 5, "keyword": "林诗栋2比3兰弗利", "hot": "", "heat": 680000},
-  {"rank": 6, "keyword": "中国男团vs瑞典", "hot": "", "heat": 640000},
-  {"rank": 7, "keyword": "黄灿灿 blackpink都没这么累", "hot": "", "heat": 640000},
-  {"rank": 8, "keyword": "佳偶天成 被剧名耽误", "hot": "", "heat": 630000},
-  {"rank": 9, "keyword": "DYG对战JDG", "hot": "", "heat": 620000},
-  {"rank": 10, "keyword": "张雪解释德比斯退赛原因", "hot": "", "heat": 610000},
-  {"rank": 11, "keyword": "这得喝多少饮料才能成角", "hot": "", "heat": 600000},
-  {"rank": 12, "keyword": "肖战拿影帝这事全世界都在为他开心", "hot": "", "heat": 590000},
-  {"rank": 13, "keyword": "范丞丞 都给我出来", "hot": "", "heat": 580000},
-  {"rank": 14, "keyword": "女子凌晨接到去世半年表弟来电", "hot": "", "heat": 570000},
-  {"rank": 15, "keyword": "王楚钦手流血了", "hot": "", "heat": 570000},
-  {"rank": 16, "keyword": "大米爆", "hot": "", "heat": 560000},
-  {"rank": 17, "keyword": "时代少年团团体工作室快了", "hot": "", "heat": 550000},
-  {"rank": 18, "keyword": "繁殖犬 抑郁", "hot": "", "heat": 550000},
-  {"rank": 19, "keyword": "湖南广电 AI播新闻", "hot": "", "heat": 390000},
-  {"rank": 20, "keyword": "以色列全面进入备战状态", "hot": "", "heat": 390000}
-]
+{
+  "update_time": "2026-05-04T06:38:00+08:00",
+  "source": "微博热搜",
+  "data": [
+    {
+      "rank": 1,
+      "word": "国乒男团2比3瑞典",
+      "hot": 893317,
+      "label": "热",
+      "category": "体育"
+    },
+    {
+      "rank": 2,
+      "word": "这才是减脂餐的真正物价",
+      "hot": 470971,
+      "label": "",
+      "category": "美食"
+    },
+    {
+      "rank": 3,
+      "word": "2026五一档总票房已破5亿",
+      "hot": 383001,
+      "label": "",
+      "category": "民生新闻"
+    },
+    {
+      "rank": 4,
+      "word": "国羽汤杯卫冕",
+      "hot": 212756,
+      "label": "新",
+      "category": "体育"
+    },
+    {
+      "rank": 5,
+      "word": "黄灿灿 blackpink都没这么累",
+      "hot": 201385,
+      "label": "热",
+      "category": "综艺"
+    },
+    {
+      "rank": 6,
+      "word": "佳偶天成 被剧名耽误",
+      "hot": 157363,
+      "label": "",
+      "category": "剧集"
+    },
+    {
+      "rank": 7,
+      "word": "霸王茶姬 夏梦玫珑回归",
+      "hot": 156898,
+      "label": "",
+      "category": ""
+    },
+    {
+      "rank": 8,
+      "word": "张雪机车德比斯退赛",
+      "hot": 153135,
+      "label": "",
+      "category": "体育"
+    },
+    {
+      "rank": 9,
+      "word": "2026年伦敦世乒赛",
+      "hot": 130054,
+      "label": "",
+      "category": "体育"
+    },
+    {
+      "rank": 10,
+      "word": "肖战大影节红毯",
+      "hot": 126806,
+      "label": "",
+      "category": "电影"
+    },
+    {
+      "rank": 11,
+      "word": "湖南广电 AI播新闻",
+      "hot": 125088,
+      "label": "",
+      "category": "互联网"
+    },
+    {
+      "rank": 12,
+      "word": "女子凌晨接到去世半年表弟来电",
+      "hot": 124633,
+      "label": "热",
+      "category": "民生新闻"
+    },
+    {
+      "rank": 13,
+      "word": "白鹿被孟子义说挂相",
+      "hot": 124025,
+      "label": "",
+      "category": "综艺"
+    },
+    {
+      "rank": 14,
+      "word": "梁靖崑状态",
+      "hot": 119827,
+      "label": "",
+      "category": "体育"
+    },
+    {
+      "rank": 15,
+      "word": "国乒男团小组赛一胜两负",
+      "hot": 118976,
+      "label": "",
+      "category": "体育"
+    },
+    {
+      "rank": 16,
+      "word": "警方回应博主取样河水后被半夜敲门",
+      "hot": 110934,
+      "label": "",
+      "category": "民生新闻"
+    },
+    {
+      "rank": 17,
+      "word": "国乒",
+      "hot": 102459,
+      "label": "",
+      "category": "体育"
+    },
+    {
+      "rank": 18,
+      "word": "伊朗公布最新谈判方案",
+      "hot": 96226,
+      "label": "",
+      "category": "国际时政"
+    },
+    {
+      "rank": 19,
+      "word": "国乒女团心系男团战况",
+      "hot": 94674,
+      "label": "",
+      "category": "体育"
+    },
+    {
+      "rank": 20,
+      "word": "严浩翔新歌",
+      "hot": 89578,
+      "label": "",
+      "category": "音乐"
+    }
+  ]
+}
