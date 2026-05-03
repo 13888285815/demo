@@ -6,7 +6,7 @@
   <title>意念科技 - 新闻门户</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
   <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
-  <meta name="last-updated" content="2026-05-03T16:55:00+08:00">
+  <meta name="last-updated" content="2026-05-03T17:34:29+08:00">
   <style>
     :root {
       --primary: #0078d4;
@@ -251,14 +251,14 @@
   </div>
 
   <!-- Update Badge -->
-  <div class="update-badge" id="updateBadge">数据更新时间: 2026-05-02 03:33</div>
+  <div class="update-badge" id="update-badge">数据更新时间: 2026-05-03 17:34</div>
 
   <script>
     // ==================== 数据定义（2026-05-01 17:06 更新）====================
     const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
     let activeChannel = '首页';
 
-    // 央视新闻数据（2026年5月3日 16:55更新）
+    // 央视新闻数据（2026年5月3日 17:34更新）
     const newsData = [
       { id: 1, title: '假期首日 高速新能源车充电量创新高', summary: '五一假期首日，全国高速公路新能源车充电量创下历史新高，充电桩使用率大幅攀升。', image: 'https://picsum.photos/800/450?random=901', source: '央视新闻', time: '2026-05-03', category: '国内', isTop: true },
       { id: 2, title: '南方降雨范围缩减 局地需防范强对流天气', summary: '中央气象台预计，南方地区降雨范围将逐步缩减，但局地仍需防范强对流天气。', image: 'https://picsum.photos/400/250?random=902', source: '央视新闻', time: '2026-05-03', category: '社会' },
@@ -270,30 +270,33 @@
       { id: 8, title: '亚洲最长地铁环线一期开通运营', summary: '亚洲最长的地铁环线一期工程正式开通运营，全长59.9公里，进一步完善城市公共交通网络。', image: 'https://picsum.photos/400/250?random=908', source: '央视新闻', time: '2026-05-03', category: '国内' }
     ]
 
-        // B站热门视频数据（2026年5月3日 16:55更新）
+        // B站热门视频数据（2026年5月3日 17:34更新）
     const videoData = [
-      { id: 1, title: '线条重现中式美学世界', thumbnail: 'https://picsum.photos/320/180?random=951', duration: '01:38', views: '738万', author: '左右大大', url: 'https://www.bilibili.com/video/BV1KX9xBHE42' },
-      { id: 2, title: '极致还原Billie jean现场名场面|【定格动画】', thumbnail: 'https://picsum.photos/320/180?random=952', duration: '04:22', views: '564万', author: 'Moouyo默铀', url: 'https://www.bilibili.com/video/BV19K9CB1EoM' },
-      { id: 3, title: '当用学历代表网文中的战力境界【小明修仙传1-4合集】', thumbnail: 'https://picsum.photos/320/180?random=953', duration: '合集', views: '363万', author: '路人甲导演', url: 'https://www.bilibili.com/video/BV1Mo98BNEGP' },
-      { id: 4, title: '在意大利摆摊卖中餐，用烟火温暖异国日常', thumbnail: 'https://picsum.photos/320/180?random=954', duration: '日常', views: '332万', author: '周丽Giuly在意大利', url: 'https://www.bilibili.com/video/BV1Gu98BTEPg' },
-      { id: 5, title: '这一分半我录了3个月，能火吗？', thumbnail: 'https://picsum.photos/320/180?random=955', duration: '01:30', views: '268万', author: 'Fadedbook', url: 'https://www.bilibili.com/video/BV1v49YBHESJ' }
+      { id: 1, title: '《无实物表演》', thumbnail: 'https://picsum.photos/320/180?random=961', duration: '精选', views: '456万', author: '酸奶煎个蛋', url: 'https://www.bilibili.com/video/BV1NhRMBiEcy' },
+      { id: 2, title: '西⚡域⚡战⚡神⚡4', thumbnail: 'https://picsum.photos/320/180?random=962', duration: '精选', views: '241万', author: '洛温阿特金森', url: 'https://www.bilibili.com/video/BV1T3RuBuEcZ' },
+      { id: 3, title: '嘉豪与翻版紫薯精的相亲历险记', thumbnail: 'https://picsum.photos/320/180?random=963', duration: '热门', views: '230万', author: '陈嘉伦整个路人', url: 'https://www.bilibili.com/video/BV1Qd9eBnEC4' },
+      { id: 4, title: '当你不小心进入了黑乌龟...', thumbnail: 'https://picsum.photos/320/180?random=964', duration: '热门', views: '219万', author: '小博博三角洲行动', url: 'https://www.bilibili.com/video/BV1j2RMBxEdS' },
+      { id: 5, title: '导演，我申请换个裁判', thumbnail: 'https://picsum.photos/320/180?random=965', duration: '热门', views: '212万', author: '疯狂大笑总', url: 'https://www.bilibili.com/video/BV11aoeBmE1r' },
+      { id: 6, title: '不会写作业的请到主任办公室', thumbnail: 'https://picsum.photos/320/180?random=966', duration: '热门', views: '211万', author: '脱缰凯Kk', url: 'https://www.bilibili.com/video/BV1k39YBaEgj' },
+      { id: 7, title: '有些COS是COS的灵魂！！', thumbnail: 'https://picsum.photos/320/180?random=967', duration: '热门', views: '197万', author: '田一名sir', url: 'https://www.bilibili.com/video/BV1dBRVBKEt4' },
+      { id: 8, title: '【动物配音】2026年一季度精选合集', thumbnail: 'https://picsum.photos/320/180?random=968', duration: '合集', views: '191万', author: 'Coulson不讲李', url: 'https://www.bilibili.com/video/BV1adR7BgEy1' }
     ]
 
-        // 微博热搜数据（2026年5月3日 16:55更新）
+        // 微博热搜数据（2026年5月3日 17:34更新）
     const trendingData = [
-      { rank: 1, title: '湖南广电 AI播新闻', heat: '112万', trend: 'new' },
-      { rank: 2, title: '上科大39岁教授营救至亲溺水去世', heat: '83万', trend: '' },
-      { rank: 3, title: '这个五一假期惠民福利停不下来', heat: '66万', trend: 'new' },
+      { rank: 1, title: '湖南广电 AI播新闻', heat: '148万', trend: 'new' },
+      { rank: 2, title: '上科大39岁教授营救至亲溺水去世', heat: '90万', trend: '' },
+      { rank: 3, title: '这个五一假期惠民福利停不下来', heat: '68万', trend: '' },
       { rank: 4, title: '白鹿被孟子义说挂相', heat: '65万', trend: 'hot' },
-      { rank: 5, title: '把自己当成糖尿病人来吃饭', heat: '61万', trend: '' },
-      { rank: 6, title: '孙俪 我们家的狗装死把邓超吓晕了', heat: '56万', trend: '' },
-      { rank: 7, title: '大睡特睡 修复前额叶', heat: '48万', trend: '' },
-      { rank: 8, title: '河南蒜苔 再说原地址给你补五十斤', heat: '39万', trend: '' },
-      { rank: 9, title: '马龙许昕出发伦敦', heat: '39万', trend: 'new' },
-      { rank: 10, title: '榴莲价格', heat: '33万', trend: '' }
+      { rank: 5, title: '把自己当成糖尿病人来吃饭', heat: '58万', trend: '' },
+      { rank: 6, title: '80斤女生不吃碳水闭经体脂率超标', heat: '55万', trend: 'new' },
+      { rank: 7, title: '黄灿灿 罗予彤边练歌边骂人的样子真美', heat: '54万', trend: '' },
+      { rank: 8, title: '河南蒜苔 再说原地址给你补五十斤', heat: '45万', trend: '' },
+      { rank: 9, title: '大睡特睡 修复前额叶', heat: '35万', trend: '' },
+      { rank: 10, title: '重庆落地签', heat: '33万', trend: 'new' }
     ]
 
-        // 北京天气数据（2026-05-03 16:55 更新）
+        // 北京天气数据（2026-05-03 17:34 更新）
     const weatherData = {
       city: '北京',
       temp: 21,
@@ -302,7 +305,7 @@
       low: 13,
       humidity: 18,
       wind: '北北西风 18km/h',
-      pressure: 1015,
+      pressure: 1009,
       sunrise: '05:13',
       sunset: '19:11',
       forecast: [
@@ -310,7 +313,7 @@
         { day: '明天', high: 29, low: 14, icon: '☀️' },
         { day: '后天', high: 34, low: 17, icon: '☀️' }
       ],
-      advice: '五一假期最后两天北京持续晴好，气温逐日攀升至34°C。白天日照强注意防晒，早晚温差较大建议备件薄外套。'
+      advice: '五一假期北京持续晴好，气温逐日攀升至34°C。白天日照强注意防晒，早晚温差较大建议备件薄外套。'
     }
 
         // ==================== 渲染函数 ====================

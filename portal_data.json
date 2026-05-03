@@ -1,150 +1,366 @@
 {
-  "updateTime": "2026-05-03T16:55:00",
-  "data": {
-    "cctv": [
-      {
-        "title": "假期首日 高速新能源车充电量创新高",
-        "url": "https://tv.cctv.com/2026/05/03/VIDEZerjTM4txIruoUA7nVBu260503.shtml"
-      },
-      {
-        "title": "南方降雨范围缩减 局地需防范强对流天气",
-        "url": "https://tv.cctv.com/2026/05/03/VIDElhcd5G8pT7gmxqL4Xnng260503.shtml"
-      },
-      {
-        "title": "美国威胁制裁向伊朗缴通行费的航运企业",
-        "url": "https://tv.cctv.com/2026/05/03/VIDEYI8oRpo50jA8K5iYw1lc260503.shtml"
-      },
-      {
-        "title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "山东舰辽宁舰双航母编队强硬回击外军舰机抵近侦察",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "多个大国工程假期持续刷新进度条 推动高质量发展",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "全国铁路五一假期首日预计发送旅客2480万人次",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "亚洲最长地铁环线一期开通运营",
-        "url": "https://news.cctv.com/"
-      }
-    ],
-    "weibo": [
-      {
-        "rank": 1,
-        "keyword": "湖南广电 AI播新闻",
-        "heat": 1128586,
-        "hot": true
-      },
-      {
-        "rank": 2,
-        "keyword": "上科大39岁教授营救至亲溺水去世",
-        "heat": 830757,
-        "hot": false
-      },
-      {
-        "rank": 3,
-        "keyword": "这个五一假期惠民福利停不下来",
-        "heat": 663509,
-        "hot": true
-      },
-      {
-        "rank": 4,
-        "keyword": "白鹿被孟子义说挂相",
-        "heat": 650490,
-        "hot": true
-      },
-      {
-        "rank": 5,
-        "keyword": "把自己当成糖尿病人来吃饭",
-        "heat": 610735,
-        "hot": false
-      },
-      {
-        "rank": 6,
-        "keyword": "孙俪 我们家的狗装死把邓超吓晕了",
-        "heat": 565885,
-        "hot": false
-      },
-      {
-        "rank": 7,
-        "keyword": "大睡特睡 修复前额叶",
-        "heat": 480989,
-        "hot": false
-      },
-      {
-        "rank": 8,
-        "keyword": "河南蒜苔 再说原地址给你补五十斤",
-        "heat": 399543,
-        "hot": false
-      },
-      {
-        "rank": 9,
-        "keyword": "马龙许昕出发伦敦",
-        "heat": 390500,
-        "hot": true
-      },
-      {
-        "rank": 10,
-        "keyword": "榴莲价格",
-        "heat": 338099,
-        "hot": false
-      }
-    ],
-    "bilibili": [
-      {
-        "title": "线条重现中式美学世界",
-        "desc": "左右大大的创意作品",
-        "url": "https://www.bilibili.com/video/BV1KX9xBHE42"
-      },
-      {
-        "title": "极致还原Billie jean现场名场面",
-        "desc": "Billie Jackson经典现场定格动画",
-        "url": "https://www.bilibili.com/video/BV19K9CB1EoM"
-      },
-      {
-        "title": "当用学历代表网文中的战力境界",
-        "desc": "小明修仙传1-4合集",
-        "url": "https://www.bilibili.com/video/BV1Mo98BNEGP"
-      },
-      {
-        "title": "在意大利摆摊卖中餐",
-        "desc": "用烟火温暖异国日常",
-        "url": "https://www.bilibili.com/video/BV1Gu98BTEPg"
-      },
-      {
-        "title": "这一分半我录了3个月，能火吗？",
-        "desc": "Fadedbook历时3个月创意视频",
-        "url": "https://www.bilibili.com/video/BV1v49YBHESJ"
-      }
-    ],
-    "weather": {
-      "city": "北京",
-      "weather": "晴",
-      "temp": "13~23℃",
-      "current_temp": "21℃",
-      "humidity": "18%",
-      "wind": "北北西风 18km/h",
-      "sunrise": "05:13",
-      "sunset": "19:11",
-      "forecast": [
-        {
-          "date": "05-04",
-          "weather": "晴",
-          "temp": "14~29℃"
-        },
-        {
-          "date": "05-05",
-          "weather": "晴",
-          "temp": "17~34℃"
-        }
-      ]
+  "update_time": "2026-05-03T17:34:29+08:00",
+  "cctv_news": [
+    {
+      "title": "假期首日 高速新能源车充电量创新高",
+      "url": "https://tv.cctv.com/2026/05/03/VIDEZerjTM4txIruoUA7nVBu260503.shtml",
+      "time": "2026-05-03"
+    },
+    {
+      "title": "南方降雨范围缩减 局地需防范强对流天气",
+      "url": "https://tv.cctv.com/2026/05/03/VIDElhcd5G8pT7gmxqL4Xnng260503.shtml",
+      "time": "2026-05-03"
+    },
+    {
+      "title": "美国威胁制裁向伊朗缴通行费的航运企业",
+      "url": "https://tv.cctv.com/2026/05/03/VIDEYI8oRpo50jA8K5iYw1lc260503.shtml",
+      "time": "2026-05-03"
+    },
+    {
+      "title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-03"
+    },
+    {
+      "title": "山东舰辽宁舰双航母编队强硬回击外军舰机抵近侦察",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-03"
+    },
+    {
+      "title": "多个大国工程假期持续刷新进度条 推动高质量发展",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-03"
+    },
+    {
+      "title": "全国铁路五一假期首日预计发送旅客2480万人次",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-03"
+    },
+    {
+      "title": "亚洲最长地铁环线一期开通运营",
+      "url": "https://news.cctv.com/",
+      "time": "2026-05-03"
     }
-  }
+  ],
+  "weibo_hot": [
+    {
+      "rank": 1,
+      "keyword": "湖南广电 AI播新闻",
+      "hot": "新",
+      "heat": 1480895
+    },
+    {
+      "rank": 2,
+      "keyword": "上科大39岁教授营救至亲溺水去世",
+      "hot": "",
+      "heat": 902490
+    },
+    {
+      "rank": 3,
+      "keyword": "这个五一假期惠民福利停不下来",
+      "hot": "",
+      "heat": 687484
+    },
+    {
+      "rank": 4,
+      "keyword": "白鹿被孟子义说挂相",
+      "hot": "热",
+      "heat": 653956
+    },
+    {
+      "rank": 5,
+      "keyword": "把自己当成糖尿病人来吃饭",
+      "hot": "",
+      "heat": 587915
+    },
+    {
+      "rank": 6,
+      "keyword": "80斤女生不吃碳水闭经体脂率超标",
+      "hot": "新",
+      "heat": 558972
+    },
+    {
+      "rank": 7,
+      "keyword": "黄灿灿 罗予彤边练歌边骂人的样子真美",
+      "hot": "",
+      "heat": 548295
+    },
+    {
+      "rank": 8,
+      "keyword": "河南蒜苔 再说原地址给你补五十斤",
+      "hot": "",
+      "heat": 457689
+    },
+    {
+      "rank": 9,
+      "keyword": "大睡特睡 修复前额叶",
+      "hot": "",
+      "heat": 355906
+    },
+    {
+      "rank": 10,
+      "keyword": "重庆落地签",
+      "hot": "新",
+      "heat": 332406
+    },
+    {
+      "rank": 11,
+      "keyword": "繁殖犬 抑郁",
+      "hot": "新",
+      "heat": 323665
+    },
+    {
+      "rank": 12,
+      "keyword": "孙俪 我们家的狗装死把邓超吓晕了",
+      "hot": "",
+      "heat": 319200
+    },
+    {
+      "rank": 13,
+      "keyword": "吴彦祖妻子宣布复出",
+      "hot": "热",
+      "heat": 318134
+    },
+    {
+      "rank": 14,
+      "keyword": "东方甄选主播明明离职后首次开播",
+      "hot": "新",
+      "heat": 313085
+    },
+    {
+      "rank": 15,
+      "keyword": "李小冉你是真火了",
+      "hot": "",
+      "heat": 312819
+    },
+    {
+      "rank": 16,
+      "keyword": "严浩翔 爱一个人需要另一个人",
+      "hot": "",
+      "heat": 310572
+    },
+    {
+      "rank": 17,
+      "keyword": "水果我只吃不出轨的",
+      "hot": "新",
+      "heat": 309716
+    },
+    {
+      "rank": 18,
+      "keyword": "马龙许昕出发伦敦",
+      "hot": "",
+      "heat": 306969
+    },
+    {
+      "rank": 19,
+      "keyword": "山姆仓库卸货太吵业主一夜报四次警",
+      "hot": "新",
+      "heat": 306417
+    },
+    {
+      "rank": 20,
+      "keyword": "菲非法登铁线礁我海警依法处置",
+      "hot": "新",
+      "heat": 304195
+    }
+  ],
+  "weather": {
+    "city": "北京",
+    "date": "2026-05-03",
+    "week": "周日",
+    "weather": "Sunny",
+    "weather_cn": "晴",
+    "temp_high": "23",
+    "temp_low": "13",
+    "current_temp": "21",
+    "humidity": "18",
+    "wind": "18km/h NNW",
+    "wind_cn": "北北西风 18km/h",
+    "sunrise": "05:13 AM",
+    "sunset": "07:11 PM",
+    "forecast": [
+      {
+        "date": "2026-05-04",
+        "week": "周一",
+        "weather": "Sunny",
+        "weather_cn": "晴",
+        "temp_high": "29",
+        "temp_low": "14",
+        "wind": "11km/h SSW",
+        "wind_cn": "西南偏西风 11km/h"
+      },
+      {
+        "date": "2026-05-05",
+        "week": "周二",
+        "weather": "Sunny",
+        "weather_cn": "晴",
+        "temp_high": "34",
+        "temp_low": "17",
+        "wind": "5km/h S",
+        "wind_cn": "南风 5km/h"
+      }
+    ]
+  },
+  "bilibili_hot": [
+    {
+      "rank": 1,
+      "title": "华强买瓜，但是树上人特别多",
+      "author": "伊介书生",
+      "play": 1108248,
+      "danmaku": 1815,
+      "url": "https://www.bilibili.com/video/BV19N9XBMEmu"
+    },
+    {
+      "rank": 2,
+      "title": "和AI玩猜历史人物游戏，又被它给耍了",
+      "author": "混饭达人",
+      "play": 1855116,
+      "danmaku": 1569,
+      "url": "https://www.bilibili.com/video/BV1ebREBmEha"
+    },
+    {
+      "rank": 3,
+      "title": "【动物配音】2026年一季度精选合集",
+      "author": "Coulson不讲李",
+      "play": 1914256,
+      "danmaku": 474,
+      "url": "https://www.bilibili.com/video/BV1adR7BgEy1"
+    },
+    {
+      "rank": 4,
+      "title": "【独家】牧神记 第81集 借船出行",
+      "author": "哔哩哔哩国创",
+      "play": 1387843,
+      "danmaku": 4813,
+      "url": "https://www.bilibili.com/video/BV1A8RKBbE22"
+    },
+    {
+      "rank": 5,
+      "title": "一口下去，面相都变了",
+      "author": "我独自做面包",
+      "play": 925277,
+      "danmaku": 324,
+      "url": "https://www.bilibili.com/video/BV13RRLBPEvK"
+    },
+    {
+      "rank": 6,
+      "title": "今晚效果炸了！大司马+高仿联动，本尊被逗的一直笑",
+      "author": "艺术家阿克曼",
+      "play": 1414223,
+      "danmaku": 1310,
+      "url": "https://www.bilibili.com/video/BV1vuR7BkEew"
+    },
+    {
+      "rank": 7,
+      "title": "嘉豪与翻版紫薯精的相亲历险记",
+      "author": "陈嘉伦整个路人",
+      "play": 2307989,
+      "danmaku": 2978,
+      "url": "https://www.bilibili.com/video/BV1Qd9eBnEC4"
+    },
+    {
+      "rank": 8,
+      "title": "英国衰弱的不像话了",
+      "author": "燕三嘤嘤嘤",
+      "play": 709201,
+      "danmaku": 5640,
+      "url": "https://www.bilibili.com/video/BV1jB9XB1EeZ"
+    },
+    {
+      "rank": 9,
+      "title": "志不同，道合的朋友",
+      "author": "艺术菜花",
+      "play": 940120,
+      "danmaku": 517,
+      "url": "https://www.bilibili.com/video/BV1qkRLB3ENF"
+    },
+    {
+      "rank": 10,
+      "title": "父亲和儿子相差仅4岁，论脑洞，它应该是科幻鼻祖《黑洞频率》",
+      "author": "糖叔不说剧",
+      "play": 1256966,
+      "danmaku": 810,
+      "url": "https://www.bilibili.com/video/BV1FEokB8EPX"
+    },
+    {
+      "rank": 11,
+      "title": "生活小妙招 如何巧开麻袋 编织袋",
+      "author": "天哥爱生活",
+      "play": 1902649,
+      "danmaku": 323,
+      "url": "https://www.bilibili.com/video/BV1WwR5BSEo2"
+    },
+    {
+      "rank": 12,
+      "title": "犁田",
+      "author": "勇锅奶糖",
+      "play": 433594,
+      "danmaku": 566,
+      "url": "https://www.bilibili.com/video/BV1GeREB5ErY"
+    },
+    {
+      "rank": 13,
+      "title": "西⚡域⚡战⚡神⚡4",
+      "author": "洛温阿特金森",
+      "play": 2418520,
+      "danmaku": 1624,
+      "url": "https://www.bilibili.com/video/BV1T3RuBuEcZ"
+    },
+    {
+      "rank": 14,
+      "title": "中国马力狗820RR又双叕完成爆杀，极限一串二",
+      "author": "-暴走引擎-",
+      "play": 1014140,
+      "danmaku": 5261,
+      "url": "https://www.bilibili.com/video/BV1aS9XBMEg1"
+    },
+    {
+      "rank": 15,
+      "title": "不会写作业的请到主任办公室",
+      "author": "脱缰凯Kk",
+      "play": 2114401,
+      "danmaku": 3030,
+      "url": "https://www.bilibili.com/video/BV1k39YBaEgj"
+    },
+    {
+      "rank": 16,
+      "title": "有些COS是COS的灵魂！！",
+      "author": "田一名sir",
+      "play": 1976945,
+      "danmaku": 2560,
+      "url": "https://www.bilibili.com/video/BV1dBRVBKEt4"
+    },
+    {
+      "rank": 17,
+      "title": "《无实物表演》",
+      "author": "酸奶煎个蛋",
+      "play": 4568604,
+      "danmaku": 2905,
+      "url": "https://www.bilibili.com/video/BV1NhRMBiEcy"
+    },
+    {
+      "rank": 18,
+      "title": "导演，我申请换个裁判",
+      "author": "疯狂大笑总",
+      "play": 2123029,
+      "danmaku": 630,
+      "url": "https://www.bilibili.com/video/BV11aoeBmE1r"
+    },
+    {
+      "rank": 19,
+      "title": "百万粉丝的动画up主安晴，要被我们嫁出去了！！！",
+      "author": "笔给你你来写_",
+      "play": 1040893,
+      "danmaku": 2211,
+      "url": "https://www.bilibili.com/video/BV1q6RLBkEU3"
+    },
+    {
+      "rank": 20,
+      "title": "当你不小心进入了黑乌龟...",
+      "author": "小博博三角洲行动",
+      "play": 2194202,
+      "danmaku": 588,
+      "url": "https://www.bilibili.com/video/BV1j2RMBxEdS"
+    }
+  ]
 }
