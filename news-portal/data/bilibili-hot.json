@@ -1,98 +1,32 @@
-{
-  "update_time": "2026-05-02T03:33:00+08:00",
-  "source": "B站全站排行榜 (api.bilibili.com)",
-  "period": "全站综合排行",
-  "videos": [
-    {
-      "rank": 1,
-      "title": "【朱志鑫&苏新皓｜罗生门】"爱从来没有标准答案"",
-      "url": "https://b23.tv/BV1oi98BmEkL",
-      "views": "52.6万",
-      "danmaku": "71.7万",
-      "author": "SummerReunion",
-      "bvid": "BV1oi98BmEkL"
-    },
-    {
-      "rank": 2,
-      "title": "极致还原Billie jean现场名场面|【定格动画】",
-      "url": "https://b23.tv/BV19K9CB1EoM",
-      "views": "493.5万",
-      "danmaku": "2699",
-      "author": "Moouyo默铀",
-      "bvid": "BV19K9CB1EoM"
-    },
-    {
-      "rank": 3,
-      "title": "梓渝"游"点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》",
-      "url": "https://b23.tv/BV1t29vBjEcU",
-      "views": "94.8万",
-      "danmaku": "102.5万",
-      "author": "梓渝工作室",
-      "bvid": "BV1t29vBjEcU"
-    },
-    {
-      "rank": 4,
-      "title": "线条重现中式美学世界",
-      "url": "https://b23.tv/BV1KX9xBHE42",
-      "views": "548.8万",
-      "danmaku": "1.2万",
-      "author": "左右大大",
-      "bvid": "BV1KX9xBHE42"
-    },
-    {
-      "rank": 5,
-      "title": "唱 戏 买 瓜",
-      "url": "https://b23.tv/BV1ys9rBRENA",
-      "views": "356.7万",
-      "danmaku": "6905",
-      "author": "新世纪咖啡战士v",
-      "bvid": "BV1ys9rBRENA"
-    },
-    {
-      "rank": 6,
-      "title": "《明日方舟》EP - Innocence",
-      "url": "https://www.bilibili.com/video/av116487566264319/",
-      "views": "103.5万",
-      "danmaku": "-",
-      "author": "明日方舟",
-      "bvid": ""
-    },
-    {
-      "rank": 7,
-      "title": ""见过花开就好 何必在意花为谁开"2.0",
-      "url": "https://www.bilibili.com/video/av116483959035824/",
-      "views": "466.4万",
-      "danmaku": "-",
-      "author": "-",
-      "bvid": ""
-    },
-    {
-      "rank": 8,
-      "title": "《代号：神不言》首曝PV&实机技术演示",
-      "url": "https://www.bilibili.com/video/av116474060544844/",
-      "views": "1071.5万",
-      "danmaku": "-",
-      "author": "心动网络",
-      "bvid": ""
-    },
-    {
-      "rank": 9,
-      "title": "食人魔楼！《黑夜告白》P1",
-      "url": "https://www.bilibili.com/video/av116481777993460/",
-      "views": "920.8万",
-      "danmaku": "-",
-      "author": "哔哩哔哩",
-      "bvid": ""
-    },
-    {
-      "rank": 10,
-      "title": "《天打雷劈の好心人》",
-      "url": "https://www.bilibili.com/video/av116478422615720/",
-      "views": "561.2万",
-      "danmaku": "-",
-      "author": "-",
-      "bvid": ""
-    }
-  ],
-  "summary": "B站热门：定格动画《极致还原Billie jean》播放494万；《代号：神不言》PV播放1072万霸榜；《线条重现中式美学世界》549万播放飙升"
-}
+[
+  {
+    "title": "B站纪录片开放周：免费开放3000余部纪录片",
+    "desc": "鲁豫、罗翔、食贫道私藏片单公开，《人生一串》《守护解放西》《地球脉动》等佳作均免费观看",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_35169f5f4f333352",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "B站联合上海精神卫生中心倡导\"养脑\"",
+    "desc": "通过观看纪录片等优质长内容修复\"前额叶损伤\"，减少碎片化信息摄入，热搜话题\"大睡特睡 修复前额叶\"登榜",
+    "url": "https://new.qq.com/rain/a/20260502A0615200",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "神图：最折磨B站审核的视频出现了",
+    "desc": "B站热门创意内容引发热议",
+    "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_18069f5f80a47152",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "B站UP主涨粉榜：生活日常类UP主领跑",
+    "desc": "五一假期期间生活-日常类UP主日涨粉超4万，美食侦探、数码UP主紧随其后",
+    "url": "http://bz.feigua.cn/ranking/Soar/20211114/1/20.html",
+    "date": "2026-05-02"
+  },
+  {
+    "title": "B站篮球赛事直播覆盖面持续扩大",
+    "desc": "Bilibili篮球凭借弹幕互动吸引大量年轻观众，NBA、CBA等赛事直播服务完善",
+    "url": "https://www.bilibili.com",
+    "date": "2026-05-02"
+  }
+]

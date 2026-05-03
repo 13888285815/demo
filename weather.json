@@ -1,31 +1,19 @@
 {
-  "update_time": "2026-05-03T01:13:00+08:00",
-  "source": "wttr.in Shanghai",
-  "location": "上海 (Shanghai)",
-  "current": {
-    "tempC": 20,
-    "feelsLikeC": 20,
-    "condition": "Light rain shower (小雨)",
-    "humidity": "88%",
-    "windspeedKmph": 14,
-    "windDirection": "SSE (南偏东风)",
-    "pressure": "1012 mb",
-    "visibility": "10 km",
-    "uvIndex": "1",
-    "cloudcover": "75%",
-    "observation_time": "2026-05-02 15:45"
-  },
-  "astronomy": {
-    "sunrise": "05:09",
-    "sunset": "18:34",
-    "moonrise": "19:18",
-    "moonset": "04:59",
-    "moon_phase": "Waning Gibbous (亏凸月)"
-  },
+  "city": "北京",
+  "date": "2026-05-03",
+  "week": "周日",
+  "weather": "Sunny",
+  "weather_cn": "晴",
+  "temp_high": "23",
+  "temp_low": "13",
+  "current_temp": "21",
+  "humidity": "18",
+  "wind": "18km/h NNW",
+  "wind_cn": "北北西风 18公里/小时",
+  "sunrise": "05:13",
+  "sunset": "19:11",
   "forecast": [
-    {"date": "05-03", "week": "周日", "weather": "Partly Cloudy", "high": "25", "low": "16", "icon": "🌤️"},
-    {"date": "05-04", "week": "周一", "weather": "Sunny", "high": "26", "low": "14", "icon": "☀️"},
-    {"date": "05-05", "week": "周二", "weather": "Sunny", "high": "27", "low": "15", "icon": "☀️"}
-  ],
-  "alert": "今晚上海小雨，气温20°C体感舒适。未来几天天气转好，周一至周三晴朗，适宜出行。最高气温27°C，注意防晒。"
+    {"date": "05-04", "week": "周一", "weather": "Sunny", "weather_cn": "晴", "temp_high": "29", "temp_low": "14", "wind": "WSW 5km/h", "wind_cn": "西南偏西风 5公里/小时"},
+    {"date": "05-05", "week": "周二", "weather": "Sunny", "weather_cn": "晴", "temp_high": "34", "temp_low": "17", "wind": "SSW 15km/h", "wind_cn": "南南西风 15公里/小时"}
+  ]
 }

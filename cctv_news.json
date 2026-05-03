@@ -1,67 +1,27 @@
-{
-  "update_time": "2026-05-03T01:13:00+08:00",
-  "source": "央视网 news.cctv.com",
-  "headlines": [
-    {
-      "title": "我国首个算电协同绿电直供项目投运",
-      "url": "https://tv.cctv.com/2026/05/02/VIDEUjpzwzzGtmiZ4EPF7TuQ260502.shtml",
-      "time": "2026-05-02",
-      "category": "科技"
-    },
-    {
-      "title": "我国抽水蓄能电站最深竖井全线贯通",
-      "url": "https://tv.cctv.com/2026/05/02/VIDEW4foPwHvdnB5dbX6DXAM260502.shtml",
-      "time": "2026-05-02",
-      "category": "国内"
-    },
-    {
-      "title": "美国威胁提高欧盟输美汽车关税",
-      "url": "https://tv.cctv.com/2026/05/02/VIDEUwckNSGiG7jFIckEKe9A260502.shtml",
-      "time": "2026-05-02",
-      "category": "国际"
-    },
-    {
-      "title": "多个\"大国工程\"假期里持续刷新\"进度条\"",
-      "url": "https://news.cctv.com/2026/05/01/ARTIcpfBtFTiTP2x6DyhNm8J260501.shtml",
-      "time": "2026-05-01",
-      "category": "国内"
-    },
-    {
-      "title": "各地文旅热潮涌动",
-      "url": "https://news.cctv.com/2026/05/01/ARTIbhU7kF9memMRKnEj82My260501.shtml",
-      "time": "2026-05-01",
-      "category": "社会"
-    },
-    {
-      "title": "我国对53个非洲建交国全面实施零关税",
-      "url": "https://news.cctv.com/",
-      "time": "2026-05-01",
-      "category": "国际"
-    },
-    {
-      "title": "全长59.9公里 亚洲最长地铁环线一期开通运营",
-      "url": "https://news.cctv.com/2026/05/01/ARTIOWx7z4TaiaDrJKDGN3JU260501.shtml",
-      "time": "2026-05-01",
-      "category": "国内"
-    },
-    {
-      "title": "我国科学家揭示反刍动物甲烷排放调控机制",
-      "url": "https://news.cctv.com/2026/05/01/ARTIvftZvEDcxLMDfhWMWmKS260501.shtml",
-      "time": "2026-05-01",
-      "category": "科技"
-    },
-    {
-      "title": "美辩称袭击伊朗系\"自卫\" 伊朗怒斥：赤裸裸的侵略",
-      "url": "https://news.cctv.com/",
-      "time": "2026-05-01",
-      "category": "国际"
-    },
-    {
-      "title": "春假与\"五一\"假期衔接催热消费高峰",
-      "url": "https://news.cctv.com/2026/05/01/ARTIG9Do2G5fH4GApph7GwTI260501.shtml",
-      "time": "2026-05-01",
-      "category": "经济"
-    }
-  ],
-  "summary": "央视新闻5月2日关注：我国首个算电协同绿电直供项目投运；抽水蓄能电站最深竖井贯通；美国威胁提高欧盟汽车关税；亚洲最长地铁环线开通；53个非洲建交国零关税"
-}
+[
+  {
+    "title": "假期首日 高速新能源车充电量创新高",
+    "url": "https://tv.cctv.com/2026/05/03/VIDEZerjTM4txIruoUA7nVBu260503.shtml",
+    "time": "2026-05-03"
+  },
+  {
+    "title": "南方降雨范围缩减 局地需防范强对流天气",
+    "url": "https://tv.cctv.com/2026/05/03/VIDElhcd5G8pT7gmxqL4Xnng260503.shtml",
+    "time": "2026-05-03"
+  },
+  {
+    "title": "美国威胁制裁向伊朗缴通行费的航运企业",
+    "url": "https://tv.cctv.com/2026/05/03/VIDEYI8oRpo50jA8K5iYw1lc260503.shtml",
+    "time": "2026-05-03"
+  },
+  {
+    "title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变",
+    "url": "https://news.cctv.com/",
+    "time": "2026-05-03"
+  },
+  {
+    "title": "山东舰辽宁舰双航母编队强硬回击外军舰机抵近侦察",
+    "url": "https://news.cctv.com/",
+    "time": "2026-05-03"
+  }
+]

@@ -1,35 +1,45 @@
 {
-  "update_time": "2026-05-02T03:33:00+08:00",
-  "sources": {
-    "cctv_news": {
-      "status": "success",
-      "update_time": "2026-05-02T03:33:00+08:00",
-      "count": 10,
-      "top_headline": "多个"大国工程"假期里持续刷新"进度条""
-    },
-    "weibo_hot": {
-      "status": "blocked",
-      "update_time": "2026-05-01T17:06:00+08:00",
-      "note": "微博API被反爬限制(403)，保留上次成功获取的数据",
-      "count": 15
-    },
+  "updateTime": "2026-05-03T16:25:00",
+  "data": {
+    "cctv": [
+      {"title": "假期首日 高速新能源车充电量创新高", "url": "https://tv.cctv.com/2026/05/03/VIDEZerjTM4txIruoUA7nVBu260503.shtml"},
+      {"title": "南方降雨范围缩减 局地需防范强对流天气", "url": "https://tv.cctv.com/2026/05/03/VIDElhcd5G8pT7gmxqL4Xnng260503.shtml"},
+      {"title": "美国威胁制裁向伊朗缴通行费的航运企业", "url": "https://tv.cctv.com/2026/05/03/VIDEYI8oRpo50jA8K5iYw1lc260503.shtml"},
+      {"title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变", "url": "https://news.cctv.com/"},
+      {"title": "山东舰辽宁舰双航母编队强硬回击外军舰机", "url": "https://news.cctv.com/"}
+    ],
+    "weibo": [
+      {"rank": 1, "keyword": "上科大39岁教授营救至亲溺水去世", "heat": 1110139, "hot": false},
+      {"rank": 2, "keyword": "NPC小黄鱼互动改送簪花", "heat": 798134, "hot": false},
+      {"rank": 3, "keyword": "这个五一假期惠民福利停不下来", "heat": 794263, "hot": true},
+      {"rank": 4, "keyword": "白鹿被孟子义说挂相", "heat": 768141, "hot": true},
+      {"rank": 5, "keyword": "把自己当成糖尿病人来吃饭", "heat": 767254, "hot": true},
+      {"rank": 6, "keyword": "男子养了11年的3个孩子2个非亲生", "heat": 744497, "hot": true},
+      {"rank": 7, "keyword": "严浩翔 爱一个人需要另一个人", "heat": 736848, "hot": true},
+      {"rank": 8, "keyword": "马龙许昕出发伦敦", "heat": 479626, "hot": true},
+      {"rank": 9, "keyword": "大睡特睡 修复前额叶", "heat": 475100, "hot": false},
+      {"rank": 10, "keyword": "央视再调查网红减肥针乱象", "heat": 391149, "hot": true}
+    ],
+    "bilibili": [
+      {"title": "B站纪录片开放周：免费开放3000余部纪录片", "desc": "鲁豫、罗翔、食贫道私藏片单公开"},
+      {"title": "B站联合上海精神卫生中心倡导\"养脑\"", "desc": "观看纪录片修复前额叶损伤"},
+      {"title": "神图：最折磨B站审核的视频出现了", "desc": "B站热门创意内容引发热议"},
+      {"title": "B站UP主涨粉榜：生活日常类UP主领跑", "desc": "五一假期日涨粉超4万"},
+      {"title": "B站篮球赛事直播覆盖面持续扩大", "desc": "弹幕互动吸引大量年轻观众"}
+    ],
     "weather": {
-      "status": "success",
-      "update_time": "2026-05-02T03:33:00+08:00",
-      "location": "上海",
-      "current_temp": "16°C"
-    },
-    "bilibili_hot": {
-      "status": "success",
-      "update_time": "2026-05-02T03:33:00+08:00",
-      "count": 10,
-      "top_video": "极致还原Billie jean现场名场面|【定格动画】 (494万播放)"
+      "city": "北京",
+      "weather": "晴",
+      "temp": "13~23℃",
+      "current_temp": "21℃",
+      "humidity": "18%",
+      "wind": "北北西风 18km/h",
+      "sunrise": "05:13",
+      "sunset": "19:11",
+      "forecast": [
+        {"date": "05-04", "weather": "晴", "temp": "14~29℃"},
+        {"date": "05-05", "weather": "晴", "temp": "17~34℃"}
+      ]
     }
-  },
-  "highlights": {
-    "news_focus": "五一假期大国工程持续推进，全国铁路首日预计发送2480万人次；亚洲最长地铁环线开通",
-    "social_hot": "莫氏鸡煲已报警、五一档票房、文旅活动精彩纷呈",
-    "weather_summary": "上海凌晨16°C多云，白天最高22°C，五一假期后半段转好",
-    "video_trending": "B站《代号：神不言》PV播放1072万霸榜，定格动画还原Billie Jean 494万"
   }
 }
