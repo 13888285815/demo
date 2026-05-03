@@ -1,31 +1,128 @@
 {
-  "updateTime": "2026-05-03T16:25:00",
+  "updateTime": "2026-05-03T16:55:00",
   "data": {
     "cctv": [
-      {"title": "假期首日 高速新能源车充电量创新高", "url": "https://tv.cctv.com/2026/05/03/VIDEZerjTM4txIruoUA7nVBu260503.shtml"},
-      {"title": "南方降雨范围缩减 局地需防范强对流天气", "url": "https://tv.cctv.com/2026/05/03/VIDElhcd5G8pT7gmxqL4Xnng260503.shtml"},
-      {"title": "美国威胁制裁向伊朗缴通行费的航运企业", "url": "https://tv.cctv.com/2026/05/03/VIDEYI8oRpo50jA8K5iYw1lc260503.shtml"},
-      {"title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变", "url": "https://news.cctv.com/"},
-      {"title": "山东舰辽宁舰双航母编队强硬回击外军舰机", "url": "https://news.cctv.com/"}
+      {
+        "title": "假期首日 高速新能源车充电量创新高",
+        "url": "https://tv.cctv.com/2026/05/03/VIDEZerjTM4txIruoUA7nVBu260503.shtml"
+      },
+      {
+        "title": "南方降雨范围缩减 局地需防范强对流天气",
+        "url": "https://tv.cctv.com/2026/05/03/VIDElhcd5G8pT7gmxqL4Xnng260503.shtml"
+      },
+      {
+        "title": "美国威胁制裁向伊朗缴通行费的航运企业",
+        "url": "https://tv.cctv.com/2026/05/03/VIDEYI8oRpo50jA8K5iYw1lc260503.shtml"
+      },
+      {
+        "title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变",
+        "url": "https://news.cctv.com/"
+      },
+      {
+        "title": "山东舰辽宁舰双航母编队强硬回击外军舰机抵近侦察",
+        "url": "https://news.cctv.com/"
+      },
+      {
+        "title": "多个大国工程假期持续刷新进度条 推动高质量发展",
+        "url": "https://news.cctv.com/"
+      },
+      {
+        "title": "全国铁路五一假期首日预计发送旅客2480万人次",
+        "url": "https://news.cctv.com/"
+      },
+      {
+        "title": "亚洲最长地铁环线一期开通运营",
+        "url": "https://news.cctv.com/"
+      }
     ],
     "weibo": [
-      {"rank": 1, "keyword": "上科大39岁教授营救至亲溺水去世", "heat": 1110139, "hot": false},
-      {"rank": 2, "keyword": "NPC小黄鱼互动改送簪花", "heat": 798134, "hot": false},
-      {"rank": 3, "keyword": "这个五一假期惠民福利停不下来", "heat": 794263, "hot": true},
-      {"rank": 4, "keyword": "白鹿被孟子义说挂相", "heat": 768141, "hot": true},
-      {"rank": 5, "keyword": "把自己当成糖尿病人来吃饭", "heat": 767254, "hot": true},
-      {"rank": 6, "keyword": "男子养了11年的3个孩子2个非亲生", "heat": 744497, "hot": true},
-      {"rank": 7, "keyword": "严浩翔 爱一个人需要另一个人", "heat": 736848, "hot": true},
-      {"rank": 8, "keyword": "马龙许昕出发伦敦", "heat": 479626, "hot": true},
-      {"rank": 9, "keyword": "大睡特睡 修复前额叶", "heat": 475100, "hot": false},
-      {"rank": 10, "keyword": "央视再调查网红减肥针乱象", "heat": 391149, "hot": true}
+      {
+        "rank": 1,
+        "keyword": "湖南广电 AI播新闻",
+        "heat": 1128586,
+        "hot": true
+      },
+      {
+        "rank": 2,
+        "keyword": "上科大39岁教授营救至亲溺水去世",
+        "heat": 830757,
+        "hot": false
+      },
+      {
+        "rank": 3,
+        "keyword": "这个五一假期惠民福利停不下来",
+        "heat": 663509,
+        "hot": true
+      },
+      {
+        "rank": 4,
+        "keyword": "白鹿被孟子义说挂相",
+        "heat": 650490,
+        "hot": true
+      },
+      {
+        "rank": 5,
+        "keyword": "把自己当成糖尿病人来吃饭",
+        "heat": 610735,
+        "hot": false
+      },
+      {
+        "rank": 6,
+        "keyword": "孙俪 我们家的狗装死把邓超吓晕了",
+        "heat": 565885,
+        "hot": false
+      },
+      {
+        "rank": 7,
+        "keyword": "大睡特睡 修复前额叶",
+        "heat": 480989,
+        "hot": false
+      },
+      {
+        "rank": 8,
+        "keyword": "河南蒜苔 再说原地址给你补五十斤",
+        "heat": 399543,
+        "hot": false
+      },
+      {
+        "rank": 9,
+        "keyword": "马龙许昕出发伦敦",
+        "heat": 390500,
+        "hot": true
+      },
+      {
+        "rank": 10,
+        "keyword": "榴莲价格",
+        "heat": 338099,
+        "hot": false
+      }
     ],
     "bilibili": [
-      {"title": "B站纪录片开放周：免费开放3000余部纪录片", "desc": "鲁豫、罗翔、食贫道私藏片单公开"},
-      {"title": "B站联合上海精神卫生中心倡导\"养脑\"", "desc": "观看纪录片修复前额叶损伤"},
-      {"title": "神图：最折磨B站审核的视频出现了", "desc": "B站热门创意内容引发热议"},
-      {"title": "B站UP主涨粉榜：生活日常类UP主领跑", "desc": "五一假期日涨粉超4万"},
-      {"title": "B站篮球赛事直播覆盖面持续扩大", "desc": "弹幕互动吸引大量年轻观众"}
+      {
+        "title": "线条重现中式美学世界",
+        "desc": "左右大大的创意作品",
+        "url": "https://www.bilibili.com/video/BV1KX9xBHE42"
+      },
+      {
+        "title": "极致还原Billie jean现场名场面",
+        "desc": "Billie Jackson经典现场定格动画",
+        "url": "https://www.bilibili.com/video/BV19K9CB1EoM"
+      },
+      {
+        "title": "当用学历代表网文中的战力境界",
+        "desc": "小明修仙传1-4合集",
+        "url": "https://www.bilibili.com/video/BV1Mo98BNEGP"
+      },
+      {
+        "title": "在意大利摆摊卖中餐",
+        "desc": "用烟火温暖异国日常",
+        "url": "https://www.bilibili.com/video/BV1Gu98BTEPg"
+      },
+      {
+        "title": "这一分半我录了3个月，能火吗？",
+        "desc": "Fadedbook历时3个月创意视频",
+        "url": "https://www.bilibili.com/video/BV1v49YBHESJ"
+      }
     ],
     "weather": {
       "city": "北京",
@@ -37,8 +134,16 @@
       "sunrise": "05:13",
       "sunset": "19:11",
       "forecast": [
-        {"date": "05-04", "weather": "晴", "temp": "14~29℃"},
-        {"date": "05-05", "weather": "晴", "temp": "17~34℃"}
+        {
+          "date": "05-04",
+          "weather": "晴",
+          "temp": "14~29℃"
+        },
+        {
+          "date": "05-05",
+          "weather": "晴",
+          "temp": "17~34℃"
+        }
       ]
     }
   }

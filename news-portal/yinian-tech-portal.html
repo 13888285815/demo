@@ -6,7 +6,7 @@
   <title>意念科技 - 新闻门户</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
   <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
-  <meta name="last-updated" content="2026-05-02T03:33:00+08:00">
+  <meta name="last-updated" content="2026-05-03T16:55:00+08:00">
   <style>
     :root {
       --primary: #0078d4;
@@ -258,58 +258,59 @@
     const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
     let activeChannel = '首页';
 
-    // 央视新闻数据（2026年5月1日 17:06更新）
+    // 央视新闻数据（2026年5月3日 16:55更新）
     const newsData = [
-      { id: 1, title: '多个"大国工程”假期持续刷新"进度条” 推动高质量发展', summary: '开局"十五五”、实干创未来。这个"五一”假期，许多大工程施工不停。平陆运河青年枢纽5月1日将进行注水调试，海南文昌商业航天发射场二期建设稳步推进。', image: 'https://picsum.photos/800/450?random=901', source: '央视新闻', time: '2026-05-02', category: '国内', isTop: true },
-      { id: 2, title: '"五一”假期首日 全国铁路预计发送旅客2480万人次', summary: '假期第一天全国铁路迎来出行高峰，计划加开旅客列车2070列，多地交通枢纽客流涌动。', image: 'https://picsum.photos/400/250?random=902', source: '央视新闻', time: '2026-05-02', category: '社会' },
-      { id: 3, title: '全长59.9公里 亚洲最长地铁环线一期开通运营', summary: '亚洲最长的地铁环线一期工程正式开通运营，全长59.9公里，进一步完善城市公共交通网络。', image: 'https://picsum.photos/400/250?random=903', source: '央视新闻', time: '2026-05-02', category: '国内' },
-      { id: 4, title: '我国对53个非洲建交国全面实施零关税', summary: '5月1日起，我国对53个非洲建交国全面实施零关税举措，将进一步优化非洲对华贸易结构，扩大双边贸易规模。', image: 'https://picsum.photos/400/250?random=904', source: '央视新闻', time: '2026-05-02', category: '国际' },
-      { id: 5, title: '美辩称袭击伊朗系"自卫” 伊朗怒斥：赤裸裸的侵略', summary: '美国务院称对伊朗行动是"出于自卫”，伊朗外交部发言人强烈谴责，称这是对伊朗国家赤裸裸的侵略行为。', image: 'https://picsum.photos/400/250?random=905', source: '央视新闻', time: '2026-05-02', category: '国际' },
-      { id: 6, title: '新修订《渔业法》5月1日起正式施行', summary: '新修订的《渔业法》于5月1日起正式施行，为我国渔业可持续发展提供更完善的法律保障。', image: 'https://picsum.photos/400/250?random=906', source: '央视新闻', time: '2026-05-02', category: '国内' },
-      { id: 7, title: '北京：依托"国之重器” 打造国际科创策源地', summary: '北京依托重大科技基础设施和创新平台，加快打造国际科技创新策源地，推动高水平科技自立自强。', image: 'https://picsum.photos/400/250?random=907', source: '央视新闻', time: '2026-05-02', category: '科技' },
-      { id: 8, title: '我国科学家揭示反刍动物甲烷排放调控机制', summary: '我国科学家在反刍动物甲烷排放调控机制研究方面取得新进展，相关成果发表于国际学术期刊。', image: 'https://picsum.photos/400/250?random=908', source: '央视新闻', time: '2026-05-02', category: '科技' }
+      { id: 1, title: '假期首日 高速新能源车充电量创新高', summary: '五一假期首日，全国高速公路新能源车充电量创下历史新高，充电桩使用率大幅攀升。', image: 'https://picsum.photos/800/450?random=901', source: '央视新闻', time: '2026-05-03', category: '国内', isTop: true },
+      { id: 2, title: '南方降雨范围缩减 局地需防范强对流天气', summary: '中央气象台预计，南方地区降雨范围将逐步缩减，但局地仍需防范强对流天气。', image: 'https://picsum.photos/400/250?random=902', source: '央视新闻', time: '2026-05-03', category: '社会' },
+      { id: 3, title: '美国威胁制裁向伊朗缴通行费的航运企业', summary: '美国威胁对向伊朗缴纳通行费的国际航运企业实施制裁，引发国际航运业界广泛关注。', image: 'https://picsum.photos/400/250?random=903', source: '央视新闻', time: '2026-05-03', category: '国际' },
+      { id: 4, title: '奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变', summary: '习近平总书记强调艰苦奋斗精神永不变，激励广大干部群众在新时代新征程上继续拼搏。', image: 'https://picsum.photos/400/250?random=904', source: '央视新闻', time: '2026-05-03', category: '国内' },
+      { id: 5, title: '山东舰辽宁舰双航母编队强硬回击外军舰机抵近侦察', summary: '我海军山东舰、辽宁舰双航母编队在相关海域执行任务期间，强硬回击外军舰机抵近侦察。', image: 'https://picsum.photos/400/250?random=905', source: '央视新闻', time: '2026-05-03', category: '国际' },
+      { id: 6, title: '多个大国工程假期持续刷新进度条 推动高质量发展', summary: '五一假期多个重大工程施工不停，平陆运河青年枢纽进行注水调试，文昌商业航天发射场二期稳步推进。', image: 'https://picsum.photos/400/250?random=906', source: '央视新闻', time: '2026-05-03', category: '国内' },
+      { id: 7, title: '全国铁路五一假期首日预计发送旅客2480万人次', summary: '假期第一天全国铁路迎来出行高峰，计划加开旅客列车2070列，多地交通枢纽客流涌动。', image: 'https://picsum.photos/400/250?random=907', source: '央视新闻', time: '2026-05-03', category: '社会' },
+      { id: 8, title: '亚洲最长地铁环线一期开通运营', summary: '亚洲最长的地铁环线一期工程正式开通运营，全长59.9公里，进一步完善城市公共交通网络。', image: 'https://picsum.photos/400/250?random=908', source: '央视新闻', time: '2026-05-03', category: '国内' }
     ]
 
-        // B站热门视频数据（2026年5月1日 17:06更新）
+        // B站热门视频数据（2026年5月3日 16:55更新）
     const videoData = [
-      { id: 1, title: '极致还原Billie jean现场名场面|【定格动画】', thumbnail: 'https://picsum.photos/320/180?random=951', duration: '04:22', views: '494万', author: 'Moouyo默铀', url: 'https://b23.tv/BV19K9CB1EoM' },
-      { id: 2, title: '《代号：神不言》首曝PV&实机技术演示', thumbnail: 'https://picsum.photos/320/180?random=952', duration: 'PV', views: '1072万', author: '心动网络', url: 'https://www.bilibili.com/video/av116474060544844/' },
-      { id: 3, title: '线条重现中式美学世界', thumbnail: 'https://picsum.photos/320/180?random=953', duration: '01:38', views: '549万', author: '左右大大', url: 'https://b23.tv/BV1KX9xBHE42' },
-      { id: 4, title: '唱 戏 买 瓜', thumbnail: 'https://picsum.photos/320/180?random=954', duration: '03:22', views: '357万', author: '新世纪咖啡战士v', url: 'https://b23.tv/BV1ys9rBRENA' }
+      { id: 1, title: '线条重现中式美学世界', thumbnail: 'https://picsum.photos/320/180?random=951', duration: '01:38', views: '738万', author: '左右大大', url: 'https://www.bilibili.com/video/BV1KX9xBHE42' },
+      { id: 2, title: '极致还原Billie jean现场名场面|【定格动画】', thumbnail: 'https://picsum.photos/320/180?random=952', duration: '04:22', views: '564万', author: 'Moouyo默铀', url: 'https://www.bilibili.com/video/BV19K9CB1EoM' },
+      { id: 3, title: '当用学历代表网文中的战力境界【小明修仙传1-4合集】', thumbnail: 'https://picsum.photos/320/180?random=953', duration: '合集', views: '363万', author: '路人甲导演', url: 'https://www.bilibili.com/video/BV1Mo98BNEGP' },
+      { id: 4, title: '在意大利摆摊卖中餐，用烟火温暖异国日常', thumbnail: 'https://picsum.photos/320/180?random=954', duration: '日常', views: '332万', author: '周丽Giuly在意大利', url: 'https://www.bilibili.com/video/BV1Gu98BTEPg' },
+      { id: 5, title: '这一分半我录了3个月，能火吗？', thumbnail: 'https://picsum.photos/320/180?random=955', duration: '01:30', views: '268万', author: 'Fadedbook', url: 'https://www.bilibili.com/video/BV1v49YBHESJ' }
     ]
 
-        // 微博热搜数据（2026年5月1日 17:06更新）
+        // 微博热搜数据（2026年5月3日 16:55更新）
     const trendingData = [
-      { rank: 1, title: '莫氏鸡煲已报警', heat: '117万', trend: 'hot' },
-      { rank: 2, title: '五一档票房', heat: '101万', trend: 'hot' },
-      { rank: 3, title: '文旅活动精彩纷呈点燃假日出行', heat: '74万', trend: 'new' },
-      { rank: 4, title: '南开大学已成立调查组', heat: '70万', trend: 'hot' },
-      { rank: 5, title: '不爱睡觉的国家迎来了最懂他的奶茶', heat: '70万', trend: 'new' },
-      { rank: 6, title: '寒战1994不但好看而且好看', heat: '64万', trend: 'new' },
-      { rank: 7, title: '穿普拉达的女王 米兰达坐经济舱', heat: '63万', trend: 'hot' },
-      { rank: 8, title: '小米汽车4月交付量超3万台', heat: '30万', trend: 'hot' },
-      { rank: 9, title: '特朗普称美国结束对伊朗战争', heat: '29万', trend: 'new' },
-      { rank: 10, title: '中国首例脑机接口植入患者能下棋了', heat: '18万', trend: 'new' }
+      { rank: 1, title: '湖南广电 AI播新闻', heat: '112万', trend: 'new' },
+      { rank: 2, title: '上科大39岁教授营救至亲溺水去世', heat: '83万', trend: '' },
+      { rank: 3, title: '这个五一假期惠民福利停不下来', heat: '66万', trend: 'new' },
+      { rank: 4, title: '白鹿被孟子义说挂相', heat: '65万', trend: 'hot' },
+      { rank: 5, title: '把自己当成糖尿病人来吃饭', heat: '61万', trend: '' },
+      { rank: 6, title: '孙俪 我们家的狗装死把邓超吓晕了', heat: '56万', trend: '' },
+      { rank: 7, title: '大睡特睡 修复前额叶', heat: '48万', trend: '' },
+      { rank: 8, title: '河南蒜苔 再说原地址给你补五十斤', heat: '39万', trend: '' },
+      { rank: 9, title: '马龙许昕出发伦敦', heat: '39万', trend: 'new' },
+      { rank: 10, title: '榴莲价格', heat: '33万', trend: '' }
     ]
 
-        // 北京天气数据（2026-05-01 17:06 更新）
+        // 北京天气数据（2026-05-03 16:55 更新）
     const weatherData = {
-      city: '上海',
-      temp: 16,
-      condition: '多云',
-      high: 22,
-      low: 16,
-      humidity: 68,
-      wind: '南偏东风 18km/h',
-      pressure: 1012,
-      sunrise: '05:09',
-      sunset: '18:34',
+      city: '北京',
+      temp: 21,
+      condition: '晴',
+      high: 23,
+      low: 13,
+      humidity: 18,
+      wind: '北北西风 18km/h',
+      pressure: 1015,
+      sunrise: '05:13',
+      sunset: '19:11',
       forecast: [
-        { day: '今天', high: 22, low: 16, icon: '⛅' },
-        { day: '明天', high: 25, low: 16, icon: '🌤️' },
-        { day: '后天', high: 26, low: 14, icon: '☀️' }
+        { day: '今天', high: 23, low: 13, icon: '☀️' },
+        { day: '明天', high: 29, low: 14, icon: '☀️' },
+        { day: '后天', high: 34, low: 17, icon: '☀️' }
       ],
-      advice: '凌晨气温16°C偏凉需添衣，白天最高22°C多云为主。五一假期后半段天气转好适宜出行。'
+      advice: '五一假期最后两天北京持续晴好，气温逐日攀升至34°C。白天日照强注意防晒，早晚温差较大建议备件薄外套。'
     }
 
         // ==================== 渲染函数 ====================

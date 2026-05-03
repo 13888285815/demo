@@ -9,11 +9,29 @@
   "current_temp": "21",
   "humidity": "18",
   "wind": "18km/h NNW",
-  "wind_cn": "北北西风 18公里/小时",
-  "sunrise": "05:13",
-  "sunset": "19:11",
+  "wind_cn": "北北西风 18km/h",
+  "sunrise": "05:13 AM",
+  "sunset": "07:11 PM",
   "forecast": [
-    {"date": "05-04", "week": "周一", "weather": "Sunny", "weather_cn": "晴", "temp_high": "29", "temp_low": "14", "wind": "WSW 5km/h", "wind_cn": "西南偏西风 5公里/小时"},
-    {"date": "05-05", "week": "周二", "weather": "Sunny", "weather_cn": "晴", "temp_high": "34", "temp_low": "17", "wind": "SSW 15km/h", "wind_cn": "南南西风 15公里/小时"}
+    {
+      "date": "2026-05-04",
+      "week": "周一",
+      "weather": "Sunny",
+      "weather_cn": "晴",
+      "temp_high": "29",
+      "temp_low": "14",
+      "wind": "11km/h SSW",
+      "wind_cn": "西南偏西风 11km/h"
+    },
+    {
+      "date": "2026-05-05",
+      "week": "周二",
+      "weather": "Sunny",
+      "weather_cn": "晴",
+      "temp_high": "34",
+      "temp_low": "17",
+      "wind": "5km/h S",
+      "wind_cn": "南风 5km/h"
+    }
   ]
 }
