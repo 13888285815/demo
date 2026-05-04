@@ -1,22 +1,60 @@
 {
-  "update_time": "2026-05-04T15:30:00+08:00",
-  "source": "wttr.in",
-  "location": "Shanghai",
+  "update_time": "2026-05-04T16:01:00+08:00",
+  "location": "深圳",
   "current": {
-    "temp_C": 23,
-    "weatherDesc": "Sunny",
-    "humidity": 44,
-    "winddir16Point": "NW",
-    "windspeedKmph": 7,
-    "pressure": 1018,
-    "uvIndex": 7,
-    "visibility": 10,
-    "feelsLikeC": 24
+    "temp_C": 24,
+    "feels_like_C": 23,
+    "humidity": 74,
+    "weather": "阴天间多云，间中有雷阵雨",
+    "wind_speed_kmph": 15,
+    "wind_dir": "东南",
+    "visibility_km": 10,
+    "pressure_mb": 1008,
+    "cloudcover": 80,
+    "uv_index": 4
   },
-  "today": {
-    "avgtempC": 18,
-    "sunrise": "05:07 AM",
-    "sunset": "06:35 PM",
-    "moon_phase": "Waning Gibbous"
-  }
+  "forecast": [
+    {
+      "date": "2026-05-04",
+      "max_temp_C": 25,
+      "min_temp_C": 21,
+      "avg_temp_C": 23,
+      "weather": "阴天间多云，间中有雷阵雨",
+      "humidity_avg": 74,
+      "rain_chance": 60,
+      "uv_index": 4
+    },
+    {
+      "date": "2026-05-05",
+      "max_temp_C": 24,
+      "min_temp_C": 19,
+      "avg_temp_C": 21,
+      "weather": "阴天，多间歇性降雨",
+      "humidity_avg": 80,
+      "rain_chance": 85,
+      "uv_index": 3
+    },
+    {
+      "date": "2026-05-06",
+      "max_temp_C": 27,
+      "min_temp_C": 22,
+      "avg_temp_C": 24,
+      "weather": "多云间阴天",
+      "humidity_avg": 75,
+      "rain_chance": 30,
+      "uv_index": 6
+    }
+  ],
+  "astronomy": {
+    "sunrise": "05:49",
+    "sunset": "18:51",
+    "moon_phase": "亏凸月",
+    "moon_illumination": "95%"
+  },
+  "alerts": [
+    {
+      "type": "强对流天气提醒",
+      "description": "目前正处于强对流天气多发期，雨天路滑，请注意交通安全。返程路上记得添件外套。"
+    }
+  ]
 }

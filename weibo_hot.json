@@ -1,10 +1,111 @@
 {
-  "update_time": "2026-05-04T15:30:00+08:00",
-  "source": "Weibo Hot Search",
+  "update_time": "2026-05-04T16:01:00+08:00",
+  "source": "微博热搜",
   "data": [
-    {"rank":1,"word":"用烧烤签给狗撸串顾客账号已私密","num":1178485},
-    {"rank":2,"word":"国乒淘汰赛签表","num":837034},
-    {"rank":3,"word":"心有热爱永远正值青春","num":821990}
-  ],
-  "total": 3
+    {
+      "rank": 1,
+      "word": "国乒男团2比3瑞典",
+      "hot": 893317,
+      "label": "热",
+      "category": "体育"
+    },
+    {
+      "rank": 2,
+      "word": "央视发文恭喜肖战",
+      "hot": 850000,
+      "label": "热",
+      "category": "娱乐"
+    },
+    {
+      "rank": 3,
+      "word": "2026五一档总票房已破5亿",
+      "hot": 383001,
+      "label": "",
+      "category": "电影"
+    },
+    {
+      "rank": 4,
+      "word": "国羽汤杯卫冕",
+      "hot": 212756,
+      "label": "新",
+      "category": "体育"
+    },
+    {
+      "rank": 5,
+      "word": "黄灿灿 blackpink都没这么累",
+      "hot": 201385,
+      "label": "热",
+      "category": "综艺"
+    },
+    {
+      "rank": 6,
+      "word": "泡泡岛音乐节演出中止",
+      "hot": 180000,
+      "label": "",
+      "category": "娱乐"
+    },
+    {
+      "rank": 7,
+      "word": "豆包付费",
+      "hot": 175000,
+      "label": "",
+      "category": "互联网"
+    },
+    {
+      "rank": 8,
+      "word": "微信朋友圈改版",
+      "hot": 160000,
+      "label": "",
+      "category": "互联网"
+    },
+    {
+      "rank": 9,
+      "word": "余意曝陈昊宇私会她男友",
+      "hot": 150000,
+      "label": "",
+      "category": "娱乐"
+    },
+    {
+      "rank": 10,
+      "word": "阚清子晒乘风2026全家福",
+      "hot": 140000,
+      "label": "",
+      "category": "综艺"
+    },
+    {
+      "rank": 11,
+      "word": "湖南广电 AI播新闻",
+      "hot": 125088,
+      "label": "",
+      "category": "互联网"
+    },
+    {
+      "rank": 12,
+      "word": "伊朗公布最新谈判方案",
+      "hot": 96226,
+      "label": "",
+      "category": "国际时政"
+    },
+    {
+      "rank": 13,
+      "word": "黄灿灿回应罗予彤深夜吐槽",
+      "hot": 95000,
+      "label": "",
+      "category": "综艺"
+    },
+    {
+      "rank": 14,
+      "word": "曾沛慈微博热度值破百万",
+      "hot": 90000,
+      "label": "",
+      "category": "综艺"
+    },
+    {
+      "rank": 15,
+      "word": "雨伞羞耻症",
+      "hot": 85000,
+      "label": "",
+      "category": "社会"
+    }
+  ]
 }

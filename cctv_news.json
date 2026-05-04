@@ -1,7 +1,7 @@
 {
-  "update_time": "2026-05-04T15:30:00+08:00",
-  "source": "CCTV News",
-  "highlights": [
+  "update_time": "2026-05-04T16:01:00+08:00",
+  "source": "央视新闻 cctv.com",
+  "headlines": [
     {
       "title": "中国队包揽跳水世界杯总决赛9金",
       "url": "https://tv.cctv.com/2026/05/04/VIDE7bKcODyg1GokMy4qgGpa260504.shtml",
@@ -16,7 +16,16 @@
       "title": "美媒：在摩洛哥失踪美军士兵可能已坠海",
       "url": "https://tv.cctv.com/2026/05/04/VIDExAmxQtHzhbHHnbJAf9yF260504.shtml",
       "category": "国际"
+    },
+    {
+      "title": "央视发文恭喜肖战获大学生电影节最受欢迎演员",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019051jiq.html",
+      "category": "娱乐"
+    },
+    {
+      "title": "美伊停火现重大转机：三国斡旋拟停火45天",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_98869f7cdba24952",
+      "category": "国际"
     }
-  ],
-  "total": 3
+  ]
 }

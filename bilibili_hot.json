@@ -1,17 +1,56 @@
 {
-  "update_time": "2026-05-04T12:53:00+08:00",
-  "source": "Bilibili Popular Ranking",
+  "update_time": "2026-05-04T16:01:00+08:00",
+  "source": "B站热门视频",
   "data": [
-    {"rank":1,"title":"梓渝“游”点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》","up":"梓渝工作室","views":"189万"},
-    {"rank":2,"title":"【朱志鑫&苏新皓｜罗生门】“爱从来没有标准答案”","up":"SummerReunion","views":"108万"},
-    {"rank":3,"title":"「无敌少侠」以爱推至500年","up":"望穿秋水145","views":"172万"},
-    {"rank":4,"title":"线条重现中式美学世界","up":"左右大大","views":"785万"},
-    {"rank":5,"title":"《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版","up":"崩坏星穹铁道","views":"179万"},
-    {"rank":6,"title":"西⚡域⚡战⚡神⚡4","up":"洛温阿特金森","views":"310万"},
-    {"rank":7,"title":"华强买瓜，但是树上人特别多","up":"伊介书生","views":"280万"},
-    {"rank":8,"title":"DECO*27 - Love Para feat. Hatsune Miku","up":"DECO27_Official","views":"64万"},
-    {"rank":9,"title":"和AI玩猜历史人物游戏，又被它给耍了","up":"混饭达人","views":"286万"},
-    {"rank":10,"title":"486不是罪过","up":"真诚最高","views":"139万"}
-  ],
-  "total": 10
+    {
+      "rank": 1,
+      "title": "B站2026五四短片《赢》献给正在折腾的年轻人",
+      "owner": "哔哩哔哩",
+      "views": 3500000,
+      "likes": 280000,
+      "coins": 150000,
+      "bvid": "BV1xx411c7Yw",
+      "category": "五四青年节"
+    },
+    {
+      "rank": 2,
+      "title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版",
+      "owner": "崩坏星穹铁道",
+      "views": 1414044,
+      "likes": 109887,
+      "coins": 78526,
+      "bvid": "BV16p9UBgEhT",
+      "category": "音乐现场"
+    },
+    {
+      "rank": 3,
+      "title": "华强买瓜，但是树上人特别多",
+      "owner": "伊介书生",
+      "views": 2298833,
+      "likes": 159387,
+      "coins": 30864,
+      "bvid": "BV19N9XBMEmu",
+      "category": "鬼畜综合"
+    },
+    {
+      "rank": 4,
+      "title": "《崩坏：星穹铁道》三周年主题曲MV——「天生鬼才」",
+      "owner": "崩坏星穹铁道",
+      "views": 935404,
+      "likes": 93842,
+      "coins": 25500,
+      "bvid": "BV1AW98BoE6a",
+      "category": "MV"
+    },
+    {
+      "rank": 5,
+      "title": "地下交通站18周年：主演们现状大揭秘，贾队长经典台词成B站热门",
+      "owner": "影视杂谈",
+      "views": 856000,
+      "likes": 45600,
+      "coins": 12800,
+      "bvid": "BV1Jx4y1V7nK",
+      "category": "影视解说"
+    }
+  ]
 }

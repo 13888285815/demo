@@ -1,29 +1,29 @@
 {
-  "update_time": "2026-05-04T06:38:00+08:00",
+  "update_time": "2026-05-04T16:01:00+08:00",
   "cctv_news": [
     {
-      "title": "假期首日 高速新能源车充电量创新高",
-      "url": "https://tv.cctv.com/2026/05/03/VIDEZerjTM4txIruoUA7nVBu260503.shtml",
-      "category": "社会"
+      "title": "中国队包揽跳水世界杯总决赛9金",
+      "url": "https://tv.cctv.com/2026/05/04/VIDE7bKcODyg1GokMy4qgGpa260504.shtml",
+      "category": "体育"
     },
     {
-      "title": "南方降雨范围缩减 局地需防范强对流天气",
-      "url": "https://tv.cctv.com/2026/05/03/VIDElhcd5G8pT7gmxqL4Xnng260503.shtml",
-      "category": "天气"
+      "title": "2026汤姆斯杯世界男子羽毛球团体锦标赛 中国队卫冕",
+      "url": "https://tv.cctv.com/2026/05/04/VIDEmWNKAKSqFftvWSDPO7Sm260504.shtml",
+      "category": "体育"
     },
     {
-      "title": "美国威胁制裁向伊朗缴通行费的航运企业",
-      "url": "https://tv.cctv.com/2026/05/03/VIDEYI8oRpo50jA8K5iYw1lc260503.shtml",
+      "title": "美媒：在摩洛哥失踪美军士兵可能已坠海",
+      "url": "https://tv.cctv.com/2026/05/04/VIDExAmxQtHzhbHHnbJAf9yF260504.shtml",
       "category": "国际"
     },
     {
-      "title": "长江下75米 海太长江隧道工程施工抵达江底最深处",
-      "url": "https://news.cctv.com/2026/05/03/ARTImfXjzDBRhbGcSAOq5iZk260503.shtml",
-      "category": "科技"
+      "title": "央视发文恭喜肖战获大学生电影节最受欢迎演员",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019051jiq.html",
+      "category": "娱乐"
     },
     {
-      "title": "伊朗谴责特朗普“海盗”言论",
-      "url": "https://news.cctv.com/2026/05/03/ARTIz7IYCMKyU30UpbsYihCU260503.shtml",
+      "title": "美伊停火现重大转机：三国斡旋拟停火45天",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_98869f7cdba24952",
       "category": "国际"
     }
   ],
@@ -37,17 +37,17 @@
     },
     {
       "rank": 2,
-      "word": "这才是减脂餐的真正物价",
-      "hot": 470971,
-      "label": "",
-      "category": "美食"
+      "word": "央视发文恭喜肖战",
+      "hot": 850000,
+      "label": "热",
+      "category": "娱乐"
     },
     {
       "rank": 3,
       "word": "2026五一档总票房已破5亿",
       "hot": 383001,
       "label": "",
-      "category": "民生新闻"
+      "category": "电影"
     },
     {
       "rank": 4,
@@ -65,97 +65,113 @@
     },
     {
       "rank": 6,
-      "word": "佳偶天成 被剧名耽误",
-      "hot": 157363,
+      "word": "泡泡岛音乐节演出中止",
+      "hot": 180000,
       "label": "",
-      "category": "剧集"
+      "category": "娱乐"
     },
     {
       "rank": 7,
-      "word": "霸王茶姬 夏梦玫珑回归",
-      "hot": 156898,
+      "word": "豆包付费",
+      "hot": 175000,
       "label": "",
-      "category": ""
+      "category": "互联网"
     },
     {
       "rank": 8,
-      "word": "张雪机车德比斯退赛",
-      "hot": 153135,
+      "word": "微信朋友圈改版",
+      "hot": 160000,
       "label": "",
-      "category": "体育"
+      "category": "互联网"
     },
     {
       "rank": 9,
-      "word": "2026年伦敦世乒赛",
-      "hot": 130054,
+      "word": "余意曝陈昊宇私会她男友",
+      "hot": 150000,
       "label": "",
-      "category": "体育"
+      "category": "娱乐"
     },
     {
       "rank": 10,
-      "word": "肖战大影节红毯",
-      "hot": 126806,
+      "word": "阚清子晒乘风2026全家福",
+      "hot": 140000,
       "label": "",
-      "category": "电影"
+      "category": "综艺"
     }
   ],
   "weather": {
-    "update_time": "2026-05-04T06:38:00+08:00",
+    "update_time": "2026-05-04T16:01:00+08:00",
     "location": "深圳",
     "current": {
-      "temp_C": 22,
-      "feels_like_C": 25,
-      "humidity": 78,
-      "weather": "多云",
-      "wind_speed_kmph": 8,
-      "wind_dir": "北",
+      "temp_C": 24,
+      "feels_like_C": 23,
+      "humidity": 74,
+      "weather": "阴天间多云，间中有雷阵雨",
+      "wind_speed_kmph": 15,
+      "wind_dir": "东南",
       "visibility_km": 10,
-      "pressure_mb": 1012,
-      "cloudcover": 75,
-      "uv_index": 0
+      "pressure_mb": 1008,
+      "cloudcover": 80,
+      "uv_index": 4
     },
     "forecast": [
       {
         "date": "2026-05-04",
         "max_temp_C": 25,
-        "min_temp_C": 20,
-        "avg_temp_C": 22,
-        "weather": "小雨转多云",
-        "humidity_avg": 68,
-        "rain_chance": 88,
-        "uv_index": 3
+        "min_temp_C": 21,
+        "avg_temp_C": 23,
+        "weather": "阴天间多云，间中有雷阵雨",
+        "humidity_avg": 74,
+        "rain_chance": 60,
+        "uv_index": 4
       },
       {
         "date": "2026-05-05",
         "max_temp_C": 24,
-        "min_temp_C": 21,
-        "avg_temp_C": 22,
-        "weather": "小雨",
+        "min_temp_C": 19,
+        "avg_temp_C": 21,
+        "weather": "阴天，多间歇性降雨",
         "humidity_avg": 80,
-        "rain_chance": 100,
-        "uv_index": 7
+        "rain_chance": 85,
+        "uv_index": 3
       },
       {
         "date": "2026-05-06",
-        "max_temp_C": 28,
+        "max_temp_C": 27,
         "min_temp_C": 22,
-        "avg_temp_C": 25,
-        "weather": "多云转晴",
-        "humidity_avg": 78,
-        "rain_chance": 33,
-        "uv_index": 9
+        "avg_temp_C": 24,
+        "weather": "多云间阴天",
+        "humidity_avg": 75,
+        "rain_chance": 30,
+        "uv_index": 6
       }
     ],
     "astronomy": {
-      "sunrise": "05:50",
-      "sunset": "18:52",
+      "sunrise": "05:49",
+      "sunset": "18:51",
       "moon_phase": "亏凸月",
       "moon_illumination": "95%"
-    }
+    },
+    "alerts": [
+      {
+        "type": "强对流天气提醒",
+        "description": "目前正处于强对流天气多发期，雨天路滑，请注意交通安全。返程路上记得添件外套。"
+      }
+    ]
   },
   "bilibili_hot": [
     {
       "rank": 1,
+      "title": "B站2026五四短片《赢》献给正在折腾的年轻人",
+      "owner": "哔哩哔哩",
+      "views": 3500000,
+      "likes": 280000,
+      "coins": 150000,
+      "bvid": "BV1xx411c7Yw",
+      "category": "五四青年节"
+    },
+    {
+      "rank": 2,
       "title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版",
       "owner": "崩坏星穹铁道",
       "views": 1414044,
@@ -165,7 +181,7 @@
       "category": "音乐现场"
     },
     {
-      "rank": 2,
+      "rank": 3,
       "title": "华强买瓜，但是树上人特别多",
       "owner": "伊介书生",
       "views": 2298833,
@@ -175,7 +191,7 @@
       "category": "鬼畜综合"
     },
     {
-      "rank": 3,
+      "rank": 4,
       "title": "《崩坏：星穹铁道》三周年主题曲MV——「天生鬼才」",
       "owner": "崩坏星穹铁道",
       "views": 935404,
@@ -185,14 +201,14 @@
       "category": "MV"
     },
     {
-      "rank": 4,
-      "title": "【独家】牧神记 第81集 借船出行",
-      "owner": "哔哩哔哩国创",
-      "views": 2468500,
-      "likes": 26937,
-      "coins": 27090,
-      "bvid": "",
-      "category": "国产动画"
+      "rank": 5,
+      "title": "地下交通站18周年：主演们现状大揭秘，贾队长经典台词成B站热门",
+      "owner": "影视杂谈",
+      "views": 856000,
+      "likes": 45600,
+      "coins": 12800,
+      "bvid": "BV1Jx4y1V7nK",
+      "category": "影视解说"
     }
   ]
 }
