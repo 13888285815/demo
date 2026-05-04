@@ -1,7 +1,6 @@
 {
-  "update_time": "2026-05-04T16:01:00+08:00",
-  "source": "微博热搜",
-  "data": [
+  "update_time": "2026-05-04T16:32:00+08:00",
+  "hot_list": [
     {
       "rank": 1,
       "word": "国乒男团2比3瑞典",
@@ -71,41 +70,6 @@
       "hot": 140000,
       "label": "",
       "category": "综艺"
-    },
-    {
-      "rank": 11,
-      "word": "湖南广电 AI播新闻",
-      "hot": 125088,
-      "label": "",
-      "category": "互联网"
-    },
-    {
-      "rank": 12,
-      "word": "伊朗公布最新谈判方案",
-      "hot": 96226,
-      "label": "",
-      "category": "国际时政"
-    },
-    {
-      "rank": 13,
-      "word": "黄灿灿回应罗予彤深夜吐槽",
-      "hot": 95000,
-      "label": "",
-      "category": "综艺"
-    },
-    {
-      "rank": 14,
-      "word": "曾沛慈微博热度值破百万",
-      "hot": 90000,
-      "label": "",
-      "category": "综艺"
-    },
-    {
-      "rank": 15,
-      "word": "雨伞羞耻症",
-      "hot": 85000,
-      "label": "",
-      "category": "社会"
     }
   ]
 }

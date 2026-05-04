@@ -1,24 +1,23 @@
 {
-  "update_time": "2026-05-04T16:01:00+08:00",
-  "source": "B站热门视频",
-  "data": [
+  "update_time": "2026-05-04T16:32:00+08:00",
+  "hot_list": [
     {
       "rank": 1,
-      "title": "B站2026五四短片《赢》献给正在折腾的年轻人",
-      "owner": "哔哩哔哩",
-      "views": 3500000,
-      "likes": 280000,
-      "coins": 150000,
-      "bvid": "BV1xx411c7Yw",
-      "category": "五四青年节"
+      "title": "梓渝"游"点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》",
+      "owner": "梓渝工作室",
+      "views": 1538607,
+      "likes": 1986289,
+      "coins": 0,
+      "bvid": "BV1t29vBjEcU",
+      "category": "音乐现场"
     },
     {
       "rank": 2,
       "title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版",
       "owner": "崩坏星穹铁道",
-      "views": 1414044,
-      "likes": 109887,
-      "coins": 78526,
+      "views": 1852058,
+      "likes": 105046,
+      "coins": 0,
       "bvid": "BV16p9UBgEhT",
       "category": "音乐现场"
     },
@@ -26,31 +25,31 @@
       "rank": 3,
       "title": "华强买瓜，但是树上人特别多",
       "owner": "伊介书生",
-      "views": 2298833,
-      "likes": 159387,
-      "coins": 30864,
+      "views": 2977631,
+      "likes": 4068,
+      "coins": 0,
       "bvid": "BV19N9XBMEmu",
       "category": "鬼畜综合"
     },
     {
       "rank": 4,
-      "title": "《崩坏：星穹铁道》三周年主题曲MV——「天生鬼才」",
-      "owner": "崩坏星穹铁道",
-      "views": 935404,
-      "likes": 93842,
-      "coins": 25500,
-      "bvid": "BV1AW98BoE6a",
-      "category": "MV"
+      "title": "西⚡域⚡战⚡神⚡4",
+      "owner": "洛温阿特金森",
+      "views": 3101306,
+      "likes": 2003,
+      "coins": 0,
+      "bvid": "BV1T3RuBuEcZ",
+      "category": "鬼畜综合"
     },
     {
       "rank": 5,
-      "title": "地下交通站18周年：主演们现状大揭秘，贾队长经典台词成B站热门",
-      "owner": "影视杂谈",
-      "views": 856000,
-      "likes": 45600,
-      "coins": 12800,
-      "bvid": "BV1Jx4y1V7nK",
-      "category": "影视解说"
+      "title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》直拍",
+      "owner": "紫嘉儿",
+      "views": 4184969,
+      "likes": 1309,
+      "coins": 0,
+      "bvid": "BV1EC9oBZEF9",
+      "category": "舞蹈"
     }
   ]
 }

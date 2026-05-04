@@ -1,31 +1,35 @@
 {
-  "update_time": "2026-05-04T16:01:00+08:00",
-  "source": "央视新闻 cctv.com",
-  "headlines": [
+  "update_time": "2026-05-04T16:32:00+08:00",
+  "news": [
     {
-      "title": "中国队包揽跳水世界杯总决赛9金",
-      "url": "https://tv.cctv.com/2026/05/04/VIDE7bKcODyg1GokMy4qgGpa260504.shtml",
-      "category": "体育"
+      "title": "伊朗：美干涉海峡"新管理制度"将被视为违反停火",
+      "url": "https://news.cctv.com/2026/05/04/ARTIwkLYsTXPVDxkUdzQ7X2N260504.shtml",
+      "category": "国际",
+      "summary": "伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹4日凌晨在社交媒体上发文说，美国对霍尔木兹海峡"新的海事管理制度"的任何干涉都将被视为违反停火协议。"
     },
     {
-      "title": "2026汤姆斯杯世界男子羽毛球团体锦标赛 中国队卫冕",
-      "url": "https://tv.cctv.com/2026/05/04/VIDEmWNKAKSqFftvWSDPO7Sm260504.shtml",
-      "category": "体育"
+      "title": "补贴加力 多重优惠激发假日消费活力",
+      "url": "https://news.cctv.com/2026/05/04/ARTIJa956sf1k7ZeWV7MZqfu260504.shtml",
+      "category": "经济",
+      "summary": "空调、冰箱、厨卫电器……千余种绿色智能家电集中亮相，国家补贴、厂家让利、门店优惠，多重优惠组合发力，掀起以旧换新热潮。"
     },
     {
-      "title": "美媒：在摩洛哥失踪美军士兵可能已坠海",
-      "url": "https://tv.cctv.com/2026/05/04/VIDExAmxQtHzhbHHnbJAf9yF260504.shtml",
-      "category": "国际"
+      "title": ""怪事"频发：一个多月 美军两艘航母两艘主力战舰接连起火",
+      "url": "https://tv.cctv.com/2026/05/04/VIDEIamK2TjooJaA0zgfRzoE260504.shtml",
+      "category": "国际",
+      "summary": "美军舰艇接连发生火灾事故，引发关注。"
     },
     {
-      "title": "央视发文恭喜肖战获大学生电影节最受欢迎演员",
-      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019051jiq.html",
-      "category": "娱乐"
+      "title": "宝瓶座流星雨将于本月6日迎来极大",
+      "url": "https://tv.cctv.com/2026/05/04/VIDErao3GabMXt2MyNOlwh8o260504.shtml",
+      "category": "科技",
+      "summary": "天文爱好者可期待观测宝瓶座流星雨。"
     },
     {
-      "title": "美伊停火现重大转机：三国斡旋拟停火45天",
-      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_98869f7cdba24952",
-      "category": "国际"
+      "title": "主播遇见匠心 匠心芬芳 "胡蝶"自来",
+      "url": "https://tv.cctv.com/2026/05/04/VIDE6I77nhn68hZZPtGMHSPJ260504.shtml",
+      "category": "文化",
+      "summary": "央视主播探访传统工艺，展现匠心精神。"
     }
   ]
 }

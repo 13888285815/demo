@@ -1,32 +1,32 @@
 {
-  "update_time": "2026-05-04T16:01:00+08:00",
+  "update_time": "2026-05-04T16:32:00+08:00",
   "location": "深圳",
   "current": {
-    "temp_C": 24,
-    "feels_like_C": 23,
-    "humidity": 74,
-    "weather": "阴天间多云，间中有雷阵雨",
-    "wind_speed_kmph": 15,
-    "wind_dir": "东南",
+    "temp_C": 26,
+    "feels_like_C": 28,
+    "humidity": 58,
+    "weather": "零星小雨",
+    "wind_speed_kmph": 10,
+    "wind_dir": "东风",
     "visibility_km": 10,
-    "pressure_mb": 1008,
-    "cloudcover": 80,
-    "uv_index": 4
+    "pressure_mb": 1015,
+    "cloudcover": 0,
+    "uv_index": 2
   },
   "forecast": [
     {
       "date": "2026-05-04",
-      "max_temp_C": 25,
-      "min_temp_C": 21,
-      "avg_temp_C": 23,
-      "weather": "阴天间多云，间中有雷阵雨",
-      "humidity_avg": 74,
-      "rain_chance": 60,
-      "uv_index": 4
+      "max_temp_C": 26,
+      "min_temp_C": 20,
+      "avg_temp_C": 22,
+      "weather": "零星小雨",
+      "humidity_avg": 76,
+      "rain_chance": 88,
+      "uv_index": 2
     },
     {
       "date": "2026-05-05",
-      "max_temp_C": 24,
+      "max_temp_C": 25,
       "min_temp_C": 19,
       "avg_temp_C": 21,
       "weather": "阴天，多间歇性降雨",
@@ -46,8 +46,8 @@
     }
   ],
   "astronomy": {
-    "sunrise": "05:49",
-    "sunset": "18:51",
+    "sunrise": "05:50",
+    "sunset": "18:52",
     "moon_phase": "亏凸月",
     "moon_illumination": "95%"
   },
