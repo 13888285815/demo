@@ -1,31 +1,32 @@
 {
-  "update_time": "2026-05-04T06:38:00+08:00",
-  "source": "央视新闻 cctv.com",
-  "headlines": [
+  "update_time": "2026-05-04T12:53:00+08:00",
+  "source": "CCTV News",
+  "highlights": [
     {
-      "title": "假期首日 高速新能源车充电量创新高",
-      "url": "https://tv.cctv.com/2026/05/03/VIDEZerjTM4txIruoUA7nVBu260503.shtml",
+      "title": "中国队包揽跳水世界杯总决赛9金",
+      "url": "https://tv.cctv.com/2026/05/04/VIDE7bKcODyg1GokMy4qgGpa260504.shtml",
+      "category": "体育"
+    },
+    {
+      "title": "2026汤姆斯杯世界男子羽毛球团体锦标赛 中国队卫冕",
+      "url": "https://tv.cctv.com/2026/05/04/VIDEmWNKAKSqFftvWSDPO7Sm260504.shtml",
+      "category": "体育"
+    },
+    {
+      "title": "美媒：在摩洛哥失踪美军士兵可能已坠海",
+      "url": "https://tv.cctv.com/2026/05/04/VIDExAmxQtHzhbHHnbJAf9yF260504.shtml",
+      "category": "国际"
+    },
+    {
+      "title": "特朗普称伊朗的新提议不可接受",
+      "url": "https://news.cctv.com/2026/05/04/ARTIZ73zsMSgwprI4JTOkfnV260504.shtml",
+      "category": "国际"
+    },
+    {
+      "title": "五一假期文化游持续火热",
+      "url": "https://news.cctv.com/2026/05/04/ARTIAw7IETSrm1XVSqyWAKKM260504.shtml",
       "category": "社会"
-    },
-    {
-      "title": "南方降雨范围缩减 局地需防范强对流天气",
-      "url": "https://tv.cctv.com/2026/05/03/VIDElhcd5G8pT7gmxqL4Xnng260503.shtml",
-      "category": "天气"
-    },
-    {
-      "title": "美国威胁制裁向伊朗缴通行费的航运企业",
-      "url": "https://tv.cctv.com/2026/05/03/VIDEYI8oRpo50jA8K5iYw1lc260503.shtml",
-      "category": "国际"
-    },
-    {
-      "title": "长江下75米 海太长江隧道工程施工抵达江底最深处",
-      "url": "https://news.cctv.com/2026/05/03/ARTImfXjzDBRhbGcSAOq5iZk260503.shtml",
-      "category": "科技"
-    },
-    {
-      "title": "伊朗谴责特朗普“海盗”言论",
-      "url": "https://news.cctv.com/2026/05/03/ARTIz7IYCMKyU30UpbsYihCU260503.shtml",
-      "category": "国际"
     }
-  ]
+  ],
+  "total": 5
 }
