@@ -1,35 +1,41 @@
 {
-  "update_time": "2026-05-04T16:32:00+08:00",
-  "news": [
+  "update_time": "2026-05-04T17:00:00+08:00",
+  "source": "CCTV新闻",
+  "news_list": [
+    {
+      "title": "人形机器人"启蒙老师"都干点啥？一起了解",
+      "category": "科技",
+      "summary": "作为国家重点布局的未来核心产业，具身智能的发展，离不开海量实景数据的反复训练。一群担当人形机器人的"启蒙老师"的年轻人，用成千上万次亲身示范，为人工智能搭建起感知现实世界的通道。",
+      "url": "https://news.cctv.com/2026/05/04/ARTI3roVz8vW4qAnvr0NfV7c260504.shtml",
+      "date": "2026-05-04"
+    },
     {
       "title": "伊朗：美干涉海峡"新管理制度"将被视为违反停火",
-      "url": "https://news.cctv.com/2026/05/04/ARTIwkLYsTXPVDxkUdzQ7X2N260504.shtml",
       "category": "国际",
-      "summary": "伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹4日凌晨在社交媒体上发文说，美国对霍尔木兹海峡"新的海事管理制度"的任何干涉都将被视为违反停火协议。"
+      "summary": "伊朗方面表示，美国若干涉霍尔木兹海峡的新管理制度将被视为违反停火协议。",
+      "url": "https://news.cctv.com/world/",
+      "date": "2026-05-04"
     },
     {
-      "title": "补贴加力 多重优惠激发假日消费活力",
-      "url": "https://news.cctv.com/2026/05/04/ARTIJa956sf1k7ZeWV7MZqfu260504.shtml",
+      "title": "衡贴加力 多重优惠激发假日消费活力",
       "category": "经济",
-      "summary": "空调、冰箱、厨卫电器……千余种绿色智能家电集中亮相，国家补贴、厂家让利、门店优惠，多重优惠组合发力，掀起以旧换新热潮。"
+      "summary": "各地推出多重优惠政策，激发假日消费市场活力。",
+      "url": "https://jingji.cctv.com/",
+      "date": "2026-05-04"
     },
     {
-      "title": ""怪事"频发：一个多月 美军两艘航母两艘主力战舰接连起火",
-      "url": "https://tv.cctv.com/2026/05/04/VIDEIamK2TjooJaA0zgfRzoE260504.shtml",
+      "title": ""怪事"频发：美军舰艇接连起火",
       "category": "国际",
-      "summary": "美军舰艇接连发生火灾事故，引发关注。"
+      "summary": "美军舰艇近期接连发生起火事件，引发关注。",
+      "url": "https://news.cctv.com/world/",
+      "date": "2026-05-04"
     },
     {
       "title": "宝瓶座流星雨将于本月6日迎来极大",
-      "url": "https://tv.cctv.com/2026/05/04/VIDErao3GabMXt2MyNOlwh8o260504.shtml",
       "category": "科技",
-      "summary": "天文爱好者可期待观测宝瓶座流星雨。"
-    },
-    {
-      "title": "主播遇见匠心 匠心芬芳 "胡蝶"自来",
-      "url": "https://tv.cctv.com/2026/05/04/VIDE6I77nhn68hZZPtGMHSPJ260504.shtml",
-      "category": "文化",
-      "summary": "央视主播探访传统工艺，展现匠心精神。"
+      "summary": "宝瓶座η流星雨将于5月6日迎来极大，每小时天顶流量可达50颗左右。",
+      "url": "https://news.cctv.com/tech/",
+      "date": "2026-05-04"
     }
   ]
 }

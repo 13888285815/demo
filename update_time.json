@@ -1,11 +1,10 @@
 {
-  "last_update": "2026-05-04T16:32:00+08:00",
-  "update_by": "cron:a3c7f516-7d2d-4fcb-8b4d-d182a8e2a47f",
-  "sources": [
-    "cctv_news",
-    "weibo_hot",
-    "weather",
-    "bilibili_hot"
+  "last_update": "2026-05-04T17:00:00+08:00",
+  "update_items": [
+    "cctv_news.json",
+    "weibo_hot.json",
+    "weather.json",
+    "bilibili_hot.json"
   ],
-  "status": "success"
+  "next_scheduled_update": "2026-05-04T18:00:00+08:00"
 }
