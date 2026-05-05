@@ -1,0 +1,95 @@
+{
+  "update_time": "2026-05-05T10:07:00+08:00",
+  "data_source": "意念科技新闻门户",
+  "sections": {
+    "cctv_news": {
+      "title": "央视新闻要闻",
+      "items": [
+        {
+          "title": "习近平对湖南长沙浏阳市烟花厂爆炸事故作出重要指示",
+          "summary": "要求抓紧搜寻失联人员，全力救治伤员，妥善做好善后等工作，尽快查明事故原因严肃追责",
+          "url": "https://www.haiwainet.cn/",
+          "date": "2026-05-05"
+        },
+        {
+          "title": "追光的你丨青春正当时",
+          "summary": "五四青年节专题，总书记寄语广大青年建功奋进新征程",
+          "url": "http://www.gxtv.cn/",
+          "date": "2026-05-05"
+        },
+        {
+          "title": "勤于创造 勇于奋斗",
+          "summary": "开局十五五，劳动创造美好生活",
+          "url": "http://www.gxtv.cn/",
+          "date": "2026-05-05"
+        }
+      ]
+    },
+    "weibo_hot": {
+      "title": "微博热搜榜",
+      "update_time": "2026-05-05 08:24",
+      "items": [
+        {"rank": 1, "keyword": "世乒赛", "heat": 1795347, "status": "热"},
+        {"rank": 2, "keyword": "浏阳烟花厂爆炸致3死25伤", "heat": 1328002, "status": "新"},
+        {"rank": 3, "keyword": "五一特色专列串起万里山河", "heat": 991051, "status": "新"},
+        {"rank": 4, "keyword": "严浩翔哭了", "heat": 835891, "status": "新"},
+        {"rank": 5, "keyword": "中国向联合国发出警告", "heat": 632080, "status": ""},
+        {"rank": 6, "keyword": "马嘉祺破音", "heat": 627538, "status": "热"},
+        {"rank": 7, "keyword": "女子怀孕3个月确诊肺癌终止妊娠", "heat": 530175, "status": "新"},
+        {"rank": 8, "keyword": "小时候感觉用杯子喝牛奶的都是主角", "heat": 0, "status": ""}
+      ]
+    },
+    "bilibili_hot": {
+      "title": "B站热门",
+      "items": [
+        {
+          "title": "五四青年节，B站短片《赢》献给正在折腾的年轻人",
+          "description": "由复旦大学法学院副教授、新国辩人气辩手熊浩讲述",
+          "date": "2026-05-04"
+        },
+        {
+          "title": "才疏学浅的才浅亲手把残瓷送进博物馆",
+          "description": "B站UP主山东DOU是好风光系列",
+          "date": "2026-05-04"
+        },
+        {
+          "title": "90后护士爆改130㎡毛坯出租房",
+          "description": "仅花一万元打造卡戴珊同款贫穷风豪宅",
+          "date": "2026-05-04"
+        }
+      ]
+    },
+    "weather": {
+      "title": "上海天气",
+      "location": "上海",
+      "current": {
+        "date": "2026-05-05",
+        "condition": "晴",
+        "temp_high": 26,
+        "temp_low": 16,
+        "wind": "东南风",
+        "wind_level": "3级",
+        "humidity": 64,
+        "sunrise": "05:06",
+        "sunset": "18:36"
+      },
+      "forecast": [
+        {"date": "2026-05-05", "day": "今天", "condition": "晴", "high": 26, "low": 16, "wind": "东南风 3级"},
+        {"date": "2026-05-06", "day": "周三", "condition": "晴转多云", "high": 26, "low": 17, "wind": "东南风 3级"},
+        {"date": "2026-05-07", "day": "周四", "condition": "小雨转阴", "high": 28, "low": 16, "wind": "北风 3级"},
+        {"date": "2026-05-08", "day": "周五", "condition": "阴", "high": 21, "low": 15, "wind": "东北风 3级"},
+        {"date": "2026-05-09", "day": "周六", "condition": "多云", "high": 23, "low": 15, "wind": "东南风 3级"},
+        {"date": "2026-05-10", "day": "周日", "condition": "阴", "high": 25, "low": 16, "wind": "东南风 3级"}
+      ]
+    },
+    "finance_news": {
+      "title": "新浪财经快讯",
+      "items": [
+        {"title": "韩国产业部长将会见卢特尼克，商讨美国投资事宜", "source": "环球市场播报"},
+        {"title": "宁德时代逆市涨超4%，大摩目标价上调至815港元", "source": "新浪港股"},
+        {"title": "油气股部分逆市上扬，山东墨龙涨逾5%", "source": "新浪港股"},
+        {"title": "摩根士丹利布达佩斯投行业务受美国调查影响", "source": "环球市场播报"}
+      ]
+    }
+  }
+}
