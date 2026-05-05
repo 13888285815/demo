@@ -1,48 +1,27 @@
-{
-  "update_time": "2026-05-05T02:15:00+08:00",
-  "source": "CCTV新闻",
-  "news_list": [
-    {
-      "title": "人形机器人"启蒙老师"都干点啥？一起了解",
-      "category": "科技",
-      "summary": "作为国家重点布局的未来核心产业，具身智能的发展，离不开海量实景数据的反复训练。一群担当人形机器人的"启蒙老师"的年轻人，用成千上万次亲身示范，为人工智能搭建起感知现实世界的通道。",
-      "url": "https://news.cctv.com/2026/05/04/ARTI3roVz8vW4qAnvr0NfV7c260504.shtml",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "伊朗：美干涉海峡"新管理制度"将被视为违反停火",
-      "category": "国际",
-      "summary": "伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹表示，美国对霍尔木兹海峡新海事管理制度任何干涉都将被视为违反停火协议。",
-      "url": "https://news.cctv.com/2026/05/04/ARTIwkLYsTXPVDxkUdzQ7X2N260504.shtml",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "补贴加力 多重优惠激发假日消费活力",
-      "category": "经济",
-      "summary": "空调、冰箱、厨卫电器……千余种绿色智能家电集中亮相，国家补贴、厂家让利、门店优惠，多重优惠组合发力，掀起以旧换新热潮。",
-      "url": "https://news.cctv.com/2026/05/04/ARTIJa956sf1k7ZeWV7MZqfu260504.shtml",
-      "date": "2026-05-04"
-    },
-    {
-      "title": ""怪事"频发：一个多月 美军两艘航母两艘主力战舰接连起火",
-      "category": "国际",
-      "summary": "美军舰艇近期接连发生起火事件，引发关注。",
-      "url": "https://tv.cctv.com/2026/05/04/VIDEIamK2TjooJaA0zgfRzoE260504.shtml",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "宝瓶座流星雨将于本月6日迎来极大",
-      "category": "科技",
-      "summary": "宝瓶座η流星雨将于5月6日迎来极大，每小时天顶流量可达50颗左右。",
-      "url": "https://tv.cctv.com/2026/05/04/VIDErao3GabMXt2MyNOlwh8o260504.shtml",
-      "date": "2026-05-04"
-    },
-    {
-      "title": "户外救援，谁来"埋单"？",
-      "category": "社会",
-      "summary": "近年来，户外运动持续升温，任性"驴友"违规探险游玩被困的新闻屡见不鲜。",
-      "url": "https://news.cctv.com/2026/05/04/ARTIttF7RQNCVnd2y6zv7ded260504.shtml",
-      "date": "2026-05-04"
-    }
-  ]
-}
+[
+  {
+    "title": "假期出游 如何保护个人信息安全",
+    "url": "https://tv.cctv.com/2026/05/05/VIDEf2fXEac1oxiJVm51yjDH260505.shtml",
+    "time": "2026-05-05"
+  },
+  {
+    "title": ""电影+"活力四射 "五一"档电影总票房破7亿元",
+    "url": "https://tv.cctv.com/2026/05/05/VIDE6YfabP57cWZ1YqvwOY4J260505.shtml",
+    "time": "2026-05-05"
+  },
+  {
+    "title": "阿联酋称遭导弹和无人机袭击",
+    "url": "https://tv.cctv.com/2026/05/05/VIDEUM4gYx00vRxLemxSCR3z260505.shtml",
+    "time": "2026-05-05"
+  },
+  {
+    "title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变",
+    "url": "https://news.cctv.com/",
+    "time": "2026-05-05"
+  },
+  {
+    "title": "山东舰辽宁舰双航母编队强硬回击外军舰机抵近侦察",
+    "url": "https://news.cctv.com/",
+    "time": "2026-05-05"
+  }
+]

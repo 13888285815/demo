@@ -1,50 +1,27 @@
 {
-  "update_time": "2026-05-05T03:00:00+08:00",
-  "location": "深圳",
-  "current": {
-    "temp_c": 22,
-    "temp_f": 72,
-    "feels_like_c": 25,
-    "feels_like_f": 76,
-    "weather": "Overcast",
-    "humidity": 88,
-    "pressure": 1014,
-    "wind_dir": "E",
-    "wind_speed_kmph": 13,
-    "cloudcover": 100,
-    "uv_index": 0,
-    "visibility": 7
-  },
-  "astronomy": {
-    "sunrise": "05:49 AM",
-    "sunset": "06:52 PM",
-    "moon_phase": "Waning Gibbous",
-    "moon_illumination": 90
-  },
+  "city": "北京",
+  "date": "2026-05-05",
+  "week": "周二",
+  "weather": "Sunny",
+  "weather_cn": "晴",
+  "temp_high": "34",
+  "temp_low": "17",
+  "current_temp": "29",
+  "humidity": "37",
+  "wind": "27km/h SSW",
+  "wind_cn": "南南西风 27km/h",
+  "sunrise": "05:11 AM",
+  "sunset": "07:13 PM",
   "forecast": [
     {
-      "date": "2026-05-05",
-      "max_temp_c": 23,
-      "min_temp_c": 20,
-      "avg_temp_c": 21,
-      "weather": "Patchy rain nearby",
-      "sun_hours": 9.8
-    },
-    {
       "date": "2026-05-06",
-      "max_temp_c": 24,
-      "min_temp_c": 20,
-      "avg_temp_c": 22,
-      "weather": "Partly Cloudy",
-      "sun_hours": 10.5
-    },
-    {
-      "date": "2026-05-07",
-      "max_temp_c": 27,
-      "min_temp_c": 22,
-      "avg_temp_c": 24,
-      "weather": "Partly Cloudy",
-      "sun_hours": 10.5
+      "week": "周三",
+      "weather": "Partly cloudy",
+      "weather_cn": "多云",
+      "temp_high": "31",
+      "temp_low": "18",
+      "wind": "19km/h SW",
+      "wind_cn": "西南风 19km/h"
     }
   ]
 }

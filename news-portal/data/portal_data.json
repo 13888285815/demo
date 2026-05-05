@@ -1,44 +1,43 @@
 {
-  "updateTime": "2026-05-03T16:25:00",
+  "updateTime": "2026-05-05T19:00:00",
   "data": {
     "cctv": [
-      {"title": "假期首日 高速新能源车充电量创新高", "url": "https://tv.cctv.com/2026/05/03/VIDEZerjTM4txIruoUA7nVBu260503.shtml"},
-      {"title": "南方降雨范围缩减 局地需防范强对流天气", "url": "https://tv.cctv.com/2026/05/03/VIDElhcd5G8pT7gmxqL4Xnng260503.shtml"},
-      {"title": "美国威胁制裁向伊朗缴通行费的航运企业", "url": "https://tv.cctv.com/2026/05/03/VIDEYI8oRpo50jA8K5iYw1lc260503.shtml"},
+      {"title": "假期出游 如何保护个人信息安全", "url": "https://tv.cctv.com/2026/05/05/VIDEf2fXEac1oxiJVm51yjDH260505.shtml"},
+      {"title": ""电影+"活力四射 五一档电影总票房破7亿元", "url": "https://tv.cctv.com/2026/05/05/VIDE6YfabP57cWZ1YqvwOY4J260505.shtml"},
+      {"title": "阿联酋称遭导弹和无人机袭击", "url": "https://tv.cctv.com/2026/05/05/VIDEUM4gYx00vRxLemxSCR3z260505.shtml"},
       {"title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变", "url": "https://news.cctv.com/"},
       {"title": "山东舰辽宁舰双航母编队强硬回击外军舰机", "url": "https://news.cctv.com/"}
     ],
     "weibo": [
-      {"rank": 1, "keyword": "上科大39岁教授营救至亲溺水去世", "heat": 1110139, "hot": false},
-      {"rank": 2, "keyword": "NPC小黄鱼互动改送簪花", "heat": 798134, "hot": false},
-      {"rank": 3, "keyword": "这个五一假期惠民福利停不下来", "heat": 794263, "hot": true},
-      {"rank": 4, "keyword": "白鹿被孟子义说挂相", "heat": 768141, "hot": true},
-      {"rank": 5, "keyword": "把自己当成糖尿病人来吃饭", "heat": 767254, "hot": true},
-      {"rank": 6, "keyword": "男子养了11年的3个孩子2个非亲生", "heat": 744497, "hot": true},
-      {"rank": 7, "keyword": "严浩翔 爱一个人需要另一个人", "heat": 736848, "hot": true},
-      {"rank": 8, "keyword": "马龙许昕出发伦敦", "heat": 479626, "hot": true},
-      {"rank": 9, "keyword": "大睡特睡 修复前额叶", "heat": 475100, "hot": false},
-      {"rank": 10, "keyword": "央视再调查网红减肥针乱象", "heat": 391149, "hot": true}
+      {"rank": 1, "keyword": "奔跑吧打假", "heat": 1610000, "hot": true},
+      {"rank": 2, "keyword": "世乒赛男团澳大利亚变阵", "heat": 1420000, "hot": true},
+      {"rank": 3, "keyword": "广交会彰显中国制造硬核实力", "heat": 1390000, "hot": true},
+      {"rank": 4, "keyword": "你好星期六没有给张婧仪道歉", "heat": 1390000, "hot": true},
+      {"rank": 5, "keyword": "小猫还原自己摔伤过程", "heat": 1380000, "hot": true},
+      {"rank": 6, "keyword": "好多人给谢娜送花篮", "heat": 1330000, "hot": true},
+      {"rank": 7, "keyword": "长沙市委市政府致歉", "heat": 1140000, "hot": true},
+      {"rank": 8, "keyword": "第五人格年度发布会", "heat": 910000, "hot": false},
+      {"rank": 9, "keyword": "浏阳烟花厂爆炸致26死61伤", "heat": 810000, "hot": false},
+      {"rank": 10, "keyword": "以为低糖低油其实长肉的食物", "heat": 780000, "hot": false}
     ],
     "bilibili": [
-      {"title": "B站纪录片开放周：免费开放3000余部纪录片", "desc": "鲁豫、罗翔、食贫道私藏片单公开"},
-      {"title": "B站联合上海精神卫生中心倡导\"养脑\"", "desc": "观看纪录片修复前额叶损伤"},
-      {"title": "神图：最折磨B站审核的视频出现了", "desc": "B站热门创意内容引发热议"},
-      {"title": "B站UP主涨粉榜：生活日常类UP主领跑", "desc": "五一假期日涨粉超4万"},
-      {"title": "B站篮球赛事直播覆盖面持续扩大", "desc": "弹幕互动吸引大量年轻观众"}
+      {"title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》原创曲直拍版", "desc": "紫嘉儿国风舞蹈作品，播放704万"},
+      {"title": "华强买瓜，但是树上人特别多", "desc": "伊介书生鬼畜作品，播放406万"},
+      {"title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版", "desc": "三周年活动，播放266万"},
+      {"title": "和AI玩猜历史人物游戏，又被它给耍了", "desc": "混饭达人AI互动视频，播放353万"},
+      {"title": "《崩坏：星穹铁道》三周年主题曲MV——「天生鬼才」", "desc": "萧敬腾演唱，播放189万"}
     ],
     "weather": {
       "city": "北京",
       "weather": "晴",
-      "temp": "13~23℃",
-      "current_temp": "21℃",
-      "humidity": "18%",
-      "wind": "北北西风 18km/h",
-      "sunrise": "05:13",
-      "sunset": "19:11",
+      "temp": "17~34℃",
+      "current_temp": "29℃",
+      "humidity": "37%",
+      "wind": "南南西风 27km/h",
+      "sunrise": "05:11",
+      "sunset": "19:13",
       "forecast": [
-        {"date": "05-04", "weather": "晴", "temp": "14~29℃"},
-        {"date": "05-05", "weather": "晴", "temp": "17~34℃"}
+        {"date": "05-06", "weather": "多云", "temp": "18~31℃"}
       ]
     }
   }

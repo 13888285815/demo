@@ -1,37 +1,27 @@
 {
   "city": "北京",
-  "date": "2026-05-03",
-  "week": "周日",
+  "date": "2026-05-05",
+  "week": "周二",
   "weather": "Sunny",
   "weather_cn": "晴",
-  "temp_high": "23",
-  "temp_low": "13",
-  "current_temp": "21",
-  "humidity": "18",
-  "wind": "18km/h NNW",
-  "wind_cn": "北北西风 18km/h",
-  "sunrise": "05:13 AM",
-  "sunset": "07:11 PM",
+  "temp_high": "34",
+  "temp_low": "17",
+  "current_temp": "29",
+  "humidity": "37",
+  "wind": "27km/h SSW",
+  "wind_cn": "南南西风 27km/h",
+  "sunrise": "05:11 AM",
+  "sunset": "07:13 PM",
   "forecast": [
     {
-      "date": "2026-05-04",
-      "week": "周一",
-      "weather": "Sunny",
-      "weather_cn": "晴",
-      "temp_high": "29",
-      "temp_low": "14",
-      "wind": "11km/h SSW",
-      "wind_cn": "西南偏西风 11km/h"
-    },
-    {
-      "date": "2026-05-05",
-      "week": "周二",
-      "weather": "Sunny",
-      "weather_cn": "晴",
-      "temp_high": "34",
-      "temp_low": "17",
-      "wind": "5km/h S",
-      "wind_cn": "南风 5km/h"
+      "date": "2026-05-06",
+      "week": "周三",
+      "weather": "Partly cloudy",
+      "weather_cn": "多云",
+      "temp_high": "31",
+      "temp_low": "18",
+      "wind": "19km/h SW",
+      "wind_cn": "西南风 19km/h"
     }
   ]
 }

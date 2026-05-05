@@ -1,10 +1,1 @@
-{
-  "last_update": "2026-05-04T17:00:00+08:00",
-  "update_items": [
-    "cctv_news.json",
-    "weibo_hot.json",
-    "weather.json",
-    "bilibili_hot.json"
-  ],
-  "next_scheduled_update": "2026-05-04T18:00:00+08:00"
-}
+{"lastUpdate":"2026-05-05T19:00:00+08:00"}

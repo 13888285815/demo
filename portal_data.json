@@ -1,74 +1,43 @@
 {
-  "update_time": "2026-05-04T17:00:00+08:00",
-  "portal_name": "意念科技新闻门户",
-  "sections": {
-    "cctv_news": {
-      "title": "央视新闻",
-      "items": [
-        {
-          "title": "人形机器人"启蒙老师"都干点啥？一起了解",
-          "category": "科技",
-          "summary": "作为国家重点布局的未来核心产业，具身智能的发展，离不开海量实景数据的反复训练。一群担当人形机器人的"启蒙老师"的年轻人，用成千上万次亲身示范，为人工智能搭建起感知现实世界的通道。"
-        },
-        {
-          "title": "伊朗：美干涉海峡"新管理制度"将被视为违反停火",
-          "category": "国际",
-          "summary": "伊朗方面表示，美国若干涉霍尔木兹海峡的新管理制度将被视为违反停火协议。"
-        },
-        {
-          "title": "衡贴加力 多重优惠激发假日消费活力",
-          "category": "经济",
-          "summary": "各地推出多重优惠政策，激发假日消费市场活力。"
-        },
-        {
-          "title": ""怪事"频发：美军舰艇接连起火",
-          "category": "国际",
-          "summary": "美军舰艇近期接连发生起火事件，引发关注。"
-        },
-        {
-          "title": "宝瓶座流星雨将于本月6日迎来极大",
-          "category": "科技",
-          "summary": "宝瓶座η流星雨将于5月6日迎来极大，每小时天顶流量可达50颗左右。"
-        }
-      ]
-    },
-    "weibo_hot": {
-      "title": "微博热搜",
-      "items": [
-        {"rank": 1, "word": "国乒男团2比3瑞典", "hot": 893317, "category": "体育"},
-        {"rank": 2, "word": "央视发文恭喜肖战", "hot": 850000, "category": "娱乐"},
-        {"rank": 3, "word": "2026五一档总票房已破5亿", "hot": 383001, "category": "电影"},
-        {"rank": 4, "word": "国羽汤杯卫冕", "hot": 212756, "category": "体育"},
-        {"rank": 5, "word": "黄灿灿 blackpink都没这么累", "hot": 201385, "category": "综艺"},
-        {"rank": 6, "word": "泡泡岛音乐节演出中止", "hot": 180000, "category": "娱乐"},
-        {"rank": 7, "word": "豆包付费", "hot": 175000, "category": "互联网"},
-        {"rank": 8, "word": "微信朋友圈改版", "hot": 160000, "category": "互联网"},
-        {"rank": 9, "word": "余意曝陈昊宇私会她男友", "hot": 150000, "category": "娱乐"},
-        {"rank": 10, "word": "阚清子晒乘风2026全家福", "hot": 140000, "category": "综艺"}
-      ]
-    },
+  "updateTime": "2026-05-05T19:00:00",
+  "data": {
+    "cctv": [
+      {"title": "假期出游 如何保护个人信息安全", "url": "https://tv.cctv.com/2026/05/05/VIDEf2fXEac1oxiJVm51yjDH260505.shtml"},
+      {"title": ""电影+"活力四射 五一档电影总票房破7亿元", "url": "https://tv.cctv.com/2026/05/05/VIDE6YfabP57cWZ1YqvwOY4J260505.shtml"},
+      {"title": "阿联酋称遭导弹和无人机袭击", "url": "https://tv.cctv.com/2026/05/05/VIDEUM4gYx00vRxLemxSCR3z260505.shtml"},
+      {"title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变", "url": "https://news.cctv.com/"},
+      {"title": "山东舰辽宁舰双航母编队强硬回击外军舰机", "url": "https://news.cctv.com/"}
+    ],
+    "weibo": [
+      {"rank": 1, "keyword": "奔跑吧打假", "heat": 1610000, "hot": true},
+      {"rank": 2, "keyword": "世乒赛男团澳大利亚变阵", "heat": 1420000, "hot": true},
+      {"rank": 3, "keyword": "广交会彰显中国制造硬核实力", "heat": 1390000, "hot": true},
+      {"rank": 4, "keyword": "你好星期六没有给张婧仪道歉", "heat": 1390000, "hot": true},
+      {"rank": 5, "keyword": "小猫还原自己摔伤过程", "heat": 1380000, "hot": true},
+      {"rank": 6, "keyword": "好多人给谢娜送花篮", "heat": 1330000, "hot": true},
+      {"rank": 7, "keyword": "长沙市委市政府致歉", "heat": 1140000, "hot": true},
+      {"rank": 8, "keyword": "第五人格年度发布会", "heat": 910000, "hot": false},
+      {"rank": 9, "keyword": "浏阳烟花厂爆炸致26死61伤", "heat": 810000, "hot": false},
+      {"rank": 10, "keyword": "以为低糖低油其实长肉的食物", "heat": 780000, "hot": false}
+    ],
+    "bilibili": [
+      {"title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》原创曲直拍版", "desc": "紫嘉儿国风舞蹈作品，播放704万"},
+      {"title": "华强买瓜，但是树上人特别多", "desc": "伊介书生鬼畜作品，播放406万"},
+      {"title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版", "desc": "三周年活动，播放266万"},
+      {"title": "和AI玩猜历史人物游戏，又被它给耍了", "desc": "混饭达人AI互动视频，播放353万"},
+      {"title": "《崩坏：星穹铁道》三周年主题曲MV——「天生鬼才」", "desc": "萧敬腾演唱，播放189万"}
+    ],
     "weather": {
-      "title": "深圳天气",
-      "current": {
-        "temp": "25°C",
-        "weather": "Light rain",
-        "humidity": "65%",
-        "wind": "NE 9km/h"
-      },
+      "city": "北京",
+      "weather": "晴",
+      "temp": "17~34℃",
+      "current_temp": "29℃",
+      "humidity": "37%",
+      "wind": "南南西风 27km/h",
+      "sunrise": "05:11",
+      "sunset": "19:13",
       "forecast": [
-        {"date": "05-04", "temp": "20-23°C", "weather": "Light rain"},
-        {"date": "05-05", "temp": "20-24°C", "weather": "Patchy rain"},
-        {"date": "05-06", "temp": "22-27°C", "weather": "Partly Cloudy"}
-      ]
-    },
-    "bilibili_hot": {
-      "title": "B站热门",
-      "items": [
-        {"rank": 1, "title": "梓渝2026巡回演唱会纪录片", "play": "154万", "author": "梓渝工作室"},
-        {"rank": 2, "title": "崩坏星穹铁道2026星铁奇妙夜", "play": "185万", "author": "崩坏星穹铁道"},
-        {"rank": 3, "title": "华强买瓜，但是树上人特别多", "play": "298万", "author": "伊介书生"},
-        {"rank": 4, "title": "西域战神4", "play": "310万", "author": "洛温阿特金森"},
-        {"rank": 5, "title": "宝青坊主《梨花舞》直拍", "play": "418万", "author": "紫嘉儿"}
+        {"date": "05-06", "weather": "多云", "temp": "18~31℃"}
       ]
     }
   }

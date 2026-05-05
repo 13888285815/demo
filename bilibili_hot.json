@@ -1,86 +1,32 @@
-{
-  "update_time": "2026-05-05T03:00:00+08:00",
-  "source": "B站排行榜",
-  "hot_list": [
-    {
-      "rank": 1,
-      "title": "华强买瓜，但是树上人特别多",
-      "author": "伊介书生",
-      "play": "3649873",
-      "duration": 233,
-      "bvid": "BV19N9XBMEmu"
-    },
-    {
-      "rank": 2,
-      "title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版",
-      "author": "崩坏星穹铁道",
-      "play": "2402253",
-      "duration": 6186,
-      "bvid": "BV16p9UBgEhT"
-    },
-    {
-      "rank": 3,
-      "title": "梓渝“游”点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》",
-      "author": "梓渝工作室",
-      "play": "2033499",
-      "duration": 3180,
-      "bvid": "BV1t29vBjEcU"
-    },
-    {
-      "rank": 4,
-      "title": "西⚡域⚡战⚡神⚡4",
-      "author": "洛温阿特金森",
-      "play": "3552649",
-      "duration": 162,
-      "bvid": "BV1T3RuBuEcZ"
-    },
-    {
-      "rank": 5,
-      "title": "和AI玩猜历史人物游戏，又被它给耍了",
-      "author": "混饭达人",
-      "play": "3271103",
-      "duration": 260,
-      "bvid": "BV1ebREBmEha"
-    },
-    {
-      "rank": 6,
-      "title": "不会写作业的请到主任办公室",
-      "author": "脱缰凯Kk",
-      "play": "3138052",
-      "duration": 304,
-      "bvid": "BV1k39YBaEgj"
-    },
-    {
-      "rank": 7,
-      "title": "我判断不了这个方块的虚实，你也证明不了你付出的是真心",
-      "author": "fffzzww",
-      "play": "2073663",
-      "duration": 50,
-      "bvid": "BV1yX9ZB6Etk"
-    },
-    {
-      "rank": 8,
-      "title": "嘉豪与翻版紫薯精的相亲历险记",
-      "author": "陈嘉伦整个路人",
-      "play": "3262822",
-      "duration": 288,
-      "bvid": "BV1Qd9eBnEC4"
-    },
-    {
-      "rank": 9,
-      "title": "这是什么马？？",
-      "author": "老番茄",
-      "play": "3169950",
-      "duration": 1291,
-      "bvid": "BV1BM9fB8Eds"
-    },
-    {
-      "rank": 10,
-      "title": "「无敌少侠」以爱推至500年",
-      "author": "望穿秋水145",
-      "play": "1932052",
-      "duration": 243,
-      "bvid": "BV14C9YB6EKT"
-    }
-  ]
-}
+[
+  {
+    "title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》原创曲直拍版",
+    "desc": "紫嘉儿国风舞蹈作品，B站全站排行榜第1名，播放704万",
+    "url": "https://www.bilibili.com/video/BV1EC9oBZEF9",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "华强买瓜，但是树上人特别多",
+    "desc": "伊介书生鬼畜作品，B站全站排行榜第2名，播放406万",
+    "url": "https://www.bilibili.com/video/BV19N9XBMEmu",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版",
+    "desc": "崩坏星穹铁道三周年活动，B站全站排行榜第3名，播放266万",
+    "url": "https://www.bilibili.com/video/BV16p9UBgEhT",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "和AI玩猜历史人物游戏，又被它给耍了",
+    "desc": "混饭达人AI互动视频，B站全站排行榜第4名，播放353万",
+    "url": "https://www.bilibili.com/video/BV1ebREBmEha",
+    "date": "2026-05-05"
+  },
+  {
+    "title": "《崩坏：星穹铁道》三周年主题曲MV——「天生鬼才」",
+    "desc": "萧敬腾演唱三周年主题曲，播放189万",
+    "url": "https://www.bilibili.com/video/BV1AW98BoE6a",
+    "date": "2026-05-05"
+  }
+]
