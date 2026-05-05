@@ -1,86 +1,86 @@
 {
-  "update_time": "2026-05-04T17:00:00+08:00",
+  "update_time": "2026-05-05T03:00:00+08:00",
   "source": "B站排行榜",
   "hot_list": [
     {
       "rank": 1,
-      "title": "梓渝"游"点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》",
-      "author": "梓渝工作室",
-      "play": 1538607,
-      "duration": "53:00",
-      "bvid": "BV1t29vBjEcU"
-    },
-    {
-      "rank": 2,
-      "title": "【朱志鑫&苏新皓｜罗生门】"爱从来没有标准答案"",
-      "author": "SummerReunion",
-      "play": 808831,
-      "duration": "4:25",
-      "bvid": "BV1oi98BmEkL"
-    },
-    {
-      "rank": 3,
-      "title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版",
-      "author": "崩坏星穹铁道",
-      "play": 1852058,
-      "duration": "103:06",
-      "bvid": "BV16p9UBgEhT"
-    },
-    {
-      "rank": 4,
-      "title": "「无敌少侠」以爱推至500年",
-      "author": "望穿秋水145",
-      "play": 1648845,
-      "duration": "4:03",
-      "bvid": "BV14C9YB6EKT"
-    },
-    {
-      "rank": 5,
       "title": "华强买瓜，但是树上人特别多",
       "author": "伊介书生",
-      "play": 2977631,
-      "duration": "3:53",
+      "play": "3649873",
+      "duration": 233,
       "bvid": "BV19N9XBMEmu"
     },
     {
-      "rank": 6,
+      "rank": 2,
+      "title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版",
+      "author": "崩坏星穹铁道",
+      "play": "2402253",
+      "duration": 6186,
+      "bvid": "BV16p9UBgEhT"
+    },
+    {
+      "rank": 3,
+      "title": "梓渝“游”点意思2026巡回演唱会第一阶段纪录片《渝的七秒记忆》",
+      "author": "梓渝工作室",
+      "play": "2033499",
+      "duration": 3180,
+      "bvid": "BV1t29vBjEcU"
+    },
+    {
+      "rank": 4,
       "title": "西⚡域⚡战⚡神⚡4",
       "author": "洛温阿特金森",
-      "play": 3101306,
-      "duration": "2:42",
+      "play": "3552649",
+      "duration": 162,
       "bvid": "BV1T3RuBuEcZ"
     },
     {
-      "rank": 7,
+      "rank": 5,
       "title": "和AI玩猜历史人物游戏，又被它给耍了",
       "author": "混饭达人",
-      "play": 2923625,
-      "duration": "4:20",
+      "play": "3271103",
+      "duration": 260,
       "bvid": "BV1ebREBmEha"
     },
     {
-      "rank": 8,
-      "title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》直拍",
-      "author": "紫嘉儿",
-      "play": 4184969,
-      "duration": "0:40",
-      "bvid": "BV1EC9oBZEF9"
-    },
-    {
-      "rank": 9,
+      "rank": 6,
       "title": "不会写作业的请到主任办公室",
       "author": "脱缰凯Kk",
-      "play": 2768843,
-      "duration": "5:04",
+      "play": "3138052",
+      "duration": 304,
       "bvid": "BV1k39YBaEgj"
     },
     {
+      "rank": 7,
+      "title": "我判断不了这个方块的虚实，你也证明不了你付出的是真心",
+      "author": "fffzzww",
+      "play": "2073663",
+      "duration": 50,
+      "bvid": "BV1yX9ZB6Etk"
+    },
+    {
+      "rank": 8,
+      "title": "嘉豪与翻版紫薯精的相亲历险记",
+      "author": "陈嘉伦整个路人",
+      "play": "3262822",
+      "duration": 288,
+      "bvid": "BV1Qd9eBnEC4"
+    },
+    {
+      "rank": 9,
+      "title": "这是什么马？？",
+      "author": "老番茄",
+      "play": "3169950",
+      "duration": 1291,
+      "bvid": "BV1BM9fB8Eds"
+    },
+    {
       "rank": 10,
-      "title": "线条重现中式美学世界",
-      "author": "左右大大",
-      "play": 4397235,
-      "duration": "1:38",
-      "bvid": "BV1KX9xBHE42"
+      "title": "「无敌少侠」以爱推至500年",
+      "author": "望穿秋水145",
+      "play": "1932052",
+      "duration": 243,
+      "bvid": "BV14C9YB6EKT"
     }
   ]
 }
