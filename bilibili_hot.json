@@ -1,32 +1,10 @@
-[
-  {
-    "title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》原创曲直拍版",
-    "desc": "紫嘉儿国风舞蹈作品，B站全站排行榜第1名，播放704万",
-    "url": "https://www.bilibili.com/video/BV1EC9oBZEF9",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "华强买瓜，但是树上人特别多",
-    "desc": "伊介书生鬼畜作品，B站全站排行榜第2名，播放406万",
-    "url": "https://www.bilibili.com/video/BV19N9XBMEmu",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版",
-    "desc": "崩坏星穹铁道三周年活动，B站全站排行榜第3名，播放266万",
-    "url": "https://www.bilibili.com/video/BV16p9UBgEhT",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "和AI玩猜历史人物游戏，又被它给耍了",
-    "desc": "混饭达人AI互动视频，B站全站排行榜第4名，播放353万",
-    "url": "https://www.bilibili.com/video/BV1ebREBmEha",
-    "date": "2026-05-05"
-  },
-  {
-    "title": "《崩坏：星穹铁道》三周年主题曲MV——「天生鬼才」",
-    "desc": "萧敬腾演唱三周年主题曲，播放189万",
-    "url": "https://www.bilibili.com/video/BV1AW98BoE6a",
-    "date": "2026-05-05"
-  }
-]
+{
+  "update_time": "2026-05-06 15:31:00",
+  "note": "根据稿件内容质量、近期的数据综合展示，动态更新",
+  "list": [
+    {"rank":1,"title":"宝青坊主的狐狸尾巴藏不住啦！《梨花舞》原创曲直拍版","author":"紫嘉儿","category":"国风舞蹈","views":7802675,"likes":661228,"bv":"BV1EC9oBZEF9"},
+    {"rank":2,"title":"《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版","author":"崩坏星穹铁道","category":"手机游戏","views":2872711,"likes":185374,"bv":"BV16p9UBgEhT"},
+    {"rank":3,"title":"华强买瓜，但是树上人特别多","author":"伊介书生","category":"鬼畜剧场","views":4484474,"likes":303404,"bv":"BV19N9XBMEmu"},
+    {"rank":4,"title":"《崩坏：星穹铁道》三周年主题曲MV——「天生鬼才」","author":"崩坏星穹铁道","category":"MV","views":1932593,"likes":147240,"bv":"BV1AW98BoE6a"}
+  ]
+}

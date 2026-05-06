@@ -1,17 +1,6 @@
-[
-  {"rank": 1, "keyword": "奔跑吧打假", "hot": "热", "heat": 1610000},
-  {"rank": 2, "keyword": "世乒赛男团澳大利亚变阵", "hot": "热", "heat": 1420000},
-  {"rank": 3, "keyword": "广交会彰显中国制造硬核实力", "hot": "热", "heat": 1390000},
-  {"rank": 4, "keyword": "你好星期六没有给张婧仪道歉", "hot": "热", "heat": 1390000},
-  {"rank": 5, "keyword": "小猫还原自己摔伤过程", "hot": "热", "heat": 1380000},
-  {"rank": 6, "keyword": "好多人给谢娜送花篮", "hot": "热", "heat": 1330000},
-  {"rank": 7, "keyword": "长沙市委市政府致歉", "hot": "热", "heat": 1140000},
-  {"rank": 8, "keyword": "第五人格年度发布会", "hot": "", "heat": 910000},
-  {"rank": 9, "keyword": "浏阳烟花厂爆炸致26死61伤", "hot": "", "heat": 810000},
-  {"rank": 10, "keyword": "以为低糖低油其实长肉的食物", "hot": "", "heat": 780000},
-  {"rank": 11, "keyword": "时代少年团直播", "hot": "", "heat": 750000},
-  {"rank": 12, "keyword": "跟林依晨分手后前男友因性侵入狱", "hot": "", "heat": 720000},
-  {"rank": 13, "keyword": "高市早苗在澳大利亚下跪献花", "hot": "", "heat": 640000},
-  {"rank": 14, "keyword": "肖战送谢娜演唱会花篮", "hot": "", "heat": 630000},
-  {"rank": 15, "keyword": "歌手2026首发阵容新版本", "hot": "", "heat": 570000}
-]
+{
+  "note": "微博热搜API暂不可用（403禁止访问）",
+  "update_time": "2026-05-06 15:31:00",
+  "status": "api_unavailable",
+  "alternative": "请手动访问 https://s.weibo.com/top/summary"
+}

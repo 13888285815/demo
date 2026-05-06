@@ -1,1 +1,10 @@
-{"lastUpdate":"2026-05-05T19:00:00+08:00"}
+{
+  "last_update": "2026-05-06 15:31:00",
+  "update_timezone": "Asia/Shanghai",
+  "data_sources": {
+    "cctv_news": "https://news.cctv.com/",
+    "weibo_hot": "API unavailable",
+    "weather": "https://wttr.in/Beijing",
+    "bilibili_hot": "https://api.bilibili.com/x/web-interface/ranking/v2"
+  }
+}
