@@ -1,48 +1,87 @@
 {
-  "updateTime": "2026-05-07T05:09:00",
+  "updateTime": "2026-05-06T22:38:15+08:00",
   "data": {
     "cctv": [
-      {"title": "场景、业态持续上“新” 百姓解锁更多消费新体验", "url": "https://news.cctv.com/2026/05/06/xxx1.shtml"},
-      {"title": "政策+服务升级 让外国游客解锁中国多彩魅力", "url": "https://news.cctv.com/2026/05/06/xxx2.shtml"},
-      {"title": "探秘粮仓“样板间”：安全、绿色、智慧粮库守好粒粒粮", "url": "https://news.cctv.com/2026/05/06/xxx3.shtml"},
-      {"title": "今年前3个月 我国全行业对外直接投资同比增长5.4%", "url": "https://news.cctv.com/2026/05/06/xxx4.shtml"},
-      {"title": "广西容县：四只小猫头鹰跌落烟囱 警民及时施救", "url": "https://news.cctv.com/2026/05/06/xxx5.shtml"},
-      {"title": "伊朗媒体：伊朗已启动霍尔木兹海峡通行管理新机制", "url": "https://news.cctv.com/2026/05/06/xxx6.shtml"}
+      {
+        "title": "今年前3个月 我国全行业对外直接投资同比增长5.4%",
+        "url": "https://tv.cctv.com/2026/05/06/VIDEv6O9dMJob7YtGJEBS7Yc260506.shtml"
+      },
+      {
+        "title": "广西容县：四只小猫头鹰跌落烟囱 警民及时施救",
+        "url": "https://tv.cctv.com/2026/05/06/VIDEQ554PTAeZ9GasZ5vtL15260506.shtml"
+      },
+      {
+        "title": "伊朗媒体：伊朗已启动霍尔木兹海峡通行管理新机制",
+        "url": "https://tv.cctv.com/2026/05/06/VIDEsIAci0NjpdPSdBs3kr7Q260506.shtml"
+      }
     ],
-    "weibo": [
-      {"rank": 1, "keyword": "乘风2026陶昕然", "heat": 11000000, "hot": true},
-      {"rank": 2, "keyword": "花少恋综", "heat": 8192000, "hot": true},
-      {"rank": 3, "keyword": "特斯拉召回21万辆", "heat": 5784000, "hot": true},
-      {"rank": 4, "keyword": "浪姐赢了被淘汰", "heat": 6503000, "hot": true},
-      {"rank": 5, "keyword": "吉利福特收购", "heat": 5930000, "hot": true},
-      {"rank": 6, "keyword": "谢娜新节目娜就聊姐姐", "heat": 5000000, "hot": true},
-      {"rank": 7, "keyword": "伊朗霍尔木兹海峡", "heat": 4000000, "hot": false},
-      {"rank": 8, "keyword": "湖南烟花爆竹停产整顿", "heat": 3500000, "hot": false},
-      {"rank": 9, "keyword": "比特币突破82000美元", "heat": 3000000, "hot": false},
-      {"rank": 10, "keyword": "小鹏M03智驾失灵", "heat": 2500000, "hot": false}
-    ],
+    "weibo": [],
     "bilibili": [
-      {"title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》原创曲直拍版", "desc": "紫嘉儿国风舞蹈作品，播放822万"},
-      {"title": "小渝的演唱会纪录片reaction来啦！", "desc": "梓渝工作室日常作品，播放330万"},
-      {"title": "《华佗再世》", "desc": "伤心欲茄222搞笑作品，播放381万"},
-      {"title": "看到脏东西了啊啊！2025年度新番打脸大总结", "desc": "泛式动漫杂谈，播放300万"},
-      {"title": "这是什么马？？", "desc": "老番茄单机游戏，播放601万"},
-      {"title": "什么人能为了三个汉堡劫机？【硬核狠人89】", "desc": "小约翰可汗人文历史，播放234万"},
-      {"title": "我判断不了这个方块的虚实", "desc": "fffzzww单机游戏，播放245万"},
-      {"title": "菲比：愿你的每一次无声", "desc": "Lm海洋日常作品，播放155万"},
-      {"title": "华强买瓜，但是树上人特别多", "desc": "伊介书生鬼畜剧场，播放475万"},
-      {"title": "衰老是什么感觉？", "desc": "阿廖沙别害怕_搞笑作品，播放221万"}
+      {
+        "title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》原创曲直拍版",
+        "desc": "紫嘉儿国风舞蹈作品，播放823万"
+      },
+      {
+        "title": "小渝的演唱会纪录片reaction来啦！",
+        "desc": "梓渝工作室日常作品，播放33万"
+      },
+      {
+        "title": "《华佗再世》",
+        "desc": "伤心欲茄222搞笑作品，播放381万"
+      },
+      {
+        "title": "看到脏东西了啊啊！2025年度新番打脸大总结！【泛式】",
+        "desc": "泛式动漫杂谈作品，播放155万"
+      },
+      {
+        "title": "这是什么马？？",
+        "desc": "老番茄单机游戏作品，播放601万"
+      },
+      {
+        "title": "什么人能为了三个汉堡劫机？【硬核狠人89】",
+        "desc": "小约翰可汗人文历史作品，播放235万"
+      },
+      {
+        "title": "我判断不了这个方块的虚实，你也证明不了你付出的是真心",
+        "desc": "fffzzww单机游戏作品，播放245万"
+      },
+      {
+        "title": "菲比：愿你的每一次无声，都能等来温柔的回音",
+        "desc": "Lm海洋音乐综合作品，播放155万"
+      },
+      {
+        "title": "华强买瓜，但是树上人特别多",
+        "desc": "伊介书生鬼畜剧场作品，播放475万"
+      },
+      {
+        "title": "为了捡垃圾，我爆改了一架飞机...",
+        "desc": "神奇阿宇Ayu极客DIY作品，播放369万"
+      }
     ],
     "weather": {
       "city": "上海",
-      "weather": "阴",
-      "temp": "16~29℃",
-      "current_temp": "16℃",
-      "humidity": "82%",
-      "wind": "东风 14km/h",
+      "weather": "晴",
+      "temp": "17°C",
+      "humidity": "83%",
+      "wind": "南风 11km/h",
+      "feels_like": "17°C",
+      "update": "2026-05-06T22:38:15+08:00",
       "forecast": [
-        {"date": "05-07", "weather": "多云", "temp": "16~29℃"},
-        {"date": "05-08", "weather": "晴", "temp": "15~22℃"}
+        {
+          "date": "2026-05-07",
+          "weather": "多云",
+          "temp": "28/16°C"
+        },
+        {
+          "date": "2026-05-08",
+          "weather": "晴",
+          "temp": "22/16°C"
+        },
+        {
+          "date": "2026-05-09",
+          "weather": "晴",
+          "temp": "23/16°C"
+        }
       ]
     }
   }
