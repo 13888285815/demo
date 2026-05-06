@@ -1,44 +1,18 @@
 {
-  "city": "北京",
-  "date": "2026-05-07",
-  "week": "周四",
-  "weather": "晴",
-  "weather_en": "Clear",
-  "temp_current": 16,
-  "temp_feels_like": 16,
-  "humidity": "22",
-  "wind": "26km/h NNW",
-  "wind_cn": "北偏西北风 26km/h",
-  "pressure": "1016",
-  "uv_index": "0（夜间）",
-  "visibility": "10",
-  "sunrise": "05:08 AM",
-  "sunset": "07:15 PM",
+  "source": "wttr.in",
+  "fetched_at": "2026-05-07T05:09:00Z",
+  "location": "Shanghai",
+  "current": {
+    "temp_C": 16,
+    "FeelsLikeC": 16,
+    "weather": "Overcast",
+    "wind_speed_kmh": 14,
+    "wind_dir": "E",
+    "humidity": 82,
+    "visibility_km": 10
+  },
   "forecast": [
-    {
-      "date": "2026-05-07",
-      "week": "周四",
-      "weather": "晴",
-      "weather_en": "Sunny",
-      "temp_high": "26",
-      "temp_low": "14"
-    },
-    {
-      "date": "2026-05-08",
-      "week": "周五",
-      "weather": "晴",
-      "weather_en": "Sunny",
-      "temp_high": "28",
-      "temp_low": "15"
-    },
-    {
-      "date": "2026-05-09",
-      "week": "周六",
-      "weather": "多云",
-      "weather_en": "Cloudy",
-      "temp_high": "27",
-      "temp_low": "16"
-    }
-  ],
-  "source": "wttr.in/Beijing"
+    {"date": "2026-05-07", "max": 29, "min": 16, "weather": "Partly Cloudy"},
+    {"date": "2026-05-08", "max": 22, "min": 15, "weather": "Sunny"}
+  ]
 }

@@ -1,58 +1,18 @@
 {
-  "current_condition": [
-    {
-      "FeelsLikeC": "9",
-      "FeelsLikeF": "48",
-      "cloudcover": "0",
-      "humidity": "46",
-      "localObsDateTime": "2026-05-04 12:40 AM",
-      "observation_time": "04:40 PM",
-      "precipInches": "0.0",
-      "precipMM": "0.0",
-      "pressure": "1013",
-      "pressureInches": "30",
-      "temp_C": "9",
-      "temp_F": "49",
-      "uvIndex": "0",
-      "visibility": "10",
-      "visibilityMiles": "6",
-      "weatherCode": "113",
-      "weatherDesc": [
-        {
-          "value": "Clear"
-        }
-      ],
-      "weatherIconUrl": [
-        {
-          "value": "https://cdn.worldweatheronline.com/images/wsymbols01_png_64/wsymbol_0008_clear_sky_night.png"
-        }
-      ],
-      "winddir16Point": "W",
-      "winddirDegree": "278",
-      "windspeedKmph": "5",
-      "windspeedMiles": "3"
-    }
-  ],
-  "nearest_area": [
-    {
-      "areaName": [
-        {
-          "value": "Puhuangyu"
-        }
-      ],
-      "country": [
-        {
-          "value": "China"
-        }
-      ],
-      "latitude": "39.850",
-      "longitude": "116.400",
-      "population": "0",
-      "region": [
-        {
-          "value": "Beijing"
-        }
-      ]
-    }
+  "source": "wttr.in",
+  "fetched_at": "2026-05-07T05:09:00Z",
+  "location": "Shanghai",
+  "current": {
+    "temp_C": 16,
+    "FeelsLikeC": 16,
+    "weather": "Overcast",
+    "wind_speed_kmh": 14,
+    "wind_dir": "E",
+    "humidity": 82,
+    "visibility_km": 10
+  },
+  "forecast": [
+    {"date": "2026-05-07", "max": 29, "min": 16, "weather": "Partly Cloudy"},
+    {"date": "2026-05-08", "max": 22, "min": 15, "weather": "Sunny"}
   ]
 }
