@@ -1,25 +1,25 @@
 {
   "city": "北京",
-  "date": "2026-05-06",
-  "week": "周三",
-  "weather": "Partly cloudy",
-  "weather_cn": "多云",
-  "temp_current": 23,
-  "temp_feels_like": 23,
-  "humidity": "44",
-  "wind": "12km/h NNE",
-  "wind_cn": "北偏东风 12km/h",
-  "pressure": "1007",
-  "uv_index": 5,
+  "date": "2026-05-07",
+  "week": "周四",
+  "weather": "晴",
+  "weather_en": "Clear",
+  "temp_current": 16,
+  "temp_feels_like": 16,
+  "humidity": "22",
+  "wind": "26km/h NNW",
+  "wind_cn": "北偏西北风 26km/h",
+  "pressure": "1016",
+  "uv_index": "0（夜间）",
   "visibility": "10",
-  "sunrise": "05:09 AM",
-  "sunset": "07:14 PM",
+  "sunrise": "05:08 AM",
+  "sunset": "07:15 PM",
   "forecast": [
     {
       "date": "2026-05-07",
       "week": "周四",
-      "weather": "多云转晴",
-      "weather_en": "Partly Cloudy",
+      "weather": "晴",
+      "weather_en": "Sunny",
       "temp_high": "26",
       "temp_low": "14"
     },
@@ -40,5 +40,5 @@
       "temp_low": "16"
     }
   ],
-  "source": "wttr.in"
+  "source": "wttr.in/Beijing"
 }

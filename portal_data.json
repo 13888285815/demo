@@ -1,43 +1,44 @@
 {
-  "updateTime": "2026-05-05T19:00:00",
+  "updateTime": "2026-05-07T03:50:00",
   "data": {
     "cctv": [
-      {"title": "假期出游 如何保护个人信息安全", "url": "https://tv.cctv.com/2026/05/05/VIDEf2fXEac1oxiJVm51yjDH260505.shtml"},
-      {"title": ""电影+"活力四射 五一档电影总票房破7亿元", "url": "https://tv.cctv.com/2026/05/05/VIDE6YfabP57cWZ1YqvwOY4J260505.shtml"},
-      {"title": "阿联酋称遭导弹和无人机袭击", "url": "https://tv.cctv.com/2026/05/05/VIDEUM4gYx00vRxLemxSCR3z260505.shtml"},
-      {"title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变", "url": "https://news.cctv.com/"},
-      {"title": "山东舰辽宁舰双航母编队强硬回击外军舰机", "url": "https://news.cctv.com/"}
+      {"title": "今年前3个月 我国全行业对外直接投资同比增长5.4%", "url": "https://tv.cctv.com/2026/05/06/VIDEv6O9dMJob7YtGJEBS7Yc260506.shtml"},
+      {"title": "伊朗媒体：伊朗已启动霍尔木兹海峡通行管理新机制", "url": "https://tv.cctv.com/2026/05/06/VIDEsIAci0NjpdPSdBs3kr7Q260506.shtml"},
+      {"title": "广西容县：四只小猫头鹰跌落烟囱 警民及时施救", "url": "https://tv.cctv.com/2026/05/06/VIDEQ554PTAeZ9GasZ5vtL15260506.shtml"},
+      {"title": "农业农村部：当前全国春播粮食进度已超四成", "url": "https://tv.cctv.com/2026/05/06/VIDEI3Y0AUXvh8AS0r0QHP8e260506.shtml"},
+      {"title": "贵州江口：工业游让绿叶变金叶", "url": "https://tv.cctv.com/2026/05/06/VIDEPM9stg4JeCkVl79D2swS260506.shtml"}
     ],
     "weibo": [
-      {"rank": 1, "keyword": "奔跑吧打假", "heat": 1610000, "hot": true},
-      {"rank": 2, "keyword": "世乒赛男团澳大利亚变阵", "heat": 1420000, "hot": true},
-      {"rank": 3, "keyword": "广交会彰显中国制造硬核实力", "heat": 1390000, "hot": true},
-      {"rank": 4, "keyword": "你好星期六没有给张婧仪道歉", "heat": 1390000, "hot": true},
-      {"rank": 5, "keyword": "小猫还原自己摔伤过程", "heat": 1380000, "hot": true},
-      {"rank": 6, "keyword": "好多人给谢娜送花篮", "heat": 1330000, "hot": true},
-      {"rank": 7, "keyword": "长沙市委市政府致歉", "heat": 1140000, "hot": true},
-      {"rank": 8, "keyword": "第五人格年度发布会", "heat": 910000, "hot": false},
-      {"rank": 9, "keyword": "浏阳烟花厂爆炸致26死61伤", "heat": 810000, "hot": false},
-      {"rank": 10, "keyword": "以为低糖低油其实长肉的食物", "heat": 780000, "hot": false}
+      {"rank": 1, "keyword": "乘风2026陶昕然", "heat": 11000000, "hot": true},
+      {"rank": 2, "keyword": "花少恋综", "heat": 81920000, "hot": true},
+      {"rank": 3, "keyword": "特斯拉召回21万辆", "heat": 57840000, "hot": true},
+      {"rank": 4, "keyword": "浪姐赢了被淘汰", "heat": 65030000, "hot": true},
+      {"rank": 5, "keyword": "吉利福特收购", "heat": 59300000, "hot": true},
+      {"rank": 6, "keyword": "谢娜新节目娜就聊姐姐", "heat": 50000000, "hot": true},
+      {"rank": 7, "keyword": "伊朗霍尔木兹海峡", "heat": 40000000, "hot": false},
+      {"rank": 8, "keyword": "湖南烟花爆竹停产整顿", "heat": 35000000, "hot": false},
+      {"rank": 9, "keyword": "比特币突破82000美元", "heat": 30000000, "hot": false},
+      {"rank": 10, "keyword": "小鹏M03智驾失灵", "heat": 25000000, "hot": false}
     ],
     "bilibili": [
-      {"title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》原创曲直拍版", "desc": "紫嘉儿国风舞蹈作品，播放704万"},
-      {"title": "华强买瓜，但是树上人特别多", "desc": "伊介书生鬼畜作品，播放406万"},
-      {"title": "《崩坏：星穹铁道》「2026星铁奇妙夜」线上音乐演出官方录播完整版", "desc": "三周年活动，播放266万"},
-      {"title": "和AI玩猜历史人物游戏，又被它给耍了", "desc": "混饭达人AI互动视频，播放353万"},
-      {"title": "《崩坏：星穹铁道》三周年主题曲MV——「天生鬼才」", "desc": "萧敬腾演唱，播放189万"}
+      {"title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》原创曲直拍版", "desc": "紫嘉儿国风舞蹈作品，播放821万"},
+      {"title": "小渝的演唱会纪录片reaction来啦！", "desc": "梓渝工作室日常作品，播放329万"},
+      {"title": "《华佗再世》", "desc": "伤心欲茄222搞笑作品，播放381万"},
+      {"title": "看到脏东西了啊啊！2025年度新番打脸大总结", "desc": "泛式动漫杂谈，播放300万"}
     ],
     "weather": {
       "city": "北京",
       "weather": "晴",
-      "temp": "17~34℃",
-      "current_temp": "29℃",
-      "humidity": "37%",
-      "wind": "南南西风 27km/h",
-      "sunrise": "05:11",
-      "sunset": "19:13",
+      "temp": "14~26℃",
+      "current_temp": "16℃",
+      "humidity": "22%",
+      "wind": "北偏西北风 26km/h",
+      "sunrise": "05:08",
+      "sunset": "19:15",
       "forecast": [
-        {"date": "05-06", "weather": "多云", "temp": "18~31℃"}
+        {"date": "05-07", "weather": "晴", "temp": "14~26℃"},
+        {"date": "05-08", "weather": "晴", "temp": "15~28℃"},
+        {"date": "05-09", "weather": "多云", "temp": "16~27℃"}
       ]
     }
   }
