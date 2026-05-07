@@ -1,58 +1,17 @@
 {
-  "source": "Weibo",
-  "fetched_at": "2026-05-07T05:09:00Z",
-  "hot_search": [
-    {
-      "rank": 1,
-      "keyword": "乘风2026陶昕然",
-      "heat": 11000000
-    },
-    {
-      "rank": 2,
-      "keyword": "花少恋综",
-      "heat": 8192000
-    },
-    {
-      "rank": 3,
-      "keyword": "特斯拉召回21万辆",
-      "heat": 5784000
-    },
-    {
-      "rank": 4,
-      "keyword": "浪姐赢了被淘汰",
-      "heat": 6503000
-    },
-    {
-      "rank": 5,
-      "keyword": "吉利福特收购",
-      "heat": 5930000
-    },
-    {
-      "rank": 6,
-      "keyword": "谢娜新节目娜就聊姐姐",
-      "heat": 5000000
-    },
-    {
-      "rank": 7,
-      "keyword": "伊朗霍尔木兹海峡",
-      "heat": 4000000
-    },
-    {
-      "rank": 8,
-      "keyword": "湖南烟花爆竹停产整顿",
-      "heat": 3500000
-    },
-    {
-      "rank": 9,
-      "keyword": "比特币突破82000美元",
-      "heat": 3000000
-    },
-    {
-      "rank": 10,
-      "keyword": "小鹏M03智驾失灵",
-      "heat": 2500000
-    }
+  "update_time": "2026-05-07T05:16:00Z",
+  "source": "微博热搜",
+  "hot_list": [
+    {"rank": 1, "keyword": "来南京下跪,才是真忏悔", "type": "热", "hot_value": "较高"},
+    {"rank": 2, "keyword": "中纪委连打\"两虎\"!", "type": "热", "hot_value": "高"},
+    {"rank": 3, "keyword": "伊朗外长:此次访华富有成果", "type": "热", "hot_value": "高"},
+    {"rank": 4, "keyword": "\"中国天眼\"换了国产\"眼部肌肉\"", "type": "新", "hot_value": "中"},
+    {"rank": 5, "keyword": "央视曝光电动自行车\"续航神器\"", "type": "热", "hot_value": "较高"},
+    {"rank": 6, "keyword": "搭便车出意外怎么赔偿?最高法回应", "type": "新", "hot_value": "中"},
+    {"rank": 7, "keyword": "中国航天招\"卧床志愿者\":能玩手机", "type": "新", "hot_value": "中"},
+    {"rank": 8, "keyword": "央企接盘昔日\"第一高楼\"地块", "type": "新", "hot_value": "中"},
+    {"rank": 9, "keyword": "网民用AI郑丽文直播带货被拘", "type": "热", "hot_value": "较高"},
+    {"rank": 10, "keyword": "男子刷寻亲视频 妻子找到亲姐妹", "type": "新", "hot_value": "中"}
   ],
-  "note": "数据已更新",
-  "update": "2026-05-06T22:38:15+08:00"
+  "机制升级": "微博2026年4月28日升级热搜机制，新增大众关注度、领域关注度、内容质量度三个维度"
 }

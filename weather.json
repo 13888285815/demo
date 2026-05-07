@@ -1,26 +1,19 @@
 {
-  "city": "上海",
-  "weather": "晴",
-  "temp": "17°C",
-  "humidity": "83%",
-  "wind": "南风 11km/h",
-  "feels_like": "17°C",
-  "update": "2026-05-06T22:38:15+08:00",
+  "update_time": "2026-05-07T05:16:00Z",
+  "location": "上海",
+  "current": {
+    "temp": 28,
+    "feels_like": 25,
+    "condition": "多云转阴",
+    "wind": "东南风 4km/h",
+    "humidity": "0%-79%",
+    "precipitation": "0.0mm",
+    "visibility": "10km"
+  },
   "forecast": [
-    {
-      "date": "2026-05-07",
-      "weather": "多云",
-      "temp": "28/16°C"
-    },
-    {
-      "date": "2026-05-08",
-      "weather": "晴",
-      "temp": "22/16°C"
-    },
-    {
-      "date": "2026-05-09",
-      "weather": "晴",
-      "temp": "23/16°C"
-    }
-  ]
+    {"date": "05-07", "day": "周四", "weather": "多云→小雨", "high": 28, "low": 17, "wind": "东南风转北风"},
+    {"date": "05-08", "day": "周五", "weather": "多云", "high": 21, "low": 18, "wind": "西南风"},
+    {"date": "05-09", "day": "周六", "weather": "晴→多云", "high": 23, "low": 18, "wind": "西北风转西风"}
+  ],
+  "tips": ["下午转小雨，建议携带雨具", "气温较高，注意防暑", "晚间有阵雨注意安全"]
 }
