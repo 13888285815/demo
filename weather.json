@@ -1,19 +1,57 @@
 {
-  "update_time": "2026-05-07T05:16:00Z",
-  "location": "上海",
+  "updateTime": "2026-05-08T03:14:00+08:00",
+  "source": "wttr.in",
+  "location": "昆明",
+  "region": "Yunnan",
+  "country": "China",
   "current": {
-    "temp": 28,
-    "feels_like": 25,
-    "condition": "多云转阴",
-    "wind": "东南风 4km/h",
-    "humidity": "0%-79%",
-    "precipitation": "0.0mm",
-    "visibility": "10km"
+    "tempC": 14,
+    "feelsLikeC": 13,
+    "humidity": 77,
+    "weather": "局部多云",
+    "weatherEn": "Partly cloudy",
+    "windDir": "ENE",
+    "windSpeedKmph": 10,
+    "visibility": 10,
+    "pressure": 1025,
+    "uvIndex": 0,
+    "cloudCover": 50,
+    "precipMM": 0.1
+  },
+  "today": {
+    "date": "2026-05-08",
+    "maxTempC": 18,
+    "minTempC": 13,
+    "avgTempC": 15,
+    "sunrise": "05:29",
+    "sunset": "18:43",
+    "moonPhase": "Waning Gibbous",
+    "moonIllumination": "68%",
+    "hourly": [
+      {"time": "00:00", "tempC": 14, "weather": "周边有零星小雨", "chanceOfRain": 100, "humidity": 82},
+      {"time": "03:00", "tempC": 13, "weather": "小阵雨", "chanceOfRain": 100, "humidity": 83},
+      {"time": "06:00", "tempC": 13, "weather": "周边有零星小雨", "chanceOfRain": 74, "humidity": 81},
+      {"time": "09:00", "tempC": 13, "weather": "周边有零星小雨", "chanceOfRain": 75, "humidity": 79},
+      {"time": "12:00", "tempC": 15, "weather": "多云", "chanceOfRain": 0, "humidity": 73},
+      {"time": "15:00", "tempC": 17, "weather": "局部多云", "chanceOfRain": 0, "humidity": 67},
+      {"time": "18:00", "tempC": 17, "weather": "周边有零星小雨", "chanceOfRain": 79, "humidity": 68},
+      {"time": "21:00", "tempC": 15, "weather": "局部多云", "chanceOfRain": 0, "humidity": 78}
+    ]
   },
   "forecast": [
-    {"date": "05-07", "day": "周四", "weather": "多云→小雨", "high": 28, "low": 17, "wind": "东南风转北风"},
-    {"date": "05-08", "day": "周五", "weather": "多云", "high": 21, "low": 18, "wind": "西南风"},
-    {"date": "05-09", "day": "周六", "weather": "晴→多云", "high": 23, "low": 18, "wind": "西北风转西风"}
-  ],
-  "tips": ["下午转小雨，建议携带雨具", "气温较高，注意防暑", "晚间有阵雨注意安全"]
+    {
+      "date": "2026-05-09",
+      "maxTempC": 20,
+      "minTempC": 14,
+      "avgTempC": 16,
+      "weather": "小雨转多云"
+    },
+    {
+      "date": "2026-05-10",
+      "maxTempC": 18,
+      "minTempC": 14,
+      "avgTempC": 16,
+      "weather": "小雨转晴"
+    }
+  ]
 }
