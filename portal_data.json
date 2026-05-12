@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-13T07:18:01+08:00",
+  "updateTime": "2026-05-13T07:46:59+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-13T07:18:01+08:00",
+      "fetchTime": "2026-05-13T07:46:59+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-13T07:18:01+08:00",
+      "fetchTime": "2026-05-13T07:46:59+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -117,13 +117,13 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-13T07:18:01+08:00",
+      "fetchTime": "2026-05-13T07:46:59+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-13",
         "dayOfWeek": "Wed",
         "weather": "Partly Cloudy",
-        "tempHigh": "23",
+        "tempHigh": "22",
         "tempLow": "14",
         "wind": "SW",
         "windLevel": "2",
@@ -136,7 +136,7 @@
           "date": "2026-05-13",
           "day": "Wed",
           "weather": "Partly Cloudy",
-          "high": "23",
+          "high": "22",
           "low": "14",
           "wind": "SW"
         },
@@ -152,17 +152,17 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Partly cloudy 13C morning. Humidity 94%. Wind SW. Pressure 1016mb. Today Partly Cloudy 14-23C. Tomorrow Sunny 15-26C."
+          "content": "Partly cloudy 13C morning. Humidity 94%. Wind SW 9km/h. Pressure 1015mb. High forecast revised down to 22C."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-13T07:18:01+08:00",
+      "fetchTime": "2026-05-13T07:46:59+08:00",
       "highlights": [
         {
-          "title": "《陛下何故谋反》持续领跑B站",
-          "description": "855.2万稳居#1",
+          "title": "《陛下何故谋反》856.4万领跑B站",
+          "description": "接近860万里程碑",
           "url": "https://www.bilibili.com/video/av116546085061974/"
         },
         {
@@ -171,18 +171,18 @@
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E"
         },
         {
-          "title": "南京审计大学偷拍事件",
-          "description": "微博热搜第二22万",
-          "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%AE%A1%E8%AE%A1%E5%A4%A7%E5%AD%A6%E5%81%B7%E6%8B%8D%E7%94%B7%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4"
+          "title": "3台高速机VS刘谦热度飙升",
+          "description": "383.1万(30分钟+3.8万)",
+          "url": "https://www.bilibili.com/video/av116554742109232/"
         }
       ],
       "popularContent": [
         "陛下何故谋反",
         "第一天来北京",
         "许仙买瓜",
+        "3台高速机VS刘谦",
         "崩坏星穹铁道绯英PV",
-        "我长这样但是我的画",
-        "3台高速机VS刘谦"
+        "我长这样但是我的画"
       ]
     }
   }
