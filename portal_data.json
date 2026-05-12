@@ -1,12 +1,12 @@
 {
-  "updateTime": "2026-05-12T21:49:19+08:00",
+  "updateTime": "2026-05-12T22:23:43+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-12T21:49:19+08:00",
+      "fetchTime": "2026-05-12T22:23:43+08:00",
       "topStories": [
         {
-          "title": "巴拉圾总统窂台 外交部：坚决反对 强烈踣责巴方有关行径",
+          "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
           "url": "https://tv.cctv.com/2026/05/12/VIDEhqEIplmfWMLxE21yVRyx260512.shtml"
         },
         {
@@ -21,103 +21,103 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-12T21:49:19+08:00",
+      "fetchTime": "2026-05-12T22:23:43+08:00",
       "hotList": [
         {
           "rank": 1,
-          "keyword": "宇树机甲 民用交通工具",
-          "heat": 1110000,
-          "tag": "热"
+          "keyword": "江苏税务回应偷拍男生拟录公务员",
+          "heat": 1220000,
+          "tag": "新"
         },
         {
           "rank": 2,
-          "keyword": "燃油附加费 涨价",
+          "keyword": "4月汽车销量前10仅1款油车",
           "heat": 1100000,
           "tag": "新"
         },
         {
           "rank": 3,
-          "keyword": "科学避险自救指南",
-          "heat": 980000,
+          "keyword": "从4月先行指标看我国经济持续向好",
+          "heat": 670000,
           "tag": ""
         },
         {
           "rank": 4,
-          "keyword": "深圳夫妇屯存储芯片五个月狂涨三二零亿",
-          "heat": 950000,
+          "keyword": "白鹿演唱会过审",
+          "heat": 610000,
           "tag": ""
         },
         {
           "rank": 5,
-          "keyword": "南京审计大学通报男生偷拍",
-          "heat": 900000,
-          "tag": "热"
+          "keyword": "下午休是性价比最高的半天假",
+          "heat": 580000,
+          "tag": ""
         },
         {
           "rank": 6,
           "keyword": "建议不要在小环境中待太久",
-          "heat": 840000,
+          "heat": 520000,
           "tag": ""
         },
         {
           "rank": 7,
-          "keyword": "巴掌橇莲",
-          "heat": 490000,
-          "tag": "新"
+          "keyword": "给阿嬷的情书 商科女发光发热",
+          "heat": 510000,
+          "tag": ""
         },
         {
           "rank": 8,
-          "keyword": "原来健康的人身体是静音的",
-          "heat": 360000,
+          "keyword": "恋与深空回应擦边低俗争议",
+          "heat": 450000,
           "tag": ""
         },
         {
           "rank": 9,
-          "keyword": "低智商犯罪",
-          "heat": 360000,
+          "keyword": "北京男篮vs广东男篮",
+          "heat": 390000,
           "tag": ""
         },
         {
           "rank": 10,
-          "keyword": "中方强烈诣责巴方有关行径",
-          "heat": 360000,
-          "tag": "热"
+          "keyword": "杨幂北魏复原妆",
+          "heat": 340000,
+          "tag": ""
         },
         {
           "rank": 11,
-          "keyword": "考试坐严浩翻前面的同学发声",
-          "heat": 360000,
+          "keyword": "汪涵有多爱吃槟榔",
+          "heat": 340000,
           "tag": ""
         },
         {
           "rank": 12,
-          "keyword": "汪涵有多喜吃槐椰",
-          "heat": 360000,
+          "keyword": "狼队对战AG",
+          "heat": 330000,
           "tag": ""
         },
         {
           "rank": 13,
-          "keyword": "女孩退礼服事件合唱团称受牙连",
-          "heat": 360000,
+          "keyword": "考试坐严浩翔前面的同学发声",
+          "heat": 320000,
           "tag": ""
         },
         {
           "rank": 14,
-          "keyword": "白鸿演唱会过审",
-          "heat": 360000,
+          "keyword": "宋祖儿纯素颜",
+          "heat": 320000,
           "tag": ""
         },
         {
           "rank": 15,
-          "keyword": "hybe拒绝宫脇咀良参与创作",
-          "heat": 360000,
+          "keyword": "女孩退礼服事件合唱团称受牵连",
+          "heat": 320000,
           "tag": ""
         }
       ]
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-12T21:49:19+08:00",
+      "fetchTime": "2026-05-12T22:23:43+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-12",
@@ -152,21 +152,21 @@
       "alerts": [
         {
           "type": "Comfort",
-          "content": "Tonight Kunming 17C partly cloudy, very comfortable."
+          "content": "Tonight Kunming 17C partly cloudy, comfortable."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-12T21:49:19+08:00",
+      "fetchTime": "2026-05-12T22:23:43+08:00",
       "highlights": [
         {
-          "title": "宇树机甲热门",
-          "description": "宇树机甲民用交通工具微博热搜第一",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E7%94%B2+%E6%B0%91%E7%94%A8%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7"
+          "title": "微博热搜巨变",
+          "description": "江苏税务回应偷拍男生拟录公务员成为微博热搜第一",
+          "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E7%A8%8E%E5%8A%A1%E5%9B%9E%E5%BA%94%E5%81%B7%E6%8B%8D%E7%94%B7%E7%94%9F%E6%8B%9F%E5%BD%95%E5%85%AC%E5%8A%A1%E5%91%98"
         },
         {
-          "title": "沸川地震传奇形象",
+          "title": "汶川地震纪念",
           "description": "2008.5.12-2026.5.12 B站用户自发纪念",
           "url": "https://www.bilibili.com/video/av116556235344740/"
         },
@@ -177,10 +177,10 @@
         }
       ],
       "popularContent": [
-        "陨下何故谋反",
+        "陛下何故谋反",
         "第一天来北京",
         "许仙买瓜",
-        "崩坏星穹铁道绛英PV",
+        "崩坏星穹铁道绯英PV",
         "ENEMY无码重制版",
         "御剑飞行",
         "刘谦比手速"

@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-12T21:49:19+08:00",
+  "update_time": "2026-05-12T22:23:43+08:00",
   "source": "wttr.in",
   "location": "Kunming",
   "current": {
@@ -13,7 +13,7 @@
     "visibility": "10 km",
     "uvIndex": "0",
     "cloudcover": "50%",
-    "observation_time": "2026-05-12 21:46"
+    "observation_time": "2026-05-12 22:16"
   },
   "astronomy": {
     "sunrise": "05:27",
@@ -38,5 +38,5 @@
       "low": "14"
     }
   ],
-  "alert": "Tonight Kunming 17C partly cloudy, very comfortable."
+  "alert": "Tonight Kunming 17C partly cloudy, comfortable."
 }
