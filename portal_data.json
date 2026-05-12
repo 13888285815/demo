@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-12T21:19:33+08:00",
+  "updateTime": "2026-05-12T21:49:19+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-12T21:19:33+08:00",
+      "fetchTime": "2026-05-12T21:49:19+08:00",
       "topStories": [
         {
           "title": "巴拉圾总统窂台 外交部：坚决反对 强烈踣责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-12T21:19:33+08:00",
+      "fetchTime": "2026-05-12T21:49:19+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -43,7 +43,7 @@
         },
         {
           "rank": 4,
-          "keyword": "深圳夫妇屯存储芯片5个月狂涨320亿",
+          "keyword": "深圳夫妇屯存储芯片五个月狂涨三二零亿",
           "heat": 950000,
           "tag": ""
         },
@@ -79,7 +79,7 @@
         },
         {
           "rank": 10,
-          "keyword": "中方强烈该责巴方有关行径",
+          "keyword": "中方强烈诣责巴方有关行径",
           "heat": 360000,
           "tag": "热"
         },
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-12T21:19:33+08:00",
+      "fetchTime": "2026-05-12T21:49:19+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-12",
@@ -152,13 +152,13 @@
       "alerts": [
         {
           "type": "Comfort",
-          "content": "Tonight Kunming cooling to 17C, partly cloudy."
+          "content": "Tonight Kunming 17C partly cloudy, very comfortable."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-12T21:19:33+08:00",
+      "fetchTime": "2026-05-12T21:49:19+08:00",
       "highlights": [
         {
           "title": "宇树机甲热门",
@@ -166,7 +166,7 @@
           "url": "https://s.weibo.com/weibo?q=%E5%AE%87%E6%A0%91%E6%9C%BA%E7%94%B2+%E6%B0%91%E7%94%A8%E4%BA%A4%E9%80%9A%E5%B7%A5%E5%85%B7"
         },
         {
-          "title": "沸川地震延传形象",
+          "title": "沸川地震传奇形象",
           "description": "2008.5.12-2026.5.12 B站用户自发纪念",
           "url": "https://www.bilibili.com/video/av116556235344740/"
         },
