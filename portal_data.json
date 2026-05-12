@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-13T02:47:35+08:00",
+  "updateTime": "2026-05-13T03:17:07+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-13T02:47:35+08:00",
+      "fetchTime": "2026-05-13T03:17:07+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-13T02:47:35+08:00",
+      "fetchTime": "2026-05-13T03:17:07+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-13T02:47:35+08:00",
+      "fetchTime": "2026-05-13T03:17:07+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-13",
@@ -158,7 +158,7 @@
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-13T02:47:35+08:00",
+      "fetchTime": "2026-05-13T03:17:07+08:00",
       "highlights": [
         {
           "title": "南京审计大学偷拍事件男生被开除",
@@ -172,7 +172,7 @@
         },
         {
           "title": "汶川地震18周年纪念",
-          "description": "B站用户自发纪念视频上榜",
+          "description": "B站用户自发纪念视频跌出日榜前20",
           "url": "https://www.bilibili.com/video/av116556235344740/"
         }
       ],
