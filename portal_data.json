@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-13T04:48:21+08:00",
+  "updateTime": "2026-05-13T05:17:24+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-13T04:48:21+08:00",
+      "fetchTime": "2026-05-13T05:17:24+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-13T04:48:21+08:00",
+      "fetchTime": "2026-05-13T05:17:24+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-13T04:48:21+08:00",
+      "fetchTime": "2026-05-13T05:17:24+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-13",
@@ -158,11 +158,11 @@
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-13T04:48:21+08:00",
+      "fetchTime": "2026-05-13T05:17:24+08:00",
       "highlights": [
         {
           "title": "《陛下何故谋反》登顶B站日榜",
-          "description": "852.0万持续领跑#1",
+          "description": "852.4万持续领跑#1",
           "url": "https://www.bilibili.com/video/av116546085061974/"
         },
         {
