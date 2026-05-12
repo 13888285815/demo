@@ -1,22 +1,48 @@
 {
-  "update_time": "2026-05-07T05:16:00Z",
-  "source": "央视网",
-  "highlights": [
+  "update_time": "2026-05-12T19:50:00+08:00",
+  "source": "https://news.cctv.com/",
+  "news": [
     {
-      "title": "今年一季度 我国机器人合计出口额113.2亿元",
-      "url": "https://tv.cctv.com/2026/05/07/VIDE4oflr7VmKYyMp56rXeWM260507.shtml",
-      "category": "财经"
+      "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
+      "url": "https://tv.cctv.com/2026/05/12/VIDEhqEIplmfWMLxE21yVRyx260512.shtml",
+      "date": "2026-05-12",
+      "summary": "巴拉圭总统窜访台湾地区，外交部表示坚决反对并强烈谴责巴方有关行径。"
     },
     {
-      "title": "记者调查：暗藏隐患的电动自行车\"续航神器\"",
-      "url": "https://tv.cctv.com/2026/05/07/VIDEvoFUcHliNcuukxkmLpgj260507.shtml",
-      "category": "社会"
+      "title": "中国人民银行：适度宽松的货币政策效果持续显现",
+      "url": "https://tv.cctv.com/2026/05/12/VIDEATozrKi2vWSjQL6RPcrR260512.shtml",
+      "date": "2026-05-12",
+      "summary": "中国人民银行表示适度宽松的货币政策效果持续显现。"
     },
     {
-      "title": "宣布单方面停火后 俄乌仍继续开展行动",
-      "url": "https://tv.cctv.com/2026/05/07/VIDEF0bP6cHpD6pxCgIWoNFI260507.shtml",
-      "category": "国际"
+      "title": "汉坦病毒是什么？何为安第斯病毒？",
+      "url": "https://tv.cctv.com/2026/05/12/VIDEPe9j5qh1j8yIC8MPCvWr260512.shtml",
+      "date": "2026-05-12",
+      "summary": "央视科普报道汉坦病毒及安第斯病毒相关知识。"
+    },
+    {
+      "title": "宇树科技发布GD01载人变形机甲 定价390万元起",
+      "url": "",
+      "date": "2026-05-12",
+      "summary": "宇树科技发布GD01载人变形机甲，定价390万元起。"
+    },
+    {
+      "title": "深圳夫妻囤存储芯片5个月狂涨320亿",
+      "url": "",
+      "date": "2026-05-12",
+      "summary": "深圳一对夫妻囤存储芯片5个月获利320亿引发热议。"
+    },
+    {
+      "title": "中美首次联合发布禁毒声明",
+      "url": "",
+      "date": "2026-05-12",
+      "summary": "中美两国首次联合发布禁毒声明。"
+    },
+    {
+      "title": "全国高铁干线调价持续 京沪高铁宣布涨价20%",
+      "url": "",
+      "date": "2026-05-12",
+      "summary": "京沪高铁宣布涨价20%，二等座可超800元。"
     }
-  ],
-  "programs": ["新闻联播", "焦点访谈", "朝闻天下", "新闻1+1", "今日说法"]
+  ]
 }

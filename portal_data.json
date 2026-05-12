@@ -1,87 +1,189 @@
 {
-  "updateTime": "2026-05-06T22:38:15+08:00",
-  "data": {
-    "cctv": [
-      {
-        "title": "今年前3个月 我国全行业对外直接投资同比增长5.4%",
-        "url": "https://tv.cctv.com/2026/05/06/VIDEv6O9dMJob7YtGJEBS7Yc260506.shtml"
-      },
-      {
-        "title": "广西容县：四只小猫头鹰跌落烟囱 警民及时施救",
-        "url": "https://tv.cctv.com/2026/05/06/VIDEQ554PTAeZ9GasZ5vtL15260506.shtml"
-      },
-      {
-        "title": "伊朗媒体：伊朗已启动霍尔木兹海峡通行管理新机制",
-        "url": "https://tv.cctv.com/2026/05/06/VIDEsIAci0NjpdPSdBs3kr7Q260506.shtml"
-      }
-    ],
-    "weibo": [],
-    "bilibili": [
-      {
-        "title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》原创曲直拍版",
-        "desc": "紫嘉儿国风舞蹈作品，播放823万"
-      },
-      {
-        "title": "小渝的演唱会纪录片reaction来啦！",
-        "desc": "梓渝工作室日常作品，播放33万"
-      },
-      {
-        "title": "《华佗再世》",
-        "desc": "伤心欲茄222搞笑作品，播放381万"
-      },
-      {
-        "title": "看到脏东西了啊啊！2025年度新番打脸大总结！【泛式】",
-        "desc": "泛式动漫杂谈作品，播放155万"
-      },
-      {
-        "title": "这是什么马？？",
-        "desc": "老番茄单机游戏作品，播放601万"
-      },
-      {
-        "title": "什么人能为了三个汉堡劫机？【硬核狠人89】",
-        "desc": "小约翰可汗人文历史作品，播放235万"
-      },
-      {
-        "title": "我判断不了这个方块的虚实，你也证明不了你付出的是真心",
-        "desc": "fffzzww单机游戏作品，播放245万"
-      },
-      {
-        "title": "菲比：愿你的每一次无声，都能等来温柔的回音",
-        "desc": "Lm海洋音乐综合作品，播放155万"
-      },
-      {
-        "title": "华强买瓜，但是树上人特别多",
-        "desc": "伊介书生鬼畜剧场作品，播放475万"
-      },
-      {
-        "title": "为了捡垃圾，我爆改了一架飞机...",
-        "desc": "神奇阿宇Ayu极客DIY作品，播放369万"
-      }
-    ],
+  "updateTime": "2026-05-12T19:50:00+08:00",
+  "dataSource": {
+    "cctvNews": {
+      "source": "央视网",
+      "fetchTime": "2026-05-12T19:50:00+08:00",
+      "topStories": [
+        {
+          "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
+          "url": "https://tv.cctv.com/2026/05/12/VIDEhqEIplmfWMLxE21yVRyx260512.shtml"
+        },
+        {
+          "title": "中国人民银行：适度宽松的货币政策效果持续显现",
+          "url": "https://tv.cctv.com/2026/05/12/VIDEATozrKi2vWSjQL6RPcrR260512.shtml"
+        },
+        {
+          "title": "汉坦病毒是什么？何为安第斯病毒？",
+          "url": "https://tv.cctv.com/2026/05/12/VIDEPe9j5qh1j8yIC8MPCvWr260512.shtml"
+        }
+      ]
+    },
+    "weiboHot": {
+      "source": "微博热搜",
+      "fetchTime": "2026-05-12T19:50:00+08:00",
+      "hotList": [
+        {
+          "rank": 1,
+          "keyword": "南京审计大学通报男生偷拍",
+          "heat": 1470000,
+          "tag": "热"
+        },
+        {
+          "rank": 2,
+          "keyword": "宇树机甲390万起",
+          "heat": 870000,
+          "tag": "新"
+        },
+        {
+          "rank": 3,
+          "keyword": "科学避险自救指南",
+          "heat": 720000,
+          "tag": ""
+        },
+        {
+          "rank": 4,
+          "keyword": "黄晓明 丫头别拿错行李箱",
+          "heat": 700000,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "keyword": "建议不要在小环境中待太久",
+          "heat": 600000,
+          "tag": ""
+        },
+        {
+          "rank": 6,
+          "keyword": "巴掌榴莲",
+          "heat": 520000,
+          "tag": "新"
+        },
+        {
+          "rank": 7,
+          "keyword": "今日辟谣",
+          "heat": 480000,
+          "tag": ""
+        },
+        {
+          "rank": 8,
+          "keyword": "原来健康的人身体是静音的",
+          "heat": 470000,
+          "tag": ""
+        },
+        {
+          "rank": 9,
+          "keyword": "深圳夫妻囤存储芯片5个月狂涨320亿",
+          "heat": 370000,
+          "tag": ""
+        },
+        {
+          "rank": 10,
+          "keyword": "RNG复活了",
+          "heat": 370000,
+          "tag": ""
+        },
+        {
+          "rank": 11,
+          "keyword": "中餐厅10录制",
+          "heat": 340000,
+          "tag": "综艺"
+        },
+        {
+          "rank": 12,
+          "keyword": "白鹿综艺互动为何会被逐帧审判",
+          "heat": 340000,
+          "tag": "综艺"
+        },
+        {
+          "rank": 13,
+          "keyword": "演出完退礼服女孩演出已暂停",
+          "heat": 340000,
+          "tag": ""
+        },
+        {
+          "rank": 14,
+          "keyword": "严浩翔回北电考试了",
+          "heat": 340000,
+          "tag": ""
+        },
+        {
+          "rank": 15,
+          "keyword": "放羊的星星演员李威被判刑",
+          "heat": 340000,
+          "tag": ""
+        }
+      ]
+    },
     "weather": {
-      "city": "上海",
-      "weather": "晴",
-      "temp": "17°C",
-      "humidity": "83%",
-      "wind": "南风 11km/h",
-      "feels_like": "17°C",
-      "update": "2026-05-06T22:38:15+08:00",
+      "source": "天气数据",
+      "fetchTime": "2026-05-12T19:50:00+08:00",
+      "location": "昆明",
+      "current": {
+        "date": "2026-05-12",
+        "dayOfWeek": "周二",
+        "weather": "多云转小雨",
+        "tempHigh": "19",
+        "tempLow": "14",
+        "wind": "西南风",
+        "windLevel": "3级",
+        "humidity": "60",
+        "sunrise": "05:27",
+        "sunset": "18:45"
+      },
       "forecast": [
         {
-          "date": "2026-05-07",
+          "date": "2026-05-13",
+          "day": "周三",
           "weather": "多云",
-          "temp": "28/16°C"
+          "high": "24",
+          "low": "14",
+          "wind": "西南风微风"
         },
         {
-          "date": "2026-05-08",
-          "weather": "晴",
-          "temp": "22/16°C"
-        },
-        {
-          "date": "2026-05-09",
-          "weather": "晴",
-          "temp": "23/16°C"
+          "date": "2026-05-14",
+          "day": "周四",
+          "weather": "晴转多云",
+          "high": "26",
+          "low": "15",
+          "wind": "南风微风"
         }
+      ],
+      "alerts": [
+        {
+          "type": "降雨提醒",
+          "content": "今天昆明有小到中雨，气温14-19°C，外出请携带雨具。明日转多云，气温回升至24°C。"
+        }
+      ]
+    },
+    "bilibiliHot": {
+      "source": "B站",
+      "fetchTime": "2026-05-12T19:50:00+08:00",
+      "highlights": [
+        {
+          "title": "宇树机甲390万起引发热议",
+          "description": "宇树科技发布GD01载人变形机甲定价390万，相关视频在B站获得大量关注",
+          "url": "https://s.weibo.com/weibo?q=宇树机甲390万起"
+        },
+        {
+          "title": "汶川地震18周年纪念",
+          "description": "2008.5.12-2026.5.12，B站用户自发纪念汶川地震18周年",
+          "url": "https://www.bilibili.com/video/av116556235344740/"
+        },
+        {
+          "title": "特朗普访华在即",
+          "description": "美国总统特朗普时隔九年再度对中国进行国事访问，B站UP主热议中美关系",
+          "url": "https://www.bilibili.com/video/av116555312531376/"
+        }
+      ],
+      "popularContent": [
+        "陛下何故谋反",
+        "第一天来北京",
+        "许仙买瓜",
+        "崩坏星穹铁道绯英PV",
+        "ENEMY无码重制版",
+        "御剑飞行",
+        "我和刘谦比手速"
       ]
     }
   }

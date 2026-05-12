@@ -1,51 +1,126 @@
 {
-  "updateTime": "2026-05-08T03:14:00+08:00",
-  "source": "微博热搜榜 s.weibo.com",
-  "topSearches": [
+  "update_time": "2026-05-12T19:50:00+08:00",
+  "source": "tophub.today 微博热搜",
+  "hotList": [
     {
       "rank": 1,
-      "keyword": "青年习近平的人生课堂",
-      "isHot": true,
-      "heat": null
+      "keyword": "南京审计大学通报男生偷拍",
+      "heat": 1470000,
+      "tag": "热"
     },
     {
       "rank": 2,
-      "keyword": "暴发致命病毒邮轮或出现人传人现象",
-      "isHot": true,
-      "heat": 617001
+      "keyword": "宇树机甲390万起",
+      "heat": 870000,
+      "tag": "新"
     },
     {
       "rank": 3,
-      "keyword": "伦敦世乒赛团体赛",
-      "isHot": false,
-      "heat": 440379
+      "keyword": "科学避险自救指南",
+      "heat": 720000,
+      "tag": ""
     },
     {
       "rank": 4,
-      "keyword": "来中国玩的外国人更多了",
-      "isHot": false,
-      "heat": 349578
+      "keyword": "黄晓明 丫头别拿错行李箱",
+      "heat": 700000,
+      "tag": ""
     },
     {
       "rank": 5,
-      "keyword": "白鹿跑男争议",
-      "isHot": true,
-      "category": "综艺",
-      "heat": 346060
+      "keyword": "建议不要在小环境中待太久",
+      "heat": 600000,
+      "tag": ""
     },
     {
       "rank": 6,
-      "keyword": "为什么户外千万不要穿迷彩",
-      "isHot": false,
-      "heat": 235142
+      "keyword": "巴掌榴莲",
+      "heat": 520000,
+      "tag": "新"
     },
     {
       "rank": 7,
-      "keyword": "花少8最新阵容",
-      "isHot": false,
-      "category": "综艺",
-      "heat": 227991
+      "keyword": "今日辟谣",
+      "heat": 480000,
+      "tag": ""
     },
     {
       "rank": 8,
-      "keyword": "解除台独
+      "keyword": "原来健康的人身体是静音的",
+      "heat": 470000,
+      "tag": ""
+    },
+    {
+      "rank": 9,
+      "keyword": "深圳夫妻囤存储芯片5个月狂涨320亿",
+      "heat": 370000,
+      "tag": ""
+    },
+    {
+      "rank": 10,
+      "keyword": "RNG复活了",
+      "heat": 370000,
+      "tag": ""
+    },
+    {
+      "rank": 11,
+      "keyword": "中餐厅10录制",
+      "heat": 340000,
+      "tag": "综艺"
+    },
+    {
+      "rank": 12,
+      "keyword": "白鹿综艺互动为何会被逐帧审判",
+      "heat": 340000,
+      "tag": "综艺"
+    },
+    {
+      "rank": 13,
+      "keyword": "演出完退礼服女孩演出已暂停",
+      "heat": 340000,
+      "tag": ""
+    },
+    {
+      "rank": 14,
+      "keyword": "严浩翔回北电考试了",
+      "heat": 340000,
+      "tag": ""
+    },
+    {
+      "rank": 15,
+      "keyword": "放羊的星星演员李威被判刑",
+      "heat": 340000,
+      "tag": ""
+    },
+    {
+      "rank": 16,
+      "keyword": "消杀公司愿为误开房门赔30倍房费",
+      "heat": 340000,
+      "tag": ""
+    },
+    {
+      "rank": 17,
+      "keyword": "中方强烈谴责巴方有关行径",
+      "heat": 340000,
+      "tag": "热"
+    },
+    {
+      "rank": 18,
+      "keyword": "抖音评论区 陈赫眼中含泪",
+      "heat": 340000,
+      "tag": ""
+    },
+    {
+      "rank": 19,
+      "keyword": "降噪耳机受害者出现",
+      "heat": 340000,
+      "tag": ""
+    },
+    {
+      "rank": 20,
+      "keyword": "詹姆斯回应是否退役",
+      "heat": 320000,
+      "tag": ""
+    }
+  ]
+}
