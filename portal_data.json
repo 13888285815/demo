@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-13T00:17:56+08:00",
+  "updateTime": "2026-05-13T00:47:15+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-13T00:17:56+08:00",
+      "fetchTime": "2026-05-13T00:47:15+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部:坚决反对 强烈谴责巴方有关行径",
@@ -21,13 +21,13 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-13T00:17:56+08:00",
+      "fetchTime": "2026-05-13T00:47:15+08:00",
       "hotList": [
         {
           "rank": 1,
           "keyword": "特朗普访华",
           "heat": 1650000,
-          "tag": "新"
+          "tag": "热"
         },
         {
           "rank": 2,
@@ -45,7 +45,7 @@
           "rank": 4,
           "keyword": "AG战胜狼队",
           "heat": 980000,
-          "tag": "新"
+          "tag": ""
         },
         {
           "rank": 5,
@@ -57,7 +57,7 @@
           "rank": 6,
           "keyword": "清清 一直送",
           "heat": 940000,
-          "tag": "新"
+          "tag": ""
         },
         {
           "rank": 7,
@@ -75,7 +75,7 @@
           "rank": 9,
           "keyword": "南审通报男子偷拍事件",
           "heat": 570000,
-          "tag": "新"
+          "tag": ""
         },
         {
           "rank": 10,
@@ -99,13 +99,13 @@
           "rank": 13,
           "keyword": "李昀锐工作室点赞廖慧佳",
           "heat": 540000,
-          "tag": "新"
+          "tag": ""
         },
         {
           "rank": 14,
           "keyword": "樊振东加盟杜塞上百家企业竞价赞助",
           "heat": 540000,
-          "tag": "新"
+          "tag": ""
         },
         {
           "rank": 15,
@@ -117,17 +117,17 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-13T00:17:56+08:00",
+      "fetchTime": "2026-05-13T00:47:15+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-13",
         "dayOfWeek": "Wed",
-        "weather": "Clear",
+        "weather": "Partly Cloudy",
         "tempHigh": "23",
         "tempLow": "14",
         "wind": "SW",
-        "windLevel": "3",
-        "humidity": "81",
+        "windLevel": "2",
+        "humidity": "82",
         "sunrise": "05:27",
         "sunset": "18:45"
       },
@@ -152,13 +152,13 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Clear night 16C. Tomorrow Partly Cloudy 14-23C."
+          "content": "Partly cloudy 15C. Pressure rising 1017mb. Tomorrow Partly Cloudy 14-23C."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-13T00:17:56+08:00",
+      "fetchTime": "2026-05-13T00:47:15+08:00",
       "highlights": [
         {
           "title": "特朗普访华登顶热搜",
