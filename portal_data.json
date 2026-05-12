@@ -1,12 +1,12 @@
 {
-  "updateTime": "2026-05-12T20:18:56+08:00",
+  "updateTime": "2026-05-12T20:47:56+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-12T20:18:56+08:00",
+      "fetchTime": "2026-05-12T20:47:56+08:00",
       "topStories": [
         {
-          "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
+          "title": "巴拉圾总统窂台 外交部：坚决反对 强烈踣责巴方有关行径",
           "url": "https://tv.cctv.com/2026/05/12/VIDEhqEIplmfWMLxE21yVRyx260512.shtml"
         },
         {
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-12T20:18:56+08:00",
+      "fetchTime": "2026-05-12T20:47:56+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-12T20:18:56+08:00",
+      "fetchTime": "2026-05-12T20:47:56+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-12",
@@ -152,35 +152,35 @@
       "alerts": [
         {
           "type": "Comfort",
-          "content": "Tonight Kunming comfortable, 14-19C."
+          "content": "Tonight Kunming comfortable 14-19C."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-12T20:18:56+08:00",
+      "fetchTime": "2026-05-12T20:47:56+08:00",
       "highlights": [
         {
-          "title": "宇树机甲引发热议",
-          "description": "宇树机甲390万起成为微博热搜第一",
+          "title": "宇树机甲巴热",
+          "description": "宇树机甲390万起成微博热搜第一",
           "url": "https://s.weibo.com/weibo?q=宇树机甲390万起"
         },
         {
-          "title": "汶川地震18周年",
+          "title": "沸川地震5周年",
           "description": "2008.5.12-2026.5.12 B站用户自发纪念",
           "url": "https://www.bilibili.com/video/av116556235344740/"
         },
         {
-          "title": "特朗普访华在即",
-          "description": "美国总统特朗普时隔九年再度访华",
+          "title": "特朗普访华即将",
+          "description": "美国总统特朗时隔九年再度访华",
           "url": "https://www.bilibili.com/video/av116555312531376/"
         }
       ],
       "popularContent": [
-        "陛下何故谋反",
+        "陨下何故谋反",
         "第一天来北京",
         "许仙买瓜",
-        "崩坏星穹铁道绯英PV",
+        "崩坏星穹铁道绛英PV",
         "ENEMY无码重制版",
         "御剑飞行",
         "刘谦比手速"
