@@ -1,19 +1,19 @@
 {
-  "update_time": "2026-05-13T03:47:21+08:00",
+  "update_time": "2026-05-13T04:17:29+08:00",
   "source": "wttr.in",
   "location": "Kunming",
   "current": {
-    "tempC": 14,
-    "feelsLikeC": 14,
+    "tempC": 13,
+    "feelsLikeC": 13,
     "condition": "Partly cloudy",
-    "humidity": "88%",
-    "windSpeedKmph": 7,
-    "windDirection": "WSW",
-    "pressure": "1017 mb",
+    "humidity": "94%",
+    "windSpeedKmph": 8,
+    "windDirection": "SW",
+    "pressure": "1016 mb",
     "visibility": "10 km",
     "uvIndex": "0",
     "cloudcover": "50%",
-    "observation_time": "2026-05-13 03:46"
+    "observation_time": "2026-05-13 04:16"
   },
   "astronomy": {
     "sunrise": "05:27",
@@ -38,5 +38,5 @@
       "low": "15"
     }
   ],
-  "alert": "Partly cloudy night in Kunming 14C. Humidity 88%. Wind WSW 7km/h. Pressure stable 1017mb. Tomorrow: Partly Cloudy 14-23C."
+  "alert": "Partly cloudy night in Kunming 13C. Humidity 94%. Wind SW 8km/h. Pressure 1016mb. Tomorrow: Partly Cloudy 14-23C."
 }
