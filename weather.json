@@ -1,42 +1,42 @@
 {
-  "update_time": "2026-05-12T19:50:00+08:00",
+  "update_time": "2026-05-12T20:18:56+08:00",
   "source": "wttr.in",
-  "location": "昆明 (Kunming)",
+  "location": "Kunming",
   "current": {
     "tempC": 19,
     "feelsLikeC": 19,
-    "condition": "Partly Cloudy (多云)",
+    "condition": "Partly Cloudy",
     "humidity": "60%",
     "windspeedKmph": 13,
-    "windDirection": "SW (西南风)",
+    "windDirection": "SW",
     "pressure": "1014 mb",
     "visibility": "10 km",
     "uvIndex": "0",
     "cloudcover": "50%",
-    "observation_time": "2026-05-12 19:20"
+    "observation_time": "2026-05-12 20:20"
   },
   "astronomy": {
     "sunrise": "05:27",
     "sunset": "18:45",
     "moonrise": "02:01",
     "moonset": "14:06",
-    "moon_phase": "Waning Crescent (残月)"
+    "moon_phase": "Waning Crescent"
   },
   "forecast": [
     {
       "date": "05-12",
-      "week": "周二",
-      "weather": "Light Rain/Moderate rain",
+      "week": "Tue",
+      "weather": "Light Rain",
       "high": "19",
       "low": "14"
     },
     {
       "date": "05-13",
-      "week": "周三",
+      "week": "Wed",
       "weather": "Partly Cloudy",
       "high": "24",
       "low": "14"
     }
   ],
-  "alert": "今天昆明有小到中雨，气温14-19°C，外出请携带雨具。"
+  "alert": "Tonight Kunming partly cloudy, 14-19C, comfortable."
 }

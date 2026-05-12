@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-12T19:50:00+08:00",
+  "updateTime": "2026-05-12T20:18:56+08:00",
   "dataSource": {
     "cctvNews": {
-      "source": "央视网",
-      "fetchTime": "2026-05-12T19:50:00+08:00",
+      "source": "CCTV",
+      "fetchTime": "2026-05-12T20:18:56+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -20,113 +20,113 @@
       ]
     },
     "weiboHot": {
-      "source": "微博热搜",
-      "fetchTime": "2026-05-12T19:50:00+08:00",
+      "source": "Weibo Hot",
+      "fetchTime": "2026-05-12T20:18:56+08:00",
       "hotList": [
         {
           "rank": 1,
-          "keyword": "南京审计大学通报男生偷拍",
-          "heat": 1470000,
+          "keyword": "宇树机甲 民用交通工具",
+          "heat": 1110000,
           "tag": "热"
         },
         {
           "rank": 2,
-          "keyword": "宇树机甲390万起",
-          "heat": 870000,
+          "keyword": "燃油附加费 涨价",
+          "heat": 1100000,
           "tag": "新"
         },
         {
           "rank": 3,
           "keyword": "科学避险自救指南",
-          "heat": 720000,
+          "heat": 980000,
           "tag": ""
         },
         {
           "rank": 4,
-          "keyword": "黄晓明 丫头别拿错行李箱",
-          "heat": 700000,
+          "keyword": "深圳夫妇屯存储芯片5个月狂涨320亿",
+          "heat": 950000,
           "tag": ""
         },
         {
           "rank": 5,
-          "keyword": "建议不要在小环境中待太久",
-          "heat": 600000,
-          "tag": ""
+          "keyword": "南京审计大学通报男生尚拍",
+          "heat": 900000,
+          "tag": "热"
         },
         {
           "rank": 6,
-          "keyword": "巴掌榴莲",
-          "heat": 520000,
-          "tag": "新"
+          "keyword": "建议不要在小环境中待太久",
+          "heat": 840000,
+          "tag": ""
         },
         {
           "rank": 7,
-          "keyword": "今日辟谣",
-          "heat": 480000,
-          "tag": ""
+          "keyword": "公掌榆槓",
+          "heat": 490000,
+          "tag": "新"
         },
         {
           "rank": 8,
           "keyword": "原来健康的人身体是静音的",
-          "heat": 470000,
+          "heat": 360000,
           "tag": ""
         },
         {
           "rank": 9,
-          "keyword": "深圳夫妻囤存储芯片5个月狂涨320亿",
-          "heat": 370000,
+          "keyword": "低智商犯罪",
+          "heat": 360000,
           "tag": ""
         },
         {
           "rank": 10,
-          "keyword": "RNG复活了",
-          "heat": 370000,
-          "tag": ""
+          "keyword": "中方强烈踣责巴方有关行径",
+          "heat": 360000,
+          "tag": "热"
         },
         {
           "rank": 11,
-          "keyword": "中餐厅10录制",
-          "heat": 340000,
-          "tag": "综艺"
+          "keyword": "考试坐严浩翻前面的同学发声",
+          "heat": 360000,
+          "tag": ""
         },
         {
           "rank": 12,
-          "keyword": "白鹿综艺互动为何会被逐帧审判",
-          "heat": 340000,
-          "tag": "综艺"
+          "keyword": "汪汝有多喜吃槐椰",
+          "heat": 360000,
+          "tag": ""
         },
         {
           "rank": 13,
-          "keyword": "演出完退礼服女孩演出已暂停",
-          "heat": 340000,
+          "keyword": "女孩退礼服事件合唱团称受牙连",
+          "heat": 360000,
           "tag": ""
         },
         {
           "rank": 14,
-          "keyword": "严浩翔回北电考试了",
-          "heat": 340000,
+          "keyword": "白鸿演唱会过审",
+          "heat": 360000,
           "tag": ""
         },
         {
           "rank": 15,
-          "keyword": "放羊的星星演员李威被判刑",
-          "heat": 340000,
+          "keyword": "hybe拒绝宫脇嗌良参与创作",
+          "heat": 360000,
           "tag": ""
         }
       ]
     },
     "weather": {
-      "source": "天气数据",
-      "fetchTime": "2026-05-12T19:50:00+08:00",
-      "location": "昆明",
+      "source": "Weather",
+      "fetchTime": "2026-05-12T20:18:56+08:00",
+      "location": "Kunming",
       "current": {
         "date": "2026-05-12",
-        "dayOfWeek": "周二",
-        "weather": "多云转小雨",
+        "dayOfWeek": "Tue",
+        "weather": "Partly Cloudy",
         "tempHigh": "19",
         "tempLow": "14",
-        "wind": "西南风",
-        "windLevel": "3级",
+        "wind": "SW",
+        "windLevel": "3",
         "humidity": "60",
         "sunrise": "05:27",
         "sunset": "18:45"
@@ -134,45 +134,45 @@
       "forecast": [
         {
           "date": "2026-05-13",
-          "day": "周三",
-          "weather": "多云",
+          "day": "Wed",
+          "weather": "Partly Cloudy",
           "high": "24",
           "low": "14",
-          "wind": "西南风微风"
+          "wind": "SW"
         },
         {
           "date": "2026-05-14",
-          "day": "周四",
-          "weather": "晴转多云",
+          "day": "Thu",
+          "weather": "Sunny",
           "high": "26",
           "low": "15",
-          "wind": "南风微风"
+          "wind": "S"
         }
       ],
       "alerts": [
         {
-          "type": "降雨提醒",
-          "content": "今天昆明有小到中雨，气温14-19°C，外出请携带雨具。明日转多云，气温回升至24°C。"
+          "type": "Comfort",
+          "content": "Tonight Kunming comfortable, 14-19C."
         }
       ]
     },
     "bilibiliHot": {
-      "source": "B站",
-      "fetchTime": "2026-05-12T19:50:00+08:00",
+      "source": "Bilibili",
+      "fetchTime": "2026-05-12T20:18:56+08:00",
       "highlights": [
         {
-          "title": "宇树机甲390万起引发热议",
-          "description": "宇树科技发布GD01载人变形机甲定价390万，相关视频在B站获得大量关注",
+          "title": "宇树机甲引发热议",
+          "description": "宇树机甲390万起成为微博热搜第一",
           "url": "https://s.weibo.com/weibo?q=宇树机甲390万起"
         },
         {
-          "title": "汶川地震18周年纪念",
-          "description": "2008.5.12-2026.5.12，B站用户自发纪念汶川地震18周年",
+          "title": "汶川地震18周年",
+          "description": "2008.5.12-2026.5.12 B站用户自发纪念",
           "url": "https://www.bilibili.com/video/av116556235344740/"
         },
         {
           "title": "特朗普访华在即",
-          "description": "美国总统特朗普时隔九年再度对中国进行国事访问，B站UP主热议中美关系",
+          "description": "美国总统特朗普时隔九年再度访华",
           "url": "https://www.bilibili.com/video/av116555312531376/"
         }
       ],
@@ -183,7 +183,7 @@
         "崩坏星穹铁道绯英PV",
         "ENEMY无码重制版",
         "御剑飞行",
-        "我和刘谦比手速"
+        "刘谦比手速"
       ]
     }
   }
