@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-13T00:47:15+08:00",
+  "update_time": "2026-05-13T01:47:21+08:00",
   "source": "wttr.in",
   "location": "Kunming",
   "current": {
@@ -13,7 +13,7 @@
     "visibility": "10 km",
     "uvIndex": "0",
     "cloudcover": "50%",
-    "observation_time": "2026-05-13 00:46"
+    "observation_time": "2026-05-13 01:46"
   },
   "astronomy": {
     "sunrise": "05:27",
@@ -38,5 +38,5 @@
       "low": "15"
     }
   ],
-  "alert": "Partly cloudy night in Kunming 15C. Humidity 82%. Pressure rising 1017mb. Tomorrow: Partly Cloudy 14-23C."
+  "alert": "Partly cloudy night in Kunming 15C. Humidity 82%. Pressure stable 1017mb. Tomorrow: Partly Cloudy 14-23C."
 }

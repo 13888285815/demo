@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-13T00:47:15+08:00",
+  "update_time": "2026-05-13T01:47:21+08:00",
   "source": "tophub.today 微博热搜",
   "hotList": [
     {
@@ -48,7 +48,7 @@
       "rank": 8,
       "keyword": "宜宾地震",
       "heat": 610000,
-      "tag": "新"
+      "tag": ""
     },
     {
       "rank": 9,

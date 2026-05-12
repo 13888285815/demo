@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-13T00:47:15+08:00",
+  "updateTime": "2026-05-13T01:47:21+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-13T00:47:15+08:00",
+      "fetchTime": "2026-05-13T01:47:21+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部:坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-13T00:47:15+08:00",
+      "fetchTime": "2026-05-13T01:47:21+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -69,7 +69,7 @@
           "rank": 8,
           "keyword": "宜宾地震",
           "heat": 610000,
-          "tag": "新"
+          "tag": ""
         },
         {
           "rank": 9,
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-13T00:47:15+08:00",
+      "fetchTime": "2026-05-13T01:47:21+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-13",
@@ -152,17 +152,17 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Partly cloudy 15C. Pressure rising 1017mb. Tomorrow Partly Cloudy 14-23C."
+          "content": "Partly cloudy 15C. Pressure stable 1017mb. Tomorrow Partly Cloudy 14-23C."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-13T00:47:15+08:00",
+      "fetchTime": "2026-05-13T01:47:21+08:00",
       "highlights": [
         {
           "title": "特朗普访华登顶热搜",
-          "description": "微博热搜第一165万, B站也有多条相关视频",
+          "description": "微博热搜第一165万",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E"
         },
         {
@@ -181,8 +181,8 @@
         "第一天来北京",
         "许仙买瓜",
         "崩坏星穹铁道绯英PV",
-        "ENEMY无码重制版",
-        "御剑飞行"
+        "我长这样但是我的画",
+        "ENEMY无码重制版"
       ]
     }
   }
