@@ -1,123 +1,123 @@
 {
-  "updateTime": "2026-05-13T01:47:21+08:00",
+  "updateTime": "2026-05-13T02:18:37+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-13T01:47:21+08:00",
+      "fetchTime": "2026-05-13T02:18:37+08:00",
       "topStories": [
         {
-          "title": "巴拉圭总统窜台 外交部:坚决反对 强烈谴责巴方有关行径",
+          "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
           "url": "https://tv.cctv.com/2026/05/12/VIDEhqEIplmfWMLxE21yVRyx260512.shtml"
         },
         {
-          "title": "中国人民银行:适度宽松的货币政策效果持续显现",
+          "title": "中国人民银行：适度宽松的货币政策效果持续显现",
           "url": "https://tv.cctv.com/2026/05/12/VIDEATozrKi2vWSjQL6RPcrR260512.shtml"
         },
         {
-          "title": "汉坦病毒是什么?何为安第斯病毒?",
+          "title": "汉坦病毒是什么？何为安第斯病毒？",
           "url": "https://tv.cctv.com/2026/05/12/VIDEPe9j5qh1j8yIC8MPCvWr260512.shtml"
         }
       ]
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-13T01:47:21+08:00",
+      "fetchTime": "2026-05-13T02:18:37+08:00",
       "hotList": [
         {
           "rank": 1,
-          "keyword": "特朗普访华",
-          "heat": 1650000,
-          "tag": "热"
+          "keyword": "南京审计大学偷拍男生被开除",
+          "heat": 740000,
+          "tag": ""
         },
         {
           "rank": 2,
-          "keyword": "4月汽车销量前10仅1款油车",
-          "heat": 1090000,
+          "keyword": "特朗普访华",
+          "heat": 480000,
           "tag": ""
         },
         {
           "rank": 3,
-          "keyword": "从4月先行指标看我国经济持续向好",
-          "heat": 1010000,
+          "keyword": "舒某编造涉人造大米网络谣言被罚",
+          "heat": 420000,
           "tag": ""
         },
         {
           "rank": 4,
-          "keyword": "AG战胜狼队",
-          "heat": 980000,
+          "keyword": "白鹿演唱会过审",
+          "heat": 420000,
           "tag": ""
         },
         {
           "rank": 5,
-          "keyword": "白鹿演唱会过审",
-          "heat": 970000,
+          "keyword": "一诺哽咽",
+          "heat": 410000,
           "tag": ""
         },
         {
           "rank": 6,
-          "keyword": "清清 一直送",
-          "heat": 940000,
+          "keyword": "辛芷蕾新片演黄柳霜",
+          "heat": 410000,
           "tag": ""
         },
         {
           "rank": 7,
-          "keyword": "下午休是性价比最高的半天假",
-          "heat": 790000,
+          "keyword": "4月汽车销量前10仅1款油车",
+          "heat": 230000,
           "tag": ""
         },
         {
           "rank": 8,
-          "keyword": "宜宾地震",
-          "heat": 610000,
+          "keyword": "下午休是性价比最高的半天假",
+          "heat": 220000,
           "tag": ""
         },
         {
           "rank": 9,
-          "keyword": "南审通报男子偷拍事件",
-          "heat": 570000,
+          "keyword": "清清 一直送",
+          "heat": 200000,
           "tag": ""
         },
         {
           "rank": 10,
-          "keyword": "给阿嬷的情书",
-          "heat": 550000,
+          "keyword": "跑男争议不该先定罪后解读",
+          "heat": 190000,
           "tag": ""
         },
         {
           "rank": 11,
-          "keyword": "汪涵有多爱吃槟榔",
-          "heat": 540000,
+          "keyword": "67岁产女的妈妈现已卧床",
+          "heat": 0,
           "tag": ""
         },
         {
           "rank": 12,
-          "keyword": "狼队对战AG",
-          "heat": 540000,
+          "keyword": "给阿嬷的情书",
+          "heat": 0,
           "tag": ""
         },
         {
           "rank": 13,
-          "keyword": "李昀锐工作室点赞廖慧佳",
-          "heat": 540000,
+          "keyword": "汪涵有多爱吃槟榔",
+          "heat": 0,
           "tag": ""
         },
         {
           "rank": 14,
-          "keyword": "樊振东加盟杜塞上百家企业竞价赞助",
-          "heat": 540000,
+          "keyword": "狼队对战AG",
+          "heat": 0,
           "tag": ""
         },
         {
           "rank": 15,
-          "keyword": "曝限薪令前顶流1.8亿片酬",
-          "heat": 530000,
+          "keyword": "李昀锐工作室点赞廖慧佳",
+          "heat": 0,
           "tag": ""
         }
       ]
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-13T01:47:21+08:00",
+      "fetchTime": "2026-05-13T02:18:37+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-13",
@@ -158,21 +158,21 @@
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-13T01:47:21+08:00",
+      "fetchTime": "2026-05-13T02:18:37+08:00",
       "highlights": [
         {
-          "title": "特朗普访华登顶热搜",
-          "description": "微博热搜第一165万",
+          "title": "南京审计大学偷拍事件男生被开除",
+          "description": "微博热搜第一74万",
+          "url": "https://s.weibo.com/weibo?q=%E5%8D%97%E4%BA%AC%E5%AE%A1%E8%AE%A1%E5%A4%A7%E5%AD%A6%E5%81%B7%E6%8B%8D%E7%94%B7%E7%94%9F%E8%A2%AB%E5%BC%80%E9%99%A4"
+        },
+        {
+          "title": "特朗普访华热度下降",
+          "description": "微博热搜第二48万(此前165万)",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E"
         },
         {
-          "title": "宜宾地震",
-          "description": "四川宜宾发生地震, 微博热搜第八61万",
-          "url": "https://s.weibo.com/weibo?q=%E5%AE%9C%E5%AE%BE%E5%9C%B0%E9%9C%87"
-        },
-        {
           "title": "汶川地震18周年纪念",
-          "description": "2008.5.12-2026.5.12 B站用户自发纪念",
+          "description": "B站用户自发纪念视频上榜",
           "url": "https://www.bilibili.com/video/av116556235344740/"
         }
       ],

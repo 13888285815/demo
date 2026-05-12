@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-13T01:47:21+08:00",
+  "update_time": "2026-05-13T02:18:37+08:00",
   "source": "wttr.in",
   "location": "Kunming",
   "current": {
@@ -13,7 +13,7 @@
     "visibility": "10 km",
     "uvIndex": "0",
     "cloudcover": "50%",
-    "observation_time": "2026-05-13 01:46"
+    "observation_time": "2026-05-13 02:16"
   },
   "astronomy": {
     "sunrise": "05:27",
@@ -26,7 +26,7 @@
     {
       "date": "05-13",
       "week": "Wed",
-      "weather": "Partly Cloudy",
+      "weather": "Partly cloudy",
       "high": "23",
       "low": "14"
     },
