@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-13T02:18:37+08:00",
+  "updateTime": "2026-05-13T02:47:35+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-13T02:18:37+08:00",
+      "fetchTime": "2026-05-13T02:47:35+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-13T02:18:37+08:00",
+      "fetchTime": "2026-05-13T02:47:35+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-13T02:18:37+08:00",
+      "fetchTime": "2026-05-13T02:47:35+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-13",
@@ -125,9 +125,9 @@
         "weather": "Partly Cloudy",
         "tempHigh": "23",
         "tempLow": "14",
-        "wind": "SW",
+        "wind": "WSW",
         "windLevel": "2",
-        "humidity": "82",
+        "humidity": "88",
         "sunrise": "05:27",
         "sunset": "18:45"
       },
@@ -138,7 +138,7 @@
           "weather": "Partly Cloudy",
           "high": "23",
           "low": "14",
-          "wind": "SW"
+          "wind": "WSW"
         },
         {
           "date": "2026-05-14",
@@ -152,13 +152,13 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Partly cloudy 15C. Pressure stable 1017mb. Tomorrow Partly Cloudy 14-23C."
+          "content": "Partly cloudy 14C. Humidity 88%. Wind WSW. Pressure stable 1017mb. Tomorrow Partly Cloudy 14-23C."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-13T02:18:37+08:00",
+      "fetchTime": "2026-05-13T02:47:35+08:00",
       "highlights": [
         {
           "title": "南京审计大学偷拍事件男生被开除",
