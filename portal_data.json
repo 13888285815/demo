@@ -1,27 +1,27 @@
 {
-  "updateTime": "2026-05-12T22:23:43+08:00",
+  "updateTime": "2026-05-12T23:17:41+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-12T22:23:43+08:00",
+      "fetchTime": "2026-05-12T23:17:41+08:00",
       "topStories": [
         {
-          "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
+          "title": "巴拉圭总统窜台 外交部:坚决反对 强烈谴责巴方有关行径",
           "url": "https://tv.cctv.com/2026/05/12/VIDEhqEIplmfWMLxE21yVRyx260512.shtml"
         },
         {
-          "title": "中国人民银行：适度宽松的货币政策效果持续显现",
+          "title": "中国人民银行:适度宽松的货币政策效果持续显现",
           "url": "https://tv.cctv.com/2026/05/12/VIDEATozrKi2vWSjQL6RPcrR260512.shtml"
         },
         {
-          "title": "汉坦病毒是什么？何为安第斯病毒？",
+          "title": "汉坦病毒是什么?何为安第斯病毒?",
           "url": "https://tv.cctv.com/2026/05/12/VIDEPe9j5qh1j8yIC8MPCvWr260512.shtml"
         }
       ]
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-12T22:23:43+08:00",
+      "fetchTime": "2026-05-12T23:17:41+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -117,17 +117,17 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-12T22:23:43+08:00",
+      "fetchTime": "2026-05-12T23:17:41+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-12",
         "dayOfWeek": "Tue",
-        "weather": "Partly Cloudy",
+        "weather": "Patchy rain nearby",
         "tempHigh": "19",
         "tempLow": "14",
         "wind": "SSW",
         "windLevel": "3",
-        "humidity": "72",
+        "humidity": "79",
         "sunrise": "05:27",
         "sunset": "18:45"
       },
@@ -151,18 +151,18 @@
       ],
       "alerts": [
         {
-          "type": "Comfort",
-          "content": "Tonight Kunming 17C partly cloudy, comfortable."
+          "type": "Rain",
+          "content": "Tonight Kunming 16C with patchy rain. Humidity 79%. Bring a jacket!"
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-12T22:23:43+08:00",
+      "fetchTime": "2026-05-12T23:17:41+08:00",
       "highlights": [
         {
-          "title": "微博热搜巨变",
-          "description": "江苏税务回应偷拍男生拟录公务员成为微博热搜第一",
+          "title": "微博热搜稳定",
+          "description": "江苏税务回应偷拍男生拟录公务员稳居第一122万",
           "url": "https://s.weibo.com/weibo?q=%E6%B1%9F%E8%8B%8F%E7%A8%8E%E5%8A%A1%E5%9B%9E%E5%BA%94%E5%81%B7%E6%8B%8D%E7%94%B7%E7%94%9F%E6%8B%9F%E5%BD%95%E5%85%AC%E5%8A%A1%E5%91%98"
         },
         {
@@ -171,7 +171,7 @@
           "url": "https://www.bilibili.com/video/av116556235344740/"
         },
         {
-          "title": "美国总统特朗普访华",
+          "title": "特朗普访华",
           "description": "特朗普时隔九年再度访华",
           "url": "https://www.bilibili.com/video/av116555312531376/"
         }
