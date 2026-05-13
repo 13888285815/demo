@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-13T08:17:06+08:00",
+  "updateTime": "2026-05-14T07:44:21+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-13T08:17:06+08:00",
+      "fetchTime": "2026-05-14T07:44:21+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,95 +21,95 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-13T08:17:06+08:00",
+      "fetchTime": "2026-05-14T07:44:21+08:00",
       "hotList": [
         {
           "rank": 1,
-          "keyword": "特朗普访华",
-          "heat": 1750000,
+          "keyword": "特朗普抵京",
+          "heat": 240000,
           "tag": ""
         },
         {
           "rank": 2,
-          "keyword": "南京审计大学偷拍男生被开除",
-          "heat": 1350000,
-          "tag": ""
-        },
-        {
-          "rank": 3,
-          "keyword": "从4月先行指标看我国经济持续向好",
-          "heat": 1100000,
-          "tag": ""
-        },
-        {
-          "rank": 4,
-          "keyword": "上京东领心动礼",
-          "heat": 1100000,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "keyword": "67岁产女的妈妈现已卧床",
-          "heat": 1100000,
-          "tag": ""
-        },
-        {
-          "rank": 6,
-          "keyword": "巩俐中文宣布戛纳开幕",
-          "heat": 700000,
-          "tag": ""
-        },
-        {
-          "rank": 7,
-          "keyword": "跑男争议不该先定罪后解读",
-          "heat": 480000,
-          "tag": ""
-        },
-        {
-          "rank": 8,
-          "keyword": "天猫礼遇大使周翊然",
-          "heat": 430000,
-          "tag": ""
-        },
-        {
-          "rank": 9,
-          "keyword": "灰熊球员布兰登克拉克去世",
-          "heat": 400000,
-          "tag": ""
-        },
-        {
-          "rank": 10,
-          "keyword": "4月汽车销量前10仅1款油车",
+          "keyword": "马化腾回应AI掉队",
           "heat": 160000,
           "tag": ""
         },
         {
+          "rank": 3,
+          "keyword": "天舟十号货运飞船发射任务全回顾",
+          "heat": 130000,
+          "tag": ""
+        },
+        {
+          "rank": 4,
+          "keyword": "618上天猫抢华为大额券再叠补贴",
+          "heat": 90000,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "keyword": "一代人有一代人的带娃邪修",
+          "heat": 80000,
+          "tag": ""
+        },
+        {
+          "rank": 6,
+          "keyword": "日本爆发大规模反战抗议活动",
+          "heat": 60000,
+          "tag": ""
+        },
+        {
+          "rank": 7,
+          "keyword": "雨霖铃",
+          "heat": 40000,
+          "tag": ""
+        },
+        {
+          "rank": 8,
+          "keyword": "低智商犯罪",
+          "heat": 40000,
+          "tag": ""
+        },
+        {
+          "rank": 9,
+          "keyword": "雨霖铃杨洋演技",
+          "heat": 30000,
+          "tag": ""
+        },
+        {
+          "rank": 10,
+          "keyword": "曾沛慈数到十入围金曲奖",
+          "heat": 30000,
+          "tag": ""
+        },
+        {
           "rank": 11,
-          "keyword": "舒某编造涉人造大米网络谣言被罚",
-          "heat": 0,
+          "keyword": "又一艘邮轮疑似暴发疫情1人死亡",
+          "heat": 30000,
           "tag": ""
         },
         {
           "rank": 12,
-          "keyword": "白鹿演唱会过审",
-          "heat": 0,
+          "keyword": "华南理工被偷拍女生隐忍到下课",
+          "heat": 30000,
           "tag": ""
         },
         {
           "rank": 13,
-          "keyword": "辛芷蕾新片演黄柳霜",
+          "keyword": "特朗普访华",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 14,
-          "keyword": "下午休是性价比最高的半天假",
+          "keyword": "南京审计大学偷拍男生被开除",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 15,
-          "keyword": "第一次看到金丝楠木狗",
+          "keyword": "巩俐中文宣布戛纳开幕",
           "heat": 0,
           "tag": ""
         }
@@ -117,33 +117,33 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-13T08:17:06+08:00",
+      "fetchTime": "2026-05-14T07:44:21+08:00",
       "location": "Kunming",
       "current": {
-        "date": "2026-05-13",
-        "dayOfWeek": "Wed",
-        "weather": "Partly Cloudy",
-        "tempHigh": "22",
-        "tempLow": "14",
-        "wind": "SW",
-        "windLevel": "2",
-        "humidity": "94",
-        "sunrise": "05:27",
-        "sunset": "18:45"
+        "date": "2026-05-14",
+        "dayOfWeek": "Thu",
+        "weather": "Sunny",
+        "tempHigh": "25",
+        "tempLow": "15",
+        "wind": "SSW",
+        "windLevel": "1",
+        "humidity": "88",
+        "sunrise": "05:26",
+        "sunset": "18:46"
       },
       "forecast": [
-        {
-          "date": "2026-05-13",
-          "day": "Wed",
-          "weather": "Partly Cloudy",
-          "high": "22",
-          "low": "14",
-          "wind": "SW"
-        },
         {
           "date": "2026-05-14",
           "day": "Thu",
           "weather": "Sunny",
+          "high": "25",
+          "low": "15",
+          "wind": "SSW"
+        },
+        {
+          "date": "2026-05-15",
+          "day": "Fri",
+          "weather": "Partly Cloudy",
           "high": "26",
           "low": "15",
           "wind": "S"
@@ -152,37 +152,37 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Partly cloudy 13C morning. Humidity 94%. Wind SW 9km/h. Pressure 1015mb. High 22C."
+          "content": "Sunny 14C morning. Humidity 88%. Wind SSW 5km/h. Pressure 1015mb. Today Sunny 15-25C."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-13T08:17:06+08:00",
+      "fetchTime": "2026-05-14T07:44:21+08:00",
       "highlights": [
         {
-          "title": "🔥微博热搜晨间大爆发！特朗普访华175万#1",
-          "description": "30分钟内从30万暴涨至175万，南京审计大学135万#2",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E"
+          "title": "3台高速机VS刘谦登顶B站日榜#1",
+          "description": "533.8万(昨日#3今日登顶)",
+          "url": "https://www.bilibili.com/video/av116554742109232/"
         },
         {
-          "title": "《陛下何故谋反》857.3万领跑B站",
-          "description": "接近860万里程碑",
-          "url": "https://www.bilibili.com/video/av116546085061974/"
+          "title": "特朗普抵京热搜#1",
+          "description": "24万(从访华→抵京，话题升级)",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E4%BA%AC"
         },
         {
-          "title": "新上榜热搜：巩俐中文宣布戛纳开幕70万#6、灰熊球员克拉克去世40万#9",
-          "description": "早晨热度全面回升",
-          "url": "https://tophub.today/n/KqndgxeLl9"
+          "title": "马化腾回应AI掉队热搜#2",
+          "description": "16万(科技界热议)",
+          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9B%9E%E5%BA%94AI%E6%8E%89%E9%98%9F"
         }
       ],
       "popularContent": [
-        "陛下何故谋反",
-        "第一天来北京",
-        "特朗普访华",
-        "南京审计大学",
-        "巩俐戛纳",
-        "3台高速机VS刘谦"
+        "3台高速机VS刘谦",
+        "中美会面前",
+        "数学家老田",
+        "特朗普抵京",
+        "马化腾回应AI掉队",
+        "宇树GD01机甲"
       ]
     }
   }
