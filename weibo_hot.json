@@ -1,100 +1,100 @@
 {
-  "update_time": "2026-05-13T07:46:59+08:00",
+  "update_time": "2026-05-13T08:17:06+08:00",
   "source": "tophub.today 微博热搜",
   "hotList": [
     {
       "rank": 1,
       "keyword": "特朗普访华",
-      "heat": 300000,
+      "heat": 1750000,
       "tag": ""
     },
     {
       "rank": 2,
       "keyword": "南京审计大学偷拍男生被开除",
-      "heat": 220000,
+      "heat": 1350000,
       "tag": ""
     },
     {
       "rank": 3,
-      "keyword": "舒某编造涉人造大米网络谣言被罚",
-      "heat": 140000,
+      "keyword": "从4月先行指标看我国经济持续向好",
+      "heat": 1100000,
       "tag": ""
     },
     {
       "rank": 4,
       "keyword": "上京东领心动礼",
-      "heat": 130000,
+      "heat": 1100000,
       "tag": ""
     },
     {
       "rank": 5,
-      "keyword": "白鹿演唱会过审",
-      "heat": 110000,
+      "keyword": "67岁产女的妈妈现已卧床",
+      "heat": 1100000,
       "tag": ""
     },
     {
       "rank": 6,
-      "keyword": "跑男争议不该先定罪后解读",
-      "heat": 100000,
+      "keyword": "巩俐中文宣布戛纳开幕",
+      "heat": 700000,
       "tag": ""
     },
     {
       "rank": 7,
-      "keyword": "辛芷蕾新片演黄柳霜",
-      "heat": 70000,
+      "keyword": "跑男争议不该先定罪后解读",
+      "heat": 480000,
       "tag": ""
     },
     {
       "rank": 8,
       "keyword": "天猫礼遇大使周翊然",
-      "heat": 60000,
+      "heat": 430000,
       "tag": ""
     },
     {
       "rank": 9,
-      "keyword": "下午休是性价比最高的半天假",
-      "heat": 60000,
+      "keyword": "灰熊球员布兰登克拉克去世",
+      "heat": 400000,
       "tag": ""
     },
     {
       "rank": 10,
-      "keyword": "第一次看到金丝楠木狗",
-      "heat": 50000,
+      "keyword": "4月汽车销量前10仅1款油车",
+      "heat": 160000,
       "tag": ""
     },
     {
       "rank": 11,
-      "keyword": "藏海传2断层第一",
+      "keyword": "舒某编造涉人造大米网络谣言被罚",
       "heat": 0,
       "tag": ""
     },
     {
       "rank": 12,
-      "keyword": "4月汽车销量前10仅1款油车",
+      "keyword": "白鹿演唱会过审",
       "heat": 0,
       "tag": ""
     },
     {
       "rank": 13,
-      "keyword": "女生没电脑在电竞馆学习获免单",
+      "keyword": "辛芷蕾新片演黄柳霜",
       "heat": 0,
       "tag": ""
     },
     {
       "rank": 14,
-      "keyword": "清清 一直送",
+      "keyword": "下午休是性价比最高的半天假",
       "heat": 0,
       "tag": ""
     },
     {
       "rank": 15,
-      "keyword": "一诺哽咽",
+      "keyword": "第一次看到金丝楠木狗",
       "heat": 0,
       "tag": ""
     },
     {
       "rank": 16,
-      "keyword": "67岁产女的妈妈现已卧床",
+      "keyword": "藏海传2断层第一",
       "heat": 0,
       "tag": ""
     }

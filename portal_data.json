@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-13T07:46:59+08:00",
+  "updateTime": "2026-05-13T08:17:06+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-13T07:46:59+08:00",
+      "fetchTime": "2026-05-13T08:17:06+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,95 +21,95 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-13T07:46:59+08:00",
+      "fetchTime": "2026-05-13T08:17:06+08:00",
       "hotList": [
         {
           "rank": 1,
           "keyword": "特朗普访华",
-          "heat": 300000,
+          "heat": 1750000,
           "tag": ""
         },
         {
           "rank": 2,
           "keyword": "南京审计大学偷拍男生被开除",
-          "heat": 220000,
+          "heat": 1350000,
           "tag": ""
         },
         {
           "rank": 3,
-          "keyword": "舒某编造涉人造大米网络谣言被罚",
-          "heat": 140000,
+          "keyword": "从4月先行指标看我国经济持续向好",
+          "heat": 1100000,
           "tag": ""
         },
         {
           "rank": 4,
           "keyword": "上京东领心动礼",
-          "heat": 130000,
+          "heat": 1100000,
           "tag": ""
         },
         {
           "rank": 5,
-          "keyword": "白鹿演唱会过审",
-          "heat": 110000,
+          "keyword": "67岁产女的妈妈现已卧床",
+          "heat": 1100000,
           "tag": ""
         },
         {
           "rank": 6,
-          "keyword": "跑男争议不该先定罪后解读",
-          "heat": 100000,
+          "keyword": "巩俐中文宣布戛纳开幕",
+          "heat": 700000,
           "tag": ""
         },
         {
           "rank": 7,
-          "keyword": "辛芷蕾新片演黄柳霜",
-          "heat": 70000,
+          "keyword": "跑男争议不该先定罪后解读",
+          "heat": 480000,
           "tag": ""
         },
         {
           "rank": 8,
           "keyword": "天猫礼遇大使周翊然",
-          "heat": 60000,
+          "heat": 430000,
           "tag": ""
         },
         {
           "rank": 9,
-          "keyword": "下午休是性价比最高的半天假",
-          "heat": 60000,
+          "keyword": "灰熊球员布兰登克拉克去世",
+          "heat": 400000,
           "tag": ""
         },
         {
           "rank": 10,
-          "keyword": "第一次看到金丝楠木狗",
-          "heat": 50000,
+          "keyword": "4月汽车销量前10仅1款油车",
+          "heat": 160000,
           "tag": ""
         },
         {
           "rank": 11,
-          "keyword": "藏海传2断层第一",
+          "keyword": "舒某编造涉人造大米网络谣言被罚",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 12,
-          "keyword": "4月汽车销量前10仅1款油车",
+          "keyword": "白鹿演唱会过审",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 13,
-          "keyword": "女生没电脑在电竞馆学习获免单",
+          "keyword": "辛芷蕾新片演黄柳霜",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 14,
-          "keyword": "清清 一直送",
+          "keyword": "下午休是性价比最高的半天假",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 15,
-          "keyword": "一诺哽咽",
+          "keyword": "第一次看到金丝楠木狗",
           "heat": 0,
           "tag": ""
         }
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-13T07:46:59+08:00",
+      "fetchTime": "2026-05-13T08:17:06+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-13",
@@ -152,37 +152,37 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Partly cloudy 13C morning. Humidity 94%. Wind SW 9km/h. Pressure 1015mb. High forecast revised down to 22C."
+          "content": "Partly cloudy 13C morning. Humidity 94%. Wind SW 9km/h. Pressure 1015mb. High 22C."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-13T07:46:59+08:00",
+      "fetchTime": "2026-05-13T08:17:06+08:00",
       "highlights": [
         {
-          "title": "《陛下何故谋反》856.4万领跑B站",
+          "title": "🔥微博热搜晨间大爆发！特朗普访华175万#1",
+          "description": "30分钟内从30万暴涨至175万，南京审计大学135万#2",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E"
+        },
+        {
+          "title": "《陛下何故谋反》857.3万领跑B站",
           "description": "接近860万里程碑",
           "url": "https://www.bilibili.com/video/av116546085061974/"
         },
         {
-          "title": "特朗普访华微博热搜第一",
-          "description": "30万持续领跑",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E"
-        },
-        {
-          "title": "3台高速机VS刘谦热度飙升",
-          "description": "383.1万(30分钟+3.8万)",
-          "url": "https://www.bilibili.com/video/av116554742109232/"
+          "title": "新上榜热搜：巩俐中文宣布戛纳开幕70万#6、灰熊球员克拉克去世40万#9",
+          "description": "早晨热度全面回升",
+          "url": "https://tophub.today/n/KqndgxeLl9"
         }
       ],
       "popularContent": [
         "陛下何故谋反",
         "第一天来北京",
-        "许仙买瓜",
-        "3台高速机VS刘谦",
-        "崩坏星穹铁道绯英PV",
-        "我长这样但是我的画"
+        "特朗普访华",
+        "南京审计大学",
+        "巩俐戛纳",
+        "3台高速机VS刘谦"
       ]
     }
   }
