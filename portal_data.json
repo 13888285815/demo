@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-14T18:15:34+08:00",
+  "updateTime": "2026-05-14T19:18:54+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-14T18:15:34+08:00",
+      "fetchTime": "2026-05-14T19:18:54+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-14T18:15:34+08:00",
+      "fetchTime": "2026-05-14T19:18:54+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -56,25 +56,25 @@
         {
           "rank": 6,
           "keyword": "中美元首在祈年殿广场合影",
-          "heat": 920000,
+          "heat": 1010000,
           "tag": ""
         },
         {
           "rank": 7,
           "keyword": "律师说法",
-          "heat": 850000,
+          "heat": 920000,
           "tag": ""
         },
         {
           "rank": 8,
           "keyword": "韩国股市暴涨超200%散户癫狂",
-          "heat": 690000,
+          "heat": 760000,
           "tag": ""
         },
         {
           "rank": 9,
           "keyword": "特朗普参观天坛",
-          "heat": 670000,
+          "heat": 740000,
           "tag": ""
         },
         {
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-14T18:15:34+08:00",
+      "fetchTime": "2026-05-14T19:18:54+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-14",
@@ -125,9 +125,9 @@
         "weather": "Sunny",
         "tempHigh": "25",
         "tempLow": "15",
-        "wind": "WSW",
-        "windLevel": "3",
-        "humidity": "44",
+        "wind": "SW",
+        "windLevel": "2-3",
+        "humidity": "41",
         "sunrise": "05:26",
         "sunset": "18:46"
       },
@@ -138,7 +138,7 @@
           "weather": "Sunny",
           "high": "25",
           "low": "15",
-          "wind": "WSW"
+          "wind": "SW"
         },
         {
           "date": "2026-05-15",
@@ -152,36 +152,36 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Hot and sunny 24C. Humidity 44%. Wind WSW 14km/h. Pressure 1014mb. UV Index 4. Today Sunny 15-25C."
+          "content": "Reached daily high 25C! Humidity 41%. Wind SW 12km/h. Pressure 1013mb. Today Sunny 15-25C. Sunset soon (18:46)."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-14T18:15:34+08:00",
+      "fetchTime": "2026-05-14T19:18:54+08:00",
       "highlights": [
         {
-          "title": "微博Top10大换血！阿嬷情书女主官宣入行124万登顶",
-          "description": "支付宝扣款184万#2，歌手2026定档#5，中美元首祈年殿跌#6",
-          "url": "https://s.weibo.com/weibo?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E5%A5%B3%E4%B8%BB%E5%AE%98%E5%AE%A3%E5%85%A5%E8%A1%8C"
+          "title": "B站Top20大洗牌！没有剑的进来升至#5",
+          "description": "原神尼可PV跃升至#11，你讹他啊跃升至#15",
+          "url": "https://www.bilibili.com/video/av116549205627108/"
         },
         {
-          "title": "B站排名大洗牌：数学家老田升至#3，aespa跌出Top15",
-          "description": "地牢酒馆升至#13，原神新PV升至#14",
-          "url": "https://www.bilibili.com/video/av116559775271101/"
-        },
-        {
-          "title": "天气稳定24°C",
-          "description": "湿度44% 风力14km/h 稳定",
+          "title": "天气升至25°C 达到今日最高温！",
+          "description": "湿度降至41% 风力减弱至12km/h",
           "url": "https://wttr.in/Kunming"
+        },
+        {
+          "title": "微博Top10稳定",
+          "description": "给阿嬷的情书124万#1连续3轮",
+          "url": "https://s.weibo.com/weibo?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E5%A5%B3%E4%B8%BB%E5%AE%98%E5%AE%A3%E5%85%A5%E8%A1%8C"
         }
       ],
       "popularContent": [
-        "阿嬷情书女主官宣入行",
-        "支付宝扣款捐赠184万",
-        "歌手2026定档",
-        "数学家老田升至#3",
-        "中美元首祈年殿合影"
+        "没有剑的进来升至#5",
+        "原神尼可PV跃升至#11",
+        "天气升至25°C",
+        "给我阿嬷的情书124万#1",
+        "鲁豫对话新进Top20"
       ]
     }
   }
