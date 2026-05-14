@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-14T11:43:49+08:00",
+  "updateTime": "2026-05-14T12:14:46+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-14T11:43:49+08:00",
+      "fetchTime": "2026-05-14T12:14:46+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,95 +21,95 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-14T11:43:49+08:00",
+      "fetchTime": "2026-05-14T12:14:46+08:00",
       "hotList": [
         {
           "rank": 1,
-          "keyword": "特朗普访华欢迎仪式",
-          "heat": 15120000,
+          "keyword": "中美领导人会谈",
+          "heat": 2500000,
           "tag": ""
         },
         {
           "rank": 2,
-          "keyword": "空军一号轰鸣而过中国军人纹丝不动",
-          "heat": 2460000,
+          "keyword": "特朗普访华欢迎仪式",
+          "heat": 13440000,
           "tag": ""
         },
         {
           "rank": 3,
-          "keyword": "天舟十号货运飞船发射任务全回顾",
-          "heat": 1640000,
+          "keyword": "6张图看铁路老年旅客淡季周中优惠",
+          "heat": 2310000,
           "tag": ""
         },
         {
           "rank": 4,
-          "keyword": "乃万演唱会40元票价",
-          "heat": 1390000,
+          "keyword": "中美元首握手",
+          "heat": 2300000,
           "tag": ""
         },
         {
           "rank": 5,
-          "keyword": "保时捷称被抄袭致敬有些许无奈",
-          "heat": 840000,
+          "keyword": "豆包 嬉皮笑脸",
+          "heat": 800000,
           "tag": ""
         },
         {
           "rank": 6,
-          "keyword": "日本人全球对线破大防",
-          "heat": 620000,
+          "keyword": "乃万演唱会40元票价",
+          "heat": 570000,
           "tag": ""
         },
         {
           "rank": 7,
-          "keyword": "英伟达总市值超越德国GDP",
-          "heat": 610000,
+          "keyword": "日媒吐槽世乒赛规则存在漏洞",
+          "heat": 510000,
           "tag": ""
         },
         {
           "rank": 8,
-          "keyword": "高敏感人群一生的主线任务",
-          "heat": 490000,
+          "keyword": "于正宣传白鹿演唱会",
+          "heat": 500000,
           "tag": ""
         },
         {
           "rank": 9,
-          "keyword": "陈妍希看给阿嬷的情书看哭了",
+          "keyword": "给阿嬷的情书票房破2亿",
           "heat": 370000,
           "tag": ""
         },
         {
           "rank": 10,
-          "keyword": "国际足联希望中国队能参与世界杯",
-          "heat": 0,
+          "keyword": "骑士vs活塞",
+          "heat": 370000,
           "tag": ""
         },
         {
           "rank": 11,
-          "keyword": "一代人有一代人的带娃邪修",
-          "heat": 0,
+          "keyword": "鹿晗寸头",
+          "heat": 370000,
           "tag": ""
         },
         {
           "rank": 12,
-          "keyword": "马化腾回应AI掉队",
+          "keyword": "中美领导人就重大问题交换意见",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 13,
-          "keyword": "低智商犯罪",
+          "keyword": "空军一号轰鸣而过中国军人纹丝不动",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 14,
-          "keyword": "雨霖铃播了4集打了4集",
+          "keyword": "天舟十号货运飞船发射任务全回顾",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 15,
-          "keyword": "多位国乒名将祝福刘炜珊",
+          "keyword": "保时捷称被抄袭致敬有些许无奈",
           "heat": 0,
           "tag": ""
         }
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-14T11:43:49+08:00",
+      "fetchTime": "2026-05-14T12:14:46+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-14",
@@ -158,30 +158,30 @@
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-14T11:43:49+08:00",
+      "fetchTime": "2026-05-14T12:14:46+08:00",
       "highlights": [
         {
-          "title": "天气升温至20°C",
-          "description": "湿度降至56%/风速14km/h/UV5",
-          "url": "https://wttr.in/Kunming"
+          "title": "🔥中美领导人会谈登顶微博#1",
+          "description": "250万! 特朗普访华欢迎仪式跌至#2(1344万)",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E4%BC%9A%E8%B0%88"
         },
         {
-          "title": "B站#6-7交换：数学家老田升至#6",
-          "description": "343.5万超越没有剑的进来301.2万",
-          "url": "https://www.bilibili.com/video/av116559775271101/"
+          "title": "中美元首握手230万#4",
+          "description": "铁路老年旅客优惠231万#3",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E6%8F%A1%E6%89%8B"
         },
         {
-          "title": "特朗普访华欢迎仪式1512万稳居微博#1",
-          "description": "连续3轮不变",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F"
+          "title": "3台高速机VS刘谦543.3万领跑B站",
+          "description": "持续霸榜",
+          "url": "https://www.bilibili.com/video/av116554742109232/"
         }
       ],
       "popularContent": [
-        "3台高速机VS刘谦",
-        "数学家老田",
-        "中美会面前",
+        "中美领导人会谈",
+        "中美元首握手",
         "特朗普访华欢迎仪式",
-        "浓汤灌鱼肚"
+        "3台高速机VS刘谦",
+        "数学家老田"
       ]
     }
   }
