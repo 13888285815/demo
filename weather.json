@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-14T10:44:03+08:00",
+  "update_time": "2026-05-14T11:16:48+08:00",
   "source": "wttr.in",
   "location": "Kunming",
   "current": {
@@ -13,7 +13,7 @@
     "visibility": "10 km",
     "uvIndex": "3",
     "cloudcover": "0%",
-    "observation_time": "2026-05-14 10:42"
+    "observation_time": "2026-05-14 11:12"
   },
   "astronomy": {
     "sunrise": "05:26",
