@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-14T11:16:48+08:00",
+  "updateTime": "2026-05-14T11:43:49+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-14T11:16:48+08:00",
+      "fetchTime": "2026-05-14T11:43:49+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-14T11:16:48+08:00",
+      "fetchTime": "2026-05-14T11:43:49+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-14T11:16:48+08:00",
+      "fetchTime": "2026-05-14T11:43:49+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-14",
@@ -127,7 +127,7 @@
         "tempLow": "15",
         "wind": "WSW",
         "windLevel": "3",
-        "humidity": "72",
+        "humidity": "56",
         "sunrise": "05:26",
         "sunset": "18:46"
       },
@@ -152,37 +152,36 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Sunny afternoon 17C. Humidity 72%. Wind WSW 12km/h. Pressure 1017mb. UV Index 3. Today Sunny 15-25C."
+          "content": "Sunny and warm 20C. Humidity 56%. Wind WSW 14km/h. Pressure 1017mb. UV Index 5. Today Sunny 15-25C."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-14T11:16:48+08:00",
+      "fetchTime": "2026-05-14T11:43:49+08:00",
       "highlights": [
         {
-          "title": "B站#20变动：《陛下何故谋反》跌出Top20",
-          "description": "史上最强二创146.1万跻身#20",
-          "url": "https://www.bilibili.com/video/av116554960209317/"
+          "title": "天气升温至20°C",
+          "description": "湿度降至56%/风速14km/h/UV5",
+          "url": "https://wttr.in/Kunming"
         },
         {
-          "title": "3台高速机VS刘谦541.1万稳居#1",
-          "description": "持续领跑",
-          "url": "https://www.bilibili.com/video/av116554742109232/"
+          "title": "B站#6-7交换：数学家老田升至#6",
+          "description": "343.5万超越没有剑的进来301.2万",
+          "url": "https://www.bilibili.com/video/av116559775271101/"
         },
         {
           "title": "特朗普访华欢迎仪式1512万稳居微博#1",
-          "description": "空军一号轰鸣而过246万#2",
+          "description": "连续3轮不变",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F"
         }
       ],
       "popularContent": [
         "3台高速机VS刘谦",
-        "中美会面前",
         "数学家老田",
+        "中美会面前",
         "特朗普访华欢迎仪式",
-        "空军一号轰鸣",
-        "史上最强二创"
+        "浓汤灌鱼肚"
       ]
     }
   }
