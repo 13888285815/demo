@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-14T08:14:01+08:00",
+  "updateTime": "2026-05-14T08:44:16+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-14T08:14:01+08:00",
+      "fetchTime": "2026-05-14T08:44:16+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-14T08:14:01+08:00",
+      "fetchTime": "2026-05-14T08:44:16+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -85,31 +85,31 @@
         },
         {
           "rank": 11,
-          "keyword": "雨霖铃",
+          "keyword": "618上天猫抢华为大额券再叠补贴",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 12,
-          "keyword": "雨霖铃杨洋演技",
+          "keyword": "华南理工被偷拍女生隐忍到下课",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 13,
-          "keyword": "天舟十号",
+          "keyword": "雨霖铃",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 14,
-          "keyword": "日本人",
+          "keyword": "雨霖铃杨洋演技",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 15,
-          "keyword": "618上天猫抢华为大额券再叠补贴",
+          "keyword": "曾沛慈数到十入围金曲奖",
           "heat": 0,
           "tag": ""
         }
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-14T08:14:01+08:00",
+      "fetchTime": "2026-05-14T08:44:16+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-14",
@@ -125,8 +125,8 @@
         "weather": "Sunny",
         "tempHigh": "25",
         "tempLow": "15",
-        "wind": "SSW",
-        "windLevel": "1",
+        "wind": "SW",
+        "windLevel": "2",
         "humidity": "88",
         "sunrise": "05:26",
         "sunset": "18:46"
@@ -138,7 +138,7 @@
           "weather": "Sunny",
           "high": "25",
           "low": "15",
-          "wind": "SSW"
+          "wind": "SW"
         },
         {
           "date": "2026-05-15",
@@ -152,28 +152,28 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Sunny 14C morning. Humidity 88%. Wind SSW 5km/h. Pressure 1015mb. Today Sunny 15-25C."
+          "content": "Sunny 14C morning. Humidity 88%. Wind SW 7km/h. Pressure 1015mb. Today Sunny 15-25C."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-14T08:14:01+08:00",
+      "fetchTime": "2026-05-14T08:44:16+08:00",
       "highlights": [
         {
-          "title": "🔥特朗普抵京微博热度爆发",
-          "description": "24万→132万(30分钟内+108万)",
+          "title": "3台高速机VS刘谦稳居B站#1",
+          "description": "536.3万持续领跑",
+          "url": "https://www.bilibili.com/video/av116554742109232/"
+        },
+        {
+          "title": "特朗普抵京132万稳居微博#1",
+          "description": "日本反战79万#2",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E4%BA%AC"
         },
         {
-          "title": "日本反战抗议飙升",
-          "description": "6万→79万(+73万), 超越天舟十号#2",
-          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%8D%E6%88%98%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%8B"
-        },
-        {
-          "title": "3台高速机VS刘谦稳居B站#1",
-          "description": "535.2万持续领跑",
-          "url": "https://www.bilibili.com/video/av116554742109232/"
+          "title": "陛下何故谋反跌出B站Top20",
+          "description": "941.1万总播放但日榜排名#22",
+          "url": "https://www.bilibili.com/video/av116546085061974/"
         }
       ],
       "popularContent": [
@@ -182,7 +182,7 @@
         "数学家老田",
         "特朗普抵京",
         "日本反战",
-        "马化腾回应AI掉队"
+        "宇树GD01机甲"
       ]
     }
   }
