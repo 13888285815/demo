@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-14T14:14:00+08:00",
+  "updateTime": "2026-05-14T15:13:35+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-14T14:14:00+08:00",
+      "fetchTime": "2026-05-14T15:13:35+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-14T14:14:00+08:00",
+      "fetchTime": "2026-05-14T15:13:35+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-14T14:14:00+08:00",
+      "fetchTime": "2026-05-14T15:13:35+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-14",
@@ -127,7 +127,7 @@
         "tempLow": "15",
         "wind": "WSW",
         "windLevel": "3",
-        "humidity": "56",
+        "humidity": "50",
         "sunrise": "05:26",
         "sunset": "18:46"
       },
@@ -152,35 +152,35 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Sunny and warm 20C. Humidity 56%. Wind WSW 16km/h. Pressure 1016mb. UV Index 5. Today Sunny 15-25C."
+          "content": "Warm and sunny 22C. Humidity 50%. Wind WSW 17km/h. Pressure 1015mb. UV Index 5. Today Sunny 15-25C."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-14T14:14:00+08:00",
+      "fetchTime": "2026-05-14T15:13:35+08:00",
       "highlights": [
         {
-          "title": "微博Top10大换血！台湾问题处理好了登顶",
-          "description": "148万! 中美经贸成果#2(114万)! 特朗普相关全部跌出",
+          "title": "气温升至22°C 湿度降至50%",
+          "description": "升温2°C/湿度-6%",
+          "url": "https://wttr.in/Kunming"
+        },
+        {
+          "title": "B站#4-5交换：数学家老田升#4(359.1万)",
+          "description": "色彩原理调色教程降至#5(221.2万)",
+          "url": "https://www.bilibili.com/video/av116559775271101/"
+        },
+        {
+          "title": "台湾问题处理好了148万稳居微博#1",
+          "description": "连续4轮不变",
           "url": "https://s.weibo.com/weibo?q=%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E5%A4%84%E7%90%86%E5%A5%BD%E4%BA%86%E4%B8%AD%E7%BE%8E%E5%85%B3%E7%B3%BB%E5%B0%B1%E8%83%BD%E7%A8%B3%E5%AE%9A"
-        },
-        {
-          "title": "中美元首合影 祈年殿",
-          "description": "51万#8 新上榜",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%90%88%E5%BD%B1"
-        },
-        {
-          "title": "3台高速机VS刘谦549.5万持续领跑B站",
-          "description": "热度持续攀升",
-          "url": "https://www.bilibili.com/video/av116554742109232/"
         }
       ],
       "popularContent": [
         "台湾问题中美关系",
-        "中美元首合影",
-        "中美经贸成果",
+        "数学家老田",
         "3台高速机VS刘谦",
+        "中美元首合影",
         "张艺兴代言"
       ]
     }
