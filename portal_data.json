@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-14T08:44:16+08:00",
+  "updateTime": "2026-05-14T10:14:21+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-14T08:44:16+08:00",
+      "fetchTime": "2026-05-14T10:14:21+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,95 +21,95 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-14T08:44:16+08:00",
+      "fetchTime": "2026-05-14T10:14:21+08:00",
       "hotList": [
         {
           "rank": 1,
-          "keyword": "特朗普抵京",
-          "heat": 1320000,
+          "keyword": "特朗普访华欢迎仪式",
+          "heat": 15120000,
           "tag": ""
         },
         {
           "rank": 2,
-          "keyword": "日本爆发大规模反战抗议活动",
-          "heat": 790000,
+          "keyword": "空军一号轰鸣而过中国军人纹丝不动",
+          "heat": 2460000,
           "tag": ""
         },
         {
           "rank": 3,
           "keyword": "天舟十号货运飞船发射任务全回顾",
-          "heat": 650000,
+          "heat": 1640000,
           "tag": ""
         },
         {
           "rank": 4,
-          "keyword": "国际足联希望中国队能参与世界杯",
-          "heat": 350000,
+          "keyword": "乃万演唱会40元票价",
+          "heat": 1390000,
           "tag": ""
         },
         {
           "rank": 5,
-          "keyword": "日本人全球对线破大防",
-          "heat": 320000,
+          "keyword": "保时捷称被抄袭致敬有些许无奈",
+          "heat": 840000,
           "tag": ""
         },
         {
           "rank": 6,
-          "keyword": "一代人有一代人的带娃邪修",
-          "heat": 300000,
+          "keyword": "日本人全球对线破大防",
+          "heat": 620000,
           "tag": ""
         },
         {
           "rank": 7,
-          "keyword": "马化腾回应AI掉队",
-          "heat": 260000,
+          "keyword": "英伟达总市值超越德国GDP",
+          "heat": 610000,
           "tag": ""
         },
         {
           "rank": 8,
-          "keyword": "低智商犯罪",
-          "heat": 210000,
+          "keyword": "高敏感人群一生的主线任务",
+          "heat": 490000,
           "tag": ""
         },
         {
           "rank": 9,
-          "keyword": "雨霖铃播了4集打了4集",
-          "heat": 140000,
+          "keyword": "陈妍希看给阿嬷的情书看哭了",
+          "heat": 370000,
           "tag": ""
         },
         {
           "rank": 10,
-          "keyword": "多位国乒名将祝福刘炜珊",
-          "heat": 140000,
+          "keyword": "国际足联希望中国队能参与世界杯",
+          "heat": 0,
           "tag": ""
         },
         {
           "rank": 11,
-          "keyword": "618上天猫抢华为大额券再叠补贴",
+          "keyword": "一代人有一代人的带娃邪修",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 12,
-          "keyword": "华南理工被偷拍女生隐忍到下课",
+          "keyword": "马化腾回应AI掉队",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 13,
-          "keyword": "雨霖铃",
+          "keyword": "低智商犯罪",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 14,
-          "keyword": "雨霖铃杨洋演技",
+          "keyword": "雨霖铃播了4集打了4集",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 15,
-          "keyword": "曾沛慈数到十入围金曲奖",
+          "keyword": "多位国乒名将祝福刘炜珊",
           "heat": 0,
           "tag": ""
         }
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-14T08:44:16+08:00",
+      "fetchTime": "2026-05-14T10:14:21+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-14",
@@ -125,9 +125,9 @@
         "weather": "Sunny",
         "tempHigh": "25",
         "tempLow": "15",
-        "wind": "SW",
-        "windLevel": "2",
-        "humidity": "88",
+        "wind": "WSW",
+        "windLevel": "3",
+        "humidity": "72",
         "sunrise": "05:26",
         "sunset": "18:46"
       },
@@ -138,7 +138,7 @@
           "weather": "Sunny",
           "high": "25",
           "low": "15",
-          "wind": "SW"
+          "wind": "WSW"
         },
         {
           "date": "2026-05-15",
@@ -152,37 +152,37 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Sunny 14C morning. Humidity 88%. Wind SW 7km/h. Pressure 1015mb. Today Sunny 15-25C."
+          "content": "Sunny afternoon 17C. Humidity 72%. Wind WSW 12km/h. Pressure 1017mb. UV Index 3. Today Sunny 15-25C."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-14T08:44:16+08:00",
+      "fetchTime": "2026-05-14T10:14:21+08:00",
       "highlights": [
         {
-          "title": "3台高速机VS刘谦稳居B站#1",
-          "description": "536.3万持续领跑",
-          "url": "https://www.bilibili.com/video/av116554742109232/"
+          "title": "🔥特朗普访华欢迎仪式爆发登顶",
+          "description": "1512万! 从抵京话题升级为欢迎仪式",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F"
         },
         {
-          "title": "特朗普抵京132万稳居微博#1",
-          "description": "日本反战79万#2",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E4%BA%AC"
+          "title": "天舟十号冲至微博#3",
+          "description": "164万(翻倍增长)",
+          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E8%88%9F%E5%8D%81%E5%8F%B7%E8%B4%A7%E8%BF%90%E9%A3%9E%E8%88%B9%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1%E5%85%A8%E5%9B%9E%E9%A1%BE"
         },
         {
-          "title": "陛下何故谋反跌出B站Top20",
-          "description": "941.1万总播放但日榜排名#22",
-          "url": "https://www.bilibili.com/video/av116546085061974/"
+          "title": "天气大变化！17°C/72%/UV3",
+          "description": "气温+3度/湿度-16/气压+2/UV指数3",
+          "url": "https://wttr.in/Kunming"
         }
       ],
       "popularContent": [
+        "特朗普访华欢迎仪式",
+        "空军一号轰鸣",
         "3台高速机VS刘谦",
-        "中美会面前",
-        "数学家老田",
-        "特朗普抵京",
-        "日本反战",
-        "宇树GD01机甲"
+        "天舟十号",
+        "地牢酒馆",
+        "英伟达超德国GDP"
       ]
     }
   }
