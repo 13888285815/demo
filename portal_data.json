@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-14T20:14:33+08:00",
+  "updateTime": "2026-05-14T21:16:31+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-14T20:14:33+08:00",
+      "fetchTime": "2026-05-14T21:16:31+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-14T20:14:33+08:00",
+      "fetchTime": "2026-05-14T21:16:31+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-14T20:14:33+08:00",
+      "fetchTime": "2026-05-14T21:16:31+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-14",
@@ -152,36 +152,36 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Evening cool down to 23C after sunset. Clear sky. Humidity 44%. Wind S 10km/h."
+          "content": "Night clear 23C. Humidity 44%. Wind S 10km/h."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-14T20:14:33+08:00",
+      "fetchTime": "2026-05-14T21:16:31+08:00",
       "highlights": [
         {
-          "title": "微博Top10大换血！特朗普访华欢迎宴会1784万#2",
-          "description": "中美领导人致辞296万登顶#1",
+          "title": "B站#5-6互换：旧说唱升至#5 没有剑的进来降至#6",
+          "description": "#18-19互换：华强买瓜升至#18 NMIXX降至#19",
+          "url": "https://www.bilibili.com/video/av116560547088411/"
+        },
+        {
+          "title": "当我坐不同交通工具时 新进Top20#20",
+          "description": "热度312万",
+          "url": "https://www.bilibili.com/video/av116565362152484/"
+        },
+        {
+          "title": "微博/天气稳定",
+          "description": "特朗普访华欢迎宴会1784万持续#2",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A"
-        },
-        {
-          "title": "B站原神尼可PV升至#8",
-          "description": "华强买瓜新进#19，点进来看答辩升至#11",
-          "url": "https://www.bilibili.com/video/av116566670709136/"
-        },
-        {
-          "title": "天气降至23°C",
-          "description": "日落后降温 Clear sky 湿度44%",
-          "url": "https://wttr.in/Kunming"
         }
       ],
       "popularContent": [
-        "特朗普访华欢迎宴会1784万#2",
-        "中美领导人致辞296万#1",
-        "原神尼可PV升至#8",
-        "天气降至23°C",
-        "桃花坞6开播#8"
+        "B站#5-6互换",
+        "当我坐不同交通工具时新进#20",
+        "微博天气稳定",
+        "特朗普欢迎宴会1784万#2",
+        "原神尼可PV升至#8"
       ]
     }
   }
