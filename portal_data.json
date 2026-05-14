@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-14T07:44:21+08:00",
+  "updateTime": "2026-05-14T08:14:01+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-14T07:44:21+08:00",
+      "fetchTime": "2026-05-14T08:14:01+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,95 +21,95 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-14T07:44:21+08:00",
+      "fetchTime": "2026-05-14T08:14:01+08:00",
       "hotList": [
         {
           "rank": 1,
           "keyword": "特朗普抵京",
-          "heat": 240000,
+          "heat": 1320000,
           "tag": ""
         },
         {
           "rank": 2,
-          "keyword": "马化腾回应AI掉队",
-          "heat": 160000,
+          "keyword": "日本爆发大规模反战抗议活动",
+          "heat": 790000,
           "tag": ""
         },
         {
           "rank": 3,
           "keyword": "天舟十号货运飞船发射任务全回顾",
-          "heat": 130000,
+          "heat": 650000,
           "tag": ""
         },
         {
           "rank": 4,
-          "keyword": "618上天猫抢华为大额券再叠补贴",
-          "heat": 90000,
+          "keyword": "国际足联希望中国队能参与世界杯",
+          "heat": 350000,
           "tag": ""
         },
         {
           "rank": 5,
-          "keyword": "一代人有一代人的带娃邪修",
-          "heat": 80000,
+          "keyword": "日本人全球对线破大防",
+          "heat": 320000,
           "tag": ""
         },
         {
           "rank": 6,
-          "keyword": "日本爆发大规模反战抗议活动",
-          "heat": 60000,
+          "keyword": "一代人有一代人的带娃邪修",
+          "heat": 300000,
           "tag": ""
         },
         {
           "rank": 7,
-          "keyword": "雨霖铃",
-          "heat": 40000,
+          "keyword": "马化腾回应AI掉队",
+          "heat": 260000,
           "tag": ""
         },
         {
           "rank": 8,
           "keyword": "低智商犯罪",
-          "heat": 40000,
+          "heat": 210000,
           "tag": ""
         },
         {
           "rank": 9,
-          "keyword": "雨霖铃杨洋演技",
-          "heat": 30000,
+          "keyword": "雨霖铃播了4集打了4集",
+          "heat": 140000,
           "tag": ""
         },
         {
           "rank": 10,
-          "keyword": "曾沛慈数到十入围金曲奖",
-          "heat": 30000,
+          "keyword": "多位国乒名将祝福刘炜珊",
+          "heat": 140000,
           "tag": ""
         },
         {
           "rank": 11,
-          "keyword": "又一艘邮轮疑似暴发疫情1人死亡",
-          "heat": 30000,
+          "keyword": "雨霖铃",
+          "heat": 0,
           "tag": ""
         },
         {
           "rank": 12,
-          "keyword": "华南理工被偷拍女生隐忍到下课",
-          "heat": 30000,
+          "keyword": "雨霖铃杨洋演技",
+          "heat": 0,
           "tag": ""
         },
         {
           "rank": 13,
-          "keyword": "特朗普访华",
+          "keyword": "天舟十号",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 14,
-          "keyword": "南京审计大学偷拍男生被开除",
+          "keyword": "日本人",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 15,
-          "keyword": "巩俐中文宣布戛纳开幕",
+          "keyword": "618上天猫抢华为大额券再叠补贴",
           "heat": 0,
           "tag": ""
         }
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-14T07:44:21+08:00",
+      "fetchTime": "2026-05-14T08:14:01+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-14",
@@ -158,22 +158,22 @@
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-14T07:44:21+08:00",
+      "fetchTime": "2026-05-14T08:14:01+08:00",
       "highlights": [
         {
-          "title": "3台高速机VS刘谦登顶B站日榜#1",
-          "description": "533.8万(昨日#3今日登顶)",
-          "url": "https://www.bilibili.com/video/av116554742109232/"
-        },
-        {
-          "title": "特朗普抵京热搜#1",
-          "description": "24万(从访华→抵京，话题升级)",
+          "title": "🔥特朗普抵京微博热度爆发",
+          "description": "24万→132万(30分钟内+108万)",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8A%B5%E4%BA%AC"
         },
         {
-          "title": "马化腾回应AI掉队热搜#2",
-          "description": "16万(科技界热议)",
-          "url": "https://s.weibo.com/weibo?q=%E9%A9%AC%E5%8C%96%E8%85%BE%E5%9B%9E%E5%BA%94AI%E6%8E%89%E9%98%9F"
+          "title": "日本反战抗议飙升",
+          "description": "6万→79万(+73万), 超越天舟十号#2",
+          "url": "https://s.weibo.com/weibo?q=%E6%97%A5%E6%9C%AC%E7%88%86%E5%8F%91%E5%A4%A7%E8%A7%84%E6%A8%A1%E5%8F%8D%E6%88%98%E6%8A%97%E8%AE%AE%E6%B4%BB%E5%8A%8B"
+        },
+        {
+          "title": "3台高速机VS刘谦稳居B站#1",
+          "description": "535.2万持续领跑",
+          "url": "https://www.bilibili.com/video/av116554742109232/"
         }
       ],
       "popularContent": [
@@ -181,8 +181,8 @@
         "中美会面前",
         "数学家老田",
         "特朗普抵京",
-        "马化腾回应AI掉队",
-        "宇树GD01机甲"
+        "日本反战",
+        "马化腾回应AI掉队"
       ]
     }
   }
