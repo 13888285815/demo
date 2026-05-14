@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-14T19:18:54+08:00",
+  "updateTime": "2026-05-14T20:14:33+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-14T19:18:54+08:00",
+      "fetchTime": "2026-05-14T20:14:33+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,95 +21,95 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-14T19:18:54+08:00",
+      "fetchTime": "2026-05-14T20:14:33+08:00",
       "hotList": [
         {
           "rank": 1,
-          "keyword": "给阿嬷的情书女主官宣入行",
-          "heat": 1240000,
+          "keyword": "中美领导人致辞",
+          "heat": 2960000,
           "tag": ""
         },
         {
           "rank": 2,
-          "keyword": "关闭支付宝支付功能后被扣捐赠184万",
-          "heat": 960000,
+          "keyword": "特朗普访华欢迎宴会",
+          "heat": 17840000,
           "tag": ""
         },
         {
           "rank": 3,
           "keyword": "这些美方代表在中美元首会谈会场",
-          "heat": 940000,
+          "heat": 1750000,
           "tag": ""
         },
         {
           "rank": 4,
-          "keyword": "白鹿演唱会票价加起来是十年",
-          "heat": 940000,
+          "keyword": "618上天猫抢华为大额券再叠补贴",
+          "heat": 1120000,
           "tag": ""
         },
         {
           "rank": 5,
-          "keyword": "歌手2026定档官宣",
-          "heat": 930000,
+          "keyword": "中美元首在祈年殿广场合影",
+          "heat": 880000,
           "tag": ""
         },
         {
           "rank": 6,
-          "keyword": "中美元首在祈年殿广场合影",
-          "heat": 1010000,
+          "keyword": "腾讯成立800人团队适配鸿蒙",
+          "heat": 860000,
           "tag": ""
         },
         {
           "rank": 7,
-          "keyword": "律师说法",
-          "heat": 920000,
+          "keyword": "给阿嬷的情书女主官宣入行",
+          "heat": 860000,
           "tag": ""
         },
         {
           "rank": 8,
-          "keyword": "韩国股市暴涨超200%散户癫狂",
-          "heat": 760000,
+          "keyword": "桃花坞6开播熟悉的感觉回来了",
+          "heat": 830000,
           "tag": ""
         },
         {
           "rank": 9,
-          "keyword": "特朗普参观天坛",
-          "heat": 740000,
+          "keyword": "爸爸当家5嘉宾阵容",
+          "heat": 690000,
           "tag": ""
         },
         {
           "rank": 10,
-          "keyword": "腾讯成立800人团队适配鸿蒙",
-          "heat": 0,
+          "keyword": "果然岁月从不败美人",
+          "heat": 600000,
           "tag": ""
         },
         {
           "rank": 11,
-          "keyword": "阿嬷爆了之后 业内连夜学习潮汕文化",
+          "keyword": "关闭支付宝支付功能后被扣捐赠184万",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 12,
-          "keyword": "为什么衣服只喜欢穿一年",
+          "keyword": "白鹿演唱会票价加起来是十年",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 13,
-          "keyword": "豆包 嬉皮笑脸",
+          "keyword": "歌手2026定档官宣",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 14,
-          "keyword": "刘海为什么不能叫张海",
+          "keyword": "律师说法",
           "heat": 0,
           "tag": ""
         },
         {
           "rank": 15,
-          "keyword": "巩立姣减重50斤",
+          "keyword": "韩国股市暴涨超200%散户癫狂",
           "heat": 0,
           "tag": ""
         }
@@ -117,17 +117,17 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-14T19:18:54+08:00",
+      "fetchTime": "2026-05-14T20:14:33+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-14",
         "dayOfWeek": "Thu",
-        "weather": "Sunny",
+        "weather": "Clear",
         "tempHigh": "25",
         "tempLow": "15",
-        "wind": "SW",
-        "windLevel": "2-3",
-        "humidity": "41",
+        "wind": "S",
+        "windLevel": "2",
+        "humidity": "44",
         "sunrise": "05:26",
         "sunset": "18:46"
       },
@@ -135,10 +135,10 @@
         {
           "date": "2026-05-14",
           "day": "Thu",
-          "weather": "Sunny",
+          "weather": "Clear",
           "high": "25",
           "low": "15",
-          "wind": "SW"
+          "wind": "S"
         },
         {
           "date": "2026-05-15",
@@ -152,36 +152,36 @@
       "alerts": [
         {
           "type": "Weather",
-          "content": "Reached daily high 25C! Humidity 41%. Wind SW 12km/h. Pressure 1013mb. Today Sunny 15-25C. Sunset soon (18:46)."
+          "content": "Evening cool down to 23C after sunset. Clear sky. Humidity 44%. Wind S 10km/h."
         }
       ]
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-14T19:18:54+08:00",
+      "fetchTime": "2026-05-14T20:14:33+08:00",
       "highlights": [
         {
-          "title": "B站Top20大洗牌！没有剑的进来升至#5",
-          "description": "原神尼可PV跃升至#11，你讹他啊跃升至#15",
-          "url": "https://www.bilibili.com/video/av116549205627108/"
+          "title": "微博Top10大换血！特朗普访华欢迎宴会1784万#2",
+          "description": "中美领导人致辞296万登顶#1",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E5%AE%B4%E4%BC%9A"
         },
         {
-          "title": "天气升至25°C 达到今日最高温！",
-          "description": "湿度降至41% 风力减弱至12km/h",
+          "title": "B站原神尼可PV升至#8",
+          "description": "华强买瓜新进#19，点进来看答辩升至#11",
+          "url": "https://www.bilibili.com/video/av116566670709136/"
+        },
+        {
+          "title": "天气降至23°C",
+          "description": "日落后降温 Clear sky 湿度44%",
           "url": "https://wttr.in/Kunming"
-        },
-        {
-          "title": "微博Top10稳定",
-          "description": "给阿嬷的情书124万#1连续3轮",
-          "url": "https://s.weibo.com/weibo?q=%E7%BB%99%E9%98%BF%E5%AC%B7%E7%9A%84%E6%83%85%E4%B9%A6%E5%A5%B3%E4%B8%BB%E5%AE%98%E5%AE%A3%E5%85%A5%E8%A1%8C"
         }
       ],
       "popularContent": [
-        "没有剑的进来升至#5",
-        "原神尼可PV跃升至#11",
-        "天气升至25°C",
-        "给我阿嬷的情书124万#1",
-        "鲁豫对话新进Top20"
+        "特朗普访华欢迎宴会1784万#2",
+        "中美领导人致辞296万#1",
+        "原神尼可PV升至#8",
+        "天气降至23°C",
+        "桃花坞6开播#8"
       ]
     }
   }
