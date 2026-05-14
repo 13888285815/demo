@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-14T16:45:12+08:00",
+  "updateTime": "2026-05-14T17:14:10+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-14T16:45:12+08:00",
+      "fetchTime": "2026-05-14T17:14:10+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-14T16:45:12+08:00",
+      "fetchTime": "2026-05-14T17:14:10+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-14T16:45:12+08:00",
+      "fetchTime": "2026-05-14T17:14:10+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-14",
@@ -158,30 +158,30 @@
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-14T16:45:12+08:00",
+      "fetchTime": "2026-05-14T17:14:10+08:00",
       "highlights": [
         {
-          "title": "微博Top10换血！中美元首祈年殿合影160万#1",
-          "description": "特朗普参观天坛888万#2！白鹿演唱会119万#4",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%9C%A8%E7%A5%88%E5%B9%B4%E6%AE%BF%E5%B9%BF%E5%9C%BA%E5%90%88%E5%BD%B1"
+          "title": "B站Top20变动：鲁豫对话重回#23",
+          "description": "我一定会找到完美时间线跌出Top20",
+          "url": "https://www.bilibili.com/video/av116536975164044/"
         },
         {
-          "title": "气温升至24°C 湿度降至44%",
-          "description": "持续升温中，接近今日最高25°C",
+          "title": "天气持续24°C稳定",
+          "description": "湿度44% 风力14km/h",
           "url": "https://wttr.in/Kunming"
         },
         {
-          "title": "B站排名变动：武将#13 点进来看#15",
-          "description": "我长这样降至#16，鲁豫对话跌出Top20",
-          "url": "https://www.bilibili.com/video/av116561855645084/"
+          "title": "微博Top10稳定",
+          "description": "中美元首祈年殿合影160万#1连续3轮",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E5%9C%A8%E7%A5%88%E5%B9%B4%E6%AE%BF%E5%B9%BF%E5%9C%BA%E5%90%88%E5%BD%B1"
         }
       ],
       "popularContent": [
         "中美元首祈年殿合影",
         "特朗普参观天坛",
         "3台高速机VS刘谦",
-        "白鹿演唱会",
-        "巩立姣减重"
+        "鲁豫对话重回Top20",
+        "白鹿演唱会"
       ]
     }
   }
