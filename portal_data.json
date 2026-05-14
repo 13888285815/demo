@@ -1,9 +1,9 @@
 {
-  "updateTime": "2026-05-14T10:14:21+08:00",
+  "updateTime": "2026-05-14T10:44:03+08:00",
   "dataSource": {
     "cctvNews": {
       "source": "CCTV",
-      "fetchTime": "2026-05-14T10:14:21+08:00",
+      "fetchTime": "2026-05-14T10:44:03+08:00",
       "topStories": [
         {
           "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
@@ -21,7 +21,7 @@
     },
     "weiboHot": {
       "source": "Weibo Hot",
-      "fetchTime": "2026-05-14T10:14:21+08:00",
+      "fetchTime": "2026-05-14T10:44:03+08:00",
       "hotList": [
         {
           "rank": 1,
@@ -117,7 +117,7 @@
     },
     "weather": {
       "source": "Weather",
-      "fetchTime": "2026-05-14T10:14:21+08:00",
+      "fetchTime": "2026-05-14T10:44:03+08:00",
       "location": "Kunming",
       "current": {
         "date": "2026-05-14",
@@ -158,31 +158,31 @@
     },
     "bilibiliHot": {
       "source": "Bilibili",
-      "fetchTime": "2026-05-14T10:14:21+08:00",
+      "fetchTime": "2026-05-14T10:44:03+08:00",
       "highlights": [
         {
-          "title": "🔥特朗普访华欢迎仪式爆发登顶",
-          "description": "1512万! 从抵京话题升级为欢迎仪式",
+          "title": "陛下何故谋反回归B站Top20",
+          "description": "944.2万从#22回到#20",
+          "url": "https://www.bilibili.com/video/av116546085061974/"
+        },
+        {
+          "title": "特朗普访华欢迎仪式1512万稳居微博#1",
+          "description": "空军一号轰鸣而过246万#2",
           "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AE%BF%E5%8D%8E%E6%AC%A2%E8%BF%8E%E4%BB%AA%E5%BC%8F"
         },
         {
-          "title": "天舟十号冲至微博#3",
-          "description": "164万(翻倍增长)",
-          "url": "https://s.weibo.com/weibo?q=%E5%A4%A9%E8%88%9F%E5%8D%81%E5%8F%B7%E8%B4%A7%E8%BF%90%E9%A3%9E%E8%88%B9%E5%8F%91%E5%B0%84%E4%BB%BB%E5%8A%A1%E5%85%A8%E5%9B%9E%E9%A1%BE"
-        },
-        {
-          "title": "天气大变化！17°C/72%/UV3",
-          "description": "气温+3度/湿度-16/气压+2/UV指数3",
-          "url": "https://wttr.in/Kunming"
+          "title": "3台高速机VS刘谦540.2万领跑B站",
+          "description": "持续霸榜",
+          "url": "https://www.bilibili.com/video/av116554742109232/"
         }
       ],
       "popularContent": [
+        "3台高速机VS刘谦",
+        "中美会面前",
+        "数学家老田",
         "特朗普访华欢迎仪式",
         "空军一号轰鸣",
-        "3台高速机VS刘谦",
-        "天舟十号",
-        "地牢酒馆",
-        "英伟达超德国GDP"
+        "陛下何故谋反"
       ]
     }
   }
