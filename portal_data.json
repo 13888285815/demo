@@ -1,193 +1,37 @@
 {
-  "updateTime": "2026-05-15T14:10:15+08:00",
-  "dataSource": {
-    "cctvNews": {
-      "source": "CCTV",
-      "fetchTime": "2026-05-15T14:10:15+08:00",
-      "topStories": [
-        {
-          "title": "明天起国内航线燃油附加费上调",
-          "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml"
-        },
-        {
-          "title": "一季度职工基本医保缴费收入5981亿元",
-          "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml"
-        },
-        {
-          "title": "老年旅客淡季优惠火车票开售",
-          "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml"
-        },
-        {
-          "title": "中美元首举行会谈 构建建设性战略稳定关系",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4"
-        },
-        {
-          "title": "中美元首达成一系列新共识",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%BE%BE%E6%88%90%E4%B8%80%E7%B3%BB%E5%88%97%E6%96%B0%E5%85%B1%E8%AF%86"
-        }
-      ]
-    },
-    "weiboHot": {
-      "source": "Weibo Hot",
-      "fetchTime": "2026-05-15T14:10:15+08:00",
-      "hotList": [
-        {
-          "rank": 1,
-          "keyword": "中美领导人小范围会晤",
-          "heat": 1240000,
-          "tag": ""
-        },
-        {
-          "rank": 2,
-          "keyword": "iPhone18",
-          "heat": 1230000,
-          "tag": ""
-        },
-        {
-          "rank": 3,
-          "keyword": "天坛里的对称之美",
-          "heat": 1220000,
-          "tag": ""
-        },
-        {
-          "rank": 4,
-          "keyword": "王力宏腾势汽车品牌全球代言人",
-          "heat": 1210000,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "keyword": "特朗普抵达中南海",
-          "heat": 1210000,
-          "tag": ""
-        },
-        {
-          "rank": 6,
-          "keyword": "新来的同事脑子就是好使",
-          "heat": 1200000,
-          "tag": ""
-        },
-        {
-          "rank": 7,
-          "keyword": "支付宝正寻求警方帮助",
-          "heat": 1190000,
-          "tag": ""
-        },
-        {
-          "rank": 8,
-          "keyword": "方媛说我不喜欢坐旁边",
-          "heat": 1190000,
-          "tag": ""
-        },
-        {
-          "rank": 9,
-          "keyword": "头一次见老胞胎",
-          "heat": 1040000,
-          "tag": ""
-        },
-        {
-          "rank": 10,
-          "keyword": "原来这么多人拒绝过浪姐",
-          "heat": 630000,
-          "tag": ""
-        },
-        {
-          "rank": 11,
-          "keyword": "国际足联报价腰斩",
-          "heat": 390000,
-          "tag": ""
-        },
-        {
-          "rank": 12,
-          "keyword": "老人捡破烂攒6万买床垫与儿子反目",
-          "heat": 390000,
-          "tag": ""
-        },
-        {
-          "rank": 13,
-          "keyword": "毛利兰声优去世",
-          "heat": 390000,
-          "tag": ""
-        },
-        {
-          "rank": 14,
-          "keyword": "李纯哄马頔看呆张豆豆",
-          "heat": 390000,
-          "tag": ""
-        },
-        {
-          "rank": 15,
-          "keyword": "iPhone17官宣降价",
-          "heat": 390000,
-          "tag": ""
-        }
-      ]
-    },
+  "updateTime": "2026-05-15T14:35:00+08:00",
+  "data": {
+    "cctv": [
+      {"title": "明天起国内航线燃油附加费上调", "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml"},
+      {"title": "一季度职工基本医保缴费收入5981亿元", "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml"},
+      {"title": "老年旅客淡季优惠火车票开售", "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml"},
+      {"title": "利比亚发生大规模球迷骚乱 总理府遭纵火", "url": "https://news.cctv.com/2026/05/15/ARTIbrYjHDpMdVXq12wwA3HJ260515.shtml"}
+    ],
+    "weibo": [
+      {"rank": 1, "keyword": "奔跑吧打假", "heat": 1610000, "hot": true},
+      {"rank": 2, "keyword": "世乒赛男团澳大利亚变阵", "heat": 1420000, "hot": true},
+      {"rank": 3, "keyword": "广交会彰显中国制造硬核实力", "heat": 1390000, "hot": true},
+      {"rank": 4, "keyword": "你好星期六没有给张婧仪道歉", "heat": 1390000, "hot": true},
+      {"rank": 5, "keyword": "小猫还原自己摔伤过程", "heat": 1380000, "hot": true},
+      {"rank": 6, "keyword": "好多人给谢娜送花篮", "heat": 1330000, "hot": true},
+      {"rank": 7, "keyword": "长沙市委市政府致歉", "heat": 1140000, "hot": true},
+      {"rank": 8, "keyword": "第五人格年度发布会", "heat": 910000, "hot": false},
+      {"rank": 9, "keyword": "浏阳烟花厂爆炸致26死61伤", "heat": 810000, "hot": false},
+      {"rank": 10, "keyword": "以为低糖低油其实长肉的食物", "heat": 780000, "hot": false}
+    ],
+    "bilibili": [
+      {"title": "旧说唱乐队第三弹巅峰之作", "author": "高卫钧", "view": "168万"},
+      {"title": "数学家老田，已上线！！", "author": "田一名sir", "view": "401万"},
+      {"title": ""我一定会找到完美时间线的"", "author": "寅山", "view": "277万"},
+      {"title": "地牢酒馆-05集 《海族少女与血族的请求》", "author": "粘土工厂", "view": "217万"},
+      {"title": "3台高速机VS刘谦手速！谁更胜一筹？", "author": "未知", "view": "598万"}
+    ],
     "weather": {
-      "source": "Weather",
-      "fetchTime": "2026-05-15T14:10:15+08:00",
-      "location": "Kunming",
-      "current": {
-        "date": "2026-05-15",
-        "dayOfWeek": "Fri",
-        "weather": "Sunny",
-        "tempHigh": "28",
-        "tempLow": "16",
-        "wind": "SW",
-        "windLevel": "3",
-        "humidity": "50",
-        "sunrise": "05:25",
-        "sunset": "18:46"
-      },
-      "forecast": [
-        {
-          "date": "2026-05-16",
-          "day": "Sat",
-          "weather": "Partly Cloudy",
-          "high": "26",
-          "low": "15",
-          "wind": "SW"
-        }
-      ],
-      "alerts": [
-        {
-          "type": "UV Alert",
-          "content": "UV index 13 (extreme). Sun protection recommended."
-        }
-      ]
-    },
-    "bilibiliHot": {
-      "source": "Bilibili",
-      "fetchTime": "2026-05-15T14:10:15+08:00",
-      "highlights": [
-        {
-          "title": "中美会面前，双方如何出招？",
-          "description": "中美元首会谈前各方分析",
-          "url": "https://www.bilibili.com/video/av116556000401085/"
-        },
-        {
-          "title": "宇树发布GD01载人变形机甲",
-          "description": "390万元起，B站热门科技视频",
-          "url": "https://www.bilibili.com/video/av116559624278509/"
-        },
-        {
-          "title": "数学家老田已上线",
-          "description": "B站全站日榜第2名",
-          "url": "https://www.bilibili.com/video/av116559775271101/"
-        }
-      ],
-      "popularContent": [
-        "3台高速机VS刘谦手速",
-        "数学家老田",
-        "中美会面前双方出招",
-        "宇树GD01载人机甲",
-        "没有剑的进来",
-        "我一定会找到完美时间线",
-        "你讹他啊",
-        "原神尼可角色PV",
-        "色彩原理调色教程",
-        "点进来看答辩"
-      ]
+      "city": "北京",
+      "weather": "阴",
+      "temp": "23°C",
+      "humidity": "69%",
+      "wind": "南风 10km/h"
     }
   }
 }

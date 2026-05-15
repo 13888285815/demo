@@ -1,42 +1,18 @@
 {
-  "update_time": "2026-05-15T14:10:15+08:00",
-  "source": "wttr.in",
-  "location": "Kunming",
+  "update_time": "2026-05-15T14:35:00+08:00",
+  "city": "北京",
   "current": {
-    "tempC": 22,
-    "feelsLikeC": 24,
-    "condition": "Sunny",
-    "humidity": "50%",
-    "windSpeedKmph": 14,
-    "windDirection": "SW",
-    "pressure": "1018 mb",
-    "visibility": "10 km",
-    "uvIndex": "13",
-    "cloudcover": "25%",
-    "observation_time": "2026-05-15 12:40"
+    "temp": "23°C",
+    "feels_like": "24°C",
+    "weather": "阴",
+    "humidity": "69%",
+    "wind": "南风 10km/h",
+    "visibility": "6km"
   },
-  "astronomy": {
-    "sunrise": "05:25",
-    "sunset": "18:46",
-    "moonrise": "03:46",
-    "moonset": "17:13",
-    "moon_phase": "Waning Crescent"
-  },
-  "forecast": [
-    {
-      "date": "05-15",
-      "week": "Fri",
-      "weather": "Sunny",
-      "high": "28",
-      "low": "16"
-    },
-    {
-      "date": "05-16",
-      "week": "Sat",
-      "weather": "Partly Cloudy",
-      "high": "26",
-      "low": "15"
-    }
-  ],
-  "alert": "Sunny. 22°C feels like 24°C. UV index 13 (extreme)."
+  "forecast": {
+    "date": "2026-05-15",
+    "sunrise": "05:00",
+    "sunset": "19:23",
+    "avg_temp": "27°C"
+  }
 }

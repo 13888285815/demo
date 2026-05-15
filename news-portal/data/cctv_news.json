@@ -1,42 +1,30 @@
-[
-  {
-    "title": "假期首日 高速新能源车充电量创新高",
-    "url": "https://tv.cctv.com/2026/05/03/VIDEZerjTM4txIruoUA7nVBu260503.shtml",
-    "time": "2026-05-03"
-  },
-  {
-    "title": "南方降雨范围缩减 局地需防范强对流天气",
-    "url": "https://tv.cctv.com/2026/05/03/VIDElhcd5G8pT7gmxqL4Xnng260503.shtml",
-    "time": "2026-05-03"
-  },
-  {
-    "title": "美国威胁制裁向伊朗缴通行费的航运企业",
-    "url": "https://tv.cctv.com/2026/05/03/VIDEYI8oRpo50jA8K5iYw1lc260503.shtml",
-    "time": "2026-05-03"
-  },
-  {
-    "title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变",
-    "url": "https://news.cctv.com/",
-    "time": "2026-05-03"
-  },
-  {
-    "title": "山东舰辽宁舰双航母编队强硬回击外军舰机抵近侦察",
-    "url": "https://news.cctv.com/",
-    "time": "2026-05-03"
-  },
-  {
-    "title": "多个大国工程假期持续刷新进度条 推动高质量发展",
-    "url": "https://news.cctv.com/",
-    "time": "2026-05-03"
-  },
-  {
-    "title": "全国铁路五一假期首日预计发送旅客2480万人次",
-    "url": "https://news.cctv.com/",
-    "time": "2026-05-03"
-  },
-  {
-    "title": "亚洲最长地铁环线一期开通运营",
-    "url": "https://news.cctv.com/",
-    "time": "2026-05-03"
-  }
-]
+{
+  "update_time": "2026-05-15T14:35:00+08:00",
+  "source": "https://news.cctv.com/",
+  "news": [
+    {
+      "title": "明天起国内航线燃油附加费上调",
+      "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
+      "date": "2026-05-15",
+      "summary": "国内航线燃油附加费将于明日上调。"
+    },
+    {
+      "title": "一季度职工基本医保缴费收入5981亿元",
+      "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
+      "date": "2026-05-15",
+      "summary": "一季度职工基本医保缴费收入达5981亿元。"
+    },
+    {
+      "title": "老年旅客淡季优惠火车票开售",
+      "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
+      "date": "2026-05-15",
+      "summary": "老年旅客淡季优惠火车票已开始发售。"
+    },
+    {
+      "title": "利比亚发生大规模球迷骚乱 总理府遭纵火",
+      "url": "https://news.cctv.com/2026/05/15/ARTIbrYjHDpMdVXq12wwA3HJ260515.shtml",
+      "date": "2026-05-15",
+      "summary": "据利比亚方面14日消息，利首都的黎波里附近当晚发生大规模球迷骚乱，利总理府部分建筑遭纵火。"
+    }
+  ]
+}

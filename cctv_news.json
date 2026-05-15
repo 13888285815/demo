@@ -1,5 +1,5 @@
 {
-  "update_time": "2026-05-15T14:10:15+08:00",
+  "update_time": "2026-05-15T14:35:00+08:00",
   "source": "https://news.cctv.com/",
   "news": [
     {
@@ -21,16 +21,10 @@
       "summary": "老年旅客淡季优惠火车票已开始发售。"
     },
     {
-      "title": "中美元首举行会谈 构建建设性战略稳定关系",
-      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4",
+      "title": "利比亚发生大规模球迷骚乱 总理府遭纵火",
+      "url": "https://news.cctv.com/2026/05/15/ARTIbrYjHDpMdVXq12wwA3HJ260515.shtml",
       "date": "2026-05-15",
-      "summary": "中美元首举行小范围会晤，双方将构建中美建设性战略稳定关系。"
-    },
-    {
-      "title": "中美元首达成一系列新共识",
-      "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%BE%BE%E6%88%90%E4%B8%80%E7%B3%BB%E5%88%97%E6%96%B0%E5%85%B1%E8%AF%86",
-      "date": "2026-05-15",
-      "summary": "中美元首在会谈中达成一系列新的共识。"
+      "summary": "据利比亚方面14日消息，利首都的黎波里附近当晚发生大规模球迷骚乱，利总理府部分建筑遭纵火。"
     }
   ]
 }

@@ -1,92 +1,16 @@
-[
-  {
-    "rank": 1,
-    "keyword": "湖南广电 AI播新闻",
-    "hot": "新",
-    "heat": 1128586
-  },
-  {
-    "rank": 2,
-    "keyword": "上科大39岁教授营救至亲溺水去世",
-    "hot": "",
-    "heat": 830757
-  },
-  {
-    "rank": 3,
-    "keyword": "这个五一假期惠民福利停不下来",
-    "hot": "新",
-    "heat": 663509
-  },
-  {
-    "rank": 4,
-    "keyword": "白鹿被孟子义说挂相",
-    "hot": "热",
-    "heat": 650490
-  },
-  {
-    "rank": 5,
-    "keyword": "把自己当成糖尿病人来吃饭",
-    "hot": "",
-    "heat": 610735
-  },
-  {
-    "rank": 6,
-    "keyword": "孙俪 我们家的狗装死把邓超吓晕了",
-    "hot": "",
-    "heat": 565885
-  },
-  {
-    "rank": 7,
-    "keyword": "大睡特睡 修复前额叶",
-    "hot": "",
-    "heat": 480989
-  },
-  {
-    "rank": 8,
-    "keyword": "河南蒜苔 再说原地址给你补五十斤",
-    "hot": "",
-    "heat": 399543
-  },
-  {
-    "rank": 9,
-    "keyword": "马龙许昕出发伦敦",
-    "hot": "新",
-    "heat": 390500
-  },
-  {
-    "rank": 10,
-    "keyword": "榴莲价格",
-    "hot": "",
-    "heat": 338099
-  },
-  {
-    "rank": 11,
-    "keyword": "严浩翔 爱一个人需要另一个人",
-    "hot": "",
-    "heat": 337997
-  },
-  {
-    "rank": 12,
-    "keyword": "吴彦祖妻子宣布复出",
-    "hot": "新",
-    "heat": 337734
-  },
-  {
-    "rank": 13,
-    "keyword": "男子养了11年的3个孩子2个非亲生",
-    "hot": "",
-    "heat": 337573
-  },
-  {
-    "rank": 14,
-    "keyword": "李小冉你是真火了",
-    "hot": "新",
-    "heat": 337522
-  },
-  {
-    "rank": 15,
-    "keyword": "姜十七回应整容",
-    "hot": "",
-    "heat": 337352
-  }
-]
+{
+  "update_time": "2026-05-15T14:35:00+08:00",
+  "source": "微博热搜",
+  "hotList": [
+    {"rank": 1, "keyword": "奔跑吧打假", "heat": 1610000, "hot": true},
+    {"rank": 2, "keyword": "世乒赛男团澳大利亚变阵", "heat": 1420000, "hot": true},
+    {"rank": 3, "keyword": "广交会彰显中国制造硬核实力", "heat": 1390000, "hot": true},
+    {"rank": 4, "keyword": "你好星期六没有给张婧仪道歉", "heat": 1390000, "hot": true},
+    {"rank": 5, "keyword": "小猫还原自己摔伤过程", "heat": 1380000, "hot": true},
+    {"rank": 6, "keyword": "好多人给谢娜送花篮", "heat": 1330000, "hot": true},
+    {"rank": 7, "keyword": "长沙市委市政府致歉", "heat": 1140000, "hot": true},
+    {"rank": 8, "keyword": "第五人格年度发布会", "heat": 910000, "hot": false},
+    {"rank": 9, "keyword": "浏阳烟花厂爆炸致26死61伤", "heat": 810000, "hot": false},
+    {"rank": 10, "keyword": "以为低糖低油其实长肉的食物", "heat": 780000, "hot": false}
+  ]
+}

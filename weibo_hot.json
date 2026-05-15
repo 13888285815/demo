@@ -1,126 +1,16 @@
 {
-  "update_time": "2026-05-15T14:10:15+08:00",
-  "source": "tophub.today 微博热搜",
+  "update_time": "2026-05-15T14:35:00+08:00",
+  "source": "微博热搜",
   "hotList": [
-    {
-      "rank": 1,
-      "keyword": "中美领导人小范围会晤",
-      "heat": 1240000,
-      "tag": ""
-    },
-    {
-      "rank": 2,
-      "keyword": "iPhone18",
-      "heat": 1230000,
-      "tag": ""
-    },
-    {
-      "rank": 3,
-      "keyword": "天坛里的对称之美",
-      "heat": 1220000,
-      "tag": ""
-    },
-    {
-      "rank": 4,
-      "keyword": "王力宏腾势汽车品牌全球代言人",
-      "heat": 1210000,
-      "tag": ""
-    },
-    {
-      "rank": 5,
-      "keyword": "特朗普抵达中南海",
-      "heat": 1210000,
-      "tag": ""
-    },
-    {
-      "rank": 6,
-      "keyword": "新来的同事脑子就是好使",
-      "heat": 1200000,
-      "tag": ""
-    },
-    {
-      "rank": 7,
-      "keyword": "支付宝正寻求警方帮助",
-      "heat": 1190000,
-      "tag": ""
-    },
-    {
-      "rank": 8,
-      "keyword": "方媛说我不喜欢坐旁边",
-      "heat": 1190000,
-      "tag": ""
-    },
-    {
-      "rank": 9,
-      "keyword": "头一次见老胞胎",
-      "heat": 1040000,
-      "tag": ""
-    },
-    {
-      "rank": 10,
-      "keyword": "原来这么多人拒绝过浪姐",
-      "heat": 630000,
-      "tag": ""
-    },
-    {
-      "rank": 11,
-      "keyword": "国际足联报价腰斩",
-      "heat": 390000,
-      "tag": ""
-    },
-    {
-      "rank": 12,
-      "keyword": "老人捡破烂攒6万买床垫与儿子反目",
-      "heat": 390000,
-      "tag": ""
-    },
-    {
-      "rank": 13,
-      "keyword": "毛利兰声优去世",
-      "heat": 390000,
-      "tag": ""
-    },
-    {
-      "rank": 14,
-      "keyword": "李纯哄马頔看呆张豆豆",
-      "heat": 390000,
-      "tag": ""
-    },
-    {
-      "rank": 15,
-      "keyword": "iPhone17官宣降价",
-      "heat": 390000,
-      "tag": ""
-    },
-    {
-      "rank": 16,
-      "keyword": "何猷君奚梦瑶和保镖同桌吃饭",
-      "heat": 380000,
-      "tag": ""
-    },
-    {
-      "rank": 17,
-      "keyword": "浪姐 遛观众",
-      "heat": 380000,
-      "tag": ""
-    },
-    {
-      "rank": 18,
-      "keyword": "中美元首达成一系列新共识",
-      "heat": 380000,
-      "tag": "热"
-    },
-    {
-      "rank": 19,
-      "keyword": "乘风师姐帮唱小考",
-      "heat": 380000,
-      "tag": ""
-    },
-    {
-      "rank": 20,
-      "keyword": "日文网帖竟炫耀在印尼嫖宿幼女",
-      "heat": 380000,
-      "tag": ""
-    }
+    {"rank": 1, "keyword": "奔跑吧打假", "heat": 1610000, "hot": true},
+    {"rank": 2, "keyword": "世乒赛男团澳大利亚变阵", "heat": 1420000, "hot": true},
+    {"rank": 3, "keyword": "广交会彰显中国制造硬核实力", "heat": 1390000, "hot": true},
+    {"rank": 4, "keyword": "你好星期六没有给张婧仪道歉", "heat": 1390000, "hot": true},
+    {"rank": 5, "keyword": "小猫还原自己摔伤过程", "heat": 1380000, "hot": true},
+    {"rank": 6, "keyword": "好多人给谢娜送花篮", "heat": 1330000, "hot": true},
+    {"rank": 7, "keyword": "长沙市委市政府致歉", "heat": 1140000, "hot": true},
+    {"rank": 8, "keyword": "第五人格年度发布会", "heat": 910000, "hot": false},
+    {"rank": 9, "keyword": "浏阳烟花厂爆炸致26死61伤", "heat": 810000, "hot": false},
+    {"rank": 10, "keyword": "以为低糖低油其实长肉的食物", "heat": 780000, "hot": false}
   ]
 }
