@@ -1,27 +1,33 @@
 {
   "city": "北京",
-  "date": "2026-05-05",
-  "week": "周二",
+  "date": "2026-05-15",
+  "week": "周五",
   "weather": "Sunny",
   "weather_cn": "晴",
   "temp_high": "34",
-  "temp_low": "17",
-  "current_temp": "29",
-  "humidity": "37",
-  "wind": "27km/h SSW",
-  "wind_cn": "南南西风 27km/h",
-  "sunrise": "05:11 AM",
-  "sunset": "07:13 PM",
+  "temp_low": "20",
+  "current_temp": "20",
+  "humidity": "73",
+  "wind": "9km/h E",
+  "wind_cn": "东风 9km/h",
+  "sunrise": "05:00 AM",
+  "sunset": "07:23 PM",
   "forecast": [
     {
-      "date": "2026-05-06",
-      "week": "周三",
-      "weather": "Partly cloudy",
-      "weather_cn": "多云",
-      "temp_high": "31",
-      "temp_low": "18",
-      "wind": "19km/h SW",
-      "wind_cn": "西南风 19km/h"
+      "date": "2026-05-15",
+      "week": "周五",
+      "weather": "Sunny",
+      "weather_cn": "晴",
+      "temp_high": "34",
+      "temp_low": "20"
+    },
+    {
+      "date": "2026-05-16",
+      "week": "周六",
+      "weather": "Sunny",
+      "weather_cn": "晴",
+      "temp_high": "25",
+      "temp_low": "9"
     }
   ]
 }
