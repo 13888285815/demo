@@ -1,46 +1,8 @@
 {
-  "update_time": "2026-05-15T14:35:00+08:00",
-  "source": "哔哩哔哩全站日榜",
-  "hotList": [
-    {
-      "rank": 1,
-      "title": "旧说唱乐队第三弹巅峰之作",
-      "author": "高卫钧",
-      "url": "https://www.bilibili.com/video/BV1fW5M6fEBw",
-      "view": 1685192,
-      "like": 267502
-    },
-    {
-      "rank": 2,
-      "title": "数学家老田，已上线！！",
-      "author": "田一名sir",
-      "url": "https://www.bilibili.com/video/BV1Rm5N61Epp",
-      "view": 4015446,
-      "like": 318463
-    },
-    {
-      "rank": 3,
-      "title": "我一定会找到完美时间线的",
-      "author": "寅山",
-      "url": "https://www.bilibili.com/video/BV1sC516rEPd",
-      "view": 2775989,
-      "like": 232810
-    },
-    {
-      "rank": 4,
-      "title": "地牢酒馆-05集 《海族少女与血族的请求》",
-      "author": "粘土工厂",
-      "url": "https://www.bilibili.com/video/BV1zq5565Ec3",
-      "view": 2179358,
-      "like": 214546
-    },
-    {
-      "rank": 5,
-      "title": "3台高速机VS刘谦手速！谁更胜一筹？",
-      "author": "未知",
-      "url": "https://www.bilibili.com/video/av116554742109232/",
-      "view": 5986000,
-      "like": 0
-    }
+  "updateTime": "2026-05-15T16:05:00+08:00",
+  "list": [
+    {"rank": 1, "title": "6月5日公测开启 | 《夜幕之下（代号砰砰）》定档PV首发！", "view": 1103966, "link": "https://b23.tv/BV1LE516ZEqd", "author": "夜幕之下_代号砰砰"},
+    {"rank": 2, "title": "我伟大的甲方，又来指导技术教学了", "view": 464490, "link": "https://b23.tv/BV1fM5R6xEDQ", "author": "老头们的快乐生活"},
+    {"rank": 3, "title": "同频Melody【BDF2026主题曲】", "view": 1889055, "link": "https://b23.tv/BV138516nEof", "author": "舞蹈区小锦鲤"}
   ]
 }

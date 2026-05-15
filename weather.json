@@ -1,18 +1,9 @@
 {
-  "update_time": "2026-05-15T14:35:00+08:00",
+  "updateTime": "2026-05-15T16:05:00+08:00",
   "city": "北京",
-  "current": {
-    "temp": "23°C",
-    "feels_like": "24°C",
-    "weather": "阴",
-    "humidity": "69%",
-    "wind": "南风 10km/h",
-    "visibility": "6km"
-  },
-  "forecast": {
-    "date": "2026-05-15",
-    "sunrise": "05:00",
-    "sunset": "19:23",
-    "avg_temp": "27°C"
-  }
+  "temperature": 31.8,
+  "humidity": 42,
+  "weatherCode": 3,
+  "weatherDesc": "多云",
+  "windSpeed": 13.5
 }
