@@ -1,188 +1,41 @@
 {
-  "updateTime": "2026-05-15T07:36:52+08:00",
-  "dataSource": {
-    "cctvNews": {
-      "source": "CCTV",
-      "fetchTime": "2026-05-15T07:36:52+08:00",
-      "topStories": [
-        {
-          "title": "巴拉圭总统窜台 外交部：坚决反对 强烈谴责巴方有关行径",
-          "url": "https://tv.cctv.com/2026/05/12/VIDEhqEIplmfWMLxE21yVRyx260512.shtml"
-        },
-        {
-          "title": "中国人民银行：适度宽松的货币政策效果持续显现",
-          "url": "https://tv.cctv.com/2026/05/12/VIDEATozrKi2vWSjQL6RPcrR260512.shtml"
-        },
-        {
-          "title": "汉坦病毒是什么？何为安第斯病毒？",
-          "url": "https://tv.cctv.com/2026/05/12/VIDEPe9j5qh1j8yIC8MPCvWr260512.shtml"
-        }
-      ]
-    },
-    "weiboHot": {
-      "source": "Weibo Hot",
-      "fetchTime": "2026-05-15T07:36:52+08:00",
-      "hotList": [
-        {
-          "rank": 1,
-          "keyword": "中美领导人致辞",
-          "heat": 200000,
-          "tag": ""
-        },
-        {
-          "rank": 2,
-          "keyword": "国家反诈中心APP 检测AI图",
-          "heat": 170000,
-          "tag": ""
-        },
-        {
-          "rank": 3,
-          "keyword": "天坛里的中国古建智慧",
-          "heat": 120000,
-          "tag": ""
-        },
-        {
-          "rank": 4,
-          "keyword": "来杯甄稀 放空一下",
-          "heat": 120000,
-          "tag": ""
-        },
-        {
-          "rank": 5,
-          "keyword": "方媛坚持要住男生单人间",
-          "heat": 120000,
-          "tag": ""
-        },
-        {
-          "rank": 6,
-          "keyword": "疑似周也对戛纳火力全开",
-          "heat": 110000,
-          "tag": ""
-        },
-        {
-          "rank": 7,
-          "keyword": "有的猫一看面相就老实巴交",
-          "heat": 90000,
-          "tag": ""
-        },
-        {
-          "rank": 8,
-          "keyword": "专家辟谣0糖0脂等于无糖无脂肪",
-          "heat": 90000,
-          "tag": ""
-        },
-        {
-          "rank": 9,
-          "keyword": "特朗普访华欢迎宴会",
-          "heat": 80000,
-          "tag": ""
-        },
-        {
-          "rank": 10,
-          "keyword": "想减肥可以去KTV吃饭",
-          "heat": 50000,
-          "tag": ""
-        },
-        {
-          "rank": 11,
-          "keyword": "泰兰尼斯被曝千元童鞋成本",
-          "heat": 0,
-          "tag": ""
-        },
-        {
-          "rank": 12,
-          "keyword": "这些美方代表在中美元首会谈会场",
-          "heat": 0,
-          "tag": ""
-        },
-        {
-          "rank": 13,
-          "keyword": "618上天猫抢华为大额券再叠补贴",
-          "heat": 0,
-          "tag": ""
-        },
-        {
-          "rank": 14,
-          "keyword": "中美元首在祈年殿广场合影",
-          "heat": 0,
-          "tag": ""
-        },
-        {
-          "rank": 15,
-          "keyword": "腾讯成立800人团队适配鸿蒙",
-          "heat": 0,
-          "tag": ""
-        }
-      ]
-    },
+  "updateTime": "2026-05-15T03:35:00",
+  "data": {
+    "cctv": [
+      {"title": "2026年夏粮旺季收购5月下旬全面展开", "url": "https://tv.cctv.com/2026/05/15/VIDEJIJqQ0CiE3RPKdcRvWQJ260515.shtml"},
+      {"title": "\"十五五\"时期 长三角及周边建成超3200公里天然气管道", "url": "https://tv.cctv.com/2026/05/15/VIDEeQtpPSg2ouuRHLVZdpf8260515.shtml"},
+      {"title": "浙江台州：数智化模式赋能家庭教育", "url": "https://tv.cctv.com/2026/05/15/VIDE1hxNw3cQ1ZvonBtt9Kgg260515.shtml"},
+      {"title": "中美元首北京会晤", "url": "https://news.cctv.com/"},
+      {"title": "新闻联播", "url": "https://tv.cctv.com/lm/xwlb/"}
+    ],
+    "weibo": [
+      {"rank": 1, "keyword": "中美元首北京会晤达成重要共识", "heat": 9999999, "hot": true},
+      {"rank": 2, "keyword": "习近平同特朗普在中南海小范围会晤", "heat": 9999998, "hot": true},
+      {"rank": 3, "keyword": "第一现场看中美元首会晤", "heat": 9999997, "hot": true},
+      {"rank": 4, "keyword": "中美元首共同参观为什么选择天坛", "heat": 9999996, "hot": true},
+      {"rank": 5, "keyword": "中国首款打破国外近20年垄断", "heat": 9999995, "hot": true},
+      {"rank": 6, "keyword": "特朗普乘车抵达中南海", "heat": 9999990, "hot": true},
+      {"rank": 7, "keyword": "特朗普：美国中餐馆比五大快餐店还多", "heat": 9999980, "hot": true},
+      {"rank": 8, "keyword": "华为Mate X7直降1000元", "heat": 9999900, "hot": true},
+      {"rank": 9, "keyword": "马斯克回复360度转圈拍摄人民大会堂", "heat": 9999800, "hot": true},
+      {"rank": 10, "keyword": "外交部就特朗普访华情况答问", "heat": 9999700, "hot": true}
+    ],
+    "bilibili": [
+      {"title": "旧说唱乐队第三弹巅峰之作", "desc": "高卫钧日常作品，播放163万"},
+      {"title": "数学家老田，已上线！！", "desc": "田一名sir原创音乐，播放396万"},
+      {"title": "\"我一定会找到完美时间线的\"", "desc": "寅山搞笑视频，播放268万"},
+      {"title": "地牢酒馆-05集《海族少女与血族的请求》", "desc": "粘土工厂游戏动画，播放214万"},
+      {"title": "《原神》尼可角色PV——「缄口的金弦」", "desc": "原神官方，播放215万"}
+    ],
     "weather": {
-      "source": "Weather",
-      "fetchTime": "2026-05-15T07:36:52+08:00",
-      "location": "Kunming",
-      "current": {
-        "date": "2026-05-15",
-        "dayOfWeek": "Fri",
-        "weather": "Sunny",
-        "tempHigh": "28",
-        "tempLow": "16",
-        "wind": "SW",
-        "windLevel": "1",
-        "humidity": "77",
-        "sunrise": "05:26",
-        "sunset": "18:46"
-      },
-      "forecast": [
-        {
-          "date": "2026-05-15",
-          "day": "Fri",
-          "weather": "Sunny",
-          "high": "28",
-          "low": "16",
-          "wind": "SW"
-        },
-        {
-          "date": "2026-05-16",
-          "day": "Sat",
-          "weather": "Partly Cloudy",
-          "high": "26",
-          "low": "15",
-          "wind": "S"
-        }
-      ],
-      "alerts": [
-        {
-          "type": "Morning",
-          "content": "Early morning 15C after cool night. Humidity 77%. Light wind."
-        }
-      ]
-    },
-    "bilibiliHot": {
-      "source": "Bilibili",
-      "fetchTime": "2026-05-15T07:36:52+08:00",
-      "highlights": [
-        {
-          "title": "B站Top3大换血！旧说唱升至#1 数学家老田升至#2",
-          "description": "3台高速机降至#3 地牢酒馆升至#4",
-          "url": "https://www.bilibili.com/video/av116560547088411/"
-        },
-        {
-          "title": "微博热度暴跌！中美领导人致辞296万→20万",
-          "description": "特朗普访华欢迎宴会1784万→8万 几乎退出热搜",
-          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E8%87%B4%E8%BE%9E"
-        },
-        {
-          "title": "早间天气 15C Sunny 湿度77% 气压1016mb",
-          "description": "夜间降温明显 白天最高28C",
-          "url": "https://wttr.in/Kunming"
-        }
-      ],
-      "popularContent": [
-        "旧说唱升至B站#1",
-        "微博热度暴跌",
-        "早间天气15C",
-        "地牢酒馆升至#4",
-        "我一定会找到完美时间线升至#6"
-      ]
+      "city": "北京",
+      "weather": "多云",
+      "temp": "21~27℃",
+      "current_temp": "21℃",
+      "humidity": "50%",
+      "wind": "东风 7km/h",
+      "sunrise": "05:00",
+      "sunset": "19:23"
     }
   }
 }

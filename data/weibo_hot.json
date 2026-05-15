@@ -1,17 +1,12 @@
-{
-  "source": "Weibo",
-  "fetched_at": "2026-05-07T05:09:00Z",
-  "hot_search": [
-    {"rank": 1, "keyword": "乘风2026陶昕然", "heat": 11000000},
-    {"rank": 2, "keyword": "花少恋综", "heat": 8192000},
-    {"rank": 3, "keyword": "特斯拉召回21万辆", "heat": 5784000},
-    {"rank": 4, "keyword": "浪姐赢了被淘汰", "heat": 6503000},
-    {"rank": 5, "keyword": "吉利福特收购", "heat": 5930000},
-    {"rank": 6, "keyword": "谢娜新节目娜就聊姐姐", "heat": 5000000},
-    {"rank": 7, "keyword": "伊朗霍尔木兹海峡", "heat": 4000000},
-    {"rank": 8, "keyword": "湖南烟花爆竹停产整顿", "heat": 3500000},
-    {"rank": 9, "keyword": "比特币突破82000美元", "heat": 3000000},
-    {"rank": 10, "keyword": "小鹏M03智驾失灵", "heat": 2500000}
-  ],
-  "note": "数据已更新"
-}
+[
+  {"rank": 1, "keyword": "中美元首北京会晤达成重要共识", "heat": 9999999, "hot": true},
+  {"rank": 2, "keyword": "习近平同特朗普在中南海小范围会晤", "heat": 9999998, "hot": true},
+  {"rank": 3, "keyword": "第一现场看中美元首会晤", "heat": 9999997, "hot": true},
+  {"rank": 4, "keyword": "中美元首共同参观为什么选择天坛", "heat": 9999996, "hot": true},
+  {"rank": 5, "keyword": "中国首款打破国外近20年垄断", "heat": 9999995, "hot": true},
+  {"rank": 6, "keyword": "特朗普乘车抵达中南海", "heat": 9999990, "hot": true},
+  {"rank": 7, "keyword": "特朗普：美国中餐馆比五大快餐店还多", "heat": 9999980, "hot": true},
+  {"rank": 8, "keyword": "华为Mate X7直降1000元", "heat": 9999900, "hot": true},
+  {"rank": 9, "keyword": "马斯克回复360度转圈拍摄人民大会堂", "heat": 9999800, "hot": true},
+  {"rank": 10, "keyword": "外交部就特朗普访华情况答问", "heat": 9999700, "hot": true}
+]
