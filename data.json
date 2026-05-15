@@ -1,5 +1,5 @@
 {
-  "update_time": "2026/5/15 15:40:29",
+  "update_time": "2026/05/15 17:07:23",
   "data_source": "意念科技新闻门户",
   "sections": {
     "cctv_news": {
@@ -9,90 +9,84 @@
           "title": "明天起国内航线燃油附加费上调",
           "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
           "date": "2026-05-15",
-          "summary": "国内航线燃油附加费将于明日上调。"
+          "summary": "明天起国内航线燃油附加费上调。"
         },
         {
           "title": "一季度职工基本医保缴费收入5981亿元",
           "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
           "date": "2026-05-15",
-          "summary": "一季度职工基本医保缴费收入达5981亿元。"
+          "summary": "一季度职工基本医保缴费收入5981亿元。"
         },
         {
           "title": "老年旅客淡季优惠火车票开售",
           "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
           "date": "2026-05-15",
-          "summary": "老年旅客淡季优惠火车票已开始发售。"
-        },
-        {
-          "title": "利比亚发生大规模球迷骚乱 总理府遭纵火",
-          "url": "https://news.cctv.com/2026/05/15/ARTIbrYjHDpMdVXq12wwA3HJ260515.shtml",
-          "date": "2026-05-15",
-          "summary": "据利比亚方面14日消息，利首都的黎波里附近当晚发生大规模球迷骚乱，利总理府部分建筑遭纵火。"
+          "summary": "老年旅客淡季优惠火车票开售。"
         }
       ]
     },
     "weibo_hot": {
       "title": "微博热搜榜",
-      "update_time": "2026/5/15 15:40:29",
+      "update_time": "2026/05/15 17:07:23",
       "items": [
         {
           "rank": 1,
-          "keyword": "奔跑吧打假",
-          "heat": 1610000,
+          "keyword": "特朗普结束访华",
+          "heat": 4220924,
           "tag": "热"
         },
         {
           "rank": 2,
-          "keyword": "世乒赛男团澳大利亚变阵",
-          "heat": 1420000,
-          "tag": "热"
+          "keyword": "中美元首边走边谈",
+          "heat": 1224110,
+          "tag": ""
         },
         {
           "rank": 3,
-          "keyword": "广交会彰显中国制造硬核实力",
-          "heat": 1390000,
-          "tag": "热"
+          "keyword": "跨越太平洋的握手",
+          "heat": 965666,
+          "tag": ""
         },
         {
           "rank": 4,
-          "keyword": "你好星期六没有给张婧仪道歉",
-          "heat": 1390000,
-          "tag": "热"
+          "keyword": "胡歌点赞方太新一代洗碗机",
+          "heat": 867511,
+          "tag": ""
         },
         {
           "rank": 5,
-          "keyword": "小猫还原自己摔伤过程",
-          "heat": 1380000,
-          "tag": "热"
+          "keyword": "容易紧张是缺乏主体性",
+          "heat": 761176,
+          "tag": ""
         },
         {
           "rank": 6,
-          "keyword": "好多人给谢娜送花篮",
-          "heat": 1330000,
-          "tag": "热"
+          "keyword": "白玉兰评委名单",
+          "heat": 619891,
+          "tag": "新"
         },
         {
           "rank": 7,
-          "keyword": "长沙市委市政府致歉",
-          "heat": 1140000,
-          "tag": "热"
+          "keyword": "曝杨幂杨紫白玉兰二选一提名",
+          "heat": 616397,
+          "tag": ""
         },
         {
           "rank": 8,
-          "keyword": "第五人格年度发布会",
-          "heat": 910000,
+          "keyword": "雨霖铃国剧武侠热血天花板",
+          "heat": 615559,
           "tag": ""
         },
         {
           "rank": 9,
-          "keyword": "浏阳烟花厂爆炸致26死61伤",
-          "heat": 810000,
+          "keyword": "中美元首中南海小范围会晤高清大图",
+          "heat": 614246,
           "tag": ""
         },
         {
           "rank": 10,
-          "keyword": "以为低糖低油其实长肉的食物",
-          "heat": 780000,
+          "keyword": "名侦探柯南",
+          "heat": 605518,
           "tag": ""
         }
       ]
@@ -102,62 +96,81 @@
       "items": [
         {
           "title": "旧说唱乐队第三弹巅峰之作",
-          "desc": "高卫钧作品，播放169万",
+          "desc": "高卫钧作品，播放166万",
           "owner": "高卫钧",
-          "play": 1685192,
-          "url": "https://www.bilibili.com/video/BV1fW5M6fEBw",
-          "date": "2026-05-15"
+          "play": 1664839,
+          "url": "https://www.bilibili.com/video/",
+          "date": "2026/05/15"
+        },
+        {
+          "title": "“我一定会找到完美时间线的”",
+          "desc": "寅山作品，播放274万",
+          "owner": "寅山",
+          "play": 2737835,
+          "url": "https://www.bilibili.com/video/",
+          "date": "2026/05/15"
         },
         {
           "title": "数学家老田，已上线！！",
-          "desc": "田一名sir作品，播放402万",
+          "desc": "田一名sir作品，播放390万",
           "owner": "田一名sir",
-          "play": 4015446,
-          "url": "https://www.bilibili.com/video/BV1Rm5N61Epp",
-          "date": "2026-05-15"
-        },
-        {
-          "title": "我一定会找到完美时间线的",
-          "desc": "寅山作品，播放278万",
-          "owner": "寅山",
-          "play": 2775989,
-          "url": "https://www.bilibili.com/video/BV1sC516rEPd",
-          "date": "2026-05-15"
+          "play": 3900909,
+          "url": "https://www.bilibili.com/video/",
+          "date": "2026/05/15"
         },
         {
           "title": "地牢酒馆-05集 《海族少女与血族的请求》",
-          "desc": "粘土工厂作品，播放218万",
+          "desc": "粘土工厂作品，播放216万",
           "owner": "粘土工厂",
-          "play": 2179358,
-          "url": "https://www.bilibili.com/video/BV1zq5565Ec3",
-          "date": "2026-05-15"
+          "play": 2162971,
+          "url": "https://www.bilibili.com/video/",
+          "date": "2026/05/15"
         },
         {
-          "title": "3台高速机VS刘谦手速！谁更胜一筹？",
-          "desc": "未知作品，播放599万",
-          "owner": "未知",
-          "play": 5986000,
-          "url": "https://www.bilibili.com/video/av116554742109232/",
-          "date": "2026-05-15"
+          "title": "《原神》尼可角色PV——「缄口的金弦」",
+          "desc": "原神作品，播放212万",
+          "owner": "原神",
+          "play": 2116915,
+          "url": "https://www.bilibili.com/video/",
+          "date": "2026/05/15"
         }
       ]
     },
     "weather": {
       "title": "上海天气预报",
       "city": "上海",
-      "date": "2026-05-15",
+      "date": "2026/05/15",
       "week": "周五",
-      "weather": "阴",
-      "weather_cn": "阴",
-      "temp_high": "",
-      "temp_low": "",
-      "current_temp": "23°C",
-      "humidity": "69%",
-      "wind": "南风 10km/h",
-      "wind_cn": "风速 南风 10km/h",
-      "sunrise": "05:00",
-      "sunset": "19:23",
-      "forecast": []
+      "weather": "Sunny",
+      "weather_cn": "Sunny",
+      "temp_high": "25",
+      "temp_low": "19",
+      "current_temp": "24°C",
+      "humidity": "74%",
+      "wind": "22 km/h",
+      "wind_cn": "风速 22 km/h",
+      "sunrise": "",
+      "sunset": "",
+      "forecast": [
+        {
+          "date": "2026-05-15",
+          "max": "25",
+          "min": "19",
+          "weather": "Sunny"
+        },
+        {
+          "date": "2026-05-16",
+          "max": "26",
+          "min": "19",
+          "weather": "Sunny"
+        },
+        {
+          "date": "2026-05-17",
+          "max": "27",
+          "min": "19",
+          "weather": "Sunny"
+        }
+      ]
     }
   }
 }
