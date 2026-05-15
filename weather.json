@@ -1,12 +1,1 @@
-{
-  "updateTime": "2026-05-15T12:06:27",
-  "city": "上海",
-  "weather": "Partly Cloudy (多云)",
-  "temp": "23°C (体感25°C)",
-  "humidity": "73%",
-  "wind": "东南风 22km/h",
-  "uvIndex": 9,
-  "visibility": "10km",
-  "sunrise": "04:58",
-  "sunset": "18:43"
-}
+{"source": "wttr.in", "fetched_at": "2026-05-15T04:35:34Z", "location": "Shanghai", "current": {"temp_C": "23", "weather": "Partly cloudy", "humidity": "73", "wind": "22 km/h"}, "forecast": [{"date": "2026-05-15", "max": "25", "min": "19", "weather": "Sunny"}, {"date": "2026-05-16", "max": "26", "min": "19", "weather": "Sunny"}, {"date": "2026-05-17", "max": "26", "min": "19", "weather": "Sunny"}]}
