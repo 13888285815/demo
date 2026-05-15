@@ -1,18 +1,41 @@
 {
-  "update_time": "2026-05-15T14:35:00+08:00",
-  "city": "北京",
-  "current": {
-    "temp": "23°C",
-    "feels_like": "24°C",
-    "weather": "阴",
-    "humidity": "69%",
-    "wind": "南风 10km/h",
-    "visibility": "6km"
-  },
-  "forecast": {
-    "date": "2026-05-15",
-    "sunrise": "05:00",
-    "sunset": "19:23",
-    "avg_temp": "27°C"
-  }
+  "city": "上海",
+  "date": "2026-05-15",
+  "week": "周五",
+  "weather": "Sunny",
+  "weather_cn": "晴",
+  "temp_high": "25",
+  "temp_low": "19",
+  "current_temp": "24",
+  "humidity": "69",
+  "wind": "23 km/h",
+  "wind_cn": "风速 23 km/h",
+  "sunrise": "05:00 AM",
+  "sunset": "07:23 PM",
+  "forecast": [
+    {
+      "date": "2026-05-15",
+      "week": "周五",
+      "weather": "Sunny",
+      "weather_cn": "晴",
+      "temp_high": "25",
+      "temp_low": "19"
+    },
+    {
+      "date": "2026-05-16",
+      "week": "周六",
+      "weather": "Sunny",
+      "weather_cn": "晴",
+      "temp_high": "26",
+      "temp_low": "19"
+    },
+    {
+      "date": "2026-05-17",
+      "week": "周日",
+      "weather": "Sunny",
+      "weather_cn": "晴",
+      "temp_high": "26",
+      "temp_low": "19"
+    }
+  ]
 }

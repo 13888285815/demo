@@ -1,46 +1,82 @@
-{
-  "update_time": "2026-05-15T14:35:00+08:00",
-  "source": "哔哩哔哩全站日榜",
-  "hotList": [
-    {
-      "rank": 1,
-      "title": "旧说唱乐队第三弹巅峰之作",
-      "author": "高卫钧",
-      "url": "https://www.bilibili.com/video/BV1fW5M6fEBw",
-      "view": 1685192,
-      "like": 267502
-    },
-    {
-      "rank": 2,
-      "title": "数学家老田，已上线！！",
-      "author": "田一名sir",
-      "url": "https://www.bilibili.com/video/BV1Rm5N61Epp",
-      "view": 4015446,
-      "like": 318463
-    },
-    {
-      "rank": 3,
-      "title": ""我一定会找到完美时间线的"",
-      "author": "寅山",
-      "url": "https://www.bilibili.com/video/BV1sC516rEPd",
-      "view": 2775989,
-      "like": 232810
-    },
-    {
-      "rank": 4,
-      "title": "地牢酒馆-05集 《海族少女与血族的请求》",
-      "author": "粘土工厂",
-      "url": "https://www.bilibili.com/video/BV1zq5565Ec3",
-      "view": 2179358,
-      "like": 214546
-    },
-    {
-      "rank": 5,
-      "title": "3台高速机VS刘谦手速！谁更胜一筹？",
-      "author": "未知",
-      "url": "https://www.bilibili.com/video/av116554742109232/",
-      "view": 5986000,
-      "like": 0
-    }
-  ]
-}
+[
+  {
+    "title": "旧说唱乐队第三弹巅峰之作",
+    "desc": "高卫钧的作品",
+    "owner": "高卫钧",
+    "play": 1631543,
+    "url": "https://www.bilibili.com/video/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "数学家老田，已上线！！",
+    "desc": "田一名sir的作品",
+    "owner": "田一名sir",
+    "play": 3901407,
+    "url": "https://www.bilibili.com/video/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "“我一定会找到完美时间线的”",
+    "desc": "寅山的作品",
+    "owner": "寅山",
+    "play": 2706652,
+    "url": "https://www.bilibili.com/video/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "地牢酒馆-05集 《海族少女与血族的请求》",
+    "desc": "粘土工厂的作品",
+    "owner": "粘土工厂",
+    "play": 2142594,
+    "url": "https://www.bilibili.com/video/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "《原神》尼可角色PV——「缄口的金弦」",
+    "desc": "原神的作品",
+    "owner": "原神",
+    "play": 2093404,
+    "url": "https://www.bilibili.com/video/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "色彩原理调色教程",
+    "desc": "七芊摄影的作品",
+    "owner": "七芊摄影",
+    "play": 2243774,
+    "url": "https://www.bilibili.com/video/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "点进来看答辩",
+    "desc": "老番茄的作品",
+    "owner": "老番茄",
+    "play": 2693739,
+    "url": "https://www.bilibili.com/video/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "没有剑的进来",
+    "desc": "王若轻-的作品",
+    "owner": "王若轻-",
+    "play": 3110332,
+    "url": "https://www.bilibili.com/video/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "⚡华强买瓜，但是低音炮⚡",
+    "desc": "快乐阿依的作品",
+    "owner": "快乐阿依",
+    "play": 2203111,
+    "url": "https://www.bilibili.com/video/",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "武将无需多言，带何润东哥自律一天！",
+    "desc": "花小龙oy的作品",
+    "owner": "花小龙oy",
+    "play": 2358366,
+    "url": "https://www.bilibili.com/video/",
+    "date": "2026-05-15"
+  }
+]
