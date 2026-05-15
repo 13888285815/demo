@@ -1,96 +1,56 @@
 {
-  "update_time": "2026-05-15T07:36:52+08:00",
-  "source": "tophub.today 微博热搜",
-  "hotList": [
+  "source": "Weibo AJAX",
+  "fetched_at": "2026-05-15T01:18:25Z",
+  "hot_search": [
     {
       "rank": 1,
-      "keyword": "中美领导人致辞",
-      "heat": 200000,
-      "tag": ""
+      "title": "中美领导人致辞",
+      "hot": ""
     },
     {
       "rank": 2,
-      "keyword": "国家反诈中心APP 检测AI图",
-      "heat": 170000,
-      "tag": ""
+      "title": "特朗普访华欢迎宴会",
+      "hot": ""
     },
     {
       "rank": 3,
-      "keyword": "天坛里的中国古建智慧",
-      "heat": 120000,
-      "tag": ""
+      "title": "天坛里的中国古建智慧",
+      "hot": ""
     },
     {
       "rank": 4,
-      "keyword": "来杯甄稀 放空一下",
-      "heat": 120000,
-      "tag": ""
+      "title": "来杯甄稀 放空一下",
+      "hot": ""
     },
     {
       "rank": 5,
-      "keyword": "方媛坚持要住男生单人间",
-      "heat": 120000,
-      "tag": ""
+      "title": "方媛回应要住男生单人间",
+      "hot": ""
     },
     {
       "rank": 6,
-      "keyword": "疑似周也对戛纳火力全开",
-      "heat": 110000,
-      "tag": ""
+      "title": "iPhone17Pro降价2000",
+      "hot": ""
     },
     {
       "rank": 7,
-      "keyword": "有的猫一看面相就老实巴交",
-      "heat": 90000,
-      "tag": ""
+      "title": "甲状腺结节该吃碘盐还是无碘盐",
+      "hot": ""
     },
     {
       "rank": 8,
-      "keyword": "专家辟谣0糖0脂等于无糖无脂肪",
-      "heat": 90000,
-      "tag": ""
+      "title": "有的猫一看面相就老实巴交",
+      "hot": ""
     },
     {
       "rank": 9,
-      "keyword": "特朗普访华欢迎宴会",
-      "heat": 80000,
-      "tag": ""
+      "title": "法国队公布世界杯26人大名单",
+      "hot": ""
     },
     {
       "rank": 10,
-      "keyword": "想减肥可以去KTV吃饭",
-      "heat": 50000,
-      "tag": ""
-    },
-    {
-      "rank": 11,
-      "keyword": "泰兰尼斯被曝千元童鞋成本",
-      "heat": 0,
-      "tag": ""
-    },
-    {
-      "rank": 12,
-      "keyword": "这些美方代表在中美元首会谈会场",
-      "heat": 0,
-      "tag": ""
-    },
-    {
-      "rank": 13,
-      "keyword": "618上天猫抢华为大额券再叠补贴",
-      "heat": 0,
-      "tag": ""
-    },
-    {
-      "rank": 14,
-      "keyword": "中美元首在祈年殿广场合影",
-      "heat": 0,
-      "tag": ""
-    },
-    {
-      "rank": 15,
-      "keyword": "腾讯成立800人团队适配鸿蒙",
-      "heat": 0,
-      "tag": ""
+      "title": "国家反诈中心APP 检测AI图",
+      "hot": ""
     }
   ]
 }
