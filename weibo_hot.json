@@ -1,56 +1,11 @@
-{
-  "source": "Weibo AJAX",
-  "fetched_at": "2026-05-15T01:18:25Z",
-  "hot_search": [
-    {
-      "rank": 1,
-      "title": "中美领导人致辞",
-      "hot": ""
-    },
-    {
-      "rank": 2,
-      "title": "特朗普访华欢迎宴会",
-      "hot": ""
-    },
-    {
-      "rank": 3,
-      "title": "天坛里的中国古建智慧",
-      "hot": ""
-    },
-    {
-      "rank": 4,
-      "title": "来杯甄稀 放空一下",
-      "hot": ""
-    },
-    {
-      "rank": 5,
-      "title": "方媛回应要住男生单人间",
-      "hot": ""
-    },
-    {
-      "rank": 6,
-      "title": "iPhone17Pro降价2000",
-      "hot": ""
-    },
-    {
-      "rank": 7,
-      "title": "甲状腺结节该吃碘盐还是无碘盐",
-      "hot": ""
-    },
-    {
-      "rank": 8,
-      "title": "有的猫一看面相就老实巴交",
-      "hot": ""
-    },
-    {
-      "rank": 9,
-      "title": "法国队公布世界杯26人大名单",
-      "hot": ""
-    },
-    {
-      "rank": 10,
-      "title": "国家反诈中心APP 检测AI图",
-      "hot": ""
-    }
-  ]
-}
+Traceback (most recent call last):
+  File "<string>", line 3, in <module>
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 293, in load
+    return loads(fp.read(),
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/__init__.py", line 346, in loads
+    return _default_decoder.decode(s)
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/decoder.py", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File "/Applications/Xcode.app/Contents/Developer/Library/Frameworks/Python3.framework/Versions/3.9/lib/python3.9/json/decoder.py", line 355, in raw_decode
+    raise JSONDecodeError("Expecting value", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
