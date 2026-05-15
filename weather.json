@@ -1,9 +1,1 @@
-{
-  "updateTime": "2026-05-15T16:05:00+08:00",
-  "city": "北京",
-  "temperature": 31.8,
-  "humidity": 42,
-  "weatherCode": 3,
-  "weatherDesc": "多云",
-  "windSpeed": 13.5
-}
+{"source": "wttr.in", "fetched_at": "2026-05-15T08:35:36Z", "location": "Shanghai", "current": {"temp_C": "24", "weather": "Sunny", "humidity": "74", "wind": "22 km/h"}, "forecast": [{"date": "2026-05-15", "max": "25", "min": "19", "weather": "Sunny"}, {"date": "2026-05-16", "max": "26", "min": "19", "weather": "Sunny"}, {"date": "2026-05-17", "max": "27", "min": "19", "weather": "Sunny"}]}

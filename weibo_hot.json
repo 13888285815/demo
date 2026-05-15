@@ -1,21 +1,86 @@
-{
-  "updateTime": "2026-05-15T16:05:00+08:00",
-  "list": [
-    {"rank": 1, "keyword": "特朗普结束访华", "heat": 13030000},
-    {"rank": 2, "keyword": "中美元首边走边谈", "heat": 2260000},
-    {"rank": 3, "keyword": "跨越太平洋的握手", "heat": 1760000},
-    {"rank": 4, "keyword": "曝杨幂杨紫白玉兰二选一提名", "heat": 820000},
-    {"rank": 5, "keyword": "原来这么多人拒绝过浪姐", "heat": 550000},
-    {"rank": 6, "keyword": "中美元首中南海小范围会晤高清大图", "heat": 440000},
-    {"rank": 7, "keyword": "今天和苏翊鸣一起玩", "heat": 440000},
-    {"rank": 8, "keyword": "名侦探柯南", "heat": 440000},
-    {"rank": 9, "keyword": "iPhone华为同时降价", "heat": 430000},
-    {"rank": 10, "keyword": "中美领导人小范围会晤", "heat": 430000},
-    {"rank": 11, "keyword": "当我在DeepSeek输入think", "heat": 420000},
-    {"rank": 12, "keyword": "白宫发布中国仪仗队画面", "heat": 400000},
-    {"rank": 13, "keyword": "A股", "heat": 400000},
-    {"rank": 14, "keyword": "特朗普离京", "heat": 380000},
-    {"rank": 15, "keyword": "毛利兰声优去世", "heat": 360000},
-    {"rank": 16, "keyword": "黄金", "heat": 340000}
-  ]
-}
+[
+  {
+    "rank": 1,
+    "keyword": "特朗普结束访华",
+    "hot": "爆",
+    "heat": 7978486
+  },
+  {
+    "rank": 2,
+    "keyword": "中美元首边走边谈",
+    "hot": "",
+    "heat": 1655027
+  },
+  {
+    "rank": 3,
+    "keyword": "跨越太平洋的握手",
+    "hot": "新",
+    "heat": 1272152
+  },
+  {
+    "rank": 4,
+    "keyword": "iPhone华为同时降价",
+    "hot": "新",
+    "heat": 750135
+  },
+  {
+    "rank": 5,
+    "keyword": "曝杨幂杨紫白玉兰二选一提名",
+    "hot": "新",
+    "heat": 698128
+  },
+  {
+    "rank": 6,
+    "keyword": "白玉兰评委名单",
+    "hot": "新",
+    "heat": 500236
+  },
+  {
+    "rank": 7,
+    "keyword": "容易紧张是缺乏主体性",
+    "hot": "新",
+    "heat": 429663
+  },
+  {
+    "rank": 8,
+    "keyword": "原来这么多人拒绝过浪姐",
+    "hot": "",
+    "heat": 387966
+  },
+  {
+    "rank": 9,
+    "keyword": "中美元首中南海小范围会晤高清大图",
+    "hot": "",
+    "heat": 387949
+  },
+  {
+    "rank": 10,
+    "keyword": "名侦探柯南",
+    "hot": "",
+    "heat": 387553
+  },
+  {
+    "rank": 11,
+    "keyword": "阿雅视频抄袭",
+    "hot": "新",
+    "heat": 387293
+  },
+  {
+    "rank": 12,
+    "keyword": "横店的剧组快灭亡了",
+    "hot": "热",
+    "heat": 387168
+  },
+  {
+    "rank": 13,
+    "keyword": "这就是我花一万买iPhone的意义",
+    "hot": "新",
+    "heat": 386731
+  },
+  {
+    "rank": 14,
+    "keyword": "温岚在ICU接受治疗",
+    "hot": "新",
+    "heat": 386481
+  }
+]
