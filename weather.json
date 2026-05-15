@@ -1,24 +1,42 @@
 {
-  "updateTime": "2026-05-15T13:05:00",
-  "city": "北京",
+  "update_time": "2026-05-15T14:08:46+08:00",
+  "source": "wttr.in",
+  "location": "Kunming",
   "current": {
-    "temp": 23,
-    "feelsLike": 24,
-    "condition": "阴天",
-    "humidity": 69,
-    "windDir": "南风",
-    "windSpeed": "10km/h",
-    "pressure": 1016,
-    "uvIndex": 7,
-    "visibility": "6km"
+    "tempC": 22,
+    "feelsLikeC": 24,
+    "condition": "Sunny",
+    "humidity": "50%",
+    "windSpeedKmph": 14,
+    "windDirection": "SW",
+    "pressure": "1018 mb",
+    "visibility": "10 km",
+    "uvIndex": "13",
+    "cloudcover": "25%",
+    "observation_time": "2026-05-15 12:40"
+  },
+  "astronomy": {
+    "sunrise": "05:25",
+    "sunset": "18:46",
+    "moonrise": "03:46",
+    "moonset": "17:13",
+    "moon_phase": "Waning Crescent"
   },
   "forecast": [
-    {"date": "2026-05-15", "day": "今天", "high": 33, "low": 18, "condition": "多云转晴"},
-    {"date": "2026-05-16", "day": "明天", "high": 34, "low": 19, "condition": "晴"},
-    {"date": "2026-05-17", "day": "后天", "high": 28, "low": 16, "condition": "多云"}
+    {
+      "date": "05-15",
+      "week": "Fri",
+      "weather": "Sunny",
+      "high": "28",
+      "low": "16"
+    },
+    {
+      "date": "05-16",
+      "week": "Sat",
+      "weather": "Partly Cloudy",
+      "high": "26",
+      "low": "15"
+    }
   ],
-  "astronomy": {
-    "sunrise": "05:00",
-    "sunset": "19:23"
-  }
+  "alert": "Sunny. 22°C feels like 24°C. Humidity 50%. SW wind 14km/h. UV 13 (extreme)."
 }

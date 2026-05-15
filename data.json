@@ -1,45 +1,225 @@
 {
-    "updateTime": "2026-05-15T13:05:00",
-    "data": {
-        "cctv": [
-            {"title": "中美元首北京会晤", "url": "https://news.cctv.com/", "category": "国际"},
-            {"title": "明天起国内航线燃油附加费上调", "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml", "category": "社会"},
-            {"title": "一季度职工基本医保缴费收入5981亿元", "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml", "category": "财经"},
-            {"title": "老年旅客淡季优惠火车票开售", "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml", "category": "社会"},
-            {"title": "2026年夏粮旺季收购5月下旬全面展开", "url": "https://tv.cctv.com/2026/05/15/VIDEJIJqQ0CiE3RPKdcRvWQJ260515.shtml", "category": "国内"}
-        ],
-        "weibo": [
-            {"rank": 1, "keyword": "中美领导人小范围会晤", "heat": "137万", "hot": true},
-            {"rank": 2, "keyword": "特朗普抵达中南海", "heat": "90万", "hot": true},
-            {"rank": 3, "keyword": "天坛里的对称之美", "heat": "79万", "hot": true},
-            {"rank": 4, "keyword": "618上京东领华为大额券真香", "heat": "78万", "hot": true},
-            {"rank": 5, "keyword": "方媛说我不喜欢坐旁边", "heat": "77万", "hot": false},
-            {"rank": 6, "keyword": "头一次见老胞胎", "heat": "76万", "hot": false},
-            {"rank": 7, "keyword": "中美元首达成一系列新共识", "heat": "73万", "hot": false},
-            {"rank": 8, "keyword": "国际家庭日乐道汽车两周年", "heat": "72万", "hot": false},
-            {"rank": 9, "keyword": "李纯哄马頔看呆张豆豆", "heat": "56万", "hot": false},
-            {"rank": 10, "keyword": "机票燃油附加费明天起上调", "heat": "38万", "hot": false}
-        ],
-        "bilibili": [
-            {"rank": 1, "title": "旧说唱乐队第三弹巅峰之作", "views": "165.5万"},
-            {"rank": 2, "title": "数学家老田，已上线！！", "views": "398.7万"},
-            {"rank": 3, "title": "我一定会找到完美时间线的", "views": "274.0万"},
-            {"rank": 4, "title": "地牢酒馆-05集", "views": "216.0万"},
-            {"rank": 5, "title": "原神尼可角色PV——缄口的金弦", "views": "218.0万"},
-            {"rank": 6, "title": "色彩原理调色教程", "views": "245.5万"},
-            {"rank": 7, "title": "中美会面前，双方如何出招？", "views": "339.6万"},
-            {"rank": 8, "title": "点进来看答辩", "views": "283.3万"},
-            {"rank": 9, "title": "没有剑的进来", "views": "333.0万"},
-            {"rank": 10, "title": "3台高速机VS刘谦手速！谁更胜一筹？", "views": "607.6万"}
-        ],
-        "weather": {
-            "city": "北京",
-            "current": {"temp": 23, "feelsLike": 24, "condition": "阴天", "humidity": 69, "wind": "南风10km/h", "uvIndex": 7},
-            "forecast": [
-                {"day": "今天", "high": 33, "low": 18, "condition": "多云转晴"},
-                {"day": "明天", "high": 34, "low": 19, "condition": "晴"},
-                {"day": "后天", "high": 28, "low": 16, "condition": "多云"}
-            ]
+  "update_time": "2026-05-15T14:08:46+08:00",
+  "data_source": "意念科技新闻门户",
+  "sections": {
+    "cctv_news": {
+      "title": "央视新闻要闻",
+      "items": [
+        {
+          "title": "明天起国内航线燃油附加费上调",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
+          "date": "2026-05-15",
+          "summary": "国内航线燃油附加费将于明日上调。"
+        },
+        {
+          "title": "一季度职工基本医保缴费收入5981亿元",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
+          "date": "2026-05-15",
+          "summary": "一季度职工基本医保缴费收入达5981亿元。"
+        },
+        {
+          "title": "老年旅客淡季优惠火车票开售",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
+          "date": "2026-05-15",
+          "summary": "老年旅客淡季优惠火车票已开始发售。"
+        },
+        {
+          "title": "中美元首举行会谈 构建建设性战略稳定关系",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4",
+          "date": "2026-05-15",
+          "summary": "中美元首举行小范围会晤，双方将构建中美建设性战略稳定关系作为新定位。"
+        },
+        {
+          "title": "中美元首达成一系列新共识",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%BE%BE%E6%88%90%E4%B8%80%E7%B3%BB%E5%88%97%E6%96%B0%E5%85%B1%E8%AF%86",
+          "date": "2026-05-15",
+          "summary": "中美元首在会谈中达成一系列新的共识。"
         }
+      ]
+    },
+    "weibo_hot": {
+      "title": "微博热搜榜",
+      "update_time": "2026-05-15T14:08:46+08:00",
+      "items": [
+        {
+          "rank": 1,
+          "keyword": "中美领导人小范围会晤",
+          "heat": 1240000,
+          "tag": ""
+        },
+        {
+          "rank": 2,
+          "keyword": "iPhone18",
+          "heat": 1230000,
+          "tag": ""
+        },
+        {
+          "rank": 3,
+          "keyword": "天坛里的对称之美",
+          "heat": 1220000,
+          "tag": ""
+        },
+        {
+          "rank": 4,
+          "keyword": "王力宏腾势汽车品牌全球代言人",
+          "heat": 1210000,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "keyword": "特朗普抵达中南海",
+          "heat": 1210000,
+          "tag": ""
+        },
+        {
+          "rank": 6,
+          "keyword": "新来的同事脑子就是好使",
+          "heat": 1200000,
+          "tag": ""
+        },
+        {
+          "rank": 7,
+          "keyword": "支付宝正寻求警方帮助",
+          "heat": 1190000,
+          "tag": ""
+        },
+        {
+          "rank": 8,
+          "keyword": "方媛说我不喜欢坐旁边",
+          "heat": 1190000,
+          "tag": ""
+        },
+        {
+          "rank": 9,
+          "keyword": "头一次见老胞胎",
+          "heat": 1040000,
+          "tag": ""
+        },
+        {
+          "rank": 10,
+          "keyword": "原来这么多人拒绝过浪姐",
+          "heat": 630000,
+          "tag": ""
+        },
+        {
+          "rank": 11,
+          "keyword": "国际足联报价腰斩",
+          "heat": 390000,
+          "tag": ""
+        },
+        {
+          "rank": 12,
+          "keyword": "老人捡破烂攒6万买床垫与儿子反目",
+          "heat": 390000,
+          "tag": ""
+        },
+        {
+          "rank": 13,
+          "keyword": "毛利兰声优去世",
+          "heat": 390000,
+          "tag": ""
+        },
+        {
+          "rank": 14,
+          "keyword": "李纯哄马頔看呆张豆豆",
+          "heat": 390000,
+          "tag": ""
+        },
+        {
+          "rank": 15,
+          "keyword": "iPhone17官宣降价",
+          "heat": 390000,
+          "tag": ""
+        }
+      ]
+    },
+    "bilibili_hot": {
+      "title": "B站热门",
+      "items": [
+        {
+          "title": "旧说唱乐队第三弹巅峰之作",
+          "url": "https://www.bilibili.com/video/av116560547088411/",
+          "heat": 1591000
+        },
+        {
+          "title": "数学家老田，已上线！！",
+          "url": "https://www.bilibili.com/video/av116559775271101/",
+          "heat": 3925000
+        },
+        {
+          "title": "3台高速机VS刘谦手速！谁更胜一筹？",
+          "url": "https://www.bilibili.com/video/av116554742109232/",
+          "heat": 5986000
+        },
+        {
+          "title": "地牢酒馆-05集 《海族少女与血族的请求》",
+          "url": "https://www.bilibili.com/video/av116565060093206/",
+          "heat": 2091000
+        },
+        {
+          "title": "中美会面前，双方如何出招？",
+          "url": "https://www.bilibili.com/video/av116556000401085/",
+          "heat": 3338000
+        },
+        {
+          "title": "我一定会找到完美时间线的",
+          "url": "https://www.bilibili.com/video/av116566704332037/",
+          "heat": 2532000
+        },
+        {
+          "title": "色彩原理调色教程",
+          "url": "https://www.bilibili.com/video/av116550598137589/",
+          "heat": 2404000
+        },
+        {
+          "title": "《原神》尼可角色PV——「缄口的金弦」",
+          "url": "https://www.bilibili.com/video/av116566670709136/",
+          "heat": 2080000
+        },
+        {
+          "title": "没有剑的进来",
+          "url": "https://www.bilibili.com/video/av116549205627108/",
+          "heat": 3293000
+        },
+        {
+          "title": "点进来看答辩",
+          "url": "https://www.bilibili.com/video/av116566637157320/",
+          "heat": 2664000
+        }
+      ]
+    },
+    "weather": {
+      "title": "昆明天气",
+      "location": "昆明",
+      "current": {
+        "date": "2026-05-15",
+        "condition": "Sunny",
+        "temp_high": 28,
+        "temp_low": 16,
+        "wind": "西南风",
+        "wind_level": "3级",
+        "humidity": 50,
+        "sunrise": "05:25",
+        "sunset": "18:46"
+      },
+      "forecast": [
+        {
+          "date": "2026-05-15",
+          "day": "今天",
+          "condition": "Sunny",
+          "high": 28,
+          "low": 16,
+          "wind": "西南风 3级"
+        },
+        {
+          "date": "2026-05-16",
+          "day": "周六",
+          "condition": "Partly Cloudy",
+          "high": 26,
+          "low": 15,
+          "wind": "西南风 3级"
+        }
+      ]
     }
+  }
 }

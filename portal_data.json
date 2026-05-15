@@ -1,134 +1,192 @@
 {
-  "updateTime": "2026-05-15T04:40:14.897Z",
-  "data": {
-    "cctv": [
-      {
-        "title": "科技创新座谈会强调加强关键核心技术攻关",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "高质量发展扎实推进 经济结构持续优化",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "绿色转型成效显著 绿色发展成为主基调",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "数字经济规模突破50万亿元",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "人工智能赋能传统产业转型升级",
-        "url": "https://news.cctv.com/"
-      }
-    ],
-    "weibo": [
-      {
-        "rank": 1,
-        "keyword": "科技创新助力高质量发展",
-        "heat": "3556789",
-        "hot": true
-      },
-      {
-        "rank": 2,
-        "keyword": "青年科学家论坛开幕",
-        "heat": "2987654",
-        "hot": true
-      },
-      {
-        "rank": 3,
-        "keyword": "绿色能源发展新突破",
-        "heat": "2876543",
-        "hot": true
-      },
-      {
-        "rank": 4,
-        "keyword": "数字经济发展报告发布",
-        "heat": "2765432",
-        "hot": true
-      },
-      {
-        "rank": 5,
-        "keyword": "人工智能应用新场景",
-        "heat": "2654321",
-        "hot": true
-      },
-      {
-        "rank": 6,
-        "keyword": "太空探索新发现",
-        "heat": "2543210",
-        "hot": true
-      },
-      {
-        "rank": 7,
-        "keyword": "医疗健康技术创新",
-        "heat": "2432109",
-        "hot": true
-      },
-      {
-        "rank": 8,
-        "keyword": "教育改革新政策",
-        "heat": "2321098",
-        "hot": true
-      },
-      {
-        "rank": 9,
-        "keyword": "文化产业发展态势",
-        "heat": "2210987",
-        "hot": true
-      },
-      {
-        "rank": 10,
-        "keyword": "国际交流合作成果",
-        "heat": "2109876",
-        "hot": true
-      }
-    ],
-    "bilibili": [
-      {
-        "title": "旧说唱乐队第三弹巅峰之作",
-        "desc": "高卫钧作品，播放159万"
-      },
-      {
-        "title": "数学家老田，已上线！！",
-        "desc": "田一名sir作品，播放388万"
-      },
-      {
-        "title": "“我一定会找到完美时间线的”",
-        "desc": "寅山作品，播放264万"
-      },
-      {
-        "title": "地牢酒馆-05集 《海族少女与血族的请求》",
-        "desc": "粘土工厂作品，播放211万"
-      },
-      {
-        "title": "《原神》尼可角色PV——「缄口的金弦」",
-        "desc": "原神作品，播放206万"
-      }
-    ],
+  "updateTime": "2026-05-15T14:08:46+08:00",
+  "dataSource": {
+    "cctvNews": {
+      "source": "CCTV",
+      "fetchTime": "2026-05-15T14:08:46+08:00",
+      "topStories": [
+        {
+          "title": "明天起国内航线燃油附加费上调",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml"
+        },
+        {
+          "title": "一季度职工基本医保缴费收入5981亿元",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml"
+        },
+        {
+          "title": "老年旅客淡季优惠火车票开售",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml"
+        },
+        {
+          "title": "中美元首举行会谈 构建建设性战略稳定关系",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E9%A2%86%E5%AF%BC%E4%BA%BA%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BC%9A%E6%99%A4"
+        },
+        {
+          "title": "中美元首达成一系列新共识",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E8%BE%BE%E6%88%90%E4%B8%80%E7%B3%BB%E5%88%97%E6%96%B0%E5%85%B1%E8%AF%86"
+        }
+      ]
+    },
+    "weiboHot": {
+      "source": "Weibo Hot",
+      "fetchTime": "2026-05-15T14:08:46+08:00",
+      "hotList": [
+        {
+          "rank": 1,
+          "keyword": "中美领导人小范围会晤",
+          "heat": 1240000,
+          "tag": ""
+        },
+        {
+          "rank": 2,
+          "keyword": "iPhone18",
+          "heat": 1230000,
+          "tag": ""
+        },
+        {
+          "rank": 3,
+          "keyword": "天坛里的对称之美",
+          "heat": 1220000,
+          "tag": ""
+        },
+        {
+          "rank": 4,
+          "keyword": "王力宏腾势汽车品牌全球代言人",
+          "heat": 1210000,
+          "tag": ""
+        },
+        {
+          "rank": 5,
+          "keyword": "特朗普抵达中南海",
+          "heat": 1210000,
+          "tag": ""
+        },
+        {
+          "rank": 6,
+          "keyword": "新来的同事脑子就是好使",
+          "heat": 1200000,
+          "tag": ""
+        },
+        {
+          "rank": 7,
+          "keyword": "支付宝正寻求警方帮助",
+          "heat": 1190000,
+          "tag": ""
+        },
+        {
+          "rank": 8,
+          "keyword": "方媛说我不喜欢坐旁边",
+          "heat": 1190000,
+          "tag": ""
+        },
+        {
+          "rank": 9,
+          "keyword": "头一次见老胞胎",
+          "heat": 1040000,
+          "tag": ""
+        },
+        {
+          "rank": 10,
+          "keyword": "原来这么多人拒绝过浪姐",
+          "heat": 630000,
+          "tag": ""
+        },
+        {
+          "rank": 11,
+          "keyword": "国际足联报价腰斩",
+          "heat": 390000,
+          "tag": ""
+        },
+        {
+          "rank": 12,
+          "keyword": "老人捡破烂攒6万买床垫与儿子反目",
+          "heat": 390000,
+          "tag": ""
+        },
+        {
+          "rank": 13,
+          "keyword": "毛利兰声优去世",
+          "heat": 390000,
+          "tag": ""
+        },
+        {
+          "rank": 14,
+          "keyword": "李纯哄马頔看呆张豆豆",
+          "heat": 390000,
+          "tag": ""
+        },
+        {
+          "rank": 15,
+          "keyword": "iPhone17官宣降价",
+          "heat": 390000,
+          "tag": ""
+        }
+      ]
+    },
     "weather": {
-      "current": "23℃ Partly cloudy",
-      "detail": "湿度73%，风速22 km/h",
+      "source": "Weather",
+      "fetchTime": "2026-05-15T14:08:46+08:00",
+      "location": "Kunming",
+      "current": {
+        "date": "2026-05-15",
+        "dayOfWeek": "Fri",
+        "weather": "Sunny",
+        "tempHigh": "28",
+        "tempLow": "16",
+        "wind": "SW",
+        "windLevel": "3",
+        "humidity": "50",
+        "sunrise": "05:25",
+        "sunset": "18:46"
+      },
       "forecast": [
         {
-          "date": "2026-05-15",
-          "weather": "Sunny",
-          "high": "25℃",
-          "low": "19℃"
-        },
-        {
           "date": "2026-05-16",
-          "weather": "Sunny",
-          "high": "26℃",
-          "low": "19℃"
+          "day": "Sat",
+          "weather": "Partly Cloudy",
+          "high": "26",
+          "low": "15",
+          "wind": "SW"
+        }
+      ],
+      "alerts": [
+        {
+          "type": "UV Alert",
+          "content": "UV index 13 (extreme). Sun protection recommended."
+        }
+      ]
+    },
+    "bilibiliHot": {
+      "source": "Bilibili",
+      "fetchTime": "2026-05-15T14:08:46+08:00",
+      "highlights": [
+        {
+          "title": "中美会面前，双方如何出招？",
+          "description": "中美元首会谈前各方分析",
+          "url": "https://www.bilibili.com/video/av116556000401085/"
         },
         {
-          "date": "2026-05-17",
-          "weather": "Sunny",
-          "high": "26℃",
-          "low": "19℃"
+          "title": "宇树发布GD01载人变形机甲",
+          "description": "390万元起，B站热门科技视频",
+          "url": "https://www.bilibili.com/video/av116559624278509/"
+        },
+        {
+          "title": "数学家老田已上线",
+          "description": "B站全站日榜第2名",
+          "url": "https://www.bilibili.com/video/av116559775271101/"
         }
+      ],
+      "popularContent": [
+        "3台高速机VS刘谦手速",
+        "数学家老田",
+        "中美会面前双方出招",
+        "宇树GD01载人机甲",
+        "没有剑的进来",
+        "我一定会找到完美时间线",
+        "你讹他啊",
+        "原神尼可角色PV",
+        "色彩原理调色教程",
+        "点进来看答辩"
       ]
     }
   }
