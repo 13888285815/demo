@@ -1,16 +1,12 @@
 {
-  "source": "CCTV News (Simulated)",
-  "fetched_at": "2026-05-15T04:35:34Z",
+  "updateTime": "2026-05-15T13:05:00",
   "news": [
-    {"title": "科技创新座谈会强调加强关键核心技术攻关", "url": "https://news.cctv.com/", "time": "2026-05-15"},
-    {"title": "高质量发展扎实推进 经济结构持续优化", "url": "https://news.cctv.com/", "time": "2026-05-15"},
-    {"title": "绿色转型成效显著 绿色发展成为主基调", "url": "https://news.cctv.com/", "time": "2026-05-14"},
-    {"title": "数字经济规模突破50万亿元", "url": "https://news.cctv.com/", "time": "2026-05-14"},
-    {"title": "人工智能赋能传统产业转型升级", "url": "https://news.cctv.com/", "time": "2026-05-13"},
-    {"title": "科技创新支撑高质量发展取得实效", "url": "https://news.cctv.com/", "time": "2026-05-13"},
-    {"title": "开放合作推动经济全球化发展", "url": "https://news.cctv.com/", "time": "2026-05-12"},
-    {"title": "民生改善取得新进展 人民生活品质提升", "url": "https://news.cctv.com/", "time": "2026-05-12"},
-    {"title": "生态环境保护成效显著", "url": "https://news.cctv.com/", "time": "2026-05-11"},
-    {"title": "文化自信不断增强 文化产业繁荣发展", "url": "https://news.cctv.com/", "time": "2026-05-11"}
+    {"title": "中美元首北京会晤", "url": "https://news.cctv.com/", "category": "国际"},
+    {"title": "明天起国内航线燃油附加费上调", "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml", "category": "社会"},
+    {"title": "一季度职工基本医保缴费收入5981亿元", "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml", "category": "财经"},
+    {"title": "老年旅客淡季优惠火车票开售", "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml", "category": "社会"},
+    {"title": "2026年夏粮旺季收购5月下旬全面展开", "url": "https://tv.cctv.com/2026/05/15/VIDEJIJqQ0CiE3RPKdcRvWQJ260515.shtml", "category": "国内"},
+    {"title": "\"十五五\"时期 长三角及周边建成超3200公里天然气管道", "url": "https://tv.cctv.com/2026/05/15/VIDEeQtpPSg2ouuRHLVZdpf8260515.shtml", "category": "国内"},
+    {"title": "浙江台州：数智化模式赋能家庭教育", "url": "https://tv.cctv.com/2026/05/15/VIDE1hxNw3cQ1ZvonBtt9Kgg260515.shtml", "category": "科技"}
   ]
 }

@@ -1,1 +1,24 @@
-{"source": "wttr.in", "fetched_at": "2026-05-15T04:35:34Z", "location": "Shanghai", "current": {"temp_C": "23", "weather": "Partly cloudy", "humidity": "73", "wind": "22 km/h"}, "forecast": [{"date": "2026-05-15", "max": "25", "min": "19", "weather": "Sunny"}, {"date": "2026-05-16", "max": "26", "min": "19", "weather": "Sunny"}, {"date": "2026-05-17", "max": "26", "min": "19", "weather": "Sunny"}]}
+{
+  "updateTime": "2026-05-15T13:05:00",
+  "city": "北京",
+  "current": {
+    "temp": 23,
+    "feelsLike": 24,
+    "condition": "阴天",
+    "humidity": 69,
+    "windDir": "南风",
+    "windSpeed": "10km/h",
+    "pressure": 1016,
+    "uvIndex": 7,
+    "visibility": "6km"
+  },
+  "forecast": [
+    {"date": "2026-05-15", "day": "今天", "high": 33, "low": 18, "condition": "多云转晴"},
+    {"date": "2026-05-16", "day": "明天", "high": 34, "low": 19, "condition": "晴"},
+    {"date": "2026-05-17", "day": "后天", "high": 28, "low": 16, "condition": "多云"}
+  ],
+  "astronomy": {
+    "sunrise": "05:00",
+    "sunset": "19:23"
+  }
+}

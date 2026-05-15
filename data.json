@@ -1,155 +1,45 @@
 {
-  "updateTime": "2026-05-15T04:40:14.897Z",
-  "data": {
-    "cctv": [
-      {
-        "title": "科技创新座谈会强调加强关键核心技术攻关",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "高质量发展扎实推进 经济结构持续优化",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "绿色转型成效显著 绿色发展成为主基调",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "数字经济规模突破50万亿元",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "人工智能赋能传统产业转型升级",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "科技创新支撑高质量发展取得实效",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "开放合作推动经济全球化发展",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "民生改善取得新进展 人民生活品质提升",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "生态环境保护成效显著",
-        "url": "https://news.cctv.com/"
-      },
-      {
-        "title": "文化自信不断增强 文化产业繁荣发展",
-        "url": "https://news.cctv.com/"
-      }
-    ],
-    "weibo": [
-      {
-        "rank": 1,
-        "keyword": "科技创新助力高质量发展",
-        "heat": "3556789",
-        "hot": true
-      },
-      {
-        "rank": 2,
-        "keyword": "青年科学家论坛开幕",
-        "heat": "2987654",
-        "hot": true
-      },
-      {
-        "rank": 3,
-        "keyword": "绿色能源发展新突破",
-        "heat": "2876543",
-        "hot": true
-      },
-      {
-        "rank": 4,
-        "keyword": "数字经济发展报告发布",
-        "heat": "2765432",
-        "hot": true
-      },
-      {
-        "rank": 5,
-        "keyword": "人工智能应用新场景",
-        "heat": "2654321",
-        "hot": true
-      },
-      {
-        "rank": 6,
-        "keyword": "太空探索新发现",
-        "heat": "2543210",
-        "hot": true
-      },
-      {
-        "rank": 7,
-        "keyword": "医疗健康技术创新",
-        "heat": "2432109",
-        "hot": true
-      },
-      {
-        "rank": 8,
-        "keyword": "教育改革新政策",
-        "heat": "2321098",
-        "hot": true
-      },
-      {
-        "rank": 9,
-        "keyword": "文化产业发展态势",
-        "heat": "2210987",
-        "hot": true
-      },
-      {
-        "rank": 10,
-        "keyword": "国际交流合作成果",
-        "heat": "2109876",
-        "hot": true
-      }
-    ],
-    "bilibili": [
-      {
-        "title": "旧说唱乐队第三弹巅峰之作",
-        "desc": "高卫钧作品，播放159万"
-      },
-      {
-        "title": "数学家老田，已上线！！",
-        "desc": "田一名sir作品，播放388万"
-      },
-      {
-        "title": "“我一定会找到完美时间线的”",
-        "desc": "寅山作品，播放264万"
-      },
-      {
-        "title": "地牢酒馆-05集 《海族少女与血族的请求》",
-        "desc": "粘土工厂作品，播放211万"
-      },
-      {
-        "title": "《原神》尼可角色PV——「缄口的金弦」",
-        "desc": "原神作品，播放206万"
-      }
-    ],
-    "weather": {
-      "current": "23℃ Partly cloudy",
-      "detail": "湿度73%，风速22 km/h",
-      "forecast": [
-        {
-          "date": "2026-05-15",
-          "weather": "Sunny",
-          "high": "25℃",
-          "low": "19℃"
-        },
-        {
-          "date": "2026-05-16",
-          "weather": "Sunny",
-          "high": "26℃",
-          "low": "19℃"
-        },
-        {
-          "date": "2026-05-17",
-          "weather": "Sunny",
-          "high": "26℃",
-          "low": "19℃"
+    "updateTime": "2026-05-15T13:05:00",
+    "data": {
+        "cctv": [
+            {"title": "中美元首北京会晤", "url": "https://news.cctv.com/", "category": "国际"},
+            {"title": "明天起国内航线燃油附加费上调", "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml", "category": "社会"},
+            {"title": "一季度职工基本医保缴费收入5981亿元", "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml", "category": "财经"},
+            {"title": "老年旅客淡季优惠火车票开售", "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml", "category": "社会"},
+            {"title": "2026年夏粮旺季收购5月下旬全面展开", "url": "https://tv.cctv.com/2026/05/15/VIDEJIJqQ0CiE3RPKdcRvWQJ260515.shtml", "category": "国内"}
+        ],
+        "weibo": [
+            {"rank": 1, "keyword": "中美领导人小范围会晤", "heat": "137万", "hot": true},
+            {"rank": 2, "keyword": "特朗普抵达中南海", "heat": "90万", "hot": true},
+            {"rank": 3, "keyword": "天坛里的对称之美", "heat": "79万", "hot": true},
+            {"rank": 4, "keyword": "618上京东领华为大额券真香", "heat": "78万", "hot": true},
+            {"rank": 5, "keyword": "方媛说我不喜欢坐旁边", "heat": "77万", "hot": false},
+            {"rank": 6, "keyword": "头一次见老胞胎", "heat": "76万", "hot": false},
+            {"rank": 7, "keyword": "中美元首达成一系列新共识", "heat": "73万", "hot": false},
+            {"rank": 8, "keyword": "国际家庭日乐道汽车两周年", "heat": "72万", "hot": false},
+            {"rank": 9, "keyword": "李纯哄马頔看呆张豆豆", "heat": "56万", "hot": false},
+            {"rank": 10, "keyword": "机票燃油附加费明天起上调", "heat": "38万", "hot": false}
+        ],
+        "bilibili": [
+            {"rank": 1, "title": "旧说唱乐队第三弹巅峰之作", "views": "165.5万"},
+            {"rank": 2, "title": "数学家老田，已上线！！", "views": "398.7万"},
+            {"rank": 3, "title": "我一定会找到完美时间线的", "views": "274.0万"},
+            {"rank": 4, "title": "地牢酒馆-05集", "views": "216.0万"},
+            {"rank": 5, "title": "原神尼可角色PV——缄口的金弦", "views": "218.0万"},
+            {"rank": 6, "title": "色彩原理调色教程", "views": "245.5万"},
+            {"rank": 7, "title": "中美会面前，双方如何出招？", "views": "339.6万"},
+            {"rank": 8, "title": "点进来看答辩", "views": "283.3万"},
+            {"rank": 9, "title": "没有剑的进来", "views": "333.0万"},
+            {"rank": 10, "title": "3台高速机VS刘谦手速！谁更胜一筹？", "views": "607.6万"}
+        ],
+        "weather": {
+            "city": "北京",
+            "current": {"temp": 23, "feelsLike": 24, "condition": "阴天", "humidity": 69, "wind": "南风10km/h", "uvIndex": 7},
+            "forecast": [
+                {"day": "今天", "high": 33, "low": 18, "condition": "多云转晴"},
+                {"day": "明天", "high": 34, "low": 19, "condition": "晴"},
+                {"day": "后天", "high": 28, "low": 16, "condition": "多云"}
+            ]
         }
-      ]
     }
-  }
 }
