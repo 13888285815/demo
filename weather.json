@@ -1,12 +1,12 @@
 {
-  "city": "北京",
-  "weather": "多云",
-  "temp": "21~27℃",
-  "current_temp": "21℃",
-  "humidity": "50%",
-  "wind": "东风 7km/h",
-  "sunrise": "05:00",
-  "sunset": "19:23",
-  "uvIndex": "7",
-  "visibility": "6km"
+  "updateTime": "2026-05-15T12:06:27",
+  "city": "上海",
+  "weather": "Partly Cloudy (多云)",
+  "temp": "23°C (体感25°C)",
+  "humidity": "73%",
+  "wind": "东南风 22km/h",
+  "uvIndex": 9,
+  "visibility": "10km",
+  "sunrise": "04:58",
+  "sunset": "18:43"
 }

@@ -1,41 +1,153 @@
 {
-  "updateTime": "2026-05-15T03:35:00",
+  "updateTime": "2026-05-15T12:06:27",
   "data": {
     "cctv": [
-      {"title": "2026年夏粮旺季收购5月下旬全面展开", "url": "https://tv.cctv.com/2026/05/15/VIDEJIJqQ0CiE3RPKdcRvWQJ260515.shtml"},
-      {"title": "\"十五五\"时期 长三角及周边建成超3200公里天然气管道", "url": "https://tv.cctv.com/2026/05/15/VIDEeQtpPSg2ouuRHLVZdpf8260515.shtml"},
-      {"title": "浙江台州：数智化模式赋能家庭教育", "url": "https://tv.cctv.com/2026/05/15/VIDE1hxNw3cQ1ZvonBtt9Kgg260515.shtml"},
-      {"title": "中美元首北京会晤", "url": "https://news.cctv.com/"},
-      {"title": "新闻联播", "url": "https://tv.cctv.com/lm/xwlb/"}
+      {
+        "title": "2026年夏粮旺季收购5月下旬全面展开",
+        "url": "https://tv.cctv.com/2026/05/15/VIDEJIJqQ0CiE3RPKdcRvWQJ260515.shtml"
+      },
+      {
+        "title": "\"十五五\"时期 长三角及周边建成超3200公里天然气管道",
+        "url": "https://tv.cctv.com/2026/05/15/VIDEeQtpPSg2ouuRHLVZdpf8260515.shtml"
+      },
+      {
+        "title": "浙江台州：数智化模式赋能家庭教育",
+        "url": "https://tv.cctv.com/2026/05/15/VIDE1hxNw3cQ1ZvonBtt9Kgg260515.shtml"
+      },
+      {
+        "title": "中美元首北京会晤",
+        "url": "https://news.cctv.com/"
+      },
+      {
+        "title": "新闻联播",
+        "url": "https://tv.cctv.com/lm/xwlb/"
+      }
     ],
     "weibo": [
-      {"rank": 1, "keyword": "中美元首北京会晤达成重要共识", "heat": 9999999, "hot": true},
-      {"rank": 2, "keyword": "习近平同特朗普在中南海小范围会晤", "heat": 9999998, "hot": true},
-      {"rank": 3, "keyword": "第一现场看中美元首会晤", "heat": 9999997, "hot": true},
-      {"rank": 4, "keyword": "中美元首共同参观为什么选择天坛", "heat": 9999996, "hot": true},
-      {"rank": 5, "keyword": "中国首款打破国外近20年垄断", "heat": 9999995, "hot": true},
-      {"rank": 6, "keyword": "特朗普乘车抵达中南海", "heat": 9999990, "hot": true},
-      {"rank": 7, "keyword": "特朗普：美国中餐馆比五大快餐店还多", "heat": 9999980, "hot": true},
-      {"rank": 8, "keyword": "华为Mate X7直降1000元", "heat": 9999900, "hot": true},
-      {"rank": 9, "keyword": "马斯克回复360度转圈拍摄人民大会堂", "heat": 9999800, "hot": true},
-      {"rank": 10, "keyword": "外交部就特朗普访华情况答问", "heat": 9999700, "hot": true}
+      {
+        "rank": 1,
+        "keyword": "中美领导人小范围会晤",
+        "heat": "137万",
+        "hot": true
+      },
+      {
+        "rank": 2,
+        "keyword": "特朗普抵达中南海",
+        "heat": "90万",
+        "hot": true
+      },
+      {
+        "rank": 3,
+        "keyword": "天坛里的对称之美",
+        "heat": "79万",
+        "hot": true
+      },
+      {
+        "rank": 4,
+        "keyword": "618上京东领华为大额券真香",
+        "heat": "78万",
+        "hot": true
+      },
+      {
+        "rank": 5,
+        "keyword": "方媛说我不喜欢坐旁边",
+        "heat": "77万",
+        "hot": true
+      },
+      {
+        "rank": 6,
+        "keyword": "头一次见老胞胎",
+        "heat": "76万",
+        "hot": true
+      },
+      {
+        "rank": 7,
+        "keyword": "中美元首达成一系列新共识",
+        "heat": "73万",
+        "hot": true
+      },
+      {
+        "rank": 8,
+        "keyword": "国际家庭日乐道汽车两周年",
+        "heat": "72万",
+        "hot": true
+      },
+      {
+        "rank": 9,
+        "keyword": "李纯哄马頔看呆张豆豆",
+        "heat": "56万",
+        "hot": false
+      },
+      {
+        "rank": 10,
+        "keyword": "机票燃油附加费明天起上调",
+        "heat": "38万",
+        "hot": false
+      },
+      {
+        "rank": 11,
+        "keyword": "国际足联报价腰斩",
+        "heat": "38万",
+        "hot": false
+      },
+      {
+        "rank": 12,
+        "keyword": "iPhone18",
+        "heat": "38万",
+        "hot": false
+      },
+      {
+        "rank": 13,
+        "keyword": "毛利兰声优去世",
+        "heat": "37万",
+        "hot": false
+      },
+      {
+        "rank": 14,
+        "keyword": "iPhone17Pro降价2000",
+        "heat": "1539万",
+        "hot": true
+      },
+      {
+        "rank": 15,
+        "keyword": "何猷君奚梦瑶和保镖同桌吃饭",
+        "heat": "37万",
+        "hot": false
+      }
     ],
     "bilibili": [
-      {"title": "旧说唱乐队第三弹巅峰之作", "desc": "高卫钧日常作品，播放163万"},
-      {"title": "数学家老田，已上线！！", "desc": "田一名sir原创音乐，播放396万"},
-      {"title": "\"我一定会找到完美时间线的\"", "desc": "寅山搞笑视频，播放268万"},
-      {"title": "地牢酒馆-05集《海族少女与血族的请求》", "desc": "粘土工厂游戏动画，播放214万"},
-      {"title": "《原神》尼可角色PV——「缄口的金弦」", "desc": "原神官方，播放215万"}
+      {
+        "title": "同频Melody【BDF2026主题曲】",
+        "owner": "舞蹈区小锦鲤",
+        "views": 1345993,
+        "likes": 8123,
+        "link": "https://b23.tv/BV138516nEof"
+      },
+      {
+        "title": "特朗普访华，背后有哪些信号？他还有什么筹码？",
+        "owner": "数据库kira",
+        "views": 1956505,
+        "likes": 56594,
+        "link": "https://b23.tv/BV13t516QETh"
+      },
+      {
+        "title": "1天被蜇50次？养蜂人都在做什么？",
+        "owner": "影视飓风",
+        "views": 1294685,
+        "likes": 89504,
+        "link": "https://b23.tv/BV1GB5Q6uEDk"
+      }
     ],
     "weather": {
-      "city": "北京",
-      "weather": "多云",
-      "temp": "21~27℃",
-      "current_temp": "21℃",
-      "humidity": "50%",
-      "wind": "东风 7km/h",
-      "sunrise": "05:00",
-      "sunset": "19:23"
+      "city": "上海",
+      "weather": "Partly Cloudy (多云)",
+      "temp": "23°C (体感25°C)",
+      "humidity": "73%",
+      "wind": "东南风 22km/h",
+      "uvIndex": 9,
+      "visibility": "10km",
+      "sunrise": "04:58",
+      "sunset": "18:43"
     }
   }
 }
