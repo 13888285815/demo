@@ -1,5 +1,5 @@
 {
-  "update_time": "2026/05/15 17:07:23",
+  "update_time": "2026/05/16 16:45:19",
   "data_source": "意念科技新闻门户",
   "sections": {
     "cctv_news": {
@@ -8,149 +8,234 @@
         {
           "title": "明天起国内航线燃油附加费上调",
           "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
-          "date": "2026-05-15",
-          "summary": "明天起国内航线燃油附加费上调。"
+          "date": "2026-05-16",
+          "summary": ""
         },
         {
           "title": "一季度职工基本医保缴费收入5981亿元",
           "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
-          "date": "2026-05-15",
-          "summary": "一季度职工基本医保缴费收入5981亿元。"
+          "date": "2026-05-16",
+          "summary": ""
         },
         {
           "title": "老年旅客淡季优惠火车票开售",
           "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
-          "date": "2026-05-15",
-          "summary": "老年旅客淡季优惠火车票开售。"
+          "date": "2026-05-16",
+          "summary": ""
         }
       ]
     },
     "weibo_hot": {
       "title": "微博热搜榜",
-      "update_time": "2026/05/15 17:07:23",
+      "update_time": "2026/05/16 16:45:19",
       "items": [
         {
           "rank": 1,
           "keyword": "特朗普结束访华",
           "heat": 4220924,
-          "tag": "热"
+          "hot": true
         },
         {
           "rank": 2,
           "keyword": "中美元首边走边谈",
           "heat": 1224110,
-          "tag": ""
+          "hot": false
         },
         {
           "rank": 3,
           "keyword": "跨越太平洋的握手",
           "heat": 965666,
-          "tag": ""
+          "hot": false
         },
         {
           "rank": 4,
           "keyword": "胡歌点赞方太新一代洗碗机",
           "heat": 867511,
-          "tag": ""
+          "hot": false
         },
         {
           "rank": 5,
           "keyword": "容易紧张是缺乏主体性",
           "heat": 761176,
-          "tag": ""
+          "hot": false
         },
         {
           "rank": 6,
           "keyword": "白玉兰评委名单",
           "heat": 619891,
-          "tag": "新"
+          "hot": true
         },
         {
           "rank": 7,
           "keyword": "曝杨幂杨紫白玉兰二选一提名",
           "heat": 616397,
-          "tag": ""
+          "hot": false
         },
         {
           "rank": 8,
           "keyword": "雨霖铃国剧武侠热血天花板",
           "heat": 615559,
-          "tag": ""
+          "hot": false
         },
         {
           "rank": 9,
           "keyword": "中美元首中南海小范围会晤高清大图",
           "heat": 614246,
-          "tag": ""
+          "hot": false
         },
         {
           "rank": 10,
           "keyword": "名侦探柯南",
           "heat": 605518,
-          "tag": ""
+          "hot": false
+        },
+        {
+          "rank": 11,
+          "keyword": "三笘薫落选日本世界杯大名单",
+          "heat": 601980,
+          "hot": true
+        },
+        {
+          "rank": 12,
+          "keyword": "二孩家庭买SUV还是买MPV",
+          "heat": 594273,
+          "hot": true
+        },
+        {
+          "rank": 13,
+          "keyword": "横店的剧组快灭亡了",
+          "heat": 590692,
+          "hot": true
+        },
+        {
+          "rank": 14,
+          "keyword": "阿雅视频抄袭",
+          "heat": 581305,
+          "hot": true
+        },
+        {
+          "rank": 15,
+          "keyword": "这就是我花一万买iPhone的意义",
+          "heat": 575074,
+          "hot": false
+        },
+        {
+          "rank": 16,
+          "keyword": "温岚在ICU接受治疗",
+          "heat": 570747,
+          "hot": true
+        },
+        {
+          "rank": 17,
+          "keyword": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
+          "heat": 565321,
+          "hot": true
+        },
+        {
+          "rank": 18,
+          "keyword": "白宫发布中国仪仗队画面",
+          "heat": 555290,
+          "hot": false
+        },
+        {
+          "rank": 19,
+          "keyword": "iPhone华为同时降价",
+          "heat": 551408,
+          "hot": false
+        },
+        {
+          "rank": 20,
+          "keyword": "特朗普离京现场的中国军人",
+          "heat": 548439,
+          "hot": true
         }
       ]
     },
     "bilibili_hot": {
-      "title": "B站热门",
+      "title": "B站热门视频",
+      "update_time": "2026/05/16 16:45:19",
       "items": [
         {
+          "rank": 1,
           "title": "旧说唱乐队第三弹巅峰之作",
-          "desc": "高卫钧作品，播放166万",
-          "owner": "高卫钧",
+          "author": "高卫钧",
           "play": 1664839,
-          "url": "https://www.bilibili.com/video/",
-          "date": "2026/05/15"
+          "category": ""
         },
         {
+          "rank": 2,
           "title": "“我一定会找到完美时间线的”",
-          "desc": "寅山作品，播放274万",
-          "owner": "寅山",
+          "author": "寅山",
           "play": 2737835,
-          "url": "https://www.bilibili.com/video/",
-          "date": "2026/05/15"
+          "category": ""
         },
         {
+          "rank": 3,
           "title": "数学家老田，已上线！！",
-          "desc": "田一名sir作品，播放390万",
-          "owner": "田一名sir",
+          "author": "田一名sir",
           "play": 3900909,
-          "url": "https://www.bilibili.com/video/",
-          "date": "2026/05/15"
+          "category": ""
         },
         {
+          "rank": 4,
           "title": "地牢酒馆-05集 《海族少女与血族的请求》",
-          "desc": "粘土工厂作品，播放216万",
-          "owner": "粘土工厂",
+          "author": "粘土工厂",
           "play": 2162971,
-          "url": "https://www.bilibili.com/video/",
-          "date": "2026/05/15"
+          "category": ""
         },
         {
+          "rank": 5,
           "title": "《原神》尼可角色PV——「缄口的金弦」",
-          "desc": "原神作品，播放212万",
-          "owner": "原神",
+          "author": "原神",
           "play": 2116915,
-          "url": "https://www.bilibili.com/video/",
-          "date": "2026/05/15"
+          "category": ""
+        },
+        {
+          "rank": 6,
+          "title": "点进来看答辩",
+          "author": "老番茄",
+          "play": 2748334,
+          "category": ""
+        },
+        {
+          "rank": 7,
+          "title": "色彩原理调色教程",
+          "author": "七芊摄影",
+          "play": 2166004,
+          "category": ""
+        },
+        {
+          "rank": 8,
+          "title": "武将无需多言，带何润东哥自律一天！",
+          "author": "花小龙oy",
+          "play": 2402852,
+          "category": ""
+        },
+        {
+          "rank": 9,
+          "title": "没有剑的进来",
+          "author": "王若轻-",
+          "play": 2987248,
+          "category": ""
+        },
+        {
+          "rank": 10,
+          "title": "⚡华强买瓜，但是低音炮⚡",
+          "author": "快乐阿依",
+          "play": 2229380,
+          "category": ""
         }
       ]
     },
     "weather": {
-      "title": "上海天气预报",
-      "city": "上海",
-      "date": "2026/05/15",
-      "week": "周五",
-      "weather": "Sunny",
-      "weather_cn": "Sunny",
-      "temp_high": "25",
-      "temp_low": "19",
-      "current_temp": "24°C",
-      "humidity": "74%",
-      "wind": "22 km/h",
-      "wind_cn": "风速 22 km/h",
-      "sunrise": "",
-      "sunset": "",
+      "title": "今日天气",
+      "update_time": "2026/05/16 16:45:19",
+      "current": {
+        "temp": "24",
+        "weather": "Sunny",
+        "humidity": "74",
+        "wind": "22 km/h"
+      },
       "forecast": [
         {
           "date": "2026-05-15",
