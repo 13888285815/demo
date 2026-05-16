@@ -1,24 +1,17 @@
-{
-  "update_time": "2026-05-16T16:39:15+08:00",
-  "source": "https://news.cctv.com/",
-  "news": [
-    {
-      "title": "国家统计局：6月11月将开展人口固定样本跟访调查",
-      "url": "https://tv.cctv.com/2026/05/16/VIDE87kDtal84l6aL06NjN3w260516.shtml",
-      "date": "2026-05-16",
-      "summary": "国家统计局宣布将于6月和11月开展人口固定样本跟访调查。"
-    },
-    {
-      "title": "360度全景瞰麦收 解锁智慧种田新姿势",
-      "url": "https://tv.cctv.com/2026/05/16/VIDEv6t9XQo8hGOjlrq20ueK260516.shtml",
-      "date": "2026-05-16",
-      "summary": "各地麦收工作全面展开，智慧农业技术助力粮食生产。"
-    },
-    {
-      "title": "居民不慎摔倒桑葚散落一地 市民暖心帮捡拾",
-      "url": "https://tv.cctv.com/2026/05/16/VIDEXmjzgh7UC2v801MbyRoE260516.shtml",
-      "date": "2026-05-16",
-      "summary": "市民互助暖心一幕，传递社会正能量。"
-    }
-  ]
-}
+[
+  {
+    "title": "明天起国内航线燃油附加费上调",
+    "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
+    "time": "2026-05-15"
+  },
+  {
+    "title": "一季度职工基本医保缴费收入5981亿元",
+    "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
+    "time": "2026-05-15"
+  },
+  {
+    "title": "老年旅客淡季优惠火车票开售",
+    "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
+    "time": "2026-05-15"
+  }
+]

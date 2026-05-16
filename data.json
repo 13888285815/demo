@@ -1,242 +1,163 @@
 {
-  "update_time": "2026/05/16 16:41:42",
+  "update_time": "2026/05/15 17:07:23",
   "data_source": "意念科技新闻门户",
   "sections": {
     "cctv_news": {
       "title": "央视新闻要闻",
       "items": [
         {
-          "title": "国家统计局：6月11月将开展人口固定样本跟访调查",
-          "url": "https://tv.cctv.com/2026/05/16/VIDE87kDtal84l6aL06NjN3w260516.shtml",
-          "date": "2026-05-16",
-          "summary": "国家统计局宣布将于6月和11月开展人口固定样本跟访调查。"
+          "title": "明天起国内航线燃油附加费上调",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
+          "date": "2026-05-15",
+          "summary": "明天起国内航线燃油附加费上调。"
         },
         {
-          "title": "360度全景瞰麦收 解锁智慧种田新姿势",
-          "url": "https://tv.cctv.com/2026/05/16/VIDEv6t9XQo8hGOjlrq20ueK260516.shtml",
-          "date": "2026-05-16",
-          "summary": "各地麦收工作全面展开，智慧农业技术助力粮食生产。"
+          "title": "一季度职工基本医保缴费收入5981亿元",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
+          "date": "2026-05-15",
+          "summary": "一季度职工基本医保缴费收入5981亿元。"
         },
         {
-          "title": "居民不慎摔倒桑葚散落一地 市民暖心帮捡拾",
-          "url": "https://tv.cctv.com/2026/05/16/VIDEXmjzgh7UC2v801MbyRoE260516.shtml",
-          "date": "2026-05-16",
-          "summary": "市民互助暖心一幕，传递社会正能量。"
+          "title": "老年旅客淡季优惠火车票开售",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
+          "date": "2026-05-15",
+          "summary": "老年旅客淡季优惠火车票开售。"
         }
       ]
     },
     "weibo_hot": {
       "title": "微博热搜榜",
-      "update_time": "2026/05/16 16:41:42",
+      "update_time": "2026/05/15 17:07:23",
       "items": [
         {
           "rank": 1,
-          "keyword": "歌手首发阵容",
-          "heat": 1173206,
-          "hot": true
+          "keyword": "特朗普结束访华",
+          "heat": 4220924,
+          "tag": "热"
         },
         {
           "rank": 2,
-          "keyword": "中方宣布普京访华日期",
-          "heat": 982775,
-          "hot": false
+          "keyword": "中美元首边走边谈",
+          "heat": 1224110,
+          "tag": ""
         },
         {
           "rank": 3,
-          "keyword": "一季度数字产业实现收入9.5万亿元",
-          "heat": 902975,
-          "hot": true
+          "keyword": "跨越太平洋的握手",
+          "heat": 965666,
+          "tag": ""
         },
         {
           "rank": 4,
-          "keyword": "豆来微博拼一把",
-          "heat": 881259,
-          "hot": true
+          "keyword": "胡歌点赞方太新一代洗碗机",
+          "heat": 867511,
+          "tag": ""
         },
         {
           "rank": 5,
-          "keyword": "李昀锐白鹿跑男十指相扣",
-          "heat": 872813,
-          "hot": true
+          "keyword": "容易紧张是缺乏主体性",
+          "heat": 761176,
+          "tag": ""
         },
         {
           "rank": 6,
-          "keyword": "盲人女孩盲道被撞系自导自演",
-          "heat": 829099,
-          "hot": true
+          "keyword": "白玉兰评委名单",
+          "heat": 619891,
+          "tag": "新"
         },
         {
           "rank": 7,
-          "keyword": "鹿晗五哈哭了",
-          "heat": 814269,
-          "hot": true
+          "keyword": "曝杨幂杨紫白玉兰二选一提名",
+          "heat": 616397,
+          "tag": ""
         },
         {
           "rank": 8,
-          "keyword": "网传焦作撤县设区为不实信息",
-          "heat": 798123,
-          "hot": true
+          "keyword": "雨霖铃国剧武侠热血天花板",
+          "heat": 615559,
+          "tag": ""
         },
         {
           "rank": 9,
-          "keyword": "王楚钦发博总结世乒赛",
-          "heat": 769418,
-          "hot": true
+          "keyword": "中美元首中南海小范围会晤高清大图",
+          "heat": 614246,
+          "tag": ""
         },
         {
           "rank": 10,
-          "keyword": "其实孩子在小时候已经报完恩了",
-          "heat": 659753,
-          "hot": false
-        },
-        {
-          "rank": 11,
-          "keyword": "多家酒店做不到床单一客一换",
-          "heat": 658059,
-          "hot": false
-        },
-        {
-          "rank": 12,
-          "keyword": "这几类衣服普通人尽量不要买",
-          "heat": 656401,
-          "hot": true
-        },
-        {
-          "rank": 13,
-          "keyword": "徐璐陪小5岁男友日本度假",
-          "heat": 654613,
-          "hot": true
-        },
-        {
-          "rank": 14,
-          "keyword": "丧假 上传证明",
-          "heat": 654208,
-          "hot": true
-        },
-        {
-          "rank": 15,
-          "keyword": "宋浩然整成李佳琦了",
-          "heat": 651909,
-          "hot": true
-        },
-        {
-          "rank": 16,
-          "keyword": "特朗普抵达美国现场画面",
-          "heat": 650742,
-          "hot": false
-        },
-        {
-          "rank": 17,
-          "keyword": "等等给孙俪买瑞士卷",
-          "heat": 649108,
-          "hot": true
-        },
-        {
-          "rank": 18,
-          "keyword": "女子穿着带有巨大吊牌旗袍街头拍照",
-          "heat": 598970,
-          "hot": false
-        },
-        {
-          "rank": 19,
-          "keyword": "舒服的风吹到了魔都地铁站",
-          "heat": 584145,
-          "hot": true
-        },
-        {
-          "rank": 20,
-          "keyword": "房东发现女租客怀孕不让在家坐月子",
-          "heat": 580884,
-          "hot": false
+          "keyword": "名侦探柯南",
+          "heat": 605518,
+          "tag": ""
         }
       ]
     },
     "bilibili_hot": {
-      "title": "B站热门视频",
-      "update_time": "2026/05/16 16:41:42",
+      "title": "B站热门",
       "items": [
         {
-          "rank": 1,
           "title": "旧说唱乐队第三弹巅峰之作",
-          "author": "高卫钧",
-          "play": 2002595,
-          "category": ""
+          "desc": "高卫钧作品，播放166万",
+          "owner": "高卫钧",
+          "play": 1664839,
+          "url": "https://www.bilibili.com/video/",
+          "date": "2026/05/15"
         },
         {
-          "rank": 2,
           "title": "“我一定会找到完美时间线的”",
-          "author": "寅山",
-          "play": 3267880,
-          "category": ""
+          "desc": "寅山作品，播放274万",
+          "owner": "寅山",
+          "play": 2737835,
+          "url": "https://www.bilibili.com/video/",
+          "date": "2026/05/15"
         },
         {
-          "rank": 3,
-          "title": "地牢酒馆-07集 《薇薇安的配方与艾拉的新裙子》",
-          "author": "粘土工厂",
-          "play": 2528422,
-          "category": ""
+          "title": "数学家老田，已上线！！",
+          "desc": "田一名sir作品，播放390万",
+          "owner": "田一名sir",
+          "play": 3900909,
+          "url": "https://www.bilibili.com/video/",
+          "date": "2026/05/15"
         },
         {
-          "rank": 4,
-          "title": "ピノキオピー - 歌姫失格 feat. 初音ミク",
-          "author": "ピノキオピー_official",
-          "play": 946153,
-          "category": ""
+          "title": "地牢酒馆-05集 《海族少女与血族的请求》",
+          "desc": "粘土工厂作品，播放216万",
+          "owner": "粘土工厂",
+          "play": 2162971,
+          "url": "https://www.bilibili.com/video/",
+          "date": "2026/05/15"
         },
         {
-          "rank": 5,
           "title": "《原神》尼可角色PV——「缄口的金弦」",
-          "author": "原神",
-          "play": 2352499,
-          "category": ""
-        },
-        {
-          "rank": 6,
-          "title": "点进来看答辩",
-          "author": "老番茄",
-          "play": 3752901,
-          "category": ""
-        },
-        {
-          "rank": 7,
-          "title": "我伟大的甲方，又来指导技术教学了，哈啊哈哈哈，本视频由libtv赞助算力 #程序员 #打工人 #职场 #LibTV制作 #哩布哩布",
-          "author": "老头们的快乐生活",
-          "play": 2864942,
-          "category": ""
-        },
-        {
-          "rank": 8,
-          "title": "⚡华强买瓜，但是低音炮⚡",
-          "author": "快乐阿依",
-          "play": 2565168,
-          "category": ""
-        },
-        {
-          "rank": 9,
-          "title": "火漆套色｜无神论者｜众神时代的流光溢彩与纸醉金迷的浪漫主义",
-          "author": "朝暮不睡觉QWQ",
-          "play": 1677562,
-          "category": ""
-        },
-        {
-          "rank": 10,
-          "title": "超详细全流程步骤拆解！日常全妆教程（新老手皆宜版）",
-          "author": "姜乘澜",
-          "play": 1068331,
-          "category": ""
+          "desc": "原神作品，播放212万",
+          "owner": "原神",
+          "play": 2116915,
+          "url": "https://www.bilibili.com/video/",
+          "date": "2026/05/15"
         }
       ]
     },
     "weather": {
-      "title": "今日天气",
-      "update_time": "2026/05/16 16:41:42",
-      "current": {
-        "temp": "26",
-        "weather": "Partly cloudy",
-        "humidity": "65",
-        "wind": "25 km/h"
-      },
+      "title": "上海天气预报",
+      "city": "上海",
+      "date": "2026/05/15",
+      "week": "周五",
+      "weather": "Sunny",
+      "weather_cn": "Sunny",
+      "temp_high": "25",
+      "temp_low": "19",
+      "current_temp": "24°C",
+      "humidity": "74%",
+      "wind": "22 km/h",
+      "wind_cn": "风速 22 km/h",
+      "sunrise": "",
+      "sunset": "",
       "forecast": [
+        {
+          "date": "2026-05-15",
+          "max": "25",
+          "min": "19",
+          "weather": "Sunny"
+        },
         {
           "date": "2026-05-16",
           "max": "26",
@@ -245,15 +166,9 @@
         },
         {
           "date": "2026-05-17",
-          "max": "26",
+          "max": "27",
           "min": "19",
           "weather": "Sunny"
-        },
-        {
-          "date": "2026-05-18",
-          "max": "26",
-          "min": "20",
-          "weather": "Overcast "
         }
       ]
     }

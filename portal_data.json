@@ -1,230 +1,59 @@
 {
-  "updateTime": "2026-05-16T16:41:42+08:00",
+  "updateTime": "2026-05-15T16:05:00+08:00",
   "data": {
     "cctv": [
       {
-        "title": "国家统计局：6月11月将开展人口固定样本跟访调查",
-        "url": "https://tv.cctv.com/2026/05/16/VIDE87kDtal84l6aL06NjN3w260516.shtml"
+        "title": "明天起国内航线燃油附加费上调",
+        "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml"
       },
       {
-        "title": "360度全景瞰麦收 解锁智慧种田新姿势",
-        "url": "https://tv.cctv.com/2026/05/16/VIDEv6t9XQo8hGOjlrq20ueK260516.shtml"
+        "title": "一季度职工基本医保缴费收入5981亿元",
+        "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml"
       },
       {
-        "title": "居民不慎摔倒桑葚散落一地 市民暖心帮捡拾",
-        "url": "https://tv.cctv.com/2026/05/16/VIDEXmjzgh7UC2v801MbyRoE260516.shtml"
+        "title": "老年旅客淡季优惠火车票开售",
+        "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml"
+      },
+      {
+        "title": "火车串联美景 各地旅游列车加密开行",
+        "url": "https://news.cctv.com/2026/05/15/ARTIsZFpovGMYuoDvDnoxDnm260515.shtml"
       }
     ],
     "weibo": [
-      {
-        "rank": 1,
-        "keyword": "歌手首发阵容",
-        "heat": 1173206,
-        "hot": true
-      },
-      {
-        "rank": 2,
-        "keyword": "中方宣布普京访华日期",
-        "heat": 982775,
-        "hot": false
-      },
-      {
-        "rank": 3,
-        "keyword": "一季度数字产业实现收入9.5万亿元",
-        "heat": 902975,
-        "hot": true
-      },
-      {
-        "rank": 4,
-        "keyword": "豆来微博拼一把",
-        "heat": 881259,
-        "hot": true
-      },
-      {
-        "rank": 5,
-        "keyword": "李昀锐白鹿跑男十指相扣",
-        "heat": 872813,
-        "hot": true
-      },
-      {
-        "rank": 6,
-        "keyword": "盲人女孩盲道被撞系自导自演",
-        "heat": 829099,
-        "hot": true
-      },
-      {
-        "rank": 7,
-        "keyword": "鹿晗五哈哭了",
-        "heat": 814269,
-        "hot": true
-      },
-      {
-        "rank": 8,
-        "keyword": "网传焦作撤县设区为不实信息",
-        "heat": 798123,
-        "hot": true
-      },
-      {
-        "rank": 9,
-        "keyword": "王楚钦发博总结世乒赛",
-        "heat": 769418,
-        "hot": true
-      },
-      {
-        "rank": 10,
-        "keyword": "其实孩子在小时候已经报完恩了",
-        "heat": 659753,
-        "hot": false
-      },
-      {
-        "rank": 11,
-        "keyword": "多家酒店做不到床单一客一换",
-        "heat": 658059,
-        "hot": false
-      },
-      {
-        "rank": 12,
-        "keyword": "这几类衣服普通人尽量不要买",
-        "heat": 656401,
-        "hot": true
-      },
-      {
-        "rank": 13,
-        "keyword": "徐璐陪小5岁男友日本度假",
-        "heat": 654613,
-        "hot": true
-      },
-      {
-        "rank": 14,
-        "keyword": "丧假 上传证明",
-        "heat": 654208,
-        "hot": true
-      },
-      {
-        "rank": 15,
-        "keyword": "宋浩然整成李佳琦了",
-        "heat": 651909,
-        "hot": true
-      },
-      {
-        "rank": 16,
-        "keyword": "特朗普抵达美国现场画面",
-        "heat": 650742,
-        "hot": false
-      },
-      {
-        "rank": 17,
-        "keyword": "等等给孙俪买瑞士卷",
-        "heat": 649108,
-        "hot": true
-      },
-      {
-        "rank": 18,
-        "keyword": "女子穿着带有巨大吊牌旗袍街头拍照",
-        "heat": 598970,
-        "hot": false
-      },
-      {
-        "rank": 19,
-        "keyword": "舒服的风吹到了魔都地铁站",
-        "heat": 584145,
-        "hot": true
-      },
-      {
-        "rank": 20,
-        "keyword": "房东发现女租客怀孕不让在家坐月子",
-        "heat": 580884,
-        "hot": false
-      }
-    ],
-    "bilibili": [
-      {
-        "rank": 1,
-        "title": "旧说唱乐队第三弹巅峰之作",
-        "author": "高卫钧",
-        "play": 2002595
-      },
-      {
-        "rank": 2,
-        "title": "“我一定会找到完美时间线的”",
-        "author": "寅山",
-        "play": 3267880
-      },
-      {
-        "rank": 3,
-        "title": "地牢酒馆-07集 《薇薇安的配方与艾拉的新裙子》",
-        "author": "粘土工厂",
-        "play": 2528422
-      },
-      {
-        "rank": 4,
-        "title": "ピノキオピー - 歌姫失格 feat. 初音ミク",
-        "author": "ピノキオピー_official",
-        "play": 946153
-      },
-      {
-        "rank": 5,
-        "title": "《原神》尼可角色PV——「缄口的金弦」",
-        "author": "原神",
-        "play": 2352499
-      },
-      {
-        "rank": 6,
-        "title": "点进来看答辩",
-        "author": "老番茄",
-        "play": 3752901
-      },
-      {
-        "rank": 7,
-        "title": "我伟大的甲方，又来指导技术教学了，哈啊哈哈哈，本视频由libtv赞助算力 #程序员 #打工人 #职场 #LibTV制作 #哩布哩布",
-        "author": "老头们的快乐生活",
-        "play": 2864942
-      },
-      {
-        "rank": 8,
-        "title": "⚡华强买瓜，但是低音炮⚡",
-        "author": "快乐阿依",
-        "play": 2565168
-      },
-      {
-        "rank": 9,
-        "title": "火漆套色｜无神论者｜众神时代的流光溢彩与纸醉金迷的浪漫主义",
-        "author": "朝暮不睡觉QWQ",
-        "play": 1677562
-      },
-      {
-        "rank": 10,
-        "title": "超详细全流程步骤拆解！日常全妆教程（新老手皆宜版）",
-        "author": "姜乘澜",
-        "play": 1068331
-      }
+      {"rank": 1, "keyword": "特朗普结束访华", "heat": 13030000, "hot": true},
+      {"rank": 2, "keyword": "中美元首边走边谈", "heat": 2260000, "hot": true},
+      {"rank": 3, "keyword": "跨越太平洋的握手", "heat": 1760000, "hot": true},
+      {"rank": 4, "keyword": "曝杨幂杨紫白玉兰二选一提名", "heat": 820000},
+      {"rank": 5, "keyword": "原来这么多人拒绝过浪姐", "heat": 550000},
+      {"rank": 6, "keyword": "中美元首中南海小范围会晤高清大图", "heat": 440000},
+      {"rank": 7, "keyword": "今天和苏翊鸣一起玩", "heat": 440000},
+      {"rank": 8, "keyword": "名侦探柯南", "heat": 440000},
+      {"rank": 9, "keyword": "iPhone华为同时降价", "heat": 430000},
+      {"rank": 10, "keyword": "中美领导人小范围会晤", "heat": 430000},
+      {"rank": 11, "keyword": "当我在DeepSeek输入think", "heat": 420000},
+      {"rank": 12, "keyword": "特朗普离京", "heat": 380000},
+      {"rank": 13, "keyword": "白宫发布中国仪仗队画面", "heat": 400000},
+      {"rank": 14, "keyword": "A股", "heat": 400000},
+      {"rank": 15, "keyword": "毛利兰声优去世", "heat": 360000},
+      {"rank": 16, "keyword": "黄金", "heat": 340000},
+      {"rank": 17, "keyword": "横店的剧组快灭亡了", "heat": 410000},
+      {"rank": 18, "keyword": "容易紧张是缺乏主体性", "heat": 360000},
+      {"rank": 19, "keyword": "孙怡裤子穿反了", "heat": 360000},
+      {"rank": 20, "keyword": "这就是我花一万买iPhone的意义", "heat": 350000}
     ],
     "weather": {
-      "temp": "26",
-      "weather": "Partly cloudy",
-      "humidity": "65",
-      "wind": "25 km/h",
-      "forecast": [
-        {
-          "date": "2026-05-16",
-          "max": "26",
-          "min": "19",
-          "weather": "Sunny"
-        },
-        {
-          "date": "2026-05-17",
-          "max": "26",
-          "min": "19",
-          "weather": "Sunny"
-        },
-        {
-          "date": "2026-05-18",
-          "max": "26",
-          "min": "20",
-          "weather": "Overcast "
-        }
-      ]
-    }
-  },
-  "update_time": "2026/5/15 15:40:29"
+      "city": "北京",
+      "temperature": "31.8°C",
+      "humidity": "42%",
+      "weatherCode": 3,
+      "weatherDesc": "多云",
+      "windSpeed": "13.5 km/h",
+      "updateTime": "2026-05-15T16:00+08:00"
+    },
+    "bilibili": [
+      {"rank": 1, "title": "6月5日公测开启 | 《夜幕之下（代号砰砰）》定档PV首发！", "view": 1103966, "link": "https://b23.tv/BV1LE516ZEqd", "author": "夜幕之下_代号砰砰"},
+      {"rank": 2, "title": "我伟大的甲方，又来指导技术教学了", "view": 464490, "link": "https://b23.tv/BV1fM5R6xEDQ", "author": "老头们的快乐生活"},
+      {"rank": 3, "title": "同频Melody【BDF2026主题曲】", "view": 1889055, "link": "https://b23.tv/BV138516nEof", "author": "舞蹈区小锦鲤"}
+    ]
+  }
 }
