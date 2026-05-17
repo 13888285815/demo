@@ -1,125 +1,17 @@
 {
-  "updated_at": "2026-05-17T11:15:00+08:00",
-  "data": [
-    {
-      "rank": 1,
-      "title": "ピノキオピー - 歌姫失格 feat. 初音ミク",
-      "views": "153.4万",
-      "url": "https://www.bilibili.com/video/av116553718765633/"
-    },
-    {
-      "rank": 2,
-      "title": "我一定会找到完美时间线的",
-      "views": "371.0万",
-      "url": "https://www.bilibili.com/video/av116566704332037/"
-    },
-    {
-      "rank": 3,
-      "title": "我伟大的甲方，又来指导技术教学了",
-      "views": "340.5万",
-      "url": "https://www.bilibili.com/video/av116573801023235/"
-    },
-    {
-      "rank": 4,
-      "title": "地牢酒馆-07集 薇薇安的配方与艾拉的新裙子",
-      "views": "292.9万",
-      "url": "https://www.bilibili.com/video/av116568096768319/"
-    },
-    {
-      "rank": 5,
-      "title": "《原神》尼可角色PV——缄口的金弦",
-      "views": "257.9万",
-      "url": "https://www.bilibili.com/video/av116566670709136/"
-    },
-    {
-      "rank": 6,
-      "title": "火漆套色｜无神论者",
-      "views": "214.9万",
-      "url": "https://www.bilibili.com/video/av116575193535666/"
-    },
-    {
-      "rank": 7,
-      "title": "旧说唱乐队第三弹巅峰之作",
-      "views": "275.7万",
-      "url": "https://www.bilibili.com/video/av116560547088411/"
-    },
-    {
-      "rank": 8,
-      "title": "6月5日公测开启 | 《夜幕之下》定档PV首发",
-      "views": "703.8万",
-      "url": "https://www.bilibili.com/video/av116566972696321/"
-    },
-    {
-      "rank": 9,
-      "title": "《ENEMY》主创最新作品预告",
-      "views": "242.1万",
-      "url": "https://www.bilibili.com/video/av116577743737328/"
-    },
-    {
-      "rank": 10,
-      "title": "热烈欢迎曲家瑞！",
-      "views": "126.6万",
-      "url": "https://www.bilibili.com/video/av116554859550855/"
-    },
-    {
-      "rank": 11,
-      "title": "我飞跃10000公里，重走权游路",
-      "views": "227.4万",
-      "url": "https://www.bilibili.com/video/av116577374573034/"
-    },
-    {
-      "rank": 12,
-      "title": "爱能克服彩礼，能克服恶魔，爱赢万难",
-      "views": "129.6万",
-      "url": "https://www.bilibili.com/video/av116571804602143/"
-    },
-    {
-      "rank": 13,
-      "title": "谁在做毒科普的帮凶？",
-      "views": "141.4万",
-      "url": "https://www.bilibili.com/video/av116577173380412/"
-    },
-    {
-      "rank": 14,
-      "title": "竹木复合弓保姆级制作教程（下）",
-      "views": "220.7万",
-      "url": "https://www.bilibili.com/video/av116567056647549/"
-    },
-    {
-      "rank": 15,
-      "title": "华强买瓜，但是低音炮",
-      "views": "286.0万",
-      "url": "https://www.bilibili.com/video/av116565177536443/"
-    },
-    {
-      "rank": 16,
-      "title": "史上最离谱海龟汤",
-      "views": "135.5万",
-      "url": "https://www.bilibili.com/video/av116572039420920/"
-    },
-    {
-      "rank": 17,
-      "title": "1天被蜇50次？养蜂人都在做什么？",
-      "views": "440.7万",
-      "url": "https://www.bilibili.com/video/av116571485773616/"
-    },
-    {
-      "rank": 18,
-      "title": "点进来看答辩",
-      "views": "466.7万",
-      "url": "https://www.bilibili.com/video/av116566637157320/"
-    },
-    {
-      "rank": 19,
-      "title": "你知道我们走的路也是有很多种叫法的吗？",
-      "views": "257.5万",
-      "url": "https://www.bilibili.com/video/av116576384847808/"
-    },
-    {
-      "rank": 20,
-      "title": "特朗普访华，背后有哪些信号？",
-      "views": "331.6万",
-      "url": "https://www.bilibili.com/video/av116566939141531/"
-    }
-  ]
+  "update_time": "2026-05-17T11:45:00+08:00",
+  "source": "Bilibili API (数据更新于5月15日，B站API当前维护中)",
+  "rankings": [
+    {"rank": 1, "title": "旧说唱乐队第三弹巅峰之作", "up": "高卫钧", "play": 1664839, "category": "音乐"},
+    {"rank": 2, "title": "「我一定会找到完美时间线的」", "up": "寅山", "play": 2737835, "category": "动画"},
+    {"rank": 3, "title": "数学家老田，已上线！！", "up": "田一名sir", "play": 3900909, "category": "趣味"},
+    {"rank": 4, "title": "地牢酒馆-05集「海族少女与血族的请求」", "up": "粘土工厂", "play": 2162971, "category": "动画"},
+    {"rank": 5, "title": "「原神」尼可角色PV——「缄口的金弦」", "up": "原神", "play": 2116915, "category": "游戏"},
+    {"rank": 6, "title": "点进来看答辩", "up": "老番茄", "play": 2748334, "category": "生活"},
+    {"rank": 7, "title": "色彩原理调色教程", "up": "七芊摄影", "play": 2166004, "category": "生活"},
+    {"rank": 8, "title": "武将无需多言，带何润东哥自律一天！", "up": "花小龙oy", "play": 2402852, "category": "生活"},
+    {"rank": 9, "title": "没有剑的进来", "up": "王若轻-", "play": 2987248, "category": "动画"},
+    {"rank": 10, "title": "⚡华强买瓜，但是低音炮⚡", "up": "快乐阿依", "play": 2229380, "category": "娱乐"}
+  ],
+  "note": "B站API暂时返回错误，数据参考5月15日排行榜"
 }
