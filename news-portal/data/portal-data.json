@@ -1,30 +1,150 @@
 {
-  "cctv_news": [
-    {"rank": 1, "title": ""三夏"有新知 冬油菜的夏季答卷", "source": "央视新闻"},
-    {"rank": 2, "title": "中国汽车专利公开量近十年持续全球领先", "source": "央视新闻"},
-    {"rank": 3, "title": "生活服务台：高血压饮食 牢记"一减一加"", "source": "央视新闻"}
-  ],
-  "weibo_hot": [
-    {"rank": 1, "keyword": "给阿嬷的情书 屏摄", "heat": 1500000},
-    {"rank": 2, "keyword": "特朗普警告台独", "heat": 950000},
-    {"rank": 3, "keyword": "以自强赴荣光", "heat": 680000},
-    {"rank": 4, "keyword": "咬壳吃荔枝 不上火", "heat": 600000},
-    {"rank": 5, "keyword": "苹果华为小米集体降价", "heat": 510000},
-    {"rank": 6, "keyword": "丝芭给黄婷婷剧组发警告函", "heat": 490000},
-    {"rank": 7, "keyword": "央视追踪四川大摆荡坠亡事件", "heat": 420000},
-    {"rank": 8, "keyword": "摄影师称摆拍女孩确为盲人", "heat": 340000},
-    {"rank": 9, "keyword": "卢昱晓道歉", "heat": 340000},
-    {"rank": 10, "keyword": "承德车内强奸案被告已上诉", "heat": 340000}
-  ],
-  "weather": {
-    "city": "北京", "temp": "18°C", "weather": "小雨, 雾", "humidity": "100%"
-  },
-  "bilibili_hot": [
-    {"rank": 1, "title": "三大运营商回应"即将免月租"", "heat": "323评"},
-    {"rank": 2, "title": "上市前被砍，小米 Air 超轻薄旗舰工程机规格曝光", "heat": "183评"},
-    {"rank": 3, "title": "张雪机车收获赛季第四冠", "heat": "326评"},
-    {"rank": 4, "title": "小米卢伟冰：今年下半年可能一些国产旗舰直板手机价格突破1万元", "heat": "361评"},
-    {"rank": 5, "title": "小米卢伟冰：玄戒芯片今年肯定会迭代", "heat": "324评"}
-  ],
-  "update_time": "2026-05-17 14:16:03"
+  "updateTime": "2026-05-03T16:55:00",
+  "data": {
+    "cctv": [
+      {
+        "title": "假期首日 高速新能源车充电量创新高",
+        "url": "https://tv.cctv.com/2026/05/03/VIDEZerjTM4txIruoUA7nVBu260503.shtml"
+      },
+      {
+        "title": "南方降雨范围缩减 局地需防范强对流天气",
+        "url": "https://tv.cctv.com/2026/05/03/VIDElhcd5G8pT7gmxqL4Xnng260503.shtml"
+      },
+      {
+        "title": "美国威胁制裁向伊朗缴通行费的航运企业",
+        "url": "https://tv.cctv.com/2026/05/03/VIDEYI8oRpo50jA8K5iYw1lc260503.shtml"
+      },
+      {
+        "title": "奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变",
+        "url": "https://news.cctv.com/"
+      },
+      {
+        "title": "山东舰辽宁舰双航母编队强硬回击外军舰机抵近侦察",
+        "url": "https://news.cctv.com/"
+      },
+      {
+        "title": "多个大国工程假期持续刷新进度条 推动高质量发展",
+        "url": "https://news.cctv.com/"
+      },
+      {
+        "title": "全国铁路五一假期首日预计发送旅客2480万人次",
+        "url": "https://news.cctv.com/"
+      },
+      {
+        "title": "亚洲最长地铁环线一期开通运营",
+        "url": "https://news.cctv.com/"
+      }
+    ],
+    "weibo": [
+      {
+        "rank": 1,
+        "keyword": "湖南广电 AI播新闻",
+        "heat": 1128586,
+        "hot": true
+      },
+      {
+        "rank": 2,
+        "keyword": "上科大39岁教授营救至亲溺水去世",
+        "heat": 830757,
+        "hot": false
+      },
+      {
+        "rank": 3,
+        "keyword": "这个五一假期惠民福利停不下来",
+        "heat": 663509,
+        "hot": true
+      },
+      {
+        "rank": 4,
+        "keyword": "白鹿被孟子义说挂相",
+        "heat": 650490,
+        "hot": true
+      },
+      {
+        "rank": 5,
+        "keyword": "把自己当成糖尿病人来吃饭",
+        "heat": 610735,
+        "hot": false
+      },
+      {
+        "rank": 6,
+        "keyword": "孙俪 我们家的狗装死把邓超吓晕了",
+        "heat": 565885,
+        "hot": false
+      },
+      {
+        "rank": 7,
+        "keyword": "大睡特睡 修复前额叶",
+        "heat": 480989,
+        "hot": false
+      },
+      {
+        "rank": 8,
+        "keyword": "河南蒜苔 再说原地址给你补五十斤",
+        "heat": 399543,
+        "hot": false
+      },
+      {
+        "rank": 9,
+        "keyword": "马龙许昕出发伦敦",
+        "heat": 390500,
+        "hot": true
+      },
+      {
+        "rank": 10,
+        "keyword": "榴莲价格",
+        "heat": 338099,
+        "hot": false
+      }
+    ],
+    "bilibili": [
+      {
+        "title": "线条重现中式美学世界",
+        "desc": "左右大大的创意作品",
+        "url": "https://www.bilibili.com/video/BV1KX9xBHE42"
+      },
+      {
+        "title": "极致还原Billie jean现场名场面",
+        "desc": "Billie Jackson经典现场定格动画",
+        "url": "https://www.bilibili.com/video/BV19K9CB1EoM"
+      },
+      {
+        "title": "当用学历代表网文中的战力境界",
+        "desc": "小明修仙传1-4合集",
+        "url": "https://www.bilibili.com/video/BV1Mo98BNEGP"
+      },
+      {
+        "title": "在意大利摆摊卖中餐",
+        "desc": "用烟火温暖异国日常",
+        "url": "https://www.bilibili.com/video/BV1Gu98BTEPg"
+      },
+      {
+        "title": "这一分半我录了3个月，能火吗？",
+        "desc": "Fadedbook历时3个月创意视频",
+        "url": "https://www.bilibili.com/video/BV1v49YBHESJ"
+      }
+    ],
+    "weather": {
+      "city": "北京",
+      "weather": "晴",
+      "temp": "13~23℃",
+      "current_temp": "21℃",
+      "humidity": "18%",
+      "wind": "北北西风 18km/h",
+      "sunrise": "05:13",
+      "sunset": "19:11",
+      "forecast": [
+        {
+          "date": "05-04",
+          "weather": "晴",
+          "temp": "14~29℃"
+        },
+        {
+          "date": "05-05",
+          "weather": "晴",
+          "temp": "17~34℃"
+        }
+      ]
+    }
+  }
 }

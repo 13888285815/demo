@@ -1,18 +1,16 @@
-[
-  {"rank": 1, "title": "给阿嬷的情书 屏摄", "hot": "热", "heat": 1500000},
-  {"rank": 2, "title": "特朗普警告台独", "hot": "热", "heat": 950000},
-  {"rank": 3, "title": "以自强赴荣光", "hot": "热", "heat": 680000},
-  {"rank": 4, "title": "咬壳吃荔枝 不上火", "hot": "热", "heat": 600000},
-  {"rank": 5, "title": "猫的树我找到你的新女主了", "hot": "热", "heat": 510000},
-  {"rank": 6, "title": "苹果华为小米集体降价", "hot": "热", "heat": 510000},
-  {"rank": 7, "title": "丝芭给黄婷婷剧组发警告函", "hot": "热", "heat": 490000},
-  {"rank": 8, "title": "台舆论称特朗普不许台独视美为靠山", "hot": "热", "heat": 480000},
-  {"rank": 9, "title": "央视追踪四川大摆荡坠亡事件", "hot": "热", "heat": 420000},
-  {"rank": 10, "title": "摄影师称摆拍女孩确为盲人", "hot": "", "heat": 340000},
-  {"rank": 11, "title": "卢昱晓道歉", "hot": "", "heat": 340000},
-  {"rank": 12, "title": "香蜜最后一帧原来是家业", "hot": "", "heat": 340000},
-  {"rank": 13, "title": "成毅让爱环绕", "hot": "", "heat": 340000},
-  {"rank": 14, "title": "承德车内强奸案被告已上诉", "hot": "", "heat": 340000},
-  {"rank": 15, "title": "陈泽综艺又没了", "hot": "", "heat": 340000},
-  {"rank": 16, "title": "疑似张元英抢金智媛C位", "hot": "", "heat": 340000}
-]
+{
+  "update_time": "2026-05-15T14:35:00+08:00",
+  "source": "微博热搜",
+  "hotList": [
+    {"rank": 1, "keyword": "奔跑吧打假", "heat": 1610000, "hot": true},
+    {"rank": 2, "keyword": "世乒赛男团澳大利亚变阵", "heat": 1420000, "hot": true},
+    {"rank": 3, "keyword": "广交会彰显中国制造硬核实力", "heat": 1390000, "hot": true},
+    {"rank": 4, "keyword": "你好星期六没有给张婧仪道歉", "heat": 1390000, "hot": true},
+    {"rank": 5, "keyword": "小猫还原自己摔伤过程", "heat": 1380000, "hot": true},
+    {"rank": 6, "keyword": "好多人给谢娜送花篮", "heat": 1330000, "hot": true},
+    {"rank": 7, "keyword": "长沙市委市政府致歉", "heat": 1140000, "hot": true},
+    {"rank": 8, "keyword": "第五人格年度发布会", "heat": 910000, "hot": false},
+    {"rank": 9, "keyword": "浏阳烟花厂爆炸致26死61伤", "heat": 810000, "hot": false},
+    {"rank": 10, "keyword": "以为低糖低油其实长肉的食物", "heat": 780000, "hot": false}
+  ]
+}
