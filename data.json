@@ -1,25 +1,25 @@
 {
-  "update_time": "2026/05/16 16:45:19",
+  "update_time": "2026/05/17 10:15:00",
   "data_source": "意念科技新闻门户",
   "sections": {
     "cctv_news": {
       "title": "央视新闻要闻",
       "items": [
         {
-          "title": "明天起国内航线燃油附加费上调",
-          "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
-          "date": "2026-05-16",
+          "title": "神舟二十三号计划近日择机实施发射",
+          "url": "https://tv.cctv.com/2026/05/17/VIDEgvbn4GIzcBRfA21nKkv4260517.shtml",
+          "date": "2026-05-17",
           "summary": ""
         },
         {
-          "title": "一季度职工基本医保缴费收入5981亿元",
-          "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
-          "date": "2026-05-16",
+          "title": "中央气象台继续发布暴雨黄色预警",
+          "url": "https://tv.cctv.com/2026/05/17/VIDEfmZMYvxrMiNGhmf4lJ0z260517.shtml",
+          "date": "2026-05-17",
           "summary": ""
         },
         {
-          "title": "老年旅客淡季优惠火车票开售",
-          "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
+          "title": "世界超级摩托车锦标赛 张雪机车夺第四冠",
+          "url": "https://tv.cctv.com/2026/05/16/VIDENpcncdnQr3QwU5uUH3JJ260516.shtml",
           "date": "2026-05-16",
           "summary": ""
         }
@@ -27,234 +27,53 @@
     },
     "weibo_hot": {
       "title": "微博热搜榜",
-      "update_time": "2026/05/16 16:45:19",
+      "update_time": "2026/05/17 10:15:00",
       "items": [
-        {
-          "rank": 1,
-          "keyword": "特朗普结束访华",
-          "heat": 4220924,
-          "hot": true
-        },
-        {
-          "rank": 2,
-          "keyword": "中美元首边走边谈",
-          "heat": 1224110,
-          "hot": false
-        },
-        {
-          "rank": 3,
-          "keyword": "跨越太平洋的握手",
-          "heat": 965666,
-          "hot": false
-        },
-        {
-          "rank": 4,
-          "keyword": "胡歌点赞方太新一代洗碗机",
-          "heat": 867511,
-          "hot": false
-        },
-        {
-          "rank": 5,
-          "keyword": "容易紧张是缺乏主体性",
-          "heat": 761176,
-          "hot": false
-        },
-        {
-          "rank": 6,
-          "keyword": "白玉兰评委名单",
-          "heat": 619891,
-          "hot": true
-        },
-        {
-          "rank": 7,
-          "keyword": "曝杨幂杨紫白玉兰二选一提名",
-          "heat": 616397,
-          "hot": false
-        },
-        {
-          "rank": 8,
-          "keyword": "雨霖铃国剧武侠热血天花板",
-          "heat": 615559,
-          "hot": false
-        },
-        {
-          "rank": 9,
-          "keyword": "中美元首中南海小范围会晤高清大图",
-          "heat": 614246,
-          "hot": false
-        },
-        {
-          "rank": 10,
-          "keyword": "名侦探柯南",
-          "heat": 605518,
-          "hot": false
-        },
-        {
-          "rank": 11,
-          "keyword": "三笘薫落选日本世界杯大名单",
-          "heat": 601980,
-          "hot": true
-        },
-        {
-          "rank": 12,
-          "keyword": "二孩家庭买SUV还是买MPV",
-          "heat": 594273,
-          "hot": true
-        },
-        {
-          "rank": 13,
-          "keyword": "横店的剧组快灭亡了",
-          "heat": 590692,
-          "hot": true
-        },
-        {
-          "rank": 14,
-          "keyword": "阿雅视频抄袭",
-          "heat": 581305,
-          "hot": true
-        },
-        {
-          "rank": 15,
-          "keyword": "这就是我花一万买iPhone的意义",
-          "heat": 575074,
-          "hot": false
-        },
-        {
-          "rank": 16,
-          "keyword": "温岚在ICU接受治疗",
-          "heat": 570747,
-          "hot": true
-        },
-        {
-          "rank": 17,
-          "keyword": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
-          "heat": 565321,
-          "hot": true
-        },
-        {
-          "rank": 18,
-          "keyword": "白宫发布中国仪仗队画面",
-          "heat": 555290,
-          "hot": false
-        },
-        {
-          "rank": 19,
-          "keyword": "iPhone华为同时降价",
-          "heat": 551408,
-          "hot": false
-        },
-        {
-          "rank": 20,
-          "keyword": "特朗普离京现场的中国军人",
-          "heat": 548439,
-          "hot": true
-        }
+        { "rank": 1, "keyword": "苹果华为小米集体降价", "heat": 2920000, "hot": true },
+        { "rank": 2, "keyword": "特朗普警告台独", "heat": 2230000, "hot": true },
+        { "rank": 3, "keyword": "中国式支付圈粉全球", "heat": 1410000, "hot": true },
+        { "rank": 4, "keyword": "让妈妈丢人的事顺手就做了", "heat": 1080000, "hot": false },
+        { "rank": 5, "keyword": "万千惠点名徐梦洁", "heat": 960000, "hot": false },
+        { "rank": 6, "keyword": "薛之谦说很开心盲道被撞是摆拍", "heat": 580000, "hot": false },
+        { "rank": 7, "keyword": "李冰冰亮相戛纳红毯", "heat": 500000, "hot": false },
+        { "rank": 8, "keyword": "榴莲等等党赢了", "heat": 500000, "hot": false },
+        { "rank": 9, "keyword": "21世纪大君夫人大结局", "heat": 440000, "hot": false },
+        { "rank": 10, "keyword": "遇到和已逝亲人很像的人是啥感觉", "heat": 440000, "hot": false },
+        { "rank": 11, "keyword": "Gucci大秀", "heat": 370000, "hot": false },
+        { "rank": 12, "keyword": "白鹿上车前突然跳了段舞", "heat": 370000, "hot": false },
+        { "rank": 13, "keyword": "狗狗啃了半年的抽屉还挺有设计感", "heat": 340000, "hot": false },
+        { "rank": 14, "keyword": "万千惠情商", "heat": 320000, "hot": false },
+        { "rank": 15, "keyword": "千户苗寨偶遇Angelababy", "heat": 300000, "hot": false },
+        { "rank": 16, "keyword": "日本担心中美关系稳定自己被晾在一边", "heat": 290000, "hot": false },
+        { "rank": 17, "keyword": "张凌赫随时带着自己的阿贝贝", "heat": 260000, "hot": false },
+        { "rank": 18, "keyword": "清华女博士丈夫雇人抢走2岁半儿子", "heat": 230000, "hot": false },
+        { "rank": 19, "keyword": "樊振东单手接球观众直呼好帅", "heat": 230000, "hot": false },
+        { "rank": 20, "keyword": "摆拍盲道被撞女生系百万粉丝网红", "heat": 230000, "hot": false }
       ]
     },
     "bilibili_hot": {
       "title": "B站热门视频",
-      "update_time": "2026/05/16 16:45:19",
+      "update_time": "2026/05/17 10:15:00",
       "items": [
-        {
-          "rank": 1,
-          "title": "旧说唱乐队第三弹巅峰之作",
-          "author": "高卫钧",
-          "play": 1664839,
-          "category": ""
-        },
-        {
-          "rank": 2,
-          "title": "“我一定会找到完美时间线的”",
-          "author": "寅山",
-          "play": 2737835,
-          "category": ""
-        },
-        {
-          "rank": 3,
-          "title": "数学家老田，已上线！！",
-          "author": "田一名sir",
-          "play": 3900909,
-          "category": ""
-        },
-        {
-          "rank": 4,
-          "title": "地牢酒馆-05集 《海族少女与血族的请求》",
-          "author": "粘土工厂",
-          "play": 2162971,
-          "category": ""
-        },
-        {
-          "rank": 5,
-          "title": "《原神》尼可角色PV——「缄口的金弦」",
-          "author": "原神",
-          "play": 2116915,
-          "category": ""
-        },
-        {
-          "rank": 6,
-          "title": "点进来看答辩",
-          "author": "老番茄",
-          "play": 2748334,
-          "category": ""
-        },
-        {
-          "rank": 7,
-          "title": "色彩原理调色教程",
-          "author": "七芊摄影",
-          "play": 2166004,
-          "category": ""
-        },
-        {
-          "rank": 8,
-          "title": "武将无需多言，带何润东哥自律一天！",
-          "author": "花小龙oy",
-          "play": 2402852,
-          "category": ""
-        },
-        {
-          "rank": 9,
-          "title": "没有剑的进来",
-          "author": "王若轻-",
-          "play": 2987248,
-          "category": ""
-        },
-        {
-          "rank": 10,
-          "title": "⚡华强买瓜，但是低音炮⚡",
-          "author": "快乐阿依",
-          "play": 2229380,
-          "category": ""
-        }
+        { "rank": 1, "title": "ピノキオピー - 歌姫失格 feat. 初音ミク", "author": "ピノキオピー_official", "play": 1503227, "category": "VOCALOID", "url": "https://b23.tv/BV1Fo5s6GEgK" },
+        { "rank": 2, "title": ""我一定会找到完美时间线的"", "author": "寅山", "play": 3689009, "category": "剧情演绎", "url": "https://b23.tv/BV1sC516rEPd" },
+        { "rank": 3, "title": "地牢酒馆-07集 《薇薇安的配方与艾拉的新裙子》", "author": "粘土工厂", "play": 2914662, "category": "单机游戏", "url": "https://b23.tv/BV1kt5266Et4" }
       ]
     },
     "weather": {
-      "title": "今日天气",
-      "update_time": "2026/05/16 16:45:19",
+      "title": "今日天气（上海）",
+      "update_time": "2026/05/17 10:15:00",
       "current": {
         "temp": "24",
-        "weather": "Sunny",
-        "humidity": "74",
-        "wind": "22 km/h"
+        "weather": "晴",
+        "humidity": "60",
+        "wind": "23 km/h SSE",
+        "feelsLike": "26"
       },
       "forecast": [
-        {
-          "date": "2026-05-15",
-          "max": "25",
-          "min": "19",
-          "weather": "Sunny"
-        },
-        {
-          "date": "2026-05-16",
-          "max": "26",
-          "min": "19",
-          "weather": "Sunny"
-        },
-        {
-          "date": "2026-05-17",
-          "max": "27",
-          "min": "19",
-          "weather": "Sunny"
-        }
+        { "date": "2026-05-15", "max": "25", "min": "19", "weather": "晴" },
+        { "date": "2026-05-16", "max": "26", "min": "19", "weather": "晴" },
+        { "date": "2026-05-17", "max": "27", "min": "19", "weather": "晴" }
       ]
     }
   }
