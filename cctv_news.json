@@ -1,24 +1,17 @@
-{
-  "update_time": "2026-05-17T11:45:00+08:00",
-  "source": "央视新闻 news.cctv.com",
-  "headlines": [
-    {
-      "title": "神舟二十三号计划近日择机实施发射",
-      "summary": "神舟二十三号载人飞船计划于近日在文昌航天发射场择机实施发射任务，这是中国载人航天工程的最新进展。",
-      "url": "https://tv.cctv.com/2026/05/17/VIDEgvbn4GIzcBRfA21nKkv4260517.shtml",
-      "category": "科技"
-    },
-    {
-      "title": "中央气象台继续发布暴雨黄色预警",
-      "summary": "中央气象台5月17日继续发布暴雨黄色预警，预计南方多地将出现大到暴雨天气，需注意防范。",
-      "url": "https://tv.cctv.com/2026/05/17/VIDEfmZMYvxrMiNGhmf4lJ0z260517.shtml",
-      "category": "天气"
-    },
-    {
-      "title": "世界超级摩托车锦标赛捷克站张雪机车夺冠",
-      "summary": "在2026世界超级摩托车锦标赛捷克站比赛中，中国选手张雪机车夺得赛季第四冠，创造历史。",
-      "url": "https://tv.cctv.com/2026/05/16/VIDENpcncdnQr3QwU5uUH3JJ260516.shtml",
-      "category": "体育"
-    }
-  ]
-}
+[
+  {
+    "title": "明天起国内航线燃油附加费上调",
+    "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "一季度职工基本医保缴费收入5981亿元",
+    "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
+    "date": "2026-05-15"
+  },
+  {
+    "title": "老年旅客淡季优惠火车票开售",
+    "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
+    "date": "2026-05-15"
+  }
+]

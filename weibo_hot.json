@@ -1,1 +1,122 @@
-[{"rank": 1, "keyword": "特朗普结束访华", "label": "热", "heat": 4220924}, {"rank": 2, "keyword": "中美元首边走边谈", "label": "", "heat": 1224110}, {"rank": 3, "keyword": "跨越太平洋的握手", "label": "", "heat": 965666}, {"rank": 4, "keyword": "胡歌点赞方太新一代洗碗机", "label": "", "heat": 867511}, {"rank": 5, "keyword": "容易紧张是缺乏主体性", "label": "", "heat": 761176}, {"rank": 6, "keyword": "白玉兰评委名单", "label": "新", "heat": 619891}, {"rank": 7, "keyword": "曝杨幂杨紫白玉兰二选一提名", "label": "", "heat": 616397}, {"rank": 8, "keyword": "雨霖铃国剧武侠热血天花板", "label": "", "heat": 615559}, {"rank": 9, "keyword": "中美元首中南海小范围会晤高清大图", "label": "", "heat": 614246}, {"rank": 10, "keyword": "名侦探柯南", "label": "", "heat": 605518}, {"rank": 11, "keyword": "三笘薫落选日本世界杯大名单", "label": "新", "heat": 601980}, {"rank": 12, "keyword": "二孩家庭买SUV还是买MPV", "label": "新", "heat": 594273}, {"rank": 13, "keyword": "横店的剧组快灭亡了", "label": "热", "heat": 590692}, {"rank": 14, "keyword": "阿雅视频抄袭", "label": "新", "heat": 581305}, {"rank": 15, "keyword": "这就是我花一万买iPhone的意义", "label": "", "heat": 575074}, {"rank": 16, "keyword": "温岚在ICU接受治疗", "label": "新", "heat": 570747}, {"rank": 17, "keyword": "一只熊吃掉了40磅冰淇淋后昏迷了两天", "label": "新", "heat": 565321}, {"rank": 18, "keyword": "白宫发布中国仪仗队画面", "label": "", "heat": 555290}, {"rank": 19, "keyword": "iPhone华为同时降价", "label": "", "heat": 551408}, {"rank": 20, "keyword": "特朗普离京现场的中国军人", "label": "新", "heat": 548439}]
+[
+  {
+    "rank": 1,
+    "keyword": "特朗普结束访华",
+    "heat": "422.0万",
+    "label": "热"
+  },
+  {
+    "rank": 2,
+    "keyword": "中美元首边走边谈",
+    "heat": "122.0万",
+    "label": ""
+  },
+  {
+    "rank": 3,
+    "keyword": "跨越太平洋的握手",
+    "heat": "97.0万",
+    "label": ""
+  },
+  {
+    "rank": 4,
+    "keyword": "胡歌点赞方太新一代洗碗机",
+    "heat": "87.0万",
+    "label": ""
+  },
+  {
+    "rank": 5,
+    "keyword": "容易紧张是缺乏主体性",
+    "heat": "76.0万",
+    "label": ""
+  },
+  {
+    "rank": 6,
+    "keyword": "白玉兰评委名单",
+    "heat": "62.0万",
+    "label": "新"
+  },
+  {
+    "rank": 7,
+    "keyword": "曝杨幂杨紫白玉兰二选一提名",
+    "heat": "62.0万",
+    "label": ""
+  },
+  {
+    "rank": 8,
+    "keyword": "雨霖铃国剧武侠热血天花板",
+    "heat": "62.0万",
+    "label": ""
+  },
+  {
+    "rank": 9,
+    "keyword": "中美元首中南海小范围会晤高清大图",
+    "heat": "61.0万",
+    "label": ""
+  },
+  {
+    "rank": 10,
+    "keyword": "名侦探柯南",
+    "heat": "61.0万",
+    "label": ""
+  },
+  {
+    "rank": 11,
+    "keyword": "三笘薫落选日本世界杯大名单",
+    "heat": "60.0万",
+    "label": "新"
+  },
+  {
+    "rank": 12,
+    "keyword": "二孩家庭买SUV还是买MPV",
+    "heat": "59.0万",
+    "label": "新"
+  },
+  {
+    "rank": 13,
+    "keyword": "横店的剧组快灭亡了",
+    "heat": "59.0万",
+    "label": "热"
+  },
+  {
+    "rank": 14,
+    "keyword": "阿雅视频抄袭",
+    "heat": "58.0万",
+    "label": "新"
+  },
+  {
+    "rank": 15,
+    "keyword": "这就是我花一万买iPhone的意义",
+    "heat": "58.0万",
+    "label": ""
+  },
+  {
+    "rank": 16,
+    "keyword": "温岚在ICU接受治疗",
+    "heat": "57.0万",
+    "label": "新"
+  },
+  {
+    "rank": 17,
+    "keyword": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
+    "heat": "57.0万",
+    "label": "新"
+  },
+  {
+    "rank": 18,
+    "keyword": "白宫发布中国仪仗队画面",
+    "heat": "56.0万",
+    "label": ""
+  },
+  {
+    "rank": 19,
+    "keyword": "iPhone华为同时降价",
+    "heat": "55.0万",
+    "label": ""
+  },
+  {
+    "rank": 20,
+    "keyword": "特朗普离京现场的中国军人",
+    "heat": "55.0万",
+    "label": "新"
+  }
+]

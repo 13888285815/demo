@@ -1,32 +1,10 @@
 {
-  "source": "wttr.in",
-  "fetched_at": "2026-05-17T04:46:00Z",
-  "location": "Beijing",
-  "current": {
-    "temp_C": "18",
-    "weather": "Overcast",
-    "humidity": "100",
-    "wind": "5 km/h",
-    "feels_like": "18"
-  },
-  "forecast": [
-    {
-      "date": "2026-05-17",
-      "max": "18",
-      "min": "17",
-      "weather": "Light rain"
-    },
-    {
-      "date": "2026-05-18",
-      "max": "27",
-      "min": "17",
-      "weather": "Sunny"
-    },
-    {
-      "date": "2026-05-19",
-      "max": "26",
-      "min": "19",
-      "weather": "Cloudy"
-    }
-  ]
+  "city": "上海",
+  "date": "2026-05-17",
+  "temp": "27°C",
+  "feelsLike": "27°C",
+  "humidity": "54%",
+  "weather": "Partly cloudy",
+  "wind": "23 km/h",
+  "source": "wttr.in"
 }
