@@ -1,16 +1,122 @@
-{
-  "update_time": "2026-05-15T14:35:00+08:00",
-  "source": "微博热搜",
-  "hotList": [
-    {"rank": 1, "keyword": "奔跑吧打假", "heat": 1610000, "hot": true},
-    {"rank": 2, "keyword": "世乒赛男团澳大利亚变阵", "heat": 1420000, "hot": true},
-    {"rank": 3, "keyword": "广交会彰显中国制造硬核实力", "heat": 1390000, "hot": true},
-    {"rank": 4, "keyword": "你好星期六没有给张婧仪道歉", "heat": 1390000, "hot": true},
-    {"rank": 5, "keyword": "小猫还原自己摔伤过程", "heat": 1380000, "hot": true},
-    {"rank": 6, "keyword": "好多人给谢娜送花篮", "heat": 1330000, "hot": true},
-    {"rank": 7, "keyword": "长沙市委市政府致歉", "heat": 1140000, "hot": true},
-    {"rank": 8, "keyword": "第五人格年度发布会", "heat": 910000, "hot": false},
-    {"rank": 9, "keyword": "浏阳烟花厂爆炸致26死61伤", "heat": 810000, "hot": false},
-    {"rank": 10, "keyword": "以为低糖低油其实长肉的食物", "heat": 780000, "hot": false}
-  ]
-}
+[
+  {
+    "rank": 1,
+    "keyword": "歌手首发阵容",
+    "hot": "",
+    "heat": 1145617
+  },
+  {
+    "rank": 2,
+    "keyword": "中方宣布普京访华日期",
+    "hot": "",
+    "heat": 834981
+  },
+  {
+    "rank": 3,
+    "keyword": "一季度数字产业实现收入9.5万亿元",
+    "hot": "",
+    "heat": 752666
+  },
+  {
+    "rank": 4,
+    "keyword": "百事巨星",
+    "hot": "",
+    "heat": 739011
+  },
+  {
+    "rank": 5,
+    "keyword": "李昀锐白鹿跑男十指相扣",
+    "hot": "",
+    "heat": 725355
+  },
+  {
+    "rank": 6,
+    "keyword": "这几类衣服普通人尽量不要买",
+    "hot": "",
+    "heat": 718051
+  },
+  {
+    "rank": 7,
+    "keyword": "盲人女孩盲道被撞系自导自演",
+    "hot": "",
+    "heat": 695308
+  },
+  {
+    "rank": 8,
+    "keyword": "鹿晗五哈哭了",
+    "hot": "",
+    "heat": 673303
+  },
+  {
+    "rank": 9,
+    "keyword": "王楚钦发博总结世乒赛",
+    "hot": "",
+    "heat": 648452
+  },
+  {
+    "rank": 10,
+    "keyword": "其实孩子在小时候已经报完恩了",
+    "hot": "",
+    "heat": 540018
+  },
+  {
+    "rank": 11,
+    "keyword": "巨力索具股价",
+    "hot": "",
+    "heat": 519160
+  },
+  {
+    "rank": 12,
+    "keyword": "丧假 上传证明",
+    "hot": "",
+    "heat": 517474
+  },
+  {
+    "rank": 13,
+    "keyword": "宋浩然整成李佳琦了",
+    "hot": "",
+    "heat": 515446
+  },
+  {
+    "rank": 14,
+    "keyword": "特朗普抵达美国现场画面",
+    "hot": "",
+    "heat": 511857
+  },
+  {
+    "rank": 15,
+    "keyword": "等等给孙俪买瑞士卷",
+    "hot": "",
+    "heat": 508439
+  },
+  {
+    "rank": 16,
+    "keyword": "房东发现女租客怀孕不让在家坐月子",
+    "hot": "",
+    "heat": 506136
+  },
+  {
+    "rank": 17,
+    "keyword": "女子穿着带有巨大吊牌旗袍街头拍照",
+    "hot": "",
+    "heat": 504032
+  },
+  {
+    "rank": 18,
+    "keyword": "林俊杰个人捐款200万",
+    "hot": "",
+    "heat": 502224
+  },
+  {
+    "rank": 19,
+    "keyword": "王一博个人捐款200万",
+    "hot": "",
+    "heat": 499647
+  },
+  {
+    "rank": 20,
+    "keyword": "多家酒店做不到床单一客一换",
+    "hot": "",
+    "heat": 435505
+  }
+]

@@ -1,30 +1,17 @@
-{
-  "update_time": "2026-05-15T14:35:00+08:00",
-  "source": "https://news.cctv.com/",
-  "news": [
-    {
-      "title": "明天起国内航线燃油附加费上调",
-      "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
-      "date": "2026-05-15",
-      "summary": "国内航线燃油附加费将于明日上调。"
-    },
-    {
-      "title": "一季度职工基本医保缴费收入5981亿元",
-      "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
-      "date": "2026-05-15",
-      "summary": "一季度职工基本医保缴费收入达5981亿元。"
-    },
-    {
-      "title": "老年旅客淡季优惠火车票开售",
-      "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
-      "date": "2026-05-15",
-      "summary": "老年旅客淡季优惠火车票已开始发售。"
-    },
-    {
-      "title": "利比亚发生大规模球迷骚乱 总理府遭纵火",
-      "url": "https://news.cctv.com/2026/05/15/ARTIbrYjHDpMdVXq12wwA3HJ260515.shtml",
-      "date": "2026-05-15",
-      "summary": "据利比亚方面14日消息，利首都的黎波里附近当晚发生大规模球迷骚乱，利总理府部分建筑遭纵火。"
-    }
-  ]
-}
+[
+  {
+    "title": "明天起国内航线燃油附加费上调",
+    "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
+    "time": "2026-05-15"
+  },
+  {
+    "title": "一季度职工基本医保缴费收入5981亿元",
+    "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
+    "time": "2026-05-15"
+  },
+  {
+    "title": "老年旅客淡季优惠火车票开售",
+    "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
+    "time": "2026-05-15"
+  }
+]
