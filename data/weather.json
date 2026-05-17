@@ -1,14 +1,31 @@
 {
-  "city": "北京",
-  "temp": "18°C",
-  "feels_like": "18°C",
-  "weather": "小雨, 雾",
-  "humidity": "100%",
-  "wind": "东风 5km/h",
-  "visibility": "2km",
-  "precipitation": "1.6mm",
-  "uv_index": 1,
-  "date": "2026-05-17",
-  "sunrise": "04:58",
-  "sunset": "19:25"
+  "source": "wttr.in",
+  "fetched_at": "2026-05-17T07:46:15Z",
+  "location": "Shanghai",
+  "current": {
+    "temp_C": "29",
+    "weather": "Sunny",
+    "humidity": "45",
+    "wind": "30 km/h"
+  },
+  "forecast": [
+    {
+      "date": "2026-05-17",
+      "max": "27",
+      "min": "19",
+      "weather": "Sunny"
+    },
+    {
+      "date": "2026-05-18",
+      "max": "26",
+      "min": "20",
+      "weather": "Sunny"
+    },
+    {
+      "date": "2026-05-19",
+      "max": "22",
+      "min": "19",
+      "weather": "Light rain"
+    }
+  ]
 }
