@@ -1,13 +1,16 @@
 {
-  "city": "北京",
-  "date": "2026-05-17",
-  "temp": "18°C",
-  "feelsLike": "18°C",
-  "humidity": "87%",
-  "weather": "零星小雨",
-  "wind": "东风 7km/h",
-  "visibility": "10km",
-  "pressure": "1014hPa",
-  "sunrise": "04:58",
-  "sunset": "19:25"
+  "updated_at": "2026-05-17T11:15:00+08:00",
+  "data": {
+    "city": "北京",
+    "temp_c": 18,
+    "feels_like_c": 18,
+    "humidity": "94%",
+    "condition": "小雨/薄雾",
+    "wind": "东北偏东风 5km/h",
+    "visibility": "4km",
+    "precipitation": "0.8mm",
+    "date": "2026-05-17",
+    "sunrise": "04:58",
+    "sunset": "19:25"
+  }
 }
