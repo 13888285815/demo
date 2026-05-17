@@ -1,6 +1,5 @@
 {
-  "updateTime": "2026-05-17T16:52:26+08:00",
-  "timestamp": 1779007946,
+  "updateTime": "2026-05-17T17:48:25+08:00",
   "data": {
     "cctv": [
       {
@@ -162,106 +161,96 @@
       }
     ],
     "weather": {
-      "city": "北京",
-      "date": "2026-05-17",
-      "temp": "19°C",
-      "feelsLike": "19°C",
-      "humidity": "94%",
-      "weather": "Light Rain, Rain",
-      "wind": "E 4km/h",
-      "visibility": "7km",
-      "pressure": "1011hPa"
+      "source": "wttr.in",
+      "fetched_at": "2026-05-17T09:46:25Z",
+      "location": "Shanghai",
+      "current": {
+        "temp_C": "25",
+        "weather": "Sunny",
+        "humidity": "57",
+        "wind": "28 km/h"
+      },
+      "forecast": [
+        {
+          "date": "2026-05-17",
+          "max": "27",
+          "min": "19",
+          "weather": "Sunny"
+        },
+        {
+          "date": "2026-05-18",
+          "max": "26",
+          "min": "20",
+          "weather": "Sunny"
+        },
+        {
+          "date": "2026-05-19",
+          "max": "22",
+          "min": "19",
+          "weather": "Light rain"
+        }
+      ]
     },
     "bilibili": [
       {
         "rank": 1,
         "title": "ピノキオピー - 歌姫失格 feat. 初音ミク",
-        "play": "172.6万",
-        "url": "https://www.bilibili.com/video/BV1Fo5s6GEgK"
+        "play": "1645883",
+        "url": "https://www.bilibili.com/video/av"
       },
       {
         "rank": 2,
         "title": "我伟大的甲方，又来指导技术教学了，哈啊哈哈哈，本视频由libtv赞助算力 #程序员 #打工人 #职场 #LibTV制作 #哩布哩布",
-        "play": "354.9万",
-        "url": "https://www.bilibili.com/video/BV1fM5R6xEDQ"
+        "play": "3446588",
+        "url": "https://www.bilibili.com/video/av"
       },
       {
         "rank": 3,
         "title": "火漆套色｜无神论者｜众神时代的流光溢彩与纸醉金迷的浪漫主义",
-        "play": "220.4万",
-        "url": "https://www.bilibili.com/video/BV18b5a6CETL"
+        "play": "2174007",
+        "url": "https://www.bilibili.com/video/av"
       },
       {
         "rank": 4,
         "title": "如何让字“皆若空游无所依”写字在1:28",
-        "play": "193.5万",
-        "url": "https://www.bilibili.com/video/BV1kJ5k68EjR"
+        "play": "1911775",
+        "url": "https://www.bilibili.com/video/av"
       },
       {
         "rank": 5,
         "title": "6月5日公测开启 | 《夜幕之下（代号砰砰）》定档PV首发！",
-        "play": "769.9万",
-        "url": "https://www.bilibili.com/video/BV1LE516ZEqd"
+        "play": "7704545",
+        "url": "https://www.bilibili.com/video/av"
       },
       {
         "rank": 6,
-        "title": "地牢酒馆-07集 《薇薇安的配方与艾拉的新裙子》",
-        "play": "302.0万",
-        "url": "https://www.bilibili.com/video/BV1kt5266Et4"
+        "title": "地牢酒馆-08集 《史莱姆与角斗场》",
+        "play": "1842119",
+        "url": "https://www.bilibili.com/video/av"
       },
       {
         "rank": 7,
         "title": "《ENEMY》主创最新作品预告",
-        "play": "256.6万",
-        "url": "https://www.bilibili.com/video/BV1nY5v6BE2e"
+        "play": "2505263",
+        "url": "https://www.bilibili.com/video/av"
       },
       {
         "rank": 8,
-        "title": "“我一定会找到完美时间线的”",
-        "play": "384.2万",
-        "url": "https://www.bilibili.com/video/BV1sC516rEPd"
+        "title": "你知道我们走的路也是有很多种叫法的吗？#传统文化 #文脉里的中国 #3d动画科普 #文字 #涨知识",
+        "play": "3500301",
+        "url": "https://www.bilibili.com/video/av"
       },
       {
         "rank": 9,
-        "title": "旧说唱乐队第三弹巅峰之作",
-        "play": "283.1万",
-        "url": "https://www.bilibili.com/video/BV1fW5M6fEBw"
+        "title": "“我一定会找到完美时间线的”",
+        "play": "2345713",
+        "url": "https://www.bilibili.com/video/av"
       },
       {
         "rank": 10,
-        "title": "你知道我们走的路也是有很多种叫法的吗？#传统文化 #文脉里的中国 #3d动画科普 #文字 #涨知识",
-        "play": "353.3万",
-        "url": "https://www.bilibili.com/video/BV15n5e6ZEwL"
-      },
-      {
-        "rank": 11,
         "title": "我飞跃10000公里，重走权游路，圆一个骑士梦",
-        "play": "265.4万",
-        "url": "https://www.bilibili.com/video/BV1mc5i6EEHo"
-      },
-      {
-        "rank": 12,
-        "title": "谁在做“毒科普”的帮凶？",
-        "play": "161.2万",
-        "url": "https://www.bilibili.com/video/BV1XA5Y6nE2f"
-      },
-      {
-        "rank": 13,
-        "title": "爱能克服彩礼，能克服恶魔，爱赢万难",
-        "play": "132.6万",
-        "url": "https://www.bilibili.com/video/BV1UA5Q6AEqs"
-      },
-      {
-        "rank": 14,
-        "title": "史上最离谱海龟汤",
-        "play": "141.9万",
-        "url": "https://www.bilibili.com/video/BV1wP5R6FEQ6"
-      },
-      {
-        "rank": 15,
-        "title": "1天被蜇50次？养蜂人都在做什么？",
-        "play": "459.0万",
-        "url": "https://www.bilibili.com/video/BV1GB5Q6uEDk"
+        "play": "2585859",
+        "url": "https://www.bilibili.com/video/av"
       }
     ]
   }
