@@ -1,236 +1,262 @@
 {
-  "updated_at": "2026-05-17T11:15:00+08:00",
-  "cctv_news": {
-    "world": [
-      {
-        "title": "卡桑旅确认其指挥官哈达德在以色列袭击中丧生",
-        "desc": "巴勒斯坦伊斯兰抵抗运动（哈马斯）下属武装派别卡桑旅16日正式确认，其指挥官伊兹丁·哈达德在以色列对加沙地带的袭击中身亡。",
-        "url": "https://news.cctv.com/2026/05/17/ARTICkJChfCezOV6Ykab60FA260517.shtml"
-      }
-    ],
-    "china": [
-      {
-        "title": "一次开药管仨月！慢性病长期处方新政落地",
-        "desc": "长期处方主要面向诊断明确、用药方案稳定、平时吃药很规律、病情控制得不错、需要长期用药的慢性病患者。",
-        "url": "https://news.cctv.com/2026/05/16/ARTIhjPjaNGCAEUxv7KerM6N260516.shtml"
-      }
-    ]
-  },
-  "weibo_hot": [
-    {
-      "rank": 1,
-      "title": "苹果华为小米集体降价",
-      "heat": "292万"
+  "update_time": "2026/05/17 12:46:00",
+  "data_source": "意念科技新闻门户",
+  "sections": {
+    "cctv_news": {
+      "title": "央视新闻要闻",
+      "items": [
+        {
+          "title": "明天起国内航线燃油附加费上调",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
+          "date": "2026-05-17",
+          "summary": ""
+        },
+        {
+          "title": "一季度职工基本医保缴费收入5981亿元",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
+          "date": "2026-05-17",
+          "summary": ""
+        },
+        {
+          "title": "老年旅客淡季优惠火车票开售",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
+          "date": "2026-05-17",
+          "summary": ""
+        }
+      ]
     },
-    {
-      "rank": 2,
-      "title": "特朗普警告台独",
-      "heat": "223万"
+    "weibo_hot": {
+      "title": "微博热搜榜",
+      "update_time": "2026/05/17 12:46:00",
+      "items": [
+        {
+          "rank": 1,
+          "keyword": "特朗普结束访华",
+          "heat": 4220924,
+          "hot": true
+        },
+        {
+          "rank": 2,
+          "keyword": "中美元首边走边谈",
+          "heat": 1224110,
+          "hot": false
+        },
+        {
+          "rank": 3,
+          "keyword": "跨越太平洋的握手",
+          "heat": 965666,
+          "hot": false
+        },
+        {
+          "rank": 4,
+          "keyword": "胡歌点赞方太新一代洗碗机",
+          "heat": 867511,
+          "hot": false
+        },
+        {
+          "rank": 5,
+          "keyword": "容易紧张是缺乏主体性",
+          "heat": 761176,
+          "hot": false
+        },
+        {
+          "rank": 6,
+          "keyword": "白玉兰评委名单",
+          "heat": 619891,
+          "hot": true
+        },
+        {
+          "rank": 7,
+          "keyword": "曝杨幂杨紫白玉兰二选一提名",
+          "heat": 616397,
+          "hot": false
+        },
+        {
+          "rank": 8,
+          "keyword": "雨霖铃国剧武侠热血天花板",
+          "heat": 615559,
+          "hot": false
+        },
+        {
+          "rank": 9,
+          "keyword": "中美元首中南海小范围会晤高清大图",
+          "heat": 614246,
+          "hot": false
+        },
+        {
+          "rank": 10,
+          "keyword": "名侦探柯南",
+          "heat": 605518,
+          "hot": false
+        },
+        {
+          "rank": 11,
+          "keyword": "三笘薫落选日本世界杯大名单",
+          "heat": 601980,
+          "hot": true
+        },
+        {
+          "rank": 12,
+          "keyword": "二孩家庭买SUV还是买MPV",
+          "heat": 594273,
+          "hot": true
+        },
+        {
+          "rank": 13,
+          "keyword": "横店的剧组快灭亡了",
+          "heat": 590692,
+          "hot": true
+        },
+        {
+          "rank": 14,
+          "keyword": "阿雅视频抄袭",
+          "heat": 581305,
+          "hot": true
+        },
+        {
+          "rank": 15,
+          "keyword": "这就是我花一万买iPhone的意义",
+          "heat": 575074,
+          "hot": false
+        },
+        {
+          "rank": 16,
+          "keyword": "温岚在ICU接受治疗",
+          "heat": 570747,
+          "hot": true
+        },
+        {
+          "rank": 17,
+          "keyword": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
+          "heat": 565321,
+          "hot": true
+        },
+        {
+          "rank": 18,
+          "keyword": "白宫发布中国仪仗队画面",
+          "heat": 555290,
+          "hot": false
+        },
+        {
+          "rank": 19,
+          "keyword": "iPhone华为同时降价",
+          "heat": 551408,
+          "hot": false
+        },
+        {
+          "rank": 20,
+          "keyword": "特朗普离京现场的中国军人",
+          "heat": 548439,
+          "hot": true
+        }
+      ]
     },
-    {
-      "rank": 3,
-      "title": "中国式支付圈粉全球",
-      "heat": "141万"
+    "bilibili_hot": {
+      "title": "B站热门视频",
+      "update_time": "2026/05/17 12:46:00",
+      "items": [
+        {
+          "rank": 1,
+          "title": "ピノキオピー - 歌姫失格 feat. 初音ミク",
+          "author": "ピノキオピー_official",
+          "play": 1488146,
+          "category": "音乐"
+        },
+        {
+          "rank": 2,
+          "title": "我伟大的甲方，又来指导技术教学了",
+          "author": "老头们的快乐生活",
+          "play": 3325485,
+          "category": "知识"
+        },
+        {
+          "rank": 3,
+          "title": "“我一定会找到完美时间线的”",
+          "author": "寅山",
+          "play": 2951147,
+          "category": "动画"
+        },
+        {
+          "rank": 4,
+          "title": "地牢酒馆-07集 《薇薇安的配方与艾拉的新裙子》",
+          "author": "粘土工厂",
+          "play": 2356468,
+          "category": "动画"
+        },
+        {
+          "rank": 5,
+          "title": "⚡华强买瓜，但是低音炮⚡",
+          "author": "快乐阿依",
+          "play": 2229380,
+          "category": "娱乐"
+        },
+        {
+          "rank": 6,
+          "title": "旧说唱乐队第三弹巅峰之作",
+          "author": "高卫钧",
+          "play": 1664839,
+          "category": "音乐"
+        },
+        {
+          "rank": 7,
+          "title": "数学家老田，已上线！！",
+          "author": "田一名sir",
+          "play": 3900909,
+          "category": "知识"
+        },
+        {
+          "rank": 8,
+          "title": "《原神》尼可角色PV——「缄口的金弦」",
+          "author": "原神",
+          "play": 2116915,
+          "category": "游戏"
+        },
+        {
+          "rank": 9,
+          "title": "点进来看答辩",
+          "author": "老番茄",
+          "play": 2748334,
+          "category": "游戏"
+        },
+        {
+          "rank": 10,
+          "title": "色彩原理调色教程",
+          "author": "七芊摄影",
+          "play": 2166004,
+          "category": "知识"
+        }
+      ]
     },
-    {
-      "rank": 4,
-      "title": "让妈妈丢人的事顺手就做了",
-      "heat": "108万"
-    },
-    {
-      "rank": 5,
-      "title": "万千惠点名徐梦洁",
-      "heat": "96万"
-    },
-    {
-      "rank": 6,
-      "title": "薛之谦说很开心盲道被撞是摆拍",
-      "heat": "58万"
-    },
-    {
-      "rank": 7,
-      "title": "李冰冰亮相戛纳红毯",
-      "heat": "50万"
-    },
-    {
-      "rank": 8,
-      "title": "榴莲等等党赢了",
-      "heat": "50万"
-    },
-    {
-      "rank": 9,
-      "title": "21世纪大君夫人大结局",
-      "heat": "44万"
-    },
-    {
-      "rank": 10,
-      "title": "遇到和已逝亲人很像的人是啥感觉",
-      "heat": "44万"
-    },
-    {
-      "rank": 11,
-      "title": "Gucci大秀",
-      "heat": "37万"
-    },
-    {
-      "rank": 12,
-      "title": "白鹿上车前突然跳了段舞",
-      "heat": "37万"
-    },
-    {
-      "rank": 13,
-      "title": "狗狗啃了半年的抽屉还挺有设计感",
-      "heat": "34万"
-    },
-    {
-      "rank": 14,
-      "title": "万千惠情商",
-      "heat": "32万"
-    },
-    {
-      "rank": 15,
-      "title": "千户苗寨偶遇Angelababy",
-      "heat": "30万"
-    },
-    {
-      "rank": 16,
-      "title": "日本担心中美关系稳定自己被晾在一边",
-      "heat": "29万"
+    "weather": {
+      "title": "今日天气（北京）",
+      "update_time": "2026/05/17 12:46:00",
+      "current": {
+        "temp": "18",
+        "weather": "Overcast",
+        "humidity": "100",
+        "wind": "5 km/h",
+        "feels_like": "18"
+      },
+      "forecast": [
+        {
+          "date": "2026-05-17",
+          "max": "18",
+          "min": "17",
+          "weather": "Light rain"
+        },
+        {
+          "date": "2026-05-18",
+          "max": "27",
+          "min": "17",
+          "weather": "Sunny"
+        },
+        {
+          "date": "2026-05-19",
+          "max": "26",
+          "min": "19",
+          "weather": "Cloudy"
+        }
+      ]
     }
-  ],
-  "weather": {
-    "city": "北京",
-    "temp_c": 18,
-    "feels_like_c": 18,
-    "humidity": "94%",
-    "condition": "小雨/薄雾",
-    "wind": "东北偏东风 5km/h",
-    "visibility": "4km",
-    "precipitation": "0.8mm",
-    "date": "2026-05-17",
-    "sunrise": "04:58",
-    "sunset": "19:25"
-  },
-  "bilibili_hot": [
-    {
-      "rank": 1,
-      "title": "ピノキオピー - 歌姫失格 feat. 初音ミク",
-      "views": "153.4万",
-      "url": "https://www.bilibili.com/video/av116553718765633/"
-    },
-    {
-      "rank": 2,
-      "title": "我一定会找到完美时间线的",
-      "views": "371.0万",
-      "url": "https://www.bilibili.com/video/av116566704332037/"
-    },
-    {
-      "rank": 3,
-      "title": "我伟大的甲方，又来指导技术教学了",
-      "views": "340.5万",
-      "url": "https://www.bilibili.com/video/av116573801023235/"
-    },
-    {
-      "rank": 4,
-      "title": "地牢酒馆-07集 薇薇安的配方与艾拉的新裙子",
-      "views": "292.9万",
-      "url": "https://www.bilibili.com/video/av116568096768319/"
-    },
-    {
-      "rank": 5,
-      "title": "《原神》尼可角色PV——缄口的金弦",
-      "views": "257.9万",
-      "url": "https://www.bilibili.com/video/av116566670709136/"
-    },
-    {
-      "rank": 6,
-      "title": "火漆套色｜无神论者",
-      "views": "214.9万",
-      "url": "https://www.bilibili.com/video/av116575193535666/"
-    },
-    {
-      "rank": 7,
-      "title": "旧说唱乐队第三弹巅峰之作",
-      "views": "275.7万",
-      "url": "https://www.bilibili.com/video/av116560547088411/"
-    },
-    {
-      "rank": 8,
-      "title": "6月5日公测开启 | 《夜幕之下》定档PV首发",
-      "views": "703.8万",
-      "url": "https://www.bilibili.com/video/av116566972696321/"
-    },
-    {
-      "rank": 9,
-      "title": "《ENEMY》主创最新作品预告",
-      "views": "242.1万",
-      "url": "https://www.bilibili.com/video/av116577743737328/"
-    },
-    {
-      "rank": 10,
-      "title": "热烈欢迎曲家瑞！",
-      "views": "126.6万",
-      "url": "https://www.bilibili.com/video/av116554859550855/"
-    },
-    {
-      "rank": 11,
-      "title": "我飞跃10000公里，重走权游路",
-      "views": "227.4万",
-      "url": "https://www.bilibili.com/video/av116577374573034/"
-    },
-    {
-      "rank": 12,
-      "title": "爱能克服彩礼，能克服恶魔，爱赢万难",
-      "views": "129.6万",
-      "url": "https://www.bilibili.com/video/av116571804602143/"
-    },
-    {
-      "rank": 13,
-      "title": "谁在做毒科普的帮凶？",
-      "views": "141.4万",
-      "url": "https://www.bilibili.com/video/av116577173380412/"
-    },
-    {
-      "rank": 14,
-      "title": "竹木复合弓保姆级制作教程（下）",
-      "views": "220.7万",
-      "url": "https://www.bilibili.com/video/av116567056647549/"
-    },
-    {
-      "rank": 15,
-      "title": "华强买瓜，但是低音炮",
-      "views": "286.0万",
-      "url": "https://www.bilibili.com/video/av116565177536443/"
-    },
-    {
-      "rank": 16,
-      "title": "史上最离谱海龟汤",
-      "views": "135.5万",
-      "url": "https://www.bilibili.com/video/av116572039420920/"
-    },
-    {
-      "rank": 17,
-      "title": "1天被蜇50次？养蜂人都在做什么？",
-      "views": "440.7万",
-      "url": "https://www.bilibili.com/video/av116571485773616/"
-    },
-    {
-      "rank": 18,
-      "title": "点进来看答辩",
-      "views": "466.7万",
-      "url": "https://www.bilibili.com/video/av116566637157320/"
-    },
-    {
-      "rank": 19,
-      "title": "你知道我们走的路也是有很多种叫法的吗？",
-      "views": "257.5万",
-      "url": "https://www.bilibili.com/video/av116576384847808/"
-    },
-    {
-      "rank": 20,
-      "title": "特朗普访华，背后有哪些信号？",
-      "views": "331.6万",
-      "url": "https://www.bilibili.com/video/av116566939141531/"
-    }
-  ]
+  }
 }

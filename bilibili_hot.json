@@ -1,17 +1,41 @@
 {
-  "update_time": "2026-05-17T11:45:00+08:00",
-  "source": "Bilibili API (数据更新于5月15日，B站API当前维护中)",
+  "source": "Bilibili API",
+  "fetched_at": "2026-05-17T04:46:00Z",
   "rankings": [
-    {"rank": 1, "title": "旧说唱乐队第三弹巅峰之作", "up": "高卫钧", "play": 1664839, "category": "音乐"},
-    {"rank": 2, "title": "「我一定会找到完美时间线的」", "up": "寅山", "play": 2737835, "category": "动画"},
-    {"rank": 3, "title": "数学家老田，已上线！！", "up": "田一名sir", "play": 3900909, "category": "趣味"},
-    {"rank": 4, "title": "地牢酒馆-05集「海族少女与血族的请求」", "up": "粘土工厂", "play": 2162971, "category": "动画"},
-    {"rank": 5, "title": "「原神」尼可角色PV——「缄口的金弦」", "up": "原神", "play": 2116915, "category": "游戏"},
-    {"rank": 6, "title": "点进来看答辩", "up": "老番茄", "play": 2748334, "category": "生活"},
-    {"rank": 7, "title": "色彩原理调色教程", "up": "七芊摄影", "play": 2166004, "category": "生活"},
-    {"rank": 8, "title": "武将无需多言，带何润东哥自律一天！", "up": "花小龙oy", "play": 2402852, "category": "生活"},
-    {"rank": 9, "title": "没有剑的进来", "up": "王若轻-", "play": 2987248, "category": "动画"},
-    {"rank": 10, "title": "⚡华强买瓜，但是低音炮⚡", "up": "快乐阿依", "play": 2229380, "category": "娱乐"}
-  ],
-  "note": "B站API暂时返回错误，数据参考5月15日排行榜"
+    {
+      "rank": 1,
+      "title": "ピノキオピー - 歌姫失格 feat. 初音ミク",
+      "up": "ピノキオピー_official",
+      "play": 1488146,
+      "category": "音乐"
+    },
+    {
+      "rank": 2,
+      "title": "我伟大的甲方，又来指导技术教学了",
+      "up": "老头们的快乐生活",
+      "play": 3325485,
+      "category": "知识"
+    },
+    {
+      "rank": 3,
+      "title": "“我一定会找到完美时间线的”",
+      "up": "寅山",
+      "play": 2951147,
+      "category": "动画"
+    },
+    {
+      "rank": 4,
+      "title": "地牢酒馆-07集 《薇薇安的配方与艾拉的新裙子》",
+      "up": "粘土工厂",
+      "play": 2356468,
+      "category": "动画"
+    },
+    {
+      "rank": 5,
+      "title": "华强买瓜，但是低音炮",
+      "up": "快乐阿依",
+      "play": 2229380,
+      "category": "娱乐"
+    }
+  ]
 }

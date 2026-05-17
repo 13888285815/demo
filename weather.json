@@ -1,59 +1,32 @@
 {
-  "update_time": "2026-05-17T11:45:00+08:00",
   "source": "wttr.in",
-  "cities": [
+  "fetched_at": "2026-05-17T04:46:00Z",
+  "location": "Beijing",
+  "current": {
+    "temp_C": "18",
+    "weather": "Overcast",
+    "humidity": "100",
+    "wind": "5 km/h",
+    "feels_like": "18"
+  },
+  "forecast": [
     {
-      "name": "北京",
-      "temp": "18°C",
-      "feels_like": "18°C",
-      "condition": "小雨",
-      "humidity": "94%",
-      "wind": "东风 5km/h",
-      "pressure": "1014",
-      "visibility": "4km",
-      "uv_index": "1",
-      "sunrise": "04:58",
-      "sunset": "19:25"
+      "date": "2026-05-17",
+      "max": "18",
+      "min": "17",
+      "weather": "Light rain"
     },
     {
-      "name": "上海",
-      "temp": "27°C",
-      "feels_like": "28°C",
-      "condition": "多云",
-      "humidity": "58%",
-      "wind": "东南风 23km/h",
-      "pressure": "1018",
-      "visibility": "10km",
-      "uv_index": "9",
-      "sunrise": "04:57",
-      "sunset": "18:44"
+      "date": "2026-05-18",
+      "max": "27",
+      "min": "17",
+      "weather": "Sunny"
     },
     {
-      "name": "广州",
-      "temp": "27°C",
-      "feels_like": "30°C",
-      "condition": "多云",
-      "humidity": "74%",
-      "wind": "东风 16km/h",
-      "pressure": "1011",
-      "visibility": "10km",
-      "uv_index": "5",
-      "sunrise": "05:45",
-      "sunset": "19:02"
-    },
-    {
-      "name": "深圳",
-      "temp": "23°C",
-      "feels_like": "26°C",
-      "condition": "阴",
-      "humidity": "84%",
-      "wind": "东风 19km/h",
-      "pressure": "1011",
-      "visibility": "10km",
-      "uv_index": "0",
-      "sunrise": "05:43",
-      "sunset": "18:57"
+      "date": "2026-05-19",
+      "max": "26",
+      "min": "19",
+      "weather": "Cloudy"
     }
-  ],
-  "tips": "南方多地将出现大到暴雨，北京有小雨，出行请注意携带雨具。"
+  ]
 }
