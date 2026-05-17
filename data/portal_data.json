@@ -1,49 +1,30 @@
 {
-  "updateTime": "2026-05-07T05:09:00",
-  "data": {
-    "cctv": [
-      {"title": "场景、业态持续上“新” 百姓解锁更多消费新体验", "url": "https://news.cctv.com/2026/05/06/xxx1.shtml"},
-      {"title": "政策+服务升级 让外国游客解锁中国多彩魅力", "url": "https://news.cctv.com/2026/05/06/xxx2.shtml"},
-      {"title": "探秘粮仓“样板间”：安全、绿色、智慧粮库守好粒粒粮", "url": "https://news.cctv.com/2026/05/06/xxx3.shtml"},
-      {"title": "今年前3个月 我国全行业对外直接投资同比增长5.4%", "url": "https://news.cctv.com/2026/05/06/xxx4.shtml"},
-      {"title": "广西容县：四只小猫头鹰跌落烟囱 警民及时施救", "url": "https://news.cctv.com/2026/05/06/xxx5.shtml"},
-      {"title": "伊朗媒体：伊朗已启动霍尔木兹海峡通行管理新机制", "url": "https://news.cctv.com/2026/05/06/xxx6.shtml"}
-    ],
-    "weibo": [
-      {"rank": 1, "keyword": "乘风2026陶昕然", "heat": 11000000, "hot": true},
-      {"rank": 2, "keyword": "花少恋综", "heat": 8192000, "hot": true},
-      {"rank": 3, "keyword": "特斯拉召回21万辆", "heat": 5784000, "hot": true},
-      {"rank": 4, "keyword": "浪姐赢了被淘汰", "heat": 6503000, "hot": true},
-      {"rank": 5, "keyword": "吉利福特收购", "heat": 5930000, "hot": true},
-      {"rank": 6, "keyword": "谢娜新节目娜就聊姐姐", "heat": 5000000, "hot": true},
-      {"rank": 7, "keyword": "伊朗霍尔木兹海峡", "heat": 4000000, "hot": false},
-      {"rank": 8, "keyword": "湖南烟花爆竹停产整顿", "heat": 3500000, "hot": false},
-      {"rank": 9, "keyword": "比特币突破82000美元", "heat": 3000000, "hot": false},
-      {"rank": 10, "keyword": "小鹏M03智驾失灵", "heat": 2500000, "hot": false}
-    ],
-    "bilibili": [
-      {"title": "宝青坊主的狐狸尾巴藏不住啦！《梨花舞》原创曲直拍版", "desc": "紫嘉儿国风舞蹈作品，播放822万"},
-      {"title": "小渝的演唱会纪录片reaction来啦！", "desc": "梓渝工作室日常作品，播放330万"},
-      {"title": "《华佗再世》", "desc": "伤心欲茄222搞笑作品，播放381万"},
-      {"title": "看到脏东西了啊啊！2025年度新番打脸大总结", "desc": "泛式动漫杂谈，播放300万"},
-      {"title": "这是什么马？？", "desc": "老番茄单机游戏，播放601万"},
-      {"title": "什么人能为了三个汉堡劫机？【硬核狠人89】", "desc": "小约翰可汗人文历史，播放234万"},
-      {"title": "我判断不了这个方块的虚实", "desc": "fffzzww单机游戏，播放245万"},
-      {"title": "菲比：愿你的每一次无声", "desc": "Lm海洋日常作品，播放155万"},
-      {"title": "华强买瓜，但是树上人特别多", "desc": "伊介书生鬼畜剧场，播放475万"},
-      {"title": "衰老是什么感觉？", "desc": "阿廖沙别害怕_搞笑作品，播放221万"}
-    ],
-    "weather": {
-      "city": "上海",
-      "weather": "阴",
-      "temp": "16~29℃",
-      "current_temp": "16℃",
-      "humidity": "82%",
-      "wind": "东风 14km/h",
-      "forecast": [
-        {"date": "05-07", "weather": "多云", "temp": "16~29℃"},
-        {"date": "05-08", "weather": "晴", "temp": "15~22℃"}
-      ]
-    }
-  }
+  "cctv_news": [
+    {"rank": 1, "title": ""三夏"有新知 冬油菜的夏季答卷", "source": "央视新闻"},
+    {"rank": 2, "title": "中国汽车专利公开量近十年持续全球领先", "source": "央视新闻"},
+    {"rank": 3, "title": "生活服务台：高血压饮食 牢记"一减一加"", "source": "央视新闻"}
+  ],
+  "weibo_hot": [
+    {"rank": 1, "keyword": "给阿嬷的情书 屏摄", "heat": 1500000},
+    {"rank": 2, "keyword": "特朗普警告台独", "heat": 950000},
+    {"rank": 3, "keyword": "以自强赴荣光", "heat": 680000},
+    {"rank": 4, "keyword": "咬壳吃荔枝 不上火", "heat": 600000},
+    {"rank": 5, "keyword": "苹果华为小米集体降价", "heat": 510000},
+    {"rank": 6, "keyword": "丝芭给黄婷婷剧组发警告函", "heat": 490000},
+    {"rank": 7, "keyword": "央视追踪四川大摆荡坠亡事件", "heat": 420000},
+    {"rank": 8, "keyword": "摄影师称摆拍女孩确为盲人", "heat": 340000},
+    {"rank": 9, "keyword": "卢昱晓道歉", "heat": 340000},
+    {"rank": 10, "keyword": "承德车内强奸案被告已上诉", "heat": 340000}
+  ],
+  "weather": {
+    "city": "北京", "temp": "18°C", "weather": "小雨, 雾", "humidity": "100%"
+  },
+  "bilibili_hot": [
+    {"rank": 1, "title": "三大运营商回应"即将免月租"", "heat": "323评"},
+    {"rank": 2, "title": "上市前被砍，小米 Air 超轻薄旗舰工程机规格曝光", "heat": "183评"},
+    {"rank": 3, "title": "张雪机车收获赛季第四冠", "heat": "326评"},
+    {"rank": 4, "title": "小米卢伟冰：今年下半年可能一些国产旗舰直板手机价格突破1万元", "heat": "361评"},
+    {"rank": 5, "title": "小米卢伟冰：玄戒芯片今年肯定会迭代", "heat": "324评"}
+  ],
+  "update_time": "2026-05-17 14:16:03"
 }

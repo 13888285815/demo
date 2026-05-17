@@ -1,37 +1,30 @@
 {
-  "updateTime": "2026-05-15T14:35:00+08:00",
-  "data": {
-    "cctv": [
-      {"title": "明天起国内航线燃油附加费上调", "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml"},
-      {"title": "一季度职工基本医保缴费收入5981亿元", "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml"},
-      {"title": "老年旅客淡季优惠火车票开售", "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml"},
-      {"title": "利比亚发生大规模球迷骚乱 总理府遭纵火", "url": "https://news.cctv.com/2026/05/15/ARTIbrYjHDpMdVXq12wwA3HJ260515.shtml"}
-    ],
-    "weibo": [
-      {"rank": 1, "keyword": "奔跑吧打假", "heat": 1610000, "hot": true},
-      {"rank": 2, "keyword": "世乒赛男团澳大利亚变阵", "heat": 1420000, "hot": true},
-      {"rank": 3, "keyword": "广交会彰显中国制造硬核实力", "heat": 1390000, "hot": true},
-      {"rank": 4, "keyword": "你好星期六没有给张婧仪道歉", "heat": 1390000, "hot": true},
-      {"rank": 5, "keyword": "小猫还原自己摔伤过程", "heat": 1380000, "hot": true},
-      {"rank": 6, "keyword": "好多人给谢娜送花篮", "heat": 1330000, "hot": true},
-      {"rank": 7, "keyword": "长沙市委市政府致歉", "heat": 1140000, "hot": true},
-      {"rank": 8, "keyword": "第五人格年度发布会", "heat": 910000, "hot": false},
-      {"rank": 9, "keyword": "浏阳烟花厂爆炸致26死61伤", "heat": 810000, "hot": false},
-      {"rank": 10, "keyword": "以为低糖低油其实长肉的食物", "heat": 780000, "hot": false}
-    ],
-    "bilibili": [
-      {"title": "旧说唱乐队第三弹巅峰之作", "author": "高卫钧", "view": "168万"},
-      {"title": "数学家老田，已上线！！", "author": "田一名sir", "view": "401万"},
-      {"title": ""我一定会找到完美时间线的"", "author": "寅山", "view": "277万"},
-      {"title": "地牢酒馆-05集 《海族少女与血族的请求》", "author": "粘土工厂", "view": "217万"},
-      {"title": "3台高速机VS刘谦手速！谁更胜一筹？", "author": "未知", "view": "598万"}
-    ],
-    "weather": {
-      "city": "北京",
-      "weather": "阴",
-      "temp": "23°C",
-      "humidity": "69%",
-      "wind": "南风 10km/h"
-    }
-  }
+  "cctv_news": [
+    {"rank": 1, "title": ""三夏"有新知 冬油菜的夏季答卷", "source": "央视新闻"},
+    {"rank": 2, "title": "中国汽车专利公开量近十年持续全球领先", "source": "央视新闻"},
+    {"rank": 3, "title": "生活服务台：高血压饮食 牢记"一减一加"", "source": "央视新闻"}
+  ],
+  "weibo_hot": [
+    {"rank": 1, "keyword": "给阿嬷的情书 屏摄", "heat": 1500000},
+    {"rank": 2, "keyword": "特朗普警告台独", "heat": 950000},
+    {"rank": 3, "keyword": "以自强赴荣光", "heat": 680000},
+    {"rank": 4, "keyword": "咬壳吃荔枝 不上火", "heat": 600000},
+    {"rank": 5, "keyword": "苹果华为小米集体降价", "heat": 510000},
+    {"rank": 6, "keyword": "丝芭给黄婷婷剧组发警告函", "heat": 490000},
+    {"rank": 7, "keyword": "央视追踪四川大摆荡坠亡事件", "heat": 420000},
+    {"rank": 8, "keyword": "摄影师称摆拍女孩确为盲人", "heat": 340000},
+    {"rank": 9, "keyword": "卢昱晓道歉", "heat": 340000},
+    {"rank": 10, "keyword": "承德车内强奸案被告已上诉", "heat": 340000}
+  ],
+  "weather": {
+    "city": "北京", "temp": "18°C", "weather": "小雨, 雾", "humidity": "100%"
+  },
+  "bilibili_hot": [
+    {"rank": 1, "title": "三大运营商回应"即将免月租"", "heat": "323评"},
+    {"rank": 2, "title": "上市前被砍，小米 Air 超轻薄旗舰工程机规格曝光", "heat": "183评"},
+    {"rank": 3, "title": "张雪机车收获赛季第四冠", "heat": "326评"},
+    {"rank": 4, "title": "小米卢伟冰：今年下半年可能一些国产旗舰直板手机价格突破1万元", "heat": "361评"},
+    {"rank": 5, "title": "小米卢伟冰：玄戒芯片今年肯定会迭代", "heat": "324评"}
+  ],
+  "update_time": "2026-05-17 14:16:03"
 }
