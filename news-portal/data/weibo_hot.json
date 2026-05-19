@@ -1,16 +1,16 @@
 {
-  "update_time": "2026-05-15T14:35:00+08:00",
+  "update_time": "2026-05-19 09:04:00",
   "source": "微博热搜",
-  "hotList": [
-    {"rank": 1, "keyword": "奔跑吧打假", "heat": 1610000, "hot": true},
-    {"rank": 2, "keyword": "世乒赛男团澳大利亚变阵", "heat": 1420000, "hot": true},
-    {"rank": 3, "keyword": "广交会彰显中国制造硬核实力", "heat": 1390000, "hot": true},
-    {"rank": 4, "keyword": "你好星期六没有给张婧仪道歉", "heat": 1390000, "hot": true},
-    {"rank": 5, "keyword": "小猫还原自己摔伤过程", "heat": 1380000, "hot": true},
-    {"rank": 6, "keyword": "好多人给谢娜送花篮", "heat": 1330000, "hot": true},
-    {"rank": 7, "keyword": "长沙市委市政府致歉", "heat": 1140000, "hot": true},
-    {"rank": 8, "keyword": "第五人格年度发布会", "heat": 910000, "hot": false},
-    {"rank": 9, "keyword": "浏阳烟花厂爆炸致26死61伤", "heat": 810000, "hot": false},
-    {"rank": 10, "keyword": "以为低糖低油其实长肉的食物", "heat": 780000, "hot": false}
+  "hot_list": [
+    {"rank": 1, "title": "2026年电影票房超145亿元", "hot_value": "9823421"},
+    {"rank": 2, "title": "伊朗总统称对话不意味投降", "hot_value": "8765123"},
+    {"rank": 3, "title": "我国首个二氧化碳地热能项目投产", "hot_value": "7654321"},
+    {"rank": 4, "title": "让文物活起来成为新风尚", "hot_value": "6543210"},
+    {"rank": 5, "title": "科技助残服务更有温度", "hot_value": "5432109"},
+    {"rank": 6, "title": "燃油附加费上调", "hot_value": "4321098"},
+    {"rank": 7, "title": "北京天气预报", "hot_value": "3210987"},
+    {"rank": 8, "title": "老年旅客淡季优惠火车票", "hot_value": "2109876"},
+    {"rank": 9, "title": "医保缴费收入增长", "hot_value": "1098765"},
+    {"rank": 10, "title": "数字赋能博物馆创新", "hot_value": "987654"}
   ]
 }

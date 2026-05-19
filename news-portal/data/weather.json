@@ -1,41 +1,39 @@
 {
-  "city": "上海",
-  "date": "2026-05-17",
-  "week": "周日",
-  "weather": "Partly cloudy",
-  "weather_cn": "Partly cloudy",
-  "temp_high": "27",
-  "temp_low": "19",
-  "current_temp": "27",
-  "humidity": "54",
-  "wind": "23 km/h",
-  "wind_cn": "风速 23 km/h",
-  "sunrise": "05:00 AM",
-  "sunset": "07:23 PM",
+  "location": "北京",
+  "update_time": "2026-05-19 09:04:00",
+  "current": {
+    "temp": "20",
+    "feels_like": "20",
+    "humidity": "83",
+    "weather": "多云",
+    "wind": "南风2级",
+    "visibility": "10公里",
+    "pressure": "1012"
+  },
   "forecast": [
     {
-      "date": "2026-05-17",
-      "week": "周日",
-      "weather": "Partly cloudy",
-      "weather_cn": "Partly cloudy",
-      "temp_high": "27",
-      "temp_low": "19"
-    },
-    {
-      "date": "2026-05-18",
-      "week": "周一",
-      "weather": "Sunny",
-      "weather_cn": "晴",
-      "temp_high": "27",
-      "temp_low": "20"
-    },
-    {
       "date": "2026-05-19",
-      "week": "周二",
-      "weather": "Patchy rain nearby",
-      "weather_cn": "Patchy rain nearby",
-      "temp_high": "22",
-      "temp_low": "20"
+      "max_temp": "27",
+      "min_temp": "18",
+      "weather": "多云转阴",
+      "sunrise": "04:56",
+      "sunset": "19:26"
+    },
+    {
+      "date": "2026-05-20",
+      "max_temp": "25",
+      "min_temp": "18",
+      "weather": "小雨",
+      "sunrise": "04:55",
+      "sunset": "19:27"
+    },
+    {
+      "date": "2026-05-21",
+      "max_temp": "27",
+      "min_temp": "17",
+      "weather": "晴",
+      "sunrise": "04:55",
+      "sunset": "19:28"
     }
   ]
 }
