@@ -1,257 +1,157 @@
 {
-  "updateTime": "2026-05-17T17:48:25+08:00",
+  "updateTime": "2026-05-20T19:32:20+08:00",
   "data": {
     "cctv": [
       {
-        "title": "城市怎么体检？和老百姓有什么关系？一文了解",
-        "url": "https://news.cctv.com/2026/05/17/ARTIzgRkHaKOgpL2MDWRAzo2260517.shtml",
-        "time": "2026-05-17"
+        "title": "外交部：中方决定将延长对俄罗斯免签政策",
+        "url": "https://tv.cctv.com/2026/05/20/VIDEPdavX6CRBM5ZO9hJY9bR260520.shtml",
+        "time": "2026-05-20"
       },
       {
-        "title": "今年地级及以上城市和县级市将全面开展城市体检。同时，各地要一体化推进城市体检与城市更新，结合城市更新重点任务因地制宜开展专项体检。城市到底怎么体检？和我们老百姓有什么关系？",
-        "url": "https://news.cctv.com/2026/05/17/ARTIzgRkHaKOgpL2MDWRAzo2260517.shtml",
-        "time": "2026-05-17"
+        "title": "国家防灾减灾救灾委员会启动国家四级救灾应急响应",
+        "url": "https://tv.cctv.com/2026/05/20/VIDEvyYFtSP0xfdBCxSFeBxs260520.shtml",
+        "time": "2026-05-20"
       },
       {
-        "title": "“国际班列+绿色通道”助力进口水果抢“鲜”通关",
-        "url": "https://news.cctv.com/2026/05/17/ARTIDKMLggTjxqYQRms691hy260517.shtml",
-        "time": "2026-05-17"
-      },
-      {
-        "title": "当前正值东盟榴莲上市旺季，总台记者走访云南、广西等地多个口岸，看进口榴莲如何抢“鲜”通关，到达中国消费者的手中。",
-        "url": "https://news.cctv.com/2026/05/17/ARTIDKMLggTjxqYQRms691hy260517.shtml",
-        "time": "2026-05-17"
-      },
-      {
-        "title": "点亮温暖之光 多维度发力保障残疾群体平等融入社会",
-        "url": "https://news.cctv.com/2026/05/17/ARTI6qzZF3qhAS13ryvtkDlG260517.shtml",
-        "time": "2026-05-17"
-      },
-      {
-        "title": "5月17日是第36个全国助残日，今年助残日的主题是“保障残疾人平等权益，促进残疾人融合发展。”目前，我国有约8500万残疾人。“十五五”期间，将在康复、教育、就业、社会保障等方面，保障残疾群体平等融入社会。",
-        "url": "https://news.cctv.com/2026/05/17/ARTI6qzZF3qhAS13ryvtkDlG260517.shtml",
-        "time": "2026-05-17"
-      },
-      {
-        "title": "“三夏”有新知 冬油菜的夏季答卷",
-        "url": "https://tv.cctv.com/2026/05/17/VIDEVDnH0zN0SRnY0DQxLrKB260517.shtml",
-        "time": "2026-05-17"
+        "title": "美参院推进法案限制特朗普对伊朗动武",
+        "url": "https://tv.cctv.com/2026/05/20/VIDEvFbEq2fztkpUkLfM4xBQ260520.shtml",
+        "time": "2026-05-20"
       }
     ],
     "weibo": [
       {
         "rank": 1,
-        "keyword": "卢昱晓道歉",
-        "heat": "4841606",
-        "label": "热"
+        "title": "杨梅协会会长恳求消费者给果农生路",
+        "hot": "117万"
       },
       {
         "rank": 2,
-        "keyword": "女游客景区坠亡没有监控",
-        "heat": "1308643",
-        "label": ""
+        "title": "武契奇将对中国进行国事访问",
+        "hot": "83万"
       },
       {
         "rank": 3,
-        "keyword": "今天全国助残日",
-        "heat": "1219123",
-        "label": ""
+        "title": "一曲莫斯科郊外的晚上欢迎普京",
+        "hot": "77万"
       },
       {
         "rank": 4,
-        "keyword": "电脑微信会惩罚每一个恋旧的人",
-        "heat": "1210348",
-        "label": "新"
+        "title": "上京东直播 领520红包",
+        "hot": "74万"
       },
       {
         "rank": 5,
-        "keyword": "给阿嬷的情书 屏摄",
-        "heat": "1179059",
-        "label": "热"
+        "title": "于娜退圈十年归来胖若两人",
+        "hot": "72万"
       },
       {
         "rank": 6,
-        "keyword": "窦靖童没到30岁应让母亲陪同参赛",
-        "heat": "1029161",
-        "label": "新"
+        "title": "国产芯片好消息不断",
+        "hot": "68万"
       },
       {
         "rank": 7,
-        "keyword": "咬壳吃荔枝 不上火",
-        "heat": "551055",
-        "label": ""
+        "title": "这么隐晦的暗恋方式",
+        "hot": "67万"
       },
       {
         "rank": 8,
-        "keyword": "罕见病确诊 这才是互联网的意义",
-        "heat": "428241",
-        "label": ""
+        "title": "陈哲远MaleeCOCO亚太品牌代言人",
+        "hot": "64万"
       },
       {
         "rank": 9,
-        "keyword": "麦辣鸡腿堡 拉肚子",
-        "heat": "380591",
-        "label": "新"
+        "title": "丁程鑫看的是正经逐玉吗",
+        "hot": "61万"
       },
       {
         "rank": 10,
-        "keyword": "特朗普警告台独",
-        "heat": "379640",
-        "label": "热"
+        "title": "孙颖莎王楚钦混双搭档第九年",
+        "hot": "57万"
       },
       {
         "rank": 11,
-        "keyword": "阚清子乍瘦",
-        "heat": "377442",
-        "label": ""
+        "title": "喜欢你6阵容官宣",
+        "hot": "56万"
       },
       {
         "rank": 12,
-        "keyword": "起个日本名一听就是天津人",
-        "heat": "375916",
-        "label": "新"
+        "title": "何润东商务 有人莫名其妙就发财了",
+        "hot": "56万"
       },
       {
         "rank": 13,
-        "keyword": "姜乘澜 这化妆技术还说啥了",
-        "heat": "375288",
-        "label": "新"
+        "title": "女博士见被抢幼子孩子的手被栓住了",
+        "hot": "44万"
       },
       {
         "rank": 14,
-        "keyword": "北电看到了杨幂的毕业论文",
-        "heat": "373060",
-        "label": ""
+        "title": "打开朋友圈误入玻璃厂",
+        "hot": "43万"
       },
       {
         "rank": 15,
-        "keyword": "黄仁勋同款",
-        "heat": "370741",
-        "label": ""
+        "title": "求严浩翔同款拼豆图",
+        "hot": "39万"
       },
       {
         "rank": 16,
-        "keyword": "樊振东和勒布伦兄弟争冠",
-        "heat": "368775",
-        "label": ""
+        "title": "职场中不要过度礼貌",
+        "hot": "36万"
       },
       {
         "rank": 17,
-        "keyword": "台舆论称特朗普不许台独视美为靠山",
-        "heat": "367652",
-        "label": ""
+        "title": "煎饼夏天 戛纳",
+        "hot": "36万"
       },
       {
         "rank": 18,
-        "keyword": "疑似张元英抢金智媛C位",
-        "heat": "366096",
-        "label": ""
-      },
-      {
-        "rank": 19,
-        "keyword": "杨紫回复黄晓明",
-        "heat": "364428",
-        "label": "新"
-      },
-      {
-        "rank": 20,
-        "keyword": "央视追踪四川大摆荡坠亡事件",
-        "heat": "363006",
-        "label": ""
+        "title": "张凌赫把金靖放在C位",
+        "hot": "36万"
       }
     ],
-    "weather": {
-      "source": "wttr.in",
-      "fetched_at": "2026-05-17T09:46:25Z",
-      "location": "Shanghai",
-      "current": {
-        "temp_C": "25",
-        "weather": "Sunny",
-        "humidity": "57",
-        "wind": "28 km/h"
-      },
-      "forecast": [
-        {
-          "date": "2026-05-17",
-          "max": "27",
-          "min": "19",
-          "weather": "Sunny"
-        },
-        {
-          "date": "2026-05-18",
-          "max": "26",
-          "min": "20",
-          "weather": "Sunny"
-        },
-        {
-          "date": "2026-05-19",
-          "max": "22",
-          "min": "19",
-          "weather": "Light rain"
-        }
-      ]
-    },
     "bilibili": [
       {
         "rank": 1,
-        "title": "ピノキオピー - 歌姫失格 feat. 初音ミク",
-        "play": "1645883",
-        "url": "https://www.bilibili.com/video/av"
+        "title": "【苏新皓】原创英文单曲《Dawn in my soul》",
+        "author": "苏新皓的时光胶囊",
+        "play": "64.4万",
+        "bvid": "BV1i7LM6oErE"
       },
       {
         "rank": 2,
-        "title": "我伟大的甲方，又来指导技术教学了，哈啊哈哈哈，本视频由libtv赞助算力 #程序员 #打工人 #职场 #LibTV制作 #哩布哩布",
-        "play": "3446588",
-        "url": "https://www.bilibili.com/video/av"
+        "title": "关于“活着”，我们问了问余华",
+        "author": "影视飓风",
+        "play": "290.9万",
+        "bvid": "BV14XLq64EQf"
       },
       {
         "rank": 3,
-        "title": "火漆套色｜无神论者｜众神时代的流光溢彩与纸醉金迷的浪漫主义",
-        "play": "2174007",
-        "url": "https://www.bilibili.com/video/av"
+        "title": "杀人犯演电影？全网都在抵制！《监狱来的妈妈》问题到底出在哪里？",
+        "author": "文西与阿漆",
+        "play": "304.3万",
+        "bvid": "BV1nzLw6EEvF"
       },
       {
         "rank": 4,
-        "title": "如何让字“皆若空游无所依”写字在1:28",
-        "play": "1911775",
-        "url": "https://www.bilibili.com/video/av"
-      },
-      {
-        "rank": 5,
-        "title": "6月5日公测开启 | 《夜幕之下（代号砰砰）》定档PV首发！",
-        "play": "7704545",
-        "url": "https://www.bilibili.com/video/av"
-      },
-      {
-        "rank": 6,
-        "title": "地牢酒馆-08集 《史莱姆与角斗场》",
-        "play": "1842119",
-        "url": "https://www.bilibili.com/video/av"
-      },
-      {
-        "rank": 7,
-        "title": "《ENEMY》主创最新作品预告",
-        "play": "2505263",
-        "url": "https://www.bilibili.com/video/av"
-      },
-      {
-        "rank": 8,
-        "title": "你知道我们走的路也是有很多种叫法的吗？#传统文化 #文脉里的中国 #3d动画科普 #文字 #涨知识",
-        "play": "3500301",
-        "url": "https://www.bilibili.com/video/av"
-      },
-      {
-        "rank": 9,
-        "title": "“我一定会找到完美时间线的”",
-        "play": "2345713",
-        "url": "https://www.bilibili.com/video/av"
-      },
-      {
-        "rank": 10,
-        "title": "我飞跃10000公里，重走权游路，圆一个骑士梦",
-        "play": "2585859",
-        "url": "https://www.bilibili.com/video/av"
+        "title": "《狗族大帝》",
+        "author": "搞笑",
+        "play": "—",
+        "bvid": ""
       }
-    ]
+    ],
+    "weather": {
+      "city": "北京",
+      "temp_C": "23",
+      "feels_like_C": "25",
+      "humidity": "50%",
+      "weather": "多云",
+      "wind": "南南东风 8km/h",
+      "visibility": "10km",
+      "avg_temp_C": "21",
+      "date": "2026-05-20",
+      "sunrise": "04:55",
+      "sunset": "19:27"
+    }
   }
 }

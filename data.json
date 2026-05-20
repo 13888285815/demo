@@ -1,39 +1,24 @@
 {
-  "update_time": "2026-05-17 17:20",
+  "update_time": "2026-05-20 19:32",
   "data_source": "意念科技新闻门户",
   "sections": {
     "cctv_news": {
       "title": "央视新闻要闻",
       "items": [
         {
-          "title": "2026年夏粮旺季收购5月下旬全面展开",
-          "url": "https://tv.cctv.com/2026/05/15/VIDEJIJqQ0CiE3RPKdcRvWQJ260515.shtml",
-          "time": "2026-05-15"
+          "title": "外交部：中方决定将延长对俄罗斯免签政策",
+          "url": "https://tv.cctv.com/2026/05/20/VIDEPdavX6CRBM5ZO9hJY9bR260520.shtml",
+          "time": "2026-05-20"
         },
         {
-          "title": "十五五时期 长三角及周边建成超3200公里天然气管道",
-          "url": "https://tv.cctv.com/2026/05/15/VIDEeQtpPSg2ouuRHLVZdpf8260515.shtml",
-          "time": "2026-05-15"
+          "title": "国家防灾减灾救灾委员会启动国家四级救灾应急响应",
+          "url": "https://tv.cctv.com/2026/05/20/VIDEvyYFtSP0xfdBCxSFeBxs260520.shtml",
+          "time": "2026-05-20"
         },
         {
-          "title": "浙江台州：数智化模式赋能家庭教育",
-          "url": "https://tv.cctv.com/2026/05/15/VIDE1hxNw3cQ1ZvonBtt9Kgg260515.shtml",
-          "time": "2026-05-15"
-        },
-        {
-          "title": "中美元首举行会谈",
-          "url": "https://news.cctv.com/",
-          "time": "2026-05-15"
-        },
-        {
-          "title": "特朗普访华参观天坛",
-          "url": "https://news.cctv.com/",
-          "time": "2026-05-15"
-        },
-        {
-          "title": "马斯克携幼子现身人民大会堂",
-          "url": "https://news.cctv.com/",
-          "time": "2026-05-15"
+          "title": "美参院推进法案限制特朗普对伊朗动武",
+          "url": "https://tv.cctv.com/2026/05/20/VIDEvFbEq2fztkpUkLfM4xBQ260520.shtml",
+          "time": "2026-05-20"
         }
       ]
     },
@@ -42,63 +27,93 @@
       "items": [
         {
           "rank": 1,
-          "keyword": "苹果华为小米集体降价",
-          "heat": "292万",
-          "hot": true
+          "title": "杨梅协会会长恳求消费者给果农生路",
+          "hot": "117万"
         },
         {
           "rank": 2,
-          "keyword": "特朗普警告台独",
-          "heat": "223万",
-          "hot": false
+          "title": "武契奇将对中国进行国事访问",
+          "hot": "83万"
         },
         {
           "rank": 3,
-          "keyword": "中国式支付圈粉全球",
-          "heat": "141万",
-          "hot": false
+          "title": "一曲莫斯科郊外的晚上欢迎普京",
+          "hot": "77万"
         },
         {
           "rank": 4,
-          "keyword": "让妈妈丢人的事顺手就做了",
-          "heat": "108万",
-          "hot": false
+          "title": "上京东直播 领520红包",
+          "hot": "74万"
         },
         {
           "rank": 5,
-          "keyword": "万千惠点名徐梦洁",
-          "heat": "96万",
-          "hot": false
+          "title": "于娜退圈十年归来胖若两人",
+          "hot": "72万"
         },
         {
           "rank": 6,
-          "keyword": "薛之谦说很开心盲道被撞是摆拍",
-          "heat": "58万",
-          "hot": false
+          "title": "国产芯片好消息不断",
+          "hot": "68万"
         },
         {
           "rank": 7,
-          "keyword": "李冰冰亮相戛纳红毯",
-          "heat": "50万",
-          "hot": false
+          "title": "这么隐晦的暗恋方式",
+          "hot": "67万"
         },
         {
           "rank": 8,
-          "keyword": "榴莲等等党赢了",
-          "heat": "50万",
-          "hot": false
+          "title": "陈哲远MaleeCOCO亚太品牌代言人",
+          "hot": "64万"
         },
         {
           "rank": 9,
-          "keyword": "21世纪大君夫人大结局",
-          "heat": "44万",
-          "hot": false
+          "title": "丁程鑫看的是正经逐玉吗",
+          "hot": "61万"
         },
         {
           "rank": 10,
-          "keyword": "Gucci大秀",
-          "heat": "37万",
-          "hot": false
+          "title": "孙颖莎王楚钦混双搭档第九年",
+          "hot": "57万"
+        },
+        {
+          "rank": 11,
+          "title": "喜欢你6阵容官宣",
+          "hot": "56万"
+        },
+        {
+          "rank": 12,
+          "title": "何润东商务 有人莫名其妙就发财了",
+          "hot": "56万"
+        },
+        {
+          "rank": 13,
+          "title": "女博士见被抢幼子孩子的手被栓住了",
+          "hot": "44万"
+        },
+        {
+          "rank": 14,
+          "title": "打开朋友圈误入玻璃厂",
+          "hot": "43万"
+        },
+        {
+          "rank": 15,
+          "title": "求严浩翔同款拼豆图",
+          "hot": "39万"
+        },
+        {
+          "rank": 16,
+          "title": "职场中不要过度礼貌",
+          "hot": "36万"
+        },
+        {
+          "rank": 17,
+          "title": "煎饼夏天 戛纳",
+          "hot": "36万"
+        },
+        {
+          "rank": 18,
+          "title": "张凌赫把金靖放在C位",
+          "hot": "36万"
         }
       ]
     },
@@ -107,104 +122,49 @@
       "items": [
         {
           "rank": 1,
-          "title": "ピノキオピー - 歌姫失格 feat. 初音ミク",
-          "up": "ピノキオピー_official",
-          "play": 1619569,
-          "category": ""
+          "title": "【苏新皓】原创英文单曲《Dawn in my soul》",
+          "author": "苏新皓的时光胶囊",
+          "play": "64.4万",
+          "bvid": "BV1i7LM6oErE"
         },
         {
           "rank": 2,
-          "title": "我伟大的甲方，又来指导技术教学了，哈啊哈哈哈，本视频由libtv赞助算力 #程序员 #打工人 #职场 #LibTV制作 #哩布哩布",
-          "up": "老头们的快乐生活",
-          "play": 3425845,
-          "category": ""
+          "title": "关于“活着”，我们问了问余华",
+          "author": "影视飓风",
+          "play": "290.9万",
+          "bvid": "BV14XLq64EQf"
         },
         {
           "rank": 3,
-          "title": "火漆套色｜无神论者｜众神时代的流光溢彩与纸醉金迷的浪漫主义",
-          "up": "朝暮不睡觉QWQ",
-          "play": 2163213,
-          "category": ""
+          "title": "杀人犯演电影？全网都在抵制！《监狱来的妈妈》问题到底出在哪里？",
+          "author": "文西与阿漆",
+          "play": "304.3万",
+          "bvid": "BV1nzLw6EEvF"
         },
         {
           "rank": 4,
-          "title": "如何让字“皆若空游无所依”写字在1:28",
-          "up": "木鱼蛋-",
-          "play": 1839914,
-          "category": ""
-        },
-        {
-          "rank": 5,
-          "title": "6月5日公测开启 | 《夜幕之下（代号砰砰）》定档PV首发！",
-          "up": "夜幕之下_代号砰砰",
-          "play": 7587027,
-          "category": ""
-        },
-        {
-          "rank": 6,
-          "title": "地牢酒馆-07集 《薇薇安的配方与艾拉的新裙子》",
-          "up": "粘土工厂",
-          "play": 2105914,
-          "category": ""
-        },
-        {
-          "rank": 7,
-          "title": "《ENEMY》主创最新作品预告",
-          "up": "煎饼果仔呀",
-          "play": 2484612,
-          "category": ""
-        },
-        {
-          "rank": 8,
-          "title": "“我一定会找到完美时间线的”",
-          "up": "寅山",
-          "play": 2429051,
-          "category": ""
-        },
-        {
-          "rank": 9,
-          "title": "旧说唱乐队第三弹巅峰之作",
-          "up": "高卫钧",
-          "play": 1550521,
-          "category": ""
-        },
-        {
-          "rank": 10,
-          "title": "你知道我们走的路也是有很多种叫法的吗？#传统文化 #文脉里的中国 #3d动画科普 #文字 #涨知识",
-          "up": "走遍中国博物馆",
-          "play": 3436813,
-          "category": ""
+          "title": "《狗族大帝》",
+          "author": "搞笑",
+          "play": "—",
+          "bvid": ""
         }
       ]
     },
     "weather": {
-      "source": "wttr.in",
-      "fetched_at": "2026-05-17T09:16:27Z",
-      "location": "Shanghai",
-      "current": {
-        "temp_C": "25",
-        "weather": "Sunny",
-        "humidity": "57",
-        "wind": "28 km/h"
-      },
-      "forecast": [
+      "title": "天气信息",
+      "items": [
         {
-          "date": "2026-05-17",
-          "max": "27",
-          "min": "19",
-          "weather": "Sunny"
-        },
-        {
-          "date": "2026-05-18",
-          "max": "26",
-          "min": "20",
-          "weather": "Sunny"
-        },
-        {
-          "date": "2026-05-19",
-          "max": "22",
-          "min": "19",
-          "weather": "Light rain"
+          "city": "北京",
+          "temp_C": "23",
+          "feels_like_C": "25",
+          "humidity": "50%",
+          "weather": "多云",
+          "wind": "南南东风 8km/h",
+          "visibility": "10km",
+          "avg_temp_C": "21",
+          "date": "2026-05-20",
+          "sunrise": "04:55",
+          "sunset": "19:27"
         }
       ]
     }
