@@ -1,11 +1,11 @@
 {
-  "city": "北京",
-  "date": "2026-05-20",
-  "temp": "19°C",
-  "feelsLike": "19°C",
-  "humidity": "94%",
-  "weather": "小雨",
-  "wind": "东风 4km/h",
-  "visibility": "7km",
+  "city": "上海",
+  "date": "上海",
+  "temp": "24°C",
+  "feelsLike": "26°C",
+  "humidity": "55%",
+  "weather": "晴天",
+  "wind": "北风 11km/h",
+  "visibility": "10km",
   "pressure": "1011hPa"
 }
