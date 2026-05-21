@@ -1,0 +1,67 @@
+{
+  "source": "微博热搜",
+  "fetched_at": "2026-05-17T15:46:00+08:00",
+  "note": "实时API受限，使用缓存数据",
+  "hotList": [
+    {
+      "rank": 1,
+      "keyword": "苹果华为小米集体降价",
+      "heat": "292万",
+      "hot": true
+    },
+    {
+      "rank": 2,
+      "keyword": "特朗普警告台独",
+      "heat": "223万",
+      "hot": false
+    },
+    {
+      "rank": 3,
+      "keyword": "中国式支付圈粉全球",
+      "heat": "141万",
+      "hot": false
+    },
+    {
+      "rank": 4,
+      "keyword": "让妈妈丢人的事顺手就做了",
+      "heat": "108万",
+      "hot": false
+    },
+    {
+      "rank": 5,
+      "keyword": "万千惠点名徐梦洁",
+      "heat": "96万",
+      "hot": false
+    },
+    {
+      "rank": 6,
+      "keyword": "薛之谦说很开心盲道被撞是摆拍",
+      "heat": "58万",
+      "hot": false
+    },
+    {
+      "rank": 7,
+      "keyword": "李冰冰亮相戛纳红毯",
+      "heat": "50万",
+      "hot": false
+    },
+    {
+      "rank": 8,
+      "keyword": "榴莲等等党赢了",
+      "heat": "50万",
+      "hot": false
+    },
+    {
+      "rank": 9,
+      "keyword": "21世纪大君夫人大结局",
+      "heat": "44万",
+      "hot": false
+    },
+    {
+      "rank": 10,
+      "keyword": "Gucci大秀",
+      "heat": "37万",
+      "hot": false
+    }
+  ]
+}

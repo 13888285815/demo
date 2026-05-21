@@ -1,0 +1,18 @@
+{
+  "source": "wttr.in",
+  "fetched_at": "2026-05-06T17:12:00Z",
+  "location": "Shanghai",
+  "current": {
+    "temp_C": 18,
+    "FeelsLikeC": 18,
+    "weather": "Clear",
+    "wind_speed_kmh": 21,
+    "wind_dir": "SE",
+    "humidity": 68,
+    "visibility_km": 10
+  },
+  "forecast": [
+    {"date": "2026-05-06", "max": 24, "min": 16, "weather": "Sunny"},
+    {"date": "2026-05-07", "max": 29, "min": 18, "weather": "Partly Cloudy"}
+  ]
+}

@@ -1,0 +1,94 @@
+import json, time
+
+now_str = "2026-05-17T10:45:00+08:00"
+ts = int(time.time())
+
+cctv_news = [
+  {"title": "神舟二十三号计划近日择机实施发射", "url": "https://tv.cctv.com/2026/05/17/VIDEgvbn4GIzcBRfA21nKkv4260517.shtml", "time": "2026-05-17"},
+  {"title": "中央气象台继续发布暴雨黄色预警", "url": "https://tv.cctv.com/2026/05/17/VIDEfmZMYvxrMiNGhmf4lJ0z260517.shtml", "time": "2026-05-17"},
+  {"title": "卡桑旅确认其指挥官哈达德在以色列袭击中丧生", "url": "https://news.cctv.com/2026/05/17/ARTICkJChfCezOV6Ykab60FA260517.shtml", "time": "2026-05-17"},
+  {"title": "一次开药管仨月！慢性病长期处方新政落地", "url": "https://news.cctv.com/2026/05/16/ARTIhjPjaNGCAEUxv7KerM6N260516.shtml", "time": "2026-05-16"},
+  {"title": "中华秋沙鸭繁殖季 生命第一跃 直击幼鸭跳巢瞬间", "url": "https://news.cctv.com/2026/05/17/ARTILk4qZbqeRO7AAGXc7h8d260516.shtml", "time": "2026-05-17"},
+  {"title": "世界超级摩托车锦标赛 张雪机车夺第四冠", "url": "https://tv.cctv.com/2026/05/16/VIDENpcncdnQr3QwU5uUH3JJ260516.shtml", "time": "2026-05-16"},
+  {"title": "明天起国内航线燃油附加费上调", "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml", "time": "2026-05-15"},
+  {"title": "一季度职工基本医保缴费收入5981亿元", "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml", "time": "2026-05-15"},
+  {"title": "老年旅客淡季优惠火车票开售", "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml", "time": "2026-05-15"}
+]
+
+weibo_hot = [
+  {"rank": 1, "keyword": "苹果华为小米集体降价", "heat": "292万", "label": "热"},
+  {"rank": 2, "keyword": "特朗普警告台独", "heat": "223万", "label": ""},
+  {"rank": 3, "keyword": "中国式支付圈粉全球", "heat": "141万", "label": ""},
+  {"rank": 4, "keyword": "让妈妈丢人的事顺手就做了", "heat": "108万", "label": ""},
+  {"rank": 5, "keyword": "万千惠点名徐梦洁", "heat": "96万", "label": ""},
+  {"rank": 6, "keyword": "薛之谦说很开心盲道被撞是摆拍", "heat": "58万", "label": ""},
+  {"rank": 7, "keyword": "李冰冰亮相戛纳红毯", "heat": "50万", "label": ""},
+  {"rank": 8, "keyword": "榴莲等等党赢了", "heat": "50万", "label": ""},
+  {"rank": 9, "keyword": "21世纪大君夫人大结局", "heat": "44万", "label": ""},
+  {"rank": 10, "keyword": "遇到和已逝亲人很像的人是啥感觉", "heat": "44万", "label": ""},
+  {"rank": 11, "keyword": "Gucci大秀", "heat": "37万", "label": ""},
+  {"rank": 12, "keyword": "白鹿上车前突然跳了段舞", "heat": "37万", "label": ""},
+  {"rank": 13, "keyword": "狗狗啃了半年的抽屉还挺有设计感", "heat": "34万", "label": ""},
+  {"rank": 14, "keyword": "清华女博士丈夫雇人抢走2岁半儿子", "heat": "23万", "label": ""},
+  {"rank": 15, "keyword": "日本担心中美关系稳定自己被晾在一边", "heat": "29万", "label": ""},
+  {"rank": 16, "keyword": "樊振东单手接球观众直呼好帅", "heat": "23万", "label": ""},
+  {"rank": 17, "keyword": "张凌赫随时带着自己的阿贝贝", "heat": "26万", "label": ""},
+  {"rank": 18, "keyword": "千户苗寨偶遇Angelababy", "heat": "30万", "label": ""},
+  {"rank": 19, "keyword": "万千惠情商", "heat": "32万", "label": ""},
+  {"rank": 20, "keyword": "特朗普访华背后有哪些信号", "heat": "330万", "label": "新"}
+]
+
+weather = {
+  "city": "北京",
+  "date": "2026-05-17",
+  "temp": "18°C",
+  "feelsLike": "18°C",
+  "humidity": "87%",
+  "weather": "零星小雨",
+  "wind": "东风 7km/h",
+  "visibility": "10km",
+  "pressure": "1014hPa",
+  "sunrise": "04:58",
+  "sunset": "19:25"
+}
+
+bilibili_hot = [
+  {"rank": 1, "title": "ピノキオピー - 歌姫失格 feat. 初音ミク", "play": "151.8万", "url": "https://www.bilibili.com/video/av116553718765633/"},
+  {"rank": 2, "title": "我一定会找到完美时间线的", "play": "369.6万", "url": "https://www.bilibili.com/video/av116566704332037/"},
+  {"rank": 3, "title": "我伟大的甲方，又来指导技术教学了", "play": "339.4万", "url": "https://www.bilibili.com/video/av116573801023235/"},
+  {"rank": 4, "title": "地牢酒馆-07集 薇薇安的配方与艾拉的新裙子", "play": "292.1万", "url": "https://www.bilibili.com/video/av116568096768319/"},
+  {"rank": 5, "title": "《原神》尼可角色PV 缄口的金弦", "play": "257.7万", "url": "https://www.bilibili.com/video/av116566670709136/"},
+  {"rank": 6, "title": "火漆套色 无神论者", "play": "214.6万", "url": "https://www.bilibili.com/video/av116575193535666/"},
+  {"rank": 7, "title": "旧说唱乐队第三弹巅峰之作", "play": "275.0万", "url": "https://www.bilibili.com/video/av116560547088411/"},
+  {"rank": 8, "title": "6月5日公测开启 夜幕之下定档PV首发", "play": "697.0万", "url": "https://www.bilibili.com/video/av116566972696321/"},
+  {"rank": 9, "title": "ENEMY主创最新作品预告", "play": "240.8万", "url": "https://www.bilibili.com/video/av116577743737328/"},
+  {"rank": 10, "title": "1天被蜇50次 养蜂人都在做什么", "play": "439.2万", "url": "https://www.bilibili.com/video/av116571485773616/"},
+  {"rank": 11, "title": "点进来看答辩", "play": "464.9万", "url": "https://www.bilibili.com/video/av116566637157320/"},
+  {"rank": 12, "title": "就没有大学生赶不上的早八", "play": "392.1万", "url": "https://www.bilibili.com/video/av116577777292820/"},
+  {"rank": 13, "title": "No cap", "play": "539.5万", "url": "https://www.bilibili.com/video/av116566670708514/"},
+  {"rank": 14, "title": "仅推荐给有趣的人", "play": "414.4万", "url": "https://www.bilibili.com/video/av116570244257466/"},
+  {"rank": 15, "title": "按任意键开始游戏", "play": "345.7万", "url": "https://www.bilibili.com/video/av116566754664354/"}
+]
+
+portal_data = {
+  "updateTime": now_str,
+  "data": {
+    "cctv": cctv_news,
+    "weibo": weibo_hot,
+    "weather": weather,
+    "bilibili": bilibili_hot
+  }
+}
+
+for fname, data in [
+  ("portal_data.json", portal_data),
+  ("cctv_news.json", cctv_news),
+  ("weibo_hot.json", weibo_hot),
+  ("weather.json", weather),
+  ("bilibili_hot.json", bilibili_hot),
+  ("update_time.json", {"update_time": now_str, "timestamp": ts})
+]:
+  with open(fname, "w", encoding="utf-8") as f:
+    json.dump(data, f, ensure_ascii=False, indent=2)
+
+print("All files written successfully")

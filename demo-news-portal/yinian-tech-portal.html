@@ -1,0 +1,494 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>意念科技 - 新闻门户</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+  <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
+  <meta name="last-updated" content="2026-05-03T17:34:29+08:00">
+  <style>
+    :root {
+      --primary: #0078d4;
+      --primary-dark: #005a9e;
+      --text: #333;
+      --text-light: #666;
+      --text-muted: #999;
+      --border: #e5e5e5;
+      --white: #fff;
+      --shadow: 0 2px 8px rgba(0,0,0,0.08);
+      --shadow-hover: 0 4px 16px rgba(0,0,0,0.12);
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+      background: #f5f5f5;
+      color: var(--text);
+      line-height: 1.6;
+    }
+    .app { min-height: 100vh; display: flex; flex-direction: column; }
+
+    /* Header */
+    .header { background: var(--white); box-shadow: var(--shadow); position: sticky; top: 0; z-index: 100; }
+    .header-top { display: flex; align-items: center; justify-content: space-between; padding: 12px 24px; max-width: 1400px; margin: 0 auto; }
+    .logo { display: flex; align-items: center; gap: 10px; cursor: pointer; }
+    .logo-icon { width: 32px; height: 32px; }
+    .logo-text { font-size: 22px; font-weight: 700; color: #333; }
+    .search-box { display: flex; flex: 1; max-width: 500px; margin: 0 24px; }
+    .search-input { flex: 1; padding: 10px 16px; border: 1px solid var(--border); border-radius: 4px 0 0 4px; font-size: 14px; outline: none; }
+    .search-input:focus { border-color: var(--primary); }
+    .search-btn { padding: 10px 16px; border: 1px solid var(--primary); background: var(--primary); border-radius: 0 4px 4px 0; cursor: pointer; display: flex; align-items: center; justify-content: center; }
+    .search-btn svg { stroke: #fff; }
+    .header-actions { display: flex; gap: 12px; }
+    .action-btn { padding: 8px 20px; border: 1px solid var(--primary); background: transparent; color: var(--primary); border-radius: 4px; cursor: pointer; font-size: 14px; }
+
+    /* Channels */
+    .channels { border-top: 1px solid var(--border); }
+    .channels-inner { display: flex; max-width: 1400px; margin: 0 auto; overflow-x: auto; padding: 0 24px; }
+    .channel-btn { padding: 14px 20px; border: none; background: transparent; cursor: pointer; font-size: 15px; color: var(--text); white-space: nowrap; border-bottom: 3px solid transparent; margin-bottom: -1px; transition: all 0.2s; }
+    .channel-btn:hover { color: var(--primary); }
+    .channel-btn.active { color: var(--primary); font-weight: 600; border-bottom-color: var(--primary); }
+
+    /* Main */
+    .main-content { flex: 1; padding: 20px 0; }
+    .container { max-width: 1400px; margin: 0 auto; padding: 0 20px; display: grid; grid-template-columns: 1fr 340px; gap: 24px; }
+    .left-column { display: flex; flex-direction: column; gap: 20px; }
+    .right-column { display: flex; flex-direction: column; gap: 20px; }
+
+    /* Focus News */
+    .focus-news { display: grid; grid-template-columns: 1.2fr 1fr; background: var(--white); border-radius: 8px; overflow: hidden; box-shadow: var(--shadow); cursor: pointer; }
+    .focus-image { position: relative; height: 400px; overflow: hidden; }
+    .focus-image img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.4s; }
+    .focus-news:hover .focus-image img { transform: scale(1.03); }
+    .focus-badge { position: absolute; top: 16px; left: 16px; background: #e81123; color: var(--white); padding: 6px 12px; border-radius: 4px; font-size: 12px; font-weight: 600; }
+    .focus-content { padding: 24px; display: flex; flex-direction: column; justify-content: center; }
+    .focus-category { display: inline-block; background: #e8f4fd; color: var(--primary); padding: 4px 10px; border-radius: 4px; font-size: 12px; width: fit-content; margin-bottom: 12px; }
+    .focus-title { font-size: 26px; font-weight: 700; line-height: 1.4; margin-bottom: 12px; }
+    .focus-title:hover { color: var(--primary); }
+    .focus-summary { font-size: 14px; color: var(--text-light); line-height: 1.8; margin-bottom: 16px; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .focus-meta { font-size: 13px; color: var(--text-muted); display: flex; gap: 16px; }
+
+    /* News Grid */
+    .news-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 16px; }
+    .news-card { background: var(--white); border-radius: 8px; overflow: hidden; box-shadow: var(--shadow); cursor: pointer; transition: all 0.2s; }
+    .news-card:hover { box-shadow: var(--shadow-hover); transform: translateY(-2px); }
+    .news-card-image { height: 160px; overflow: hidden; }
+    .news-card-image img { width: 100%; height: 100%; object-fit: cover; transition: transform 0.3s; }
+    .news-card:hover .news-card-image img { transform: scale(1.05); }
+    .news-card-body { padding: 14px; }
+    .news-card-title { font-size: 15px; font-weight: 600; line-height: 1.5; margin-bottom: 8px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .news-card-title:hover { color: var(--primary); }
+    .news-card-meta { font-size: 12px; color: var(--text-muted); display: flex; gap: 12px; }
+
+    /* Video Section */
+    .video-section { background: var(--white); border-radius: 8px; overflow: hidden; box-shadow: var(--shadow); padding: 20px; }
+    .section-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+    .section-header h2 { font-size: 18px; font-weight: 700; display: flex; align-items: center; gap: 8px; }
+    .more-link { color: var(--text-light); font-size: 13px; text-decoration: none; }
+    .more-link:hover { color: var(--primary); }
+    .video-grid { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+    .video-card { border-radius: 6px; overflow: hidden; background: #f8f8f8; cursor: pointer; transition: transform 0.2s; }
+    .video-card:hover { transform: translateY(-3px); }
+    .video-thumbnail { position: relative; padding-top: 56.25%; }
+    .video-thumbnail img { position: absolute; top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; }
+    .video-overlay { position: absolute; inset: 0; background: rgba(0,0,0,0.3); display: flex; align-items: center; justify-content: center; opacity: 0; transition: opacity 0.2s; }
+    .video-card:hover .video-overlay { opacity: 1; }
+    .play-btn { width: 48px; height: 48px; background: rgba(255,255,255,0.95); border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 18px; border: none; cursor: pointer; color: #333; }
+    .video-duration { position: absolute; bottom: 8px; right: 8px; background: rgba(0,0,0,0.8); color: var(--white); padding: 3px 8px; border-radius: 4px; font-size: 11px; }
+    .video-info { padding: 10px; }
+    .video-title { font-size: 13px; font-weight: 500; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+    .video-meta { font-size: 11px; color: var(--text-muted); margin-top: 6px; display: flex; justify-content: space-between; }
+
+    /* Weather Card */
+    .weather-card { background: var(--white); border-radius: 8px; overflow: hidden; box-shadow: var(--shadow); padding: 20px; }
+    .weather-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+    .weather-header h3 { font-size: 16px; font-weight: 600; }
+    .weather-city { font-size: 14px; color: var(--text-light); }
+    .weather-current { display: flex; align-items: center; gap: 16px; margin-bottom: 16px; }
+    .weather-temp { font-size: 48px; font-weight: 300; color: var(--primary); }
+    .weather-info { display: flex; flex-direction: column; gap: 4px; }
+    .weather-condition { font-size: 16px; font-weight: 500; }
+    .weather-details { display: flex; gap: 24px; padding: 12px 0; border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); margin-bottom: 12px; }
+    .detail-item { display: flex; flex-direction: column; font-size: 12px; }
+    .detail-item span:first-child { color: var(--text-muted); }
+    .detail-item span:last-child { font-weight: 500; }
+    .weather-forecast { display: flex; gap: 8px; }
+    .forecast-item { flex: 1; text-align: center; font-size: 12px; }
+    .forecast-day { display: block; color: var(--text-muted); margin-bottom: 4px; }
+    .forecast-icon { font-size: 20px; display: block; margin-bottom: 4px; }
+    .forecast-temp { color: var(--text); }
+
+    /* Trending Card */
+    .trending-card { background: var(--white); border-radius: 8px; overflow: hidden; box-shadow: var(--shadow); padding: 20px; }
+    .trending-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 16px; }
+    .trending-header h3 { font-size: 16px; font-weight: 600; display: flex; align-items: center; gap: 6px; }
+    .trending-source { font-size: 12px; color: var(--text-muted); background: #f5f5f5; padding: 4px 8px; border-radius: 4px; }
+    .trending-list { list-style: none; }
+    .trending-item { display: flex; align-items: center; gap: 12px; padding: 10px 0; border-bottom: 1px solid #f0f0f0; }
+    .trending-item:last-child { border-bottom: none; }
+    .trending-item .rank { width: 24px; height: 24px; display: flex; align-items: center; justify-content: center; font-size: 12px; font-weight: 600; border-radius: 4px; background: #f5f5f5; color: var(--text-muted); }
+    .trending-item .rank.top { background: #ffe4e4; color: #e81123; }
+    .trending-item .title { flex: 1; font-size: 14px; cursor: pointer; }
+    .trending-item .title:hover { color: var(--primary); }
+    .trending-item .heat { font-size: 12px; color: var(--text-muted); }
+    .trending-item .trend { font-size: 12px; }
+    .trending-item .trend.up { color: #107c10; }
+    .trending-item .trend.down { color: #107c10; }
+    .trending-item .trend.new { color: #ff8c00; }
+
+    /* Footer */
+    .footer { background: #1a1a1a; color: #fff; margin-top: 40px; }
+    .footer-content { max-width: 1400px; margin: 0 auto; padding: 40px 24px; display: flex; justify-content: space-between; }
+    .footer-brand { font-size: 24px; font-weight: 700; }
+    .footer-logo { display: block; margin-bottom: 8px; }
+    .footer-brand p { font-size: 14px; color: #999; }
+    .footer-links { display: flex; gap: 60px; }
+    .link-group h4 { font-size: 14px; margin-bottom: 12px; }
+    .link-group a { display: block; font-size: 13px; color: #999; text-decoration: none; margin-bottom: 8px; }
+    .link-group a:hover { color: #fff; }
+    .footer-bottom { border-top: 1px solid #333; padding: 20px 24px; text-align: center; font-size: 13px; color: #666; }
+
+    /* Update Time Badge */
+    .update-badge { position: fixed; bottom: 20px; right: 20px; background: var(--primary); color: white; padding: 8px 16px; border-radius: 20px; font-size: 12px; box-shadow: var(--shadow-hover); z-index: 1000; }
+
+    /* Responsive */
+    @media (max-width: 1024px) {
+      .container { grid-template-columns: 1fr; }
+      .focus-news { grid-template-columns: 1fr; }
+      .focus-image { height: 280px; }
+      .video-grid { grid-template-columns: repeat(2, 1fr); }
+    }
+    @media (max-width: 640px) {
+      .header-top { flex-wrap: wrap; gap: 12px; }
+      .search-box { order: 3; flex: 1 1 100%; max-width: none; margin: 0; }
+      .news-grid { grid-template-columns: 1fr; }
+      .video-grid { grid-template-columns: 1fr; }
+      .footer-content { flex-direction: column; gap: 30px; }
+      .footer-links { flex-wrap: wrap; gap: 30px; }
+    }
+  </style>
+</head>
+<body>
+  <div class="app">
+    <!-- Header -->
+    <header class="header">
+      <div class="header-top">
+        <div class="logo">
+          <svg class="logo-icon" viewBox="0 0 32 32">
+            <circle cx="16" cy="16" r="14" fill="#0078d4"/>
+            <path d="M10 16l4 4 8-8" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+          </svg>
+          <span class="logo-text">意念科技</span>
+        </div>
+        <div class="search-box">
+          <input type="text" placeholder="搜索新闻、视频..." class="search-input" id="searchInput">
+          <button class="search-btn">
+            <svg viewBox="0 0 24 24" width="18" height="18">
+              <circle cx="11" cy="11" r="7" stroke="#fff" stroke-width="2" fill="none"/>
+              <path d="M16 16l4 4" stroke="#fff" stroke-width="2" stroke-linecap="round"/>
+            </svg>
+          </button>
+        </div>
+        <div class="header-actions">
+          <button class="action-btn">登录</button>
+        </div>
+      </div>
+      <nav class="channels">
+        <div class="channels-inner" id="channels"></div>
+      </nav>
+    </header>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <div class="container">
+        <div class="left-column">
+          <!-- News Feed -->
+          <section class="news-feed" id="newsFeed"></section>
+          <!-- Video Section -->
+          <section class="video-section" id="videoSection"></section>
+        </div>
+        <aside class="right-column">
+          <!-- Weather -->
+          <div class="weather-card" id="weatherCard"></div>
+          <!-- Trending -->
+          <div class="trending-card" id="trendingCard"></div>
+        </aside>
+      </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer-content">
+        <div class="footer-brand">
+          <span class="footer-logo">意念科技</span>
+          <p>智能连接未来</p>
+        </div>
+        <div class="footer-links">
+          <div class="link-group">
+            <h4>产品服务</h4>
+            <a href="#">新闻门户</a>
+            <a href="#">智能搜索</a>
+            <a href="#">云服务</a>
+          </div>
+          <div class="link-group">
+            <h4>关于我们</h4>
+            <a href="#">公司介绍</a>
+            <a href="#">加入我们</a>
+            <a href="#">联系方式</a>
+          </div>
+          <div class="link-group">
+            <h4>帮助支持</h4>
+            <a href="#">帮助中心</a>
+            <a href="#">隐私政策</a>
+            <a href="#">服务条款</a>
+          </div>
+        </div>
+      </div>
+      <div class="footer-bottom">
+        <p>© 2026 意念科技 版权所有 | 滇ICP备xxxxxxxx号</p>
+      </div>
+    </footer>
+  </div>
+
+  <!-- Update Badge -->
+  <div class="update-badge" id="update-badge">数据更新时间: 2026-05-03 17:34</div>
+
+  <script>
+    // ==================== 数据定义（2026-05-01 17:06 更新）====================
+    const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
+    let activeChannel = '首页';
+
+    // 央视新闻数据（2026年5月3日 17:34更新）
+    const newsData = [
+      { id: 1, title: '假期首日 高速新能源车充电量创新高', summary: '五一假期首日，全国高速公路新能源车充电量创下历史新高，充电桩使用率大幅攀升。', image: 'https://picsum.photos/800/450?random=901', source: '央视新闻', time: '2026-05-03', category: '国内', isTop: true },
+      { id: 2, title: '南方降雨范围缩减 局地需防范强对流天气', summary: '中央气象台预计，南方地区降雨范围将逐步缩减，但局地仍需防范强对流天气。', image: 'https://picsum.photos/400/250?random=902', source: '央视新闻', time: '2026-05-03', category: '社会' },
+      { id: 3, title: '美国威胁制裁向伊朗缴通行费的航运企业', summary: '美国威胁对向伊朗缴纳通行费的国际航运企业实施制裁，引发国际航运业界广泛关注。', image: 'https://picsum.photos/400/250?random=903', source: '央视新闻', time: '2026-05-03', category: '国际' },
+      { id: 4, title: '奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变', summary: '习近平总书记强调艰苦奋斗精神永不变，激励广大干部群众在新时代新征程上继续拼搏。', image: 'https://picsum.photos/400/250?random=904', source: '央视新闻', time: '2026-05-03', category: '国内' },
+      { id: 5, title: '山东舰辽宁舰双航母编队强硬回击外军舰机抵近侦察', summary: '我海军山东舰、辽宁舰双航母编队在相关海域执行任务期间，强硬回击外军舰机抵近侦察。', image: 'https://picsum.photos/400/250?random=905', source: '央视新闻', time: '2026-05-03', category: '国际' },
+      { id: 6, title: '多个大国工程假期持续刷新进度条 推动高质量发展', summary: '五一假期多个重大工程施工不停，平陆运河青年枢纽进行注水调试，文昌商业航天发射场二期稳步推进。', image: 'https://picsum.photos/400/250?random=906', source: '央视新闻', time: '2026-05-03', category: '国内' },
+      { id: 7, title: '全国铁路五一假期首日预计发送旅客2480万人次', summary: '假期第一天全国铁路迎来出行高峰，计划加开旅客列车2070列，多地交通枢纽客流涌动。', image: 'https://picsum.photos/400/250?random=907', source: '央视新闻', time: '2026-05-03', category: '社会' },
+      { id: 8, title: '亚洲最长地铁环线一期开通运营', summary: '亚洲最长的地铁环线一期工程正式开通运营，全长59.9公里，进一步完善城市公共交通网络。', image: 'https://picsum.photos/400/250?random=908', source: '央视新闻', time: '2026-05-03', category: '国内' }
+    ]
+
+        // B站热门视频数据（2026年5月3日 17:34更新）
+    const videoData = [
+      { id: 1, title: '《无实物表演》', thumbnail: 'https://picsum.photos/320/180?random=961', duration: '精选', views: '456万', author: '酸奶煎个蛋', url: 'https://www.bilibili.com/video/BV1NhRMBiEcy' },
+      { id: 2, title: '西⚡域⚡战⚡神⚡4', thumbnail: 'https://picsum.photos/320/180?random=962', duration: '精选', views: '241万', author: '洛温阿特金森', url: 'https://www.bilibili.com/video/BV1T3RuBuEcZ' },
+      { id: 3, title: '嘉豪与翻版紫薯精的相亲历险记', thumbnail: 'https://picsum.photos/320/180?random=963', duration: '热门', views: '230万', author: '陈嘉伦整个路人', url: 'https://www.bilibili.com/video/BV1Qd9eBnEC4' },
+      { id: 4, title: '当你不小心进入了黑乌龟...', thumbnail: 'https://picsum.photos/320/180?random=964', duration: '热门', views: '219万', author: '小博博三角洲行动', url: 'https://www.bilibili.com/video/BV1j2RMBxEdS' },
+      { id: 5, title: '导演，我申请换个裁判', thumbnail: 'https://picsum.photos/320/180?random=965', duration: '热门', views: '212万', author: '疯狂大笑总', url: 'https://www.bilibili.com/video/BV11aoeBmE1r' },
+      { id: 6, title: '不会写作业的请到主任办公室', thumbnail: 'https://picsum.photos/320/180?random=966', duration: '热门', views: '211万', author: '脱缰凯Kk', url: 'https://www.bilibili.com/video/BV1k39YBaEgj' },
+      { id: 7, title: '有些COS是COS的灵魂！！', thumbnail: 'https://picsum.photos/320/180?random=967', duration: '热门', views: '197万', author: '田一名sir', url: 'https://www.bilibili.com/video/BV1dBRVBKEt4' },
+      { id: 8, title: '【动物配音】2026年一季度精选合集', thumbnail: 'https://picsum.photos/320/180?random=968', duration: '合集', views: '191万', author: 'Coulson不讲李', url: 'https://www.bilibili.com/video/BV1adR7BgEy1' }
+    ]
+
+        // 微博热搜数据（2026年5月3日 17:34更新）
+    const trendingData = [
+      { rank: 1, title: '湖南广电 AI播新闻', heat: '148万', trend: 'new' },
+      { rank: 2, title: '上科大39岁教授营救至亲溺水去世', heat: '90万', trend: '' },
+      { rank: 3, title: '这个五一假期惠民福利停不下来', heat: '68万', trend: '' },
+      { rank: 4, title: '白鹿被孟子义说挂相', heat: '65万', trend: 'hot' },
+      { rank: 5, title: '把自己当成糖尿病人来吃饭', heat: '58万', trend: '' },
+      { rank: 6, title: '80斤女生不吃碳水闭经体脂率超标', heat: '55万', trend: 'new' },
+      { rank: 7, title: '黄灿灿 罗予彤边练歌边骂人的样子真美', heat: '54万', trend: '' },
+      { rank: 8, title: '河南蒜苔 再说原地址给你补五十斤', heat: '45万', trend: '' },
+      { rank: 9, title: '大睡特睡 修复前额叶', heat: '35万', trend: '' },
+      { rank: 10, title: '重庆落地签', heat: '33万', trend: 'new' }
+    ]
+
+        // 北京天气数据（2026-05-03 17:34 更新）
+    const weatherData = {
+      city: '北京',
+      temp: 21,
+      condition: '晴',
+      high: 23,
+      low: 13,
+      humidity: 18,
+      wind: '北北西风 18km/h',
+      pressure: 1009,
+      sunrise: '05:13',
+      sunset: '19:11',
+      forecast: [
+        { day: '今天', high: 23, low: 13, icon: '☀️' },
+        { day: '明天', high: 29, low: 14, icon: '☀️' },
+        { day: '后天', high: 34, low: 17, icon: '☀️' }
+      ],
+      advice: '五一假期北京持续晴好，气温逐日攀升至34°C。白天日照强注意防晒，早晚温差较大建议备件薄外套。'
+    }
+
+        // ==================== 渲染函数 ====================
+    function renderChannels() {
+      const container = document.getElementById('channels');
+      container.innerHTML = channels.map(ch => 
+        `<button class="channel-btn ${activeChannel === ch ? 'active' : ''}" onclick="setChannel('${ch}')">${ch}</button>`
+      ).join('');
+    }
+
+    function setChannel(ch) {
+      activeChannel = ch;
+      renderChannels();
+    }
+
+    function renderNews() {
+      const container = document.getElementById('newsFeed');
+      const topNews = newsData.find(n => n.isTop);
+      const otherNews = newsData.filter(n => !n.isTop);
+
+      let html = '';
+      
+      // 焦点新闻
+      if (topNews) {
+        html += `
+          <article class="focus-news">
+            <div class="focus-image">
+              <img src="${topNews.image}" alt="${topNews.title}" loading="lazy">
+              <span class="focus-badge">头条</span>
+            </div>
+            <div class="focus-content">
+              <span class="focus-category">${topNews.category}</span>
+              <h1 class="focus-title">${topNews.title}</h1>
+              <p class="focus-summary">${topNews.summary}</p>
+              <div class="focus-meta">
+                <span>${topNews.source}</span>
+                <span>${topNews.time}</span>
+              </div>
+            </div>
+          </article>
+        `;
+      }
+
+      // 新闻网格
+      html += '<div class="news-grid">' + otherNews.map(item => `
+        <article class="news-card">
+          <div class="news-card-image">
+            <img src="${item.image}" alt="${item.title}" loading="lazy">
+          </div>
+          <div class="news-card-body">
+            <h3 class="news-card-title">${item.title}</h3>
+            <div class="news-card-meta">
+              <span>${item.source}</span>
+              <span>${item.time}</span>
+            </div>
+          </div>
+        </article>
+      `).join('') + '</div>';
+
+      container.innerHTML = html;
+    }
+
+    function renderVideos() {
+      const container = document.getElementById('videoSection');
+      container.innerHTML = `
+        <div class="section-header">
+          <h2>📺 精选视频</h2>
+          <a href="https://www.bilibili.com/v/popular/rank/all" class="more-link" target="_blank">查看更多 →</a>
+        </div>
+        <div class="video-grid">
+          ${videoData.map(v => `
+            <div class="video-card" onclick="window.open('${v.url}', '_blank')">
+              <div class="video-thumbnail">
+                <img src="${v.thumbnail}" alt="${v.title}" loading="lazy" onerror="this.src='https://picsum.photos/320/180?random=${v.id}'">
+                <div class="video-overlay">
+                  <button class="play-btn">▶</button>
+                </div>
+                <span class="video-duration">${v.duration}</span>
+              </div>
+              <div class="video-info">
+                <h4 class="video-title">${v.title}</h4>
+                <div class="video-meta">
+                  <span>${v.author}</span>
+                  <span>${v.views}次观看</span>
+                </div>
+              </div>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    function renderWeather(data) {
+      const container = document.getElementById('weatherCard');
+      if (!data) {
+        container.innerHTML = '<div class="loading">加载中...</div>';
+        return;
+      }
+      container.innerHTML = `
+        <div class="weather-header">
+          <h3>🌤️ 天气</h3>
+          <span class="weather-city">${data.city}</span>
+        </div>
+        <div class="weather-current">
+          <div class="weather-temp">${data.temp}°</div>
+          <div class="weather-info">
+            <span class="weather-condition">${data.condition}</span>
+            <span>${data.high}° / ${data.low}°</span>
+          </div>
+        </div>
+        <div class="weather-details">
+          <div class="detail-item">
+            <span>💧 湿度</span>
+            <span>${data.humidity}%</span>
+          </div>
+          <div class="detail-item">
+            <span>💨 风速</span>
+            <span>${data.wind}</span>
+          </div>
+        </div>
+        <div class="weather-forecast">
+          ${data.forecast.map(f => `
+            <div class="forecast-item">
+              <span class="forecast-day">${f.day}</span>
+              <span class="forecast-icon">${f.icon}</span>
+              <span class="forecast-temp">${f.high}°/${f.low}°</span>
+            </div>
+          `).join('')}
+        </div>
+      `;
+    }
+
+    function renderTrending(data) {
+      const container = document.getElementById('trendingCard');
+      if (!data) {
+        container.innerHTML = `
+          <div class="trending-header">
+            <h3>🔥 实时热搜</h3>
+            <span class="trending-source">微博热搜</span>
+          </div>
+          <div class="loading">加载中...</div>
+        `;
+        return;
+      }
+      container.innerHTML = `
+        <div class="trending-header">
+          <h3>🔥 实时热搜</h3>
+          <span class="trending-source">微博热搜</span>
+        </div>
+        <ul class="trending-list">
+          ${data.map(item => `
+            <li class="trending-item">
+              <span class="rank ${item.rank <= 3 ? 'top' : ''}">${item.rank}</span>
+              <span class="title">${item.title}</span>
+              <span class="heat">${item.heat}</span>
+              ${item.trend === 'up' ? '<span class="trend up">↑</span>' : ''}
+              ${item.trend === 'down' ? '<span class="trend down">↓</span>' : ''}
+              ${item.trend === 'new' ? '<span class="trend new">新</span>' : ''}
+              ${item.trend === 'hot' ? '<span class="trend" style="color:#e81123">🔥</span>' : ''}
+            </li>
+          `).join('')}
+        </ul>
+      `;
+    }
+
+    // ==================== 初始化 ====================
+    function init() {
+      renderChannels();
+      renderNews();
+      renderVideos();
+      renderWeather(weatherData);
+      renderTrending(trendingData);
+    }
+
+    document.addEventListener('DOMContentLoaded', init);
+  </script>
+</body>
+</html>

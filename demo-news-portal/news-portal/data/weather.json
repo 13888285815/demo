@@ -1,0 +1,41 @@
+{
+  "city": "上海",
+  "date": "2026-05-17",
+  "week": "周日",
+  "weather": "Partly cloudy",
+  "weather_cn": "Partly cloudy",
+  "temp_high": "27",
+  "temp_low": "19",
+  "current_temp": "27",
+  "humidity": "54",
+  "wind": "23 km/h",
+  "wind_cn": "风速 23 km/h",
+  "sunrise": "05:00 AM",
+  "sunset": "07:23 PM",
+  "forecast": [
+    {
+      "date": "2026-05-17",
+      "week": "周日",
+      "weather": "Partly cloudy",
+      "weather_cn": "Partly cloudy",
+      "temp_high": "27",
+      "temp_low": "19"
+    },
+    {
+      "date": "2026-05-18",
+      "week": "周一",
+      "weather": "Sunny",
+      "weather_cn": "晴",
+      "temp_high": "27",
+      "temp_low": "20"
+    },
+    {
+      "date": "2026-05-19",
+      "week": "周二",
+      "weather": "Patchy rain nearby",
+      "weather_cn": "Patchy rain nearby",
+      "temp_high": "22",
+      "temp_low": "20"
+    }
+  ]
+}

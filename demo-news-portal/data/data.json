@@ -1,0 +1,262 @@
+{
+  "update_time": "2026/05/17 12:46:00",
+  "data_source": "意念科技新闻门户",
+  "sections": {
+    "cctv_news": {
+      "title": "央视新闻要闻",
+      "items": [
+        {
+          "title": "明天起国内航线燃油附加费上调",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
+          "date": "2026-05-17",
+          "summary": ""
+        },
+        {
+          "title": "一季度职工基本医保缴费收入5981亿元",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
+          "date": "2026-05-17",
+          "summary": ""
+        },
+        {
+          "title": "老年旅客淡季优惠火车票开售",
+          "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
+          "date": "2026-05-17",
+          "summary": ""
+        }
+      ]
+    },
+    "weibo_hot": {
+      "title": "微博热搜榜",
+      "update_time": "2026/05/17 12:46:00",
+      "items": [
+        {
+          "rank": 1,
+          "keyword": "特朗普结束访华",
+          "heat": 4220924,
+          "hot": true
+        },
+        {
+          "rank": 2,
+          "keyword": "中美元首边走边谈",
+          "heat": 1224110,
+          "hot": false
+        },
+        {
+          "rank": 3,
+          "keyword": "跨越太平洋的握手",
+          "heat": 965666,
+          "hot": false
+        },
+        {
+          "rank": 4,
+          "keyword": "胡歌点赞方太新一代洗碗机",
+          "heat": 867511,
+          "hot": false
+        },
+        {
+          "rank": 5,
+          "keyword": "容易紧张是缺乏主体性",
+          "heat": 761176,
+          "hot": false
+        },
+        {
+          "rank": 6,
+          "keyword": "白玉兰评委名单",
+          "heat": 619891,
+          "hot": true
+        },
+        {
+          "rank": 7,
+          "keyword": "曝杨幂杨紫白玉兰二选一提名",
+          "heat": 616397,
+          "hot": false
+        },
+        {
+          "rank": 8,
+          "keyword": "雨霖铃国剧武侠热血天花板",
+          "heat": 615559,
+          "hot": false
+        },
+        {
+          "rank": 9,
+          "keyword": "中美元首中南海小范围会晤高清大图",
+          "heat": 614246,
+          "hot": false
+        },
+        {
+          "rank": 10,
+          "keyword": "名侦探柯南",
+          "heat": 605518,
+          "hot": false
+        },
+        {
+          "rank": 11,
+          "keyword": "三笘薫落选日本世界杯大名单",
+          "heat": 601980,
+          "hot": true
+        },
+        {
+          "rank": 12,
+          "keyword": "二孩家庭买SUV还是买MPV",
+          "heat": 594273,
+          "hot": true
+        },
+        {
+          "rank": 13,
+          "keyword": "横店的剧组快灭亡了",
+          "heat": 590692,
+          "hot": true
+        },
+        {
+          "rank": 14,
+          "keyword": "阿雅视频抄袭",
+          "heat": 581305,
+          "hot": true
+        },
+        {
+          "rank": 15,
+          "keyword": "这就是我花一万买iPhone的意义",
+          "heat": 575074,
+          "hot": false
+        },
+        {
+          "rank": 16,
+          "keyword": "温岚在ICU接受治疗",
+          "heat": 570747,
+          "hot": true
+        },
+        {
+          "rank": 17,
+          "keyword": "一只熊吃掉了40磅冰淇淋后昏迷了两天",
+          "heat": 565321,
+          "hot": true
+        },
+        {
+          "rank": 18,
+          "keyword": "白宫发布中国仪仗队画面",
+          "heat": 555290,
+          "hot": false
+        },
+        {
+          "rank": 19,
+          "keyword": "iPhone华为同时降价",
+          "heat": 551408,
+          "hot": false
+        },
+        {
+          "rank": 20,
+          "keyword": "特朗普离京现场的中国军人",
+          "heat": 548439,
+          "hot": true
+        }
+      ]
+    },
+    "bilibili_hot": {
+      "title": "B站热门视频",
+      "update_time": "2026/05/17 12:46:00",
+      "items": [
+        {
+          "rank": 1,
+          "title": "ピノキオピー - 歌姫失格 feat. 初音ミク",
+          "author": "ピノキオピー_official",
+          "play": 1488146,
+          "category": "音乐"
+        },
+        {
+          "rank": 2,
+          "title": "我伟大的甲方，又来指导技术教学了",
+          "author": "老头们的快乐生活",
+          "play": 3325485,
+          "category": "知识"
+        },
+        {
+          "rank": 3,
+          "title": "“我一定会找到完美时间线的”",
+          "author": "寅山",
+          "play": 2951147,
+          "category": "动画"
+        },
+        {
+          "rank": 4,
+          "title": "地牢酒馆-07集 《薇薇安的配方与艾拉的新裙子》",
+          "author": "粘土工厂",
+          "play": 2356468,
+          "category": "动画"
+        },
+        {
+          "rank": 5,
+          "title": "⚡华强买瓜，但是低音炮⚡",
+          "author": "快乐阿依",
+          "play": 2229380,
+          "category": "娱乐"
+        },
+        {
+          "rank": 6,
+          "title": "旧说唱乐队第三弹巅峰之作",
+          "author": "高卫钧",
+          "play": 1664839,
+          "category": "音乐"
+        },
+        {
+          "rank": 7,
+          "title": "数学家老田，已上线！！",
+          "author": "田一名sir",
+          "play": 3900909,
+          "category": "知识"
+        },
+        {
+          "rank": 8,
+          "title": "《原神》尼可角色PV——「缄口的金弦」",
+          "author": "原神",
+          "play": 2116915,
+          "category": "游戏"
+        },
+        {
+          "rank": 9,
+          "title": "点进来看答辩",
+          "author": "老番茄",
+          "play": 2748334,
+          "category": "游戏"
+        },
+        {
+          "rank": 10,
+          "title": "色彩原理调色教程",
+          "author": "七芊摄影",
+          "play": 2166004,
+          "category": "知识"
+        }
+      ]
+    },
+    "weather": {
+      "title": "今日天气（北京）",
+      "update_time": "2026/05/17 12:46:00",
+      "current": {
+        "temp": "18",
+        "weather": "Overcast",
+        "humidity": "100",
+        "wind": "5 km/h",
+        "feels_like": "18"
+      },
+      "forecast": [
+        {
+          "date": "2026-05-17",
+          "max": "18",
+          "min": "17",
+          "weather": "Light rain"
+        },
+        {
+          "date": "2026-05-18",
+          "max": "27",
+          "min": "17",
+          "weather": "Sunny"
+        },
+        {
+          "date": "2026-05-19",
+          "max": "26",
+          "min": "19",
+          "weather": "Cloudy"
+        }
+      ]
+    }
+  }
+}
