@@ -1,11 +1,31 @@
 {
-  "city": "上海",
-  "date": "上海",
-  "temp": "24°C",
-  "feelsLike": "26°C",
-  "humidity": "55%",
-  "weather": "晴天",
-  "wind": "北风 11km/h",
-  "visibility": "10km",
-  "pressure": "1011hPa"
+  "source": "wttr.in",
+  "fetched_at": "2026-05-21T07:23:41Z",
+  "location": "Shanghai",
+  "current": {
+    "temp_C": "26",
+    "weather": "Sunny",
+    "humidity": "52",
+    "wind": "10 km/h"
+  },
+  "forecast": [
+    {
+      "date": "2026-05-21",
+      "max": "26",
+      "min": "19",
+      "weather": "Sunny"
+    },
+    {
+      "date": "2026-05-22",
+      "max": "26",
+      "min": "18",
+      "weather": "Sunny"
+    },
+    {
+      "date": "2026-05-23",
+      "max": "27",
+      "min": "20",
+      "weather": "Overcast "
+    }
+  ]
 }
