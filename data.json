@@ -1,260 +1,206 @@
 {
-  "update_time": "2026-05-20 21:32",
-  "data_source": "意念科技新闻门户",
-  "sections": {
-    "cctv_news": {
-      "title": "央视新闻要闻",
-      "items": [
-        {
-          "title": "2026年夏粮旺季收购5月下旬全面展开",
-          "url": "https://tv.cctv.com/2026/05/15/VIDEJIJqQ0CiE3RPKdcRvWQJ260515.shtml",
-          "time": "2026-05-15"
-        },
-        {
-          "title": "十五五时期 长三角及周边建成超3200公里天然气管道",
-          "url": "https://tv.cctv.com/2026/05/15/VIDEeQtpPSg2ouuRHLVZdpf8260515.shtml",
-          "time": "2026-05-15"
-        },
-        {
-          "title": "浙江台州：数智化模式赋能家庭教育",
-          "url": "https://tv.cctv.com/2026/05/15/VIDE1hxNw3cQ1ZvonBtt9Kgg260515.shtml",
-          "time": "2026-05-15"
-        },
-        {
-          "title": "中美元首举行会谈",
-          "url": "https://news.cctv.com/",
-          "time": "2026-05-15"
-        },
-        {
-          "title": "特朗普访华参观天坛",
-          "url": "https://news.cctv.com/",
-          "time": "2026-05-15"
-        },
-        {
-          "title": "马斯克携幼子现身人民大会堂",
-          "url": "https://news.cctv.com/",
-          "time": "2026-05-15"
-        }
-      ]
+  "update_time": "2026-05-21T19:37:31.307991",
+  "weather": {
+    "source": "wttr.in",
+    "fetched_at": "2026-05-21T11:35:00Z",
+    "location": "Shanghai",
+    "current": {
+      "temp_C": "23",
+      "weather": "Sunny",
+      "humidity": "64",
+      "wind": "16 km/h"
     },
-    "weibo_hot": {
-      "title": "微博热搜",
-      "items": [
-        {
-          "rank": 1,
-          "title": "抖音封了打焦赞直播间",
-          "hot": "热",
-          "heat": 0
-        },
-        {
-          "rank": 2,
-          "title": "普京欢迎宴会",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 3,
-          "title": "一曲莫斯科郊外的晚上欢迎普京",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 4,
-          "title": "连续4年No.1卫生巾",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 5,
-          "title": "为什么520朋友圈秀恩爱的变少了",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 6,
-          "title": "未开封的饮料都可以偷梁换柱",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 7,
-          "title": "普京与26年前抱过的中国男孩见面了",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 8,
-          "title": "韩东君520官宣",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 9,
-          "title": "肖战出发参加亚洲艺术电影节",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 10,
-          "title": "汉娜高达采访谈孙颖莎",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 11,
-          "title": "豆包没有身份证说话就是狠",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 12,
-          "title": "张凌赫回复丁程鑫",
-          "hot": "热",
-          "heat": 0
-        },
-        {
-          "rank": 13,
-          "title": "颜颜凯凯没在一起",
-          "hot": "热",
-          "heat": 0
-        },
-        {
-          "rank": 14,
-          "title": "被戳伤眼球女教师希望处分涉事女生",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 15,
-          "title": "陈赫在综艺发火了",
-          "hot": "热",
-          "heat": 0
-        },
-        {
-          "rank": 16,
-          "title": "粥文be",
-          "hot": "热",
-          "heat": 0
-        },
-        {
-          "rank": 17,
-          "title": "iPhone情侣设置",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 18,
-          "title": "凯凯回应",
-          "hot": "热",
-          "heat": 0
-        },
-        {
-          "rank": 19,
-          "title": "阳朔一米粉店本地人7元游客13元",
-          "hot": "",
-          "heat": 0
-        },
-        {
-          "rank": 20,
-          "title": "李在明批评三星电子工会越界了",
-          "hot": "",
-          "heat": 0
-        }
-      ]
-    },
-    "bilibili_trending": {
-      "title": "B站热门视频",
-      "items": [
-        {
-          "rank": 1,
-          "title": "【苏新皓】原创英文单曲《Dawn in my soul》｜灵魂深处的曙光 双向奔赴的告白",
-          "author": "苏新皓的时光胶囊",
-          "play": 635766
-        },
-        {
-          "rank": 2,
-          "title": "关于“活着”，我们问了问余华",
-          "author": "影视飓风",
-          "play": 2903408
-        },
-        {
-          "rank": 3,
-          "title": "杀人犯演电影？全网都在抵制！《监狱来的妈妈》问题到底出在哪里？",
-          "author": "文西与阿漆",
-          "play": 2812500
-        },
-        {
-          "rank": 4,
-          "title": "《狗族大帝》",
-          "author": "伤心欲茄222",
-          "play": 3117740
-        },
-        {
-          "rank": 5,
-          "title": "【ITZY】“Motto” M/V",
-          "author": "ITZY",
-          "play": 979856
-        },
-        {
-          "rank": 6,
-          "title": "《原神》角色预告-「尼可：史诗级冒险故事」",
-          "author": "原神",
-          "play": 1678551
-        },
-        {
-          "rank": 7,
-          "title": "“重启调查”",
-          "author": "古泽源",
-          "play": 2122374
-        },
-        {
-          "rank": 8,
-          "title": "张雪为什么又又又又赢了？",
-          "author": "老奇好好奇",
-          "play": 2401802
-        },
-        {
-          "rank": 9,
-          "title": "《鸣潮》共鸣者「达妮娅」PV | 人类伪装指南",
-          "author": "鸣潮",
-          "play": 2326866
-        },
-        {
-          "rank": 10,
-          "title": "探秘美国斩杀线城市！$1美元房子，有多离谱？吃什么？？",
-          "author": "Meetfood觅食",
-          "play": 2491481
-        }
-      ]
-    },
-    "weather": {
-      "title": "上海天气",
-      "current": {
-        "temp_C": "23",
-        "weather": "Partly Cloudy ",
-        "humidity": "85",
-        "wind": "10 km/h"
+    "forecast": [
+      {
+        "date": "2026-05-21",
+        "max": "26",
+        "min": "19",
+        "weather": "Sunny"
       },
-      "forecast": [
-        {
-          "date": "2026-05-20",
-          "max": "24",
-          "min": "21",
-          "weather": "Patchy rain nearby"
-        },
-        {
-          "date": "2026-05-21",
-          "max": "26",
-          "min": "19",
-          "weather": "Sunny"
-        },
-        {
-          "date": "2026-05-22",
-          "max": "26",
-          "min": "18",
-          "weather": "Sunny"
-        }
-      ]
+      {
+        "date": "2026-05-22",
+        "max": "26",
+        "min": "18",
+        "weather": "Sunny"
+      },
+      {
+        "date": "2026-05-23",
+        "max": "27",
+        "min": "20",
+        "weather": "Overcast "
+      }
+    ]
+  },
+  "news": [
+    {
+      "title": "Energy Aspects：石油市场距离短缺还有大约一个半月的时间",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrh8994343.shtml",
+      "time": "1779363180",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "美多名参议员致函联邦通信委员会 呼吁审查派拉蒙华纳合并案外资背景",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5770993.shtml",
+      "time": "1779363114",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "李强主持召开国务院常务会议 研究推进全国统一大市场建设有关工作",
+      "url": "https://finance.sina.com.cn/china/2026-05-21/doc-inhyshrk5771704.shtml",
+      "time": "1779363085",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "英国电信集团高管警示：人工智能热潮将推高手机售价",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5770392.shtml",
+      "time": "1779363037",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "高盛称对冲基金对大涨的芯片股获利了结 同时维持AI主题整体敞口",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5764737.shtml",
+      "time": "1779362381",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "涉嫌对金融诈骗审查不力 谷歌与Meta遭欧洲消费者组织联合投诉",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5764081.shtml",
+      "time": "1779362324",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "沃尔玛维持全年业绩预期",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5761204.shtml",
+      "time": "1779362069",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "伊朗最高领袖表示铀必须留在该国，美债和欧债下跌，油价涨",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrm8155372.shtml",
+      "time": "1779361895",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "穆迪对印尼出口管制新规发出警告 称可能损害投资者信心",
+      "url": "https://finance.sina.com.cn/world/2026-05-21/doc-inhyshrk5755800.shtml",
+      "time": "1779361627",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "伊朗最高领袖称铀必须留在伊朗",
+      "url": "https://finance.sina.com.cn/world/2026-05-21/doc-inhyshrf6282972.shtml",
+      "time": "1779361328",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "“明显嗅到一丝滞胀味道” 战争拖累全球增长 通胀忧虑升温",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5750881.shtml",
+      "time": "1779361169",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "战争与能源冲击压顶 欧元区经济难承其重",
+      "url": "https://finance.sina.com.cn/world/2026-05-21/doc-inhyshrh8973179.shtml",
+      "time": "1779361114",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "三星就 AI 产业收益分歧达成临期协议，成功避免罢工",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrm8139156.shtml",
+      "time": "1779360484",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "即便市值达5万亿美元，英伟达依旧被低估",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhysaik9092876.shtml",
+      "time": "1779359686",
+      "source": "新浪新闻"
+    },
+    {
+      "title": "美国拟向量子计算企业投放20亿美元资金并入股持股",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhysaii6391139.shtml",
+      "time": "1779359147",
+      "source": "新浪新闻"
     }
-  }
+  ],
+  "weibo_hot": [
+    {
+      "rank": 1,
+      "keyword": "暂无热搜数据",
+      "hot": "",
+      "source": "系统"
+    }
+  ],
+  "bilibili_hot": [
+    {
+      "rank": 1,
+      "title": "【苏新皓】原创英文单曲《Dawn in my soul》｜灵魂深处的曙光 双向奔赴的告白",
+      "up": "苏新皓的时光胶囊",
+      "play": 848728,
+      "category": ""
+    },
+    {
+      "rank": 2,
+      "title": "关于“活着”，我们问了问余华",
+      "up": "影视飓风",
+      "play": 4081144,
+      "category": ""
+    },
+    {
+      "rank": 3,
+      "title": "杀人犯演电影？全网都在抵制！《监狱来的妈妈》问题到底出在哪里？",
+      "up": "文西与阿漆",
+      "play": 3385099,
+      "category": ""
+    },
+    {
+      "rank": 4,
+      "title": "一个脱胎换骨的\"你\"，正于新世界诞生 | 《逆水寒：新世界》首支预告片",
+      "up": "网易逆水寒",
+      "play": 6476140,
+      "category": ""
+    },
+    {
+      "rank": 5,
+      "title": "《原神》角色预告-「尼可：史诗级冒险故事」",
+      "up": "原神",
+      "play": 1738284,
+      "category": ""
+    },
+    {
+      "rank": 6,
+      "title": "《鸣潮》共鸣者「达妮娅」PV | 人类伪装指南",
+      "up": "鸣潮",
+      "play": 2464248,
+      "category": ""
+    },
+    {
+      "rank": 7,
+      "title": "有态势豆豆兵",
+      "up": "有态度的豆豆兵",
+      "play": 1383095,
+      "category": ""
+    },
+    {
+      "rank": 8,
+      "title": "《上 海 奥 特 曼》",
+      "up": "册那队长",
+      "play": 3207559,
+      "category": ""
+    },
+    {
+      "rank": 9,
+      "title": "开启百亩河道清道夫老巢治理行动第二天",
+      "up": "大表哥Vlog",
+      "play": 1280850,
+      "category": ""
+    },
+    {
+      "rank": 10,
+      "title": "《狗族大帝》",
+      "up": "伤心欲茄222",
+      "play": 2572600,
+      "category": ""
+    }
+  ]
 }
