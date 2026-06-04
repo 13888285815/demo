@@ -1,1 +1,11 @@
-{"city":"北京","date":"2026-06-04","temp":"22°C","feelsLike":"25°C","humidity":"53%","weather":"Light Rain With Thunderstorm","wind":"S 9km/h","visibility":"10km","pressure":"1005hPa"}
+{
+  "city": "北京",
+  "date": "2026-06-04",
+  "temp": "20°C",
+  "feelsLike": "20°C",
+  "humidity": "73%",
+  "weather": "Sunny",
+  "wind": "NE 13km/h",
+  "visibility": "10km",
+  "pressure": "1005hPa"
+}

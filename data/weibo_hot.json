@@ -1,67 +1,122 @@
-{
-  "source": "微博热搜",
-  "fetched_at": "2026-05-17T15:46:00+08:00",
-  "note": "实时API受限，使用缓存数据",
-  "hotList": [
-    {
-      "rank": 1,
-      "keyword": "苹果华为小米集体降价",
-      "heat": "292万",
-      "hot": true
-    },
-    {
-      "rank": 2,
-      "keyword": "特朗普警告台独",
-      "heat": "223万",
-      "hot": false
-    },
-    {
-      "rank": 3,
-      "keyword": "中国式支付圈粉全球",
-      "heat": "141万",
-      "hot": false
-    },
-    {
-      "rank": 4,
-      "keyword": "让妈妈丢人的事顺手就做了",
-      "heat": "108万",
-      "hot": false
-    },
-    {
-      "rank": 5,
-      "keyword": "万千惠点名徐梦洁",
-      "heat": "96万",
-      "hot": false
-    },
-    {
-      "rank": 6,
-      "keyword": "薛之谦说很开心盲道被撞是摆拍",
-      "heat": "58万",
-      "hot": false
-    },
-    {
-      "rank": 7,
-      "keyword": "李冰冰亮相戛纳红毯",
-      "heat": "50万",
-      "hot": false
-    },
-    {
-      "rank": 8,
-      "keyword": "榴莲等等党赢了",
-      "heat": "50万",
-      "hot": false
-    },
-    {
-      "rank": 9,
-      "keyword": "21世纪大君夫人大结局",
-      "heat": "44万",
-      "hot": false
-    },
-    {
-      "rank": 10,
-      "keyword": "Gucci大秀",
-      "heat": "37万",
-      "hot": false
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "keyword": "原价899的耐克降至429消费者仍不买账",
+    "heat": "1100604",
+    "label": "新"
+  },
+  {
+    "rank": 2,
+    "keyword": "时代峰峻 电影咖",
+    "heat": "793480",
+    "label": ""
+  },
+  {
+    "rank": 3,
+    "keyword": "端午小长假购票提醒收好",
+    "heat": "774450",
+    "label": ""
+  },
+  {
+    "rank": 4,
+    "keyword": "吃外卖4年的最好证明",
+    "heat": "760712",
+    "label": ""
+  },
+  {
+    "rank": 5,
+    "keyword": "不要穿灰色裤子去健身房",
+    "heat": "734565",
+    "label": ""
+  },
+  {
+    "rank": 6,
+    "keyword": "离职要退103个群",
+    "heat": "558845",
+    "label": ""
+  },
+  {
+    "rank": 7,
+    "keyword": "现在回小卖部简直是降维打击",
+    "heat": "469061",
+    "label": ""
+  },
+  {
+    "rank": 8,
+    "keyword": "神仙肉男主传一个跑一个",
+    "heat": "433580",
+    "label": ""
+  },
+  {
+    "rank": 9,
+    "keyword": "2030年AI耗水量够13亿人用一年",
+    "heat": "328865",
+    "label": ""
+  },
+  {
+    "rank": 10,
+    "keyword": "马宁独自一人征战世界杯",
+    "heat": "328652",
+    "label": ""
+  },
+  {
+    "rank": 11,
+    "keyword": "刘亦菲又自己乱剪头发了",
+    "heat": "327702",
+    "label": "热"
+  },
+  {
+    "rank": 12,
+    "keyword": "曝TF家族运动会分组名单",
+    "heat": "327637",
+    "label": "新"
+  },
+  {
+    "rank": 13,
+    "keyword": "辅警多次借钱致女友背负网贷后轻生",
+    "heat": "326897",
+    "label": "新"
+  },
+  {
+    "rank": 14,
+    "keyword": "刘亦菲北电同学聚会照",
+    "heat": "326118",
+    "label": ""
+  },
+  {
+    "rank": 15,
+    "keyword": "宋祖儿路透长得像p了半小时的",
+    "heat": "325843",
+    "label": "新"
+  },
+  {
+    "rank": 16,
+    "keyword": "男子AI写歌月收入十几万",
+    "heat": "325156",
+    "label": "新"
+  },
+  {
+    "rank": 17,
+    "keyword": "何猷君伴郎之一是雅诗兰黛继承人",
+    "heat": "324271",
+    "label": "新"
+  },
+  {
+    "rank": 18,
+    "keyword": "美股芯片巨头暴跌",
+    "heat": "323756",
+    "label": ""
+  },
+  {
+    "rank": 19,
+    "keyword": "发明实况拼图的简直是天才",
+    "heat": "323229",
+    "label": "新"
+  },
+  {
+    "rank": 20,
+    "keyword": "谷歌计划投放3200万只蚊子",
+    "heat": "322395",
+    "label": "新"
+  }
+]

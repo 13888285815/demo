@@ -1,76 +1,92 @@
-{
-  "source": "Bilibili API",
-  "fetched_at": "2026-05-17T07:46:15Z",
-  "rankings": [
-    {
-      "rank": 1,
-      "title": "ピノキオピー - 歌姫失格 feat. 初音ミク",
-      "up": "ピノキオピー_official",
-      "play": 1590942,
-      "category": ""
-    },
-    {
-      "rank": 2,
-      "title": "我伟大的甲方，又来指导技术教学了",
-      "up": "老头们的快乐生活",
-      "play": 3402244,
-      "category": ""
-    },
-    {
-      "rank": 3,
-      "title": "火漆套色｜无神论者",
-      "up": "朝暮不睡觉QWQ",
-      "play": 2154874,
-      "category": ""
-    },
-    {
-      "rank": 4,
-      "title": "我一定会找到完美时间线的",
-      "up": "寅山",
-      "play": 2602123,
-      "category": ""
-    },
-    {
-      "rank": 5,
-      "title": "地牢酒馆-07集 薇薇安的配方与艾拉的新裙子",
-      "up": "粘土工厂",
-      "play": 2140055,
-      "category": ""
-    },
-    {
-      "rank": 6,
-      "title": "6月5日公测开启 夜幕之下定档PV首发",
-      "up": "夜幕之下_代号砰砰",
-      "play": 7479038,
-      "category": ""
-    },
-    {
-      "rank": 7,
-      "title": "ENEMY主创最新作品预告",
-      "up": "煎饼果仔呀",
-      "play": 2462298,
-      "category": ""
-    },
-    {
-      "rank": 8,
-      "title": "旧说唱乐队第三弹巅峰之作",
-      "up": "高卫钧",
-      "play": 1557467,
-      "category": ""
-    },
-    {
-      "rank": 9,
-      "title": "如何让字皆若空游无所依",
-      "up": "木鱼蛋-",
-      "play": 1754689,
-      "category": ""
-    },
-    {
-      "rank": 10,
-      "title": "你知道我们走的路也有很多种叫法吗",
-      "up": "走遍中国博物馆",
-      "play": 3341842,
-      "category": ""
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "当父母说出了正确答案：",
+    "play": "106.8万",
+    "url": "https://www.bilibili.com/video/BV16kV26TES7"
+  },
+  {
+    "rank": 2,
+    "title": "特朗普的愤怒",
+    "play": "92.2万",
+    "url": "https://www.bilibili.com/video/BV1XQ7Z6eEki"
+  },
+  {
+    "rank": 3,
+    "title": "【传奇耐熬王】经典排骨💀60天仍然有5人存活💪到最后拼的就是谁身体好！🤦‍♂️",
+    "play": "76.7万",
+    "url": "https://www.bilibili.com/video/BV1hAVm6XEE2"
+  },
+  {
+    "rank": 4,
+    "title": "冠以破碎之名：第一集 冰潮寒雨之夏",
+    "play": "14.3万",
+    "url": "https://www.bilibili.com/video/BV1XEV26XEsz"
+  },
+  {
+    "rank": 5,
+    "title": "欢迎来到304班娃娃店",
+    "play": "165.2万",
+    "url": "https://www.bilibili.com/video/BV1BqVS6MEL8"
+  },
+  {
+    "rank": 6,
+    "title": "【侯绿萝】视频加载中，速速查收惊喜！",
+    "play": "39.3万",
+    "url": "https://www.bilibili.com/video/BV1sC7R6VEF3"
+  },
+  {
+    "rank": 7,
+    "title": "“超微距”下的瑞士长什么样？",
+    "play": "178.4万",
+    "url": "https://www.bilibili.com/video/BV1vkVB6NEuR"
+  },
+  {
+    "rank": 8,
+    "title": "不儿，你俩来真的啊？！",
+    "play": "318.2万",
+    "url": "https://www.bilibili.com/video/BV1RvVo6QEqo"
+  },
+  {
+    "rank": 9,
+    "title": "万万没想到！大哥大手笔甩出10颗水晶球，主播豁命迎战劈20块大理石，当场傻眼！",
+    "play": "51.9万",
+    "url": "https://www.bilibili.com/video/BV1qw7d6cExL"
+  },
+  {
+    "rank": 10,
+    "title": "《原神》洛恩角色PV——「标准化考核」",
+    "play": "153.3万",
+    "url": "https://www.bilibili.com/video/BV1oqVB6BECd"
+  },
+  {
+    "rank": 11,
+    "title": "绝望中没有等来牢玩家，但等到了大运诸葛亮",
+    "play": "56.1万",
+    "url": "https://www.bilibili.com/video/BV1CS7R6uEar"
+  },
+  {
+    "rank": 12,
+    "title": "兄弟们！今天给良子做一个入营测试，这身体身体素质，跟我想的不太一样啊!",
+    "play": "164.4万",
+    "url": "https://www.bilibili.com/video/BV1ogV26FEhB"
+  },
+  {
+    "rank": 13,
+    "title": "科比的哲学启示录第十四期",
+    "play": "288.5万",
+    "url": "https://www.bilibili.com/video/BV1mhV26yETL"
+  },
+  {
+    "rank": 14,
+    "title": "从\"健身芭比\"到\"女企业家\"，帕梅拉有多会\"赚\"？",
+    "play": "116.0万",
+    "url": "https://www.bilibili.com/video/BV1f3VU6KEqy"
+  },
+  {
+    "rank": 15,
+    "title": "懒人邪修烧烤海鲜局，馋哭了！！",
+    "play": "97.4万",
+    "url": "https://www.bilibili.com/video/BV1rdVR68EU2"
+  }
+]
