@@ -1,0 +1,44 @@
+{
+  "lastUpdate": "2026-06-04T15:48:00+08:00",
+  "data": {
+    "cctvNews": {
+      "source": "央视网",
+      "status": "success",
+      "timestamp": "2026-06-04T11:36:55"
+    },
+    "weiboHotSearch": {
+      "source": "微博热搜",
+      "status": "unavailable",
+      "note": "接口暂时不可用"
+    },
+    "weather": {
+      "source": "Open-Meteo",
+      "location": "上海",
+      "coordinates": {"latitude": 31.247803, "longitude": 121.5},
+      "current": {
+        "time": "2026-06-04T15:45",
+        "temperature": "28.5°C",
+        "humidity": "66%",
+        "weatherCode": 3,
+        "weatherDescription": "多云",
+        "windSpeed": "6.6 km/h"
+      }
+    },
+    "bilibiliHot": {
+      "source": "B站热门视频",
+      "status": "success",
+      "topVideos": [
+        {"rank": 1, "title": "回忆永远都是加分项", "author": "央视新闻", "play": 2863967, "bvid": "BV1QzVR63E3L"},
+        {"rank": 2, "title": "初中生斗胆跳一段jam", "author": "特崮斯", "play": 4373170, "bvid": "BV1kCVU65ERM"},
+        {"rank": 3, "title": "不儿，你俩来真的啊？！", "author": "主持人yoyo酱", "play": 2991133, "bvid": "BV1RvVo6QEqo"},
+        {"rank": 4, "title": "一顿饭只要三块钱，客人吃着吃着，人就"没了"", "author": "瞎通不设计了", "play": 1385399, "bvid": "BV15wVB6YECT"},
+        {"rank": 5, "title": "【野餐】你醒啦 现在是2012年的5月份呀", "author": "野餐slu2pcekry", "play": 1076611, "bvid": "BV1jqVS6MECE"},
+        {"rank": 6, "title": "我的世界杯主题曲！IShowSpeed - World Cup (Champions)", "author": "ishowspeedsui", "play": 2861815, "bvid": "BV1jwV663EjR"},
+        {"rank": 7, "title": "APP窗口乱跳转的"传送门"该关上了！", "author": "人民日报", "play": 2281164, "bvid": "BV16iV96sEtP"},
+        {"rank": 8, "title": "不止抽象！内娱唯一的硬汉！盘点嘎子谢孟伟职业生涯高光演技", "author": "文西与阿漆", "play": 2144655, "bvid": "BV14FVE6AEze"},
+        {"rank": 9, "title": "《原神》洛恩角色PV——「标准化考核」", "author": "原神", "play": 1397335, "bvid": "BV1oqVB6BECd"},
+        {"rank": 10, "title": "做了一把千机伞，能变十三个形态的那种｜最强的武器一定是自制的", "author": "o小庄o", "play": 2827535, "bvid": "BV11BVU6mEUe"}
+      ]
+    }
+  }
+}
