@@ -1,11 +1,16 @@
 {
-  "city": "北京",
-  "date": "2026-06-04",
-  "temp": "20°C",
-  "feelsLike": "20°C",
-  "humidity": "73%",
+  "city": "上海",
+  "date": "2026-06-05",
+  "temp": "23°C",
+  "feelsLike": "25°C",
+  "humidity": "78%",
   "weather": "Sunny",
-  "wind": "NE 13km/h",
+  "wind": "NE 12km/h",
   "visibility": "10km",
-  "pressure": "1005hPa"
+  "pressure": "1008hPa",
+  "forecast": [
+    {"date": "2026-06-05", "max": "27°C", "min": "22°C", "weather": "Partly Cloudy"},
+    {"date": "2026-06-06", "max": "27°C", "min": "21°C", "weather": "Partly Cloudy"},
+    {"date": "2026-06-07", "max": "23°C", "min": "22°C", "weather": "Light Rain"}
+  ]
 }
