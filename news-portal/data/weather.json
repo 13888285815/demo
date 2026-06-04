@@ -1,38 +1,32 @@
 {
-  "update_time": "2026-06-04T11:48:00+08:00",
-  "source": "Open-Meteo API",
-  "location": "北京",
-  "latitude": 39.89,
-  "longitude": 116.36,
+  "source": "wttr.in",
+  "fetched_at": "2026-06-04 17:20:00",
+  "location": "上海",
   "current": {
-    "time": "2026-06-04T11:45",
-    "temperature": 22.6,
-    "humidity": 57,
-    "weather_code": 51,
-    "weather_desc": "小毛毛雨",
-    "wind_speed": 4.1
+    "temp_C": "27",
+    "weather": "Sunny",
+    "humidity": "62%",
+    "wind": "6 km/h",
+    "feels_like": "28°C"
   },
-  "daily": [
+  "forecast": [
     {
       "date": "2026-06-04",
-      "temp_max": 22.8,
-      "temp_min": 15.6,
-      "weather_code": 80,
-      "weather_desc": "阵雨"
+      "max": "27°C",
+      "min": "25°C",
+      "weather": "Sunny"
     },
     {
       "date": "2026-06-05",
-      "temp_max": 26.2,
-      "temp_min": 15.1,
-      "weather_code": 3,
-      "weather_desc": "多云"
+      "max": "29°C",
+      "min": "24°C",
+      "weather": "Partly cloudy"
     },
     {
       "date": "2026-06-06",
-      "temp_max": 21.0,
-      "temp_min": 14.2,
-      "weather_code": 61,
-      "weather_desc": "小雨"
+      "max": "28°C",
+      "min": "23°C",
+      "weather": "Cloudy"
     }
   ]
 }

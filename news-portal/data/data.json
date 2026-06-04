@@ -1,0 +1,65 @@
+{
+  "updated_at": "2026-06-04T17:20:00Z",
+  "version": "2.1",
+  "weather": {
+    "source": "wttr.in",
+    "fetched_at": "2026-06-04T17:20:00Z",
+    "location": "上海",
+    "current": {
+      "temp_C": "27",
+      "weather": "Sunny",
+      "humidity": "62%",
+      "wind": "6 km/h"
+    },
+    "forecast": [
+      {"date": "2026-06-04", "max": "27°C", "min": "25°C", "weather": "Sunny"},
+      {"date": "2026-06-05", "max": "29°C", "min": "24°C", "weather": "Partly cloudy"},
+      {"date": "2026-06-06", "max": "28°C", "min": "23°C", "weather": "Cloudy"}
+    ]
+  },
+  "news": {
+    "cctv": [
+      {"title": "水润家园好光景 - 饮水安全是人民生活的底线", "url": "https://news.cctv.com", "time": "2026-06-04", "source": "央视新闻"},
+      {"title": "辽宁省长：严肃查处相关单位和责任人", "url": "https://news.cctv.com", "time": "2026-06-04", "source": "央视新闻"},
+      {"title": "端午假期首日火车票明日开售", "url": "https://news.cctv.com", "time": "2026-06-04", "source": "央视新闻"},
+      {"title": "油价今晚下调 加满一箱油少花20.5元", "url": "https://news.cctv.com", "time": "2026-06-04", "source": "央视新闻"},
+      {"title": "中方决定禁止新西兰有关议员入境", "url": "https://news.cctv.com", "time": "2026-06-04", "source": "央视新闻"},
+      {"title": "王毅会见下任联合国秘书长候选人", "url": "https://news.cctv.com", "time": "2026-06-04", "source": "央视新闻"},
+      {"title": "商务部回应美对华贸易限制", "url": "https://news.cctv.com", "time": "2026-06-04", "source": "央视新闻"},
+      {"title": "教育部提醒高考考生诚信参考", "url": "https://news.cctv.com", "time": "2026-06-04", "source": "央视新闻"},
+      {"title": "A股登上新闻联播报道时长1分49秒", "url": "https://news.cctv.com", "time": "2026-06-04", "source": "央视新闻"},
+      {"title": "《给阿嬷的情书》票房突破15亿", "url": "https://news.cctv.com", "time": "2026-06-04", "source": "央视新闻"}
+    ],
+    "total": 10
+  },
+  "hot_search": {
+    "weibo": [
+      {"rank": 1, "keyword": "水润家园好光景", "heat": 7904728},
+      {"rank": 2, "keyword": "辽宁省长：严肃查处相关单位和责任人", "heat": 7808029},
+      {"rank": 3, "keyword": "端午火车票明日开售", "heat": 7619053},
+      {"rank": 4, "keyword": "中国消费者抛弃耐克比想象中更快", "heat": 7524458},
+      {"rank": 5, "keyword": "提醒：带入考场即构成作弊", "heat": 7333590},
+      {"rank": 6, "keyword": "《给阿嬷的情书》火了电影人集体沉默", "heat": 7234744},
+      {"rank": 7, "keyword": "油价今晚下调 加满一箱油少花20.5元", "heat": 7141183},
+      {"rank": 8, "keyword": "女孩洗澡搓腹后腹腔出血达上千毫升", "heat": 7045716},
+      {"rank": 9, "keyword": "中方决定禁止新西兰有关议员入境", "heat": 6951315},
+      {"rank": 10, "keyword": "医生辟谣高考前不吃主食不犯困", "heat": 6858694}
+    ],
+    "total": 10
+  },
+  "bilibili": {
+    "rankings": [
+      {"rank": 1, "title": "回忆永远都是加分项", "up": "央视新闻", "play": 2339695, "category": ""},
+      {"rank": 2, "title": "初中生斗胆跳一段jam", "up": "特崮斯", "play": 4074061, "category": ""},
+      {"rank": 3, "title": "不儿，你俩来真的啊？！", "up": "主持人yoyo酱", "play": 2837698, "category": ""},
+      {"rank": 4, "title": "一顿饭只要三块钱，客人吃着吃着，人就\"没了\"", "up": "瞎通不设计了", "play": 1352114, "category": ""},
+      {"rank": 5, "title": "【野餐】你醒啦 现在是2012年的5月份呀", "up": "野餐slu2pcekry", "play": 1049198, "category": ""},
+      {"rank": 6, "title": "我的世界杯主题曲！IShowSpeed - World Cup", "up": "ishowspeedsui", "play": 2785476, "category": ""},
+      {"rank": 7, "title": "APP窗口乱跳转的\"传送门\"该关上了！", "up": "人民日报", "play": 2185314, "category": ""},
+      {"rank": 8, "title": "不止抽象！内娱唯一的硬汉！盘点嘎子高光演技", "up": "文西与阿漆", "play": 1965721, "category": ""},
+      {"rank": 9, "title": "《原神》洛恩角色PV——「标准化考核」", "up": "原神", "play": 1349198, "category": ""},
+      {"rank": 10, "title": "🍄欠揍气球🍄", "up": "纸片马力欧", "play": 1332681, "category": ""}
+    ],
+    "total": 10
+  }
+}

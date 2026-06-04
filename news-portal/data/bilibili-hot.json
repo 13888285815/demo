@@ -1,17 +1,21 @@
 {
-  "update_time": "2026-06-04T11:48:00+08:00",
-  "source": "B站热门 (综合搜索+热搜信息)",
-  "note": "B站API限流(-352)，以下数据综合微博热搜及搜索结果整理",
-  "hot_list": [
-    {"rank": 1, "title": "中国机器人亮相美国达人秀", "author": "综合热门", "views": "未知", "desc": "中国机器人表演引发全场惊叹"},
-    {"rank": 2, "title": "灵魂摆渡十年 首日云合41.8%", "author": "综合热门", "views": "未知", "desc": "经典剧集回归引发热议"},
-    {"rank": 3, "title": "NBA总决赛精彩集锦", "author": "综合热门", "views": "未知", "desc": "NBA总决赛赛事精彩回顾"},
-    {"rank": 4, "title": "黄仁勋躺地喝啤酒", "author": "综合热门", "views": "未知", "desc": "英伟达CEO黄仁勋 Computex 2026 花絮"},
-    {"rank": 5, "title": "最信豆包的人出现了", "author": "综合热门", "views": "未知", "desc": "AI应用话题引发讨论"},
-    {"rank": 6, "title": "3岁宝宝不知妈妈去世每天都要出去找", "author": "综合热门", "views": "未知", "desc": "感人视频引发网友泪目"},
-    {"rank": 7, "title": "日本超市货架正在失去颜色", "author": "综合热门", "views": "未知", "desc": "日本经济现状观察"},
-    {"rank": 8, "title": "Bin行为是否应该受到处罚", "author": "综合热门", "views": "未知", "desc": "电竞圈热议话题"},
-    {"rank": 9, "title": "萨巴伦卡含泪说想放弃网球", "author": "综合热门", "views": "未知", "desc": "法网网球赛事热点"},
-    {"rank": 10, "title": "2026高考安检新变化解读", "author": "综合热门", "views": "未知", "desc": "高考政策变化科普"}
+  "source": "Bilibili API",
+  "fetched_at": "2026-06-04 17:20:00",
+  "rankings": [
+    {"rank": 1, "title": "回忆永远都是加分项", "author": "央视新闻", "play": 2339695, "bvid": "BV1QzVR63E3L", "video_url": "https://www.bilibili.com/video/BV1QzVR63E3L"},
+    {"rank": 2, "title": "初中生斗胆跳一段jam", "author": "特崮斯", "play": 4074061, "bvid": "BV1kCVU65ERM", "video_url": "https://www.bilibili.com/video/BV1kCVU65ERM"},
+    {"rank": 3, "title": "不儿，你俩来真的啊？！", "author": "主持人yoyo酱", "play": 2837698, "bvid": "BV1RvVo6QEqo", "video_url": "https://www.bilibili.com/video/BV1RvVo6QEqo"},
+    {"rank": 4, "title": "一顿饭只要三块钱，客人吃着吃着，人就\"没了\"", "author": "瞎通不设计了", "play": 1352114, "bvid": "BV15wVB6YECT", "video_url": "https://www.bilibili.com/video/BV15wVB6YECT"},
+    {"rank": 5, "title": "【野餐】你醒啦 现在是2012年的5月份呀", "author": "野餐slu2pcekry", "play": 1049198, "bvid": "BV1jqVS6MECE", "video_url": "https://www.bilibili.com/video/BV1jqVS6MECE"},
+    {"rank": 6, "title": "我的世界杯主题曲！IShowSpeed - World Cup (Champions)", "author": "ishowspeedsui", "play": 2785476, "bvid": "BV1jwV663EjR", "video_url": "https://www.bilibili.com/video/BV1jwV663EjR"},
+    {"rank": 7, "title": "APP窗口乱跳转的\"传送门\"该关上了！", "author": "人民日报", "play": 2185314, "bvid": "BV16iV96sEtP", "video_url": "https://www.bilibili.com/video/BV16iV96sEtP"},
+    {"rank": 8, "title": "不止抽象！内娱唯一的硬汉！盘点嘎子谢孟伟职业生涯高光演技", "author": "文西与阿漆", "play": 1965721, "bvid": "BV14FVE6AEze", "video_url": "https://www.bilibili.com/video/BV14FVE6AEze"},
+    {"rank": 9, "title": "《原神》洛恩角色PV——「标准化考核」", "author": "原神", "play": 1349198, "bvid": "BV1oqVB6BECd", "video_url": "https://www.bilibili.com/video/BV1oqVB6BECd"},
+    {"rank": 10, "title": "🍄欠揍气球🍄", "author": "纸片马力欧", "play": 1332681, "bvid": "BV1W6VZ6MEbd", "video_url": "https://www.bilibili.com/video/BV1W6VZ6MEbd"},
+    {"rank": 11, "title": "做了一把千机伞，能变十三个形态的那种｜最强的武器一定是自制的", "author": "o小庄o", "play": 2212682, "bvid": "BV11BVU6mEUe", "video_url": "https://www.bilibili.com/video/BV11BVU6mEUe"},
+    {"rank": 12, "title": "二次元老资历童年都在听什么？！老番串烧34首大连唱！", "author": "鹿火CAVY", "play": 1134841, "bvid": "BV1B75w6zEG1", "video_url": "https://www.bilibili.com/video/BV1B75w6zEG1"},
+    {"rank": 13, "title": "我打孔子，真的假的？", "author": "自动鬼畜中的WZ", "play": 2565822, "bvid": "BV1xWG16qEBn", "video_url": "https://www.bilibili.com/video/BV1xWG16qEBn"},
+    {"rank": 14, "title": "《你来真的啊》", "author": "伤心欲茄222", "play": 2009120, "bvid": "BV16BVy6wEfx", "video_url": "https://www.bilibili.com/video/BV16BVy6wEfx"},
+    {"rank": 15, "title": "海很大,但比海更辽阔的，是一个人孩子不肯认输的心", "author": "李炮炮儿", "play": 930774, "bvid": "BV1hAVf6pE43", "video_url": "https://www.bilibili.com/video/BV1hAVf6pE43"}
   ]
 }
