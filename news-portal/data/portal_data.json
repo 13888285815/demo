@@ -1,46 +1,9 @@
 {
-  "portal_name": "意念科技新闻门户",
-  "update_time": "2026-05-19 09:04:00",
-  "sections": {
-    "news": {
-      "title": "新闻头条",
-      "items": [
-        {"title": "伊朗总统：对话不意味投降 将全力捍卫国家尊严", "url": "https://news.cctv.com/2026/05/19/ARTI3ABenhKjSWYiUBrZLZYi260519.shtml", "category": "国际"},
-        {"title": "实景演绎、数字赋能、文创开发：让文物活起来", "url": "https://news.cctv.com/2026/05/19/ARTIWUB3HrydrOIMzXoFgVAU260518.shtml", "category": "文娱"},
-        {"title": "2026年电影票房超145亿元", "url": "https://tv.cctv.com/2026/05/19/VIDEe3PKsrC0VytYpcUpc4dB260519.shtml", "category": "财经"},
-        {"title": "我国首个二氧化碳地热能项目投产", "url": "https://tv.cctv.com/2026/05/19/VIDEpSTej9GBrV2BtZaZQUfs260519.shtml", "category": "科技"},
-        {"title": "四川成都：科技赋能 让助残服务更有温度", "url": "https://tv.cctv.com/2026/05/19/VIDElaD5XU1x65vWZSTrEg66260519.shtml", "category": "社会"}
-      ]
-    },
-    "weibo_hot": {
-      "title": "微博热搜",
-      "items": [
-        {"rank": 1, "title": "2026年电影票房超145亿元", "hot": "9823421"},
-        {"rank": 2, "title": "伊朗总统称对话不意味投降", "hot": "8765123"},
-        {"rank": 3, "title": "我国首个二氧化碳地热能项目投产", "hot": "7654321"},
-        {"rank": 4, "title": "让文物活起来成为新风尚", "hot": "6543210"},
-        {"rank": 5, "title": "科技助残服务更有温度", "hot": "5432109"}
-      ]
-    },
-    "bilibili_hot": {
-      "title": "B站热门",
-      "items": [
-        {"rank": 1, "title": "2026年电影票房突破145亿，国产电影崛起", "play": "5234567"},
-        {"rank": 2, "title": "二氧化碳地热能项目有多牛？带你了解", "play": "4567890"},
-        {"rank": 3, "title": "博物馆数字化创新，让文物活起来", "play": "3987654"},
-        {"rank": 4, "title": "科技助残：让服务更有温度", "play": "3456789"},
-        {"rank": 5, "title": "伊朗局势最新解读", "play": "2987654"}
-      ]
-    },
-    "weather": {
-      "title": "天气预报",
-      "location": "北京",
-      "current": {"temp": "20", "weather": "多云", "humidity": "83%"},
-      "forecast": [
-        {"date": "05-19", "max": "27", "min": "18", "weather": "多云转阴"},
-        {"date": "05-20", "max": "25", "min": "18", "weather": "小雨"},
-        {"date": "05-21", "max": "27", "min": "17", "weather": "晴"}
-      ]
-    }
+  "update_time": "2026-06-04T11:48:00+08:00",
+  "sources": {
+    "cctv": true,
+    "weibo": true,
+    "weather": true,
+    "bilibili": true
   }
 }

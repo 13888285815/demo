@@ -1,50 +1,58 @@
-[
-  {
-    "title": "伊朗总统：对话不意味投降 将全力捍卫国家尊严",
-    "url": "https://news.cctv.com/2026/05/19/ARTI3ABenhKjSWYiUBrZLZYi260519.shtml",
-    "time": "2026-05-19 06:48:03",
-    "category": "国际"
-  },
-  {
-    "title": "实景演绎、数字赋能、文创开发：让文物活起来",
-    "url": "https://news.cctv.com/2026/05/19/ARTIWUB3HrydrOIMzXoFgVAU260518.shtml",
-    "time": "2026-05-19 02:10:26",
-    "category": "文娱"
-  },
-  {
-    "title": "2026年电影票房超145亿元",
-    "url": "https://tv.cctv.com/2026/05/19/VIDEe3PKsrC0VytYpcUpc4dB260519.shtml",
-    "time": "2026-05-19 07:26",
-    "category": "财经"
-  },
-  {
-    "title": "我国首个二氧化碳地热能项目投产",
-    "url": "https://tv.cctv.com/2026/05/19/VIDEpSTej9GBrV2BtZaZQUfs260519.shtml",
-    "time": "2026-05-19 07:20",
-    "category": "科技"
-  },
-  {
-    "title": "四川成都：科技赋能 让助残服务更有温度",
-    "url": "https://tv.cctv.com/2026/05/19/VIDElaD5XU1x65vWZSTrEg66260519.shtml",
-    "time": "2026-05-19",
-    "category": "社会"
-  },
-  {
-    "title": "明天起国内航线燃油附加费上调",
-    "url": "https://tv.cctv.com/2026/05/15/VIDEDOZ9xHPVLiZKl2wkCVMe260515.shtml",
-    "time": "2026-05-15",
-    "category": "财经"
-  },
-  {
-    "title": "一季度职工基本医保缴费收入5981亿元",
-    "url": "https://tv.cctv.com/2026/05/15/VIDEOoS4ECYk1OvYJTrPgDkv260515.shtml",
-    "time": "2026-05-15",
-    "category": "财经"
-  },
-  {
-    "title": "老年旅客淡季优惠火车票开售",
-    "url": "https://tv.cctv.com/2026/05/15/VIDEviN6Zl1j3vWsG0lWk7N0260515.shtml",
-    "time": "2026-05-15",
-    "category": "社会"
-  }
-]
+{
+  "update_time": "2026-06-04T11:48:00+08:00",
+  "source": "央视网",
+  "news": [
+    {
+      "category": "国内",
+      "title": "平陆运河全线通水 将于今年9月通航",
+      "summary": "6月3日，西部陆海新通道骨干工程——平陆运河实现全线通水，进入有水调试阶段。平陆运河位于广西，全长134.2公里，是新中国成立以来我国第一条国家层面统筹的通江达海运河工程，可通航5000吨级船舶。平陆运河通航倒计时100天现场推进会3日在广西钦州召开。",
+      "url": "https://news.cctv.cn/2026/06/04/ARTIzvSoIEn36uwnIFaBKrPa260604.shtml",
+      "time": "2026-06-04 00:32"
+    },
+    {
+      "category": "财经",
+      "title": "166家外企获增值电信业务经营试点批复",
+      "summary": "166家外企获得增值电信业务经营试点批复，进一步扩大对外开放。",
+      "url": "https://tv.cctv.com/2026/06/04/VIDEL6ad1Cy3HI8WkHUODaYh260604.shtml",
+      "time": "2026-06-04 10:10"
+    },
+    {
+      "category": "财经",
+      "title": "国内成品油价格将迎来调整窗口",
+      "summary": "国内成品油价格将迎来新一轮调整窗口。",
+      "url": "https://tv.cctv.com/2026/06/04/VIDEvwNX7miDSmRwkHTwbvvQ260604.shtml",
+      "time": "2026-06-04 10:12"
+    },
+    {
+      "category": "国际",
+      "title": "世卫组织：刚果（金）埃博拉疫情防控工作正取得进展",
+      "summary": "世界卫生组织表示，刚果（金）埃博拉疫情防控工作正取得进展。",
+      "url": "https://tv.cctv.com/2026/06/04/VIDEUQvWwuaUHbd0gHXgEdQ9260604.shtml",
+      "time": "2026-06-04 11:22"
+    },
+    {
+      "category": "国际",
+      "title": "菲律宾落选安理会非常任理事国",
+      "summary": "菲律宾在联合国安理会非常任理事国选举中落选。",
+      "time": "2026-06-04"
+    },
+    {
+      "category": "科技",
+      "title": "中国机器人亮相美国达人秀",
+      "summary": "中国机器人亮相美国达人秀，展现中国科技实力。",
+      "time": "2026-06-04"
+    },
+    {
+      "category": "科技",
+      "title": "iPhone 18 Pro 八大亮点曝光",
+      "summary": "iPhone 18 Pro 八大亮点引发关注，科技圈热议苹果新品。",
+      "time": "2026-06-04"
+    },
+    {
+      "category": "社会",
+      "title": "2026高考安检新变化",
+      "summary": "2026年高考安检迎来新变化，带入考场即构成作弊。",
+      "time": "2026-06-04"
+    }
+  ]
+}

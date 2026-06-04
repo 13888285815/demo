@@ -1,7 +1,17 @@
-[
-  {"title": "线条重现中式美学世界", "desc": "B站全站排行榜热门视频，播放738万", "url": "https://www.bilibili.com/video/BV1KX9xBHE42", "date": "2026-05-15"},
-  {"title": "极致还原Billie jean现场名场面|定格动画", "desc": "B站全站排行榜热门视频，播放564万", "url": "https://www.bilibili.com/video/BV19K9CB1EoM", "date": "2026-05-15"},
-  {"title": "当用学历代表网文中的战力境界", "desc": "B站全站排行榜热门视频，播放363万", "url": "https://www.bilibili.com/video/BV1Mo98BNEGP", "date": "2026-05-15"},
-  {"title": "在意大利摆摊卖中餐，用烟火温暖异国日常", "desc": "B站全站排行榜热门视频，播放332万", "url": "https://www.bilibili.com/video/BV1Gu98BTEPg", "date": "2026-05-15"},
-  {"title": "这一分半我录了3个月，能火吗？", "desc": "B站全站排行榜热门视频，播放268万", "url": "https://www.bilibili.com/video/BV1v49YBHESJ", "date": "2026-05-15"}
-]
+{
+  "update_time": "2026-06-04T11:48:00+08:00",
+  "source": "B站热门 (综合搜索+热搜信息)",
+  "note": "B站API限流(-352)，以下数据综合微博热搜及搜索结果整理",
+  "hot_list": [
+    {"rank": 1, "title": "中国机器人亮相美国达人秀", "author": "综合热门", "views": "未知", "desc": "中国机器人表演引发全场惊叹"},
+    {"rank": 2, "title": "灵魂摆渡十年 首日云合41.8%", "author": "综合热门", "views": "未知", "desc": "经典剧集回归引发热议"},
+    {"rank": 3, "title": "NBA总决赛精彩集锦", "author": "综合热门", "views": "未知", "desc": "NBA总决赛赛事精彩回顾"},
+    {"rank": 4, "title": "黄仁勋躺地喝啤酒", "author": "综合热门", "views": "未知", "desc": "英伟达CEO黄仁勋 Computex 2026 花絮"},
+    {"rank": 5, "title": "最信豆包的人出现了", "author": "综合热门", "views": "未知", "desc": "AI应用话题引发讨论"},
+    {"rank": 6, "title": "3岁宝宝不知妈妈去世每天都要出去找", "author": "综合热门", "views": "未知", "desc": "感人视频引发网友泪目"},
+    {"rank": 7, "title": "日本超市货架正在失去颜色", "author": "综合热门", "views": "未知", "desc": "日本经济现状观察"},
+    {"rank": 8, "title": "Bin行为是否应该受到处罚", "author": "综合热门", "views": "未知", "desc": "电竞圈热议话题"},
+    {"rank": 9, "title": "萨巴伦卡含泪说想放弃网球", "author": "综合热门", "views": "未知", "desc": "法网网球赛事热点"},
+    {"rank": 10, "title": "2026高考安检新变化解读", "author": "综合热门", "views": "未知", "desc": "高考政策变化科普"}
+  ]
+}

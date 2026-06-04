@@ -1,39 +1,38 @@
 {
+  "update_time": "2026-06-04T11:48:00+08:00",
+  "source": "Open-Meteo API",
   "location": "北京",
-  "update_time": "2026-05-19 09:04:00",
+  "latitude": 39.89,
+  "longitude": 116.36,
   "current": {
-    "temp": "20",
-    "feels_like": "20",
-    "humidity": "83",
-    "weather": "多云",
-    "wind": "南风2级",
-    "visibility": "10公里",
-    "pressure": "1012"
+    "time": "2026-06-04T11:45",
+    "temperature": 22.6,
+    "humidity": 57,
+    "weather_code": 51,
+    "weather_desc": "小毛毛雨",
+    "wind_speed": 4.1
   },
-  "forecast": [
+  "daily": [
     {
-      "date": "2026-05-19",
-      "max_temp": "27",
-      "min_temp": "18",
-      "weather": "多云转阴",
-      "sunrise": "04:56",
-      "sunset": "19:26"
+      "date": "2026-06-04",
+      "temp_max": 22.8,
+      "temp_min": 15.6,
+      "weather_code": 80,
+      "weather_desc": "阵雨"
     },
     {
-      "date": "2026-05-20",
-      "max_temp": "25",
-      "min_temp": "18",
-      "weather": "小雨",
-      "sunrise": "04:55",
-      "sunset": "19:27"
+      "date": "2026-06-05",
+      "temp_max": 26.2,
+      "temp_min": 15.1,
+      "weather_code": 3,
+      "weather_desc": "多云"
     },
     {
-      "date": "2026-05-21",
-      "max_temp": "27",
-      "min_temp": "17",
-      "weather": "晴",
-      "sunrise": "04:55",
-      "sunset": "19:28"
+      "date": "2026-06-06",
+      "temp_max": 21.0,
+      "temp_min": 14.2,
+      "weather_code": 61,
+      "weather_desc": "小雨"
     }
   ]
 }

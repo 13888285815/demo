@@ -1,16 +1,17 @@
 {
-  "update_time": "2026-05-19 09:04:00",
-  "source": "B站热门",
+  "update_time": "2026-06-04T11:48:00+08:00",
+  "source": "B站热门 (综合搜索+热搜信息)",
+  "note": "B站API限流(-352)，以下数据综合微博热搜及搜索结果整理",
   "hot_list": [
-    {"rank": 1, "title": "2026年电影票房突破145亿，国产电影崛起", "play_count": "5234567", "danmu_count": "12345"},
-    {"rank": 2, "title": "二氧化碳地热能项目有多牛？带你了解", "play_count": "4567890", "danmu_count": "9876"},
-    {"rank": 3, "title": "博物馆数字化创新，让文物活起来", "play_count": "3987654", "danmu_count": "8765"},
-    {"rank": 4, "title": "科技助残：让服务更有温度", "play_count": "3456789", "danmu_count": "7654"},
-    {"rank": 5, "title": "伊朗局势最新解读", "play_count": "2987654", "danmu_count": "6543"},
-    {"rank": 6, "title": "成都科技助残新模式", "play_count": "2567890", "danmu_count": "5432"},
-    {"rank": 7, "title": "飞机燃油附加费又要涨了", "play_count": "2123456", "danmu_count": "4321"},
-    {"rank": 8, "title": "医保收入增长意味着什么", "play_count": "1876543", "danmu_count": "3210"},
-    {"rank": 9, "title": "老年旅客火车票优惠政策解读", "play_count": "1654321", "danmu_count": "2109"},
-    {"rank": 10, "title": "地热能发电原理解析", "play_count": "1432109", "danmu_count": "1098"}
+    {"rank": 1, "title": "中国机器人亮相美国达人秀", "author": "综合热门", "views": "未知", "desc": "中国机器人表演引发全场惊叹"},
+    {"rank": 2, "title": "灵魂摆渡十年 首日云合41.8%", "author": "综合热门", "views": "未知", "desc": "经典剧集回归引发热议"},
+    {"rank": 3, "title": "NBA总决赛精彩集锦", "author": "综合热门", "views": "未知", "desc": "NBA总决赛赛事精彩回顾"},
+    {"rank": 4, "title": "黄仁勋躺地喝啤酒", "author": "综合热门", "views": "未知", "desc": "英伟达CEO黄仁勋 Computex 2026 花絮"},
+    {"rank": 5, "title": "最信豆包的人出现了", "author": "综合热门", "views": "未知", "desc": "AI应用话题引发讨论"},
+    {"rank": 6, "title": "3岁宝宝不知妈妈去世每天都要出去找", "author": "综合热门", "views": "未知", "desc": "感人视频引发网友泪目"},
+    {"rank": 7, "title": "日本超市货架正在失去颜色", "author": "综合热门", "views": "未知", "desc": "日本经济现状观察"},
+    {"rank": 8, "title": "Bin行为是否应该受到处罚", "author": "综合热门", "views": "未知", "desc": "电竞圈热议话题"},
+    {"rank": 9, "title": "萨巴伦卡含泪说想放弃网球", "author": "综合热门", "views": "未知", "desc": "法网网球赛事热点"},
+    {"rank": 10, "title": "2026高考安检新变化解读", "author": "综合热门", "views": "未知", "desc": "高考政策变化科普"}
   ]
 }

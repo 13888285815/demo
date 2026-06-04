@@ -1,5 +1,4 @@
 {
-  "last_update": "2026-05-19 09:04:00",
-  "update_items": ["cctv_news", "weibo_hot", "bilibili_hot", "weather"],
-  "status": "success"
+  "last_update": "2026-06-04T11:48:00+08:00",
+  "next_update": "2026-06-04T23:48:00+08:00"
 }
