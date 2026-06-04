@@ -1,206 +1,229 @@
 {
-  "update_time": "2026-05-21T19:37:31.307991",
+  "updateTime": "2026-06-04 11:21:08",
   "weather": {
     "source": "wttr.in",
-    "fetched_at": "2026-05-21T11:35:00Z",
+    "fetched_at": "2026-05-21T12:07:29Z",
     "location": "Shanghai",
     "current": {
-      "temp_C": "23",
-      "weather": "Sunny",
-      "humidity": "64",
-      "wind": "16 km/h"
+      "temp_C": "20",
+      "weather": "Clear ",
+      "humidity": "68",
+      "wind": "14 km/h"
     },
     "forecast": [
       {
         "date": "2026-05-21",
-        "max": "26",
+        "max": "25",
         "min": "19",
         "weather": "Sunny"
       },
       {
         "date": "2026-05-22",
-        "max": "26",
+        "max": "27",
         "min": "18",
         "weather": "Sunny"
       },
       {
         "date": "2026-05-23",
-        "max": "27",
+        "max": "26",
         "min": "20",
-        "weather": "Overcast "
+        "weather": "Patchy rain nearby"
       }
     ]
   },
-  "news": [
-    {
-      "title": "Energy Aspects：石油市场距离短缺还有大约一个半月的时间",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrh8994343.shtml",
-      "time": "1779363180",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "美多名参议员致函联邦通信委员会 呼吁审查派拉蒙华纳合并案外资背景",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5770993.shtml",
-      "time": "1779363114",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "李强主持召开国务院常务会议 研究推进全国统一大市场建设有关工作",
-      "url": "https://finance.sina.com.cn/china/2026-05-21/doc-inhyshrk5771704.shtml",
-      "time": "1779363085",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "英国电信集团高管警示：人工智能热潮将推高手机售价",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5770392.shtml",
-      "time": "1779363037",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "高盛称对冲基金对大涨的芯片股获利了结 同时维持AI主题整体敞口",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5764737.shtml",
-      "time": "1779362381",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "涉嫌对金融诈骗审查不力 谷歌与Meta遭欧洲消费者组织联合投诉",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5764081.shtml",
-      "time": "1779362324",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "沃尔玛维持全年业绩预期",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5761204.shtml",
-      "time": "1779362069",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "伊朗最高领袖表示铀必须留在该国，美债和欧债下跌，油价涨",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrm8155372.shtml",
-      "time": "1779361895",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "穆迪对印尼出口管制新规发出警告 称可能损害投资者信心",
-      "url": "https://finance.sina.com.cn/world/2026-05-21/doc-inhyshrk5755800.shtml",
-      "time": "1779361627",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "伊朗最高领袖称铀必须留在伊朗",
-      "url": "https://finance.sina.com.cn/world/2026-05-21/doc-inhyshrf6282972.shtml",
-      "time": "1779361328",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "“明显嗅到一丝滞胀味道” 战争拖累全球增长 通胀忧虑升温",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrk5750881.shtml",
-      "time": "1779361169",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "战争与能源冲击压顶 欧元区经济难承其重",
-      "url": "https://finance.sina.com.cn/world/2026-05-21/doc-inhyshrh8973179.shtml",
-      "time": "1779361114",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "三星就 AI 产业收益分歧达成临期协议，成功避免罢工",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhyshrm8139156.shtml",
-      "time": "1779360484",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "即便市值达5万亿美元，英伟达依旧被低估",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhysaik9092876.shtml",
-      "time": "1779359686",
-      "source": "新浪新闻"
-    },
-    {
-      "title": "美国拟向量子计算企业投放20亿美元资金并入股持股",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-21/doc-inhysaii6391139.shtml",
-      "time": "1779359147",
-      "source": "新浪新闻"
-    }
-  ],
-  "weibo_hot": [
-    {
-      "rank": 1,
-      "keyword": "暂无热搜数据",
-      "hot": "",
-      "source": "系统"
-    }
-  ],
-  "bilibili_hot": [
-    {
-      "rank": 1,
-      "title": "【苏新皓】原创英文单曲《Dawn in my soul》｜灵魂深处的曙光 双向奔赴的告白",
-      "up": "苏新皓的时光胶囊",
-      "play": 848728,
-      "category": ""
-    },
-    {
-      "rank": 2,
-      "title": "关于“活着”，我们问了问余华",
-      "up": "影视飓风",
-      "play": 4081144,
-      "category": ""
-    },
-    {
-      "rank": 3,
-      "title": "杀人犯演电影？全网都在抵制！《监狱来的妈妈》问题到底出在哪里？",
-      "up": "文西与阿漆",
-      "play": 3385099,
-      "category": ""
-    },
-    {
-      "rank": 4,
-      "title": "一个脱胎换骨的\"你\"，正于新世界诞生 | 《逆水寒：新世界》首支预告片",
-      "up": "网易逆水寒",
-      "play": 6476140,
-      "category": ""
-    },
-    {
-      "rank": 5,
-      "title": "《原神》角色预告-「尼可：史诗级冒险故事」",
-      "up": "原神",
-      "play": 1738284,
-      "category": ""
-    },
-    {
-      "rank": 6,
-      "title": "《鸣潮》共鸣者「达妮娅」PV | 人类伪装指南",
-      "up": "鸣潮",
-      "play": 2464248,
-      "category": ""
-    },
-    {
-      "rank": 7,
-      "title": "有态势豆豆兵",
-      "up": "有态度的豆豆兵",
-      "play": 1383095,
-      "category": ""
-    },
-    {
-      "rank": 8,
-      "title": "《上 海 奥 特 曼》",
-      "up": "册那队长",
-      "play": 3207559,
-      "category": ""
-    },
-    {
-      "rank": 9,
-      "title": "开启百亩河道清道夫老巢治理行动第二天",
-      "up": "大表哥Vlog",
-      "play": 1280850,
-      "category": ""
-    },
-    {
-      "rank": 10,
-      "title": "《狗族大帝》",
-      "up": "伤心欲茄222",
-      "play": 2572600,
-      "category": ""
-    }
-  ]
+  "bilibili": {
+    "source": "Bilibili API",
+    "fetched_at": "2026-06-04 11:21:01",
+    "rankings": [
+      {
+        "rank": 1,
+        "title": "回忆永远都是加分项",
+        "up": "央视新闻",
+        "play": "2555639",
+        "url": "https://www.bilibili.com/video/BV1QzVR63E3L"
+      },
+      {
+        "rank": 2,
+        "title": "初中生斗胆跳一段jam",
+        "up": "特崮斯",
+        "play": "4105266",
+        "url": "https://www.bilibili.com/video/BV1kCVU65ERM"
+      },
+      {
+        "rank": 3,
+        "title": "不儿，你俩来真的啊？！",
+        "up": "主持人yoyo酱",
+        "play": "2520127",
+        "url": "https://www.bilibili.com/video/BV1RvVo6QEqo"
+      },
+      {
+        "rank": 4,
+        "title": "一顿饭只要三块钱，客人吃着吃着，人就“没了”",
+        "up": "瞎通不设计了",
+        "play": "1302730",
+        "url": "https://www.bilibili.com/video/BV15wVB6YECT"
+      },
+      {
+        "rank": 5,
+        "title": "【野餐】你醒啦 现在是2012年的5月份呀",
+        "up": "野餐slu2pcekry",
+        "play": "1008565",
+        "url": "https://www.bilibili.com/video/BV1jqVS6MECE"
+      },
+      {
+        "rank": 6,
+        "title": "APP窗口乱跳转的“传送门”该关上了！",
+        "up": "人民日报",
+        "play": "2176210",
+        "url": "https://www.bilibili.com/video/BV16iV96sEtP"
+      },
+      {
+        "rank": 7,
+        "title": "做了一把千机伞，能变十三个形态的那种｜最强的武器一定是自制的",
+        "up": "o小庄o",
+        "play": "2478383",
+        "url": "https://www.bilibili.com/video/BV11BVU6mEUe"
+      },
+      {
+        "rank": 8,
+        "title": "我的世界杯主题曲！IShowSpeed - World Cup (Champions)",
+        "up": "ishowspeedsui",
+        "play": "2565247",
+        "url": "https://www.bilibili.com/video/BV1jwV663EjR"
+      },
+      {
+        "rank": 9,
+        "title": "不止抽象！内娱唯一的硬汉！盘点嘎子谢孟伟职业生涯高光演技",
+        "up": "文西与阿漆",
+        "play": "1895785",
+        "url": "https://www.bilibili.com/video/BV14FVE6AEze"
+      },
+      {
+        "rank": 10,
+        "title": "耗费1000小时⚡⚡⚡用166部动画拼凑出一首《彩虹》",
+        "up": "七彩熊",
+        "play": "602155",
+        "url": "https://www.bilibili.com/video/BV1niVJ64EY9"
+      },
+      {
+        "rank": 11,
+        "title": "我打孔子，真的假的？",
+        "up": "自动鬼畜中的WZ",
+        "play": "2430890",
+        "url": "https://www.bilibili.com/video/BV1xWG16qEBn"
+      },
+      {
+        "rank": 12,
+        "title": "二次元老资历童年都在听什么？！老番串烧34首大连唱！",
+        "up": "鹿火CAVY",
+        "play": "1074590",
+        "url": "https://www.bilibili.com/video/BV1B75w6zEG1"
+      },
+      {
+        "rank": 13,
+        "title": "🍄欠揍气球🍄",
+        "up": "纸片马力欧",
+        "play": "1205563",
+        "url": "https://www.bilibili.com/video/BV1W6VZ6MEbd"
+      },
+      {
+        "rank": 14,
+        "title": "《原神》洛恩角色PV——「标准化考核」",
+        "up": "原神",
+        "play": "993046",
+        "url": "https://www.bilibili.com/video/BV1oqVB6BECd"
+      },
+      {
+        "rank": 15,
+        "title": "《你来真的啊》",
+        "up": "伤心欲茄222",
+        "play": "1618554",
+        "url": "https://www.bilibili.com/video/BV16BVy6wEfx"
+      }
+    ]
+  },
+  "weiboHot": {
+    "source": "微博热搜",
+    "fetched_at": "2026-06-04 11:20:30",
+    "rankings": [
+      {
+        "rank": 1,
+        "keyword": "微博热搜数据获取受限",
+        "hot": "请访问 weibo.com",
+        "heat": 0
+      },
+      {
+        "rank": 2,
+        "keyword": "实时数据请刷新页面",
+        "hot": "",
+        "heat": 0
+      }
+    ]
+  },
+  "cctvNews": {
+    "source": "CCTV News",
+    "fetched_at": "2026-06-04 11:20:16",
+    "news": [
+      {
+        "title": "æ°é»",
+        "url": "https://news.cctv.com/",
+        "time": "2026-06-04 11:20:16",
+        "source": "央视新闻"
+      },
+      {
+        "title": "ç»æµ",
+        "url": "https://jingji.cctv.com/",
+        "time": "2026-06-04 11:20:16",
+        "source": "央视新闻"
+      },
+      {
+        "title": "ç¤¾ä¼",
+        "url": "https://news.cctv.com/society/",
+        "time": "2026-06-04 11:20:16",
+        "source": "央视新闻"
+      },
+      {
+        "title": "æ³æ²»",
+        "url": "https://news.cctv.com/law/",
+        "time": "2026-06-04 11:20:16",
+        "source": "央视新闻"
+      },
+      {
+        "title": "å¾ç",
+        "url": "https://photo.cctv.com/mobile/",
+        "time": "2026-06-04 11:20:16",
+        "source": "央视新闻"
+      },
+      {
+        "title": "æå¨±",
+        "url": "https://news.cctv.com/ent/",
+        "time": "2026-06-04 11:20:16",
+        "source": "央视新闻"
+      },
+      {
+        "title": "ç§æ",
+        "url": "https://news.cctv.com/tech/",
+        "time": "2026-06-04 11:20:16",
+        "source": "央视新闻"
+      },
+      {
+        "title": "çæ´»",
+        "url": "https://news.cctv.com/life/",
+        "time": "2026-06-04 11:20:16",
+        "source": "央视新闻"
+      },
+      {
+        "title": "åäº",
+        "url": "http://military.cctv.com/",
+        "time": "2026-06-04 11:20:16",
+        "source": "央视新闻"
+      },
+      {
+        "title": "å¿«ç",
+        "url": "https://news.cctv.com/kuaikan/",
+        "time": "2026-06-04 11:20:16",
+        "source": "央视新闻"
+      }
+    ]
+  }
 }

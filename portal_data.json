@@ -1,157 +1,268 @@
 {
-  "updateTime": "2026-05-20T19:32:20+08:00",
+  "updateTime": "2026-06-04T16:48:51+08:00",
+  "timestamp": 1780562931,
   "data": {
     "cctv": [
       {
-        "title": "外交部：中方决定将延长对俄罗斯免签政策",
-        "url": "https://tv.cctv.com/2026/05/20/VIDEPdavX6CRBM5ZO9hJY9bR260520.shtml",
-        "time": "2026-05-20"
+        "title": "今夏国家电网最大用电负荷将超13亿千瓦 同比增约6%",
+        "url": "https://news.cctv.com/2026/06/04/ARTIUlREeMWpgDZd0RFbAbCD260604.shtml",
+        "time": "2026-06-04"
       },
       {
-        "title": "国家防灾减灾救灾委员会启动国家四级救灾应急响应",
-        "url": "https://tv.cctv.com/2026/05/20/VIDEvyYFtSP0xfdBCxSFeBxs260520.shtml",
-        "time": "2026-05-20"
+        "title": "据测算，今夏国家电网经营区最大用电负荷将超过13亿千瓦，比去年同期增长约6%。",
+        "url": "https://news.cctv.com/2026/06/04/ARTIUlREeMWpgDZd0RFbAbCD260604.shtml",
+        "time": "2026-06-04"
       },
       {
-        "title": "美参院推进法案限制特朗普对伊朗动武",
-        "url": "https://tv.cctv.com/2026/05/20/VIDEvFbEq2fztkpUkLfM4xBQ260520.shtml",
-        "time": "2026-05-20"
+        "title": "新政发力 二手房市场迎超长“小阳春”",
+        "url": "https://news.cctv.com/2026/06/04/ARTIpSTYANlH4PHHyBgD5D0h260604.shtml",
+        "time": "2026-06-04"
+      },
+      {
+        "title": "这两天，一线城市5月份楼市数据陆续出炉，显示出“小阳春”的市场热度仍在持续。",
+        "url": "https://news.cctv.com/2026/06/04/ARTIpSTYANlH4PHHyBgD5D0h260604.shtml",
+        "time": "2026-06-04"
+      },
+      {
+        "title": "科技护航“三夏”生产保粮归仓",
+        "url": "https://news.cctv.com/2026/06/04/ARTIht4Y0Wt4nnoVS5OwcE3s260604.shtml",
+        "time": "2026-06-04"
+      },
+      {
+        "title": "近期，由于冷暖空气交汇频繁，从6月3日起，东北、华北、黄淮等地的雷雨天气再度增多，各地强化农机应急调度，确保麦收高效有序推进。",
+        "url": "https://news.cctv.com/2026/06/04/ARTIht4Y0Wt4nnoVS5OwcE3s260604.shtml",
+        "time": "2026-06-04"
+      },
+      {
+        "title": "166家外企获增值电信业务经营试点批复",
+        "url": "https://tv.cctv.com/2026/06/04/VIDEL6ad1Cy3HI8WkHUODaYh260604.shtml",
+        "time": "2026-06-04"
       }
     ],
     "weibo": [
       {
         "rank": 1,
-        "title": "杨梅协会会长恳求消费者给果农生路",
-        "hot": "117万"
+        "keyword": "翘楚男演员 分不清",
+        "heat": "1095679",
+        "label": ""
       },
       {
         "rank": 2,
-        "title": "武契奇将对中国进行国事访问",
-        "hot": "83万"
+        "keyword": "泡泡玛特告奈雪的茶获赔32万",
+        "heat": "886844",
+        "label": ""
       },
       {
         "rank": 3,
-        "title": "一曲莫斯科郊外的晚上欢迎普京",
-        "hot": "77万"
+        "keyword": "美丽中国行",
+        "heat": "867310",
+        "label": ""
       },
       {
         "rank": 4,
-        "title": "上京东直播 领520红包",
-        "hot": "74万"
+        "keyword": "不要穿灰色裤子去健身房",
+        "heat": "867277",
+        "label": "热"
       },
       {
         "rank": 5,
-        "title": "于娜退圈十年归来胖若两人",
-        "hot": "72万"
+        "keyword": "吃外卖4年的最好证明",
+        "heat": "864997",
+        "label": "新"
       },
       {
         "rank": 6,
-        "title": "国产芯片好消息不断",
-        "hot": "68万"
+        "keyword": "现在回小卖部简直是降维打击",
+        "heat": "515868",
+        "label": ""
       },
       {
         "rank": 7,
-        "title": "这么隐晦的暗恋方式",
-        "hot": "67万"
+        "keyword": "上班斯道普来追竞",
+        "heat": "475761",
+        "label": ""
       },
       {
         "rank": 8,
-        "title": "陈哲远MaleeCOCO亚太品牌代言人",
-        "hot": "64万"
+        "keyword": "时代峰峻 电影咖",
+        "heat": "386488",
+        "label": "新"
       },
       {
         "rank": 9,
-        "title": "丁程鑫看的是正经逐玉吗",
-        "hot": "61万"
+        "keyword": "睫毛没把自己当异物",
+        "heat": "337592",
+        "label": ""
       },
       {
         "rank": 10,
-        "title": "孙颖莎王楚钦混双搭档第九年",
-        "hot": "57万"
+        "keyword": "2030年AI耗水量够13亿人用一年",
+        "heat": "337419",
+        "label": "新"
       },
       {
         "rank": 11,
-        "title": "喜欢你6阵容官宣",
-        "hot": "56万"
+        "keyword": "NBA总决赛球迷冲场",
+        "heat": "334633",
+        "label": ""
       },
       {
         "rank": 12,
-        "title": "何润东商务 有人莫名其妙就发财了",
-        "hot": "56万"
+        "keyword": "刘亦菲北电同学聚会照",
+        "heat": "333861",
+        "label": "新"
       },
       {
         "rank": 13,
-        "title": "女博士见被抢幼子孩子的手被栓住了",
-        "hot": "44万"
+        "keyword": "疑似女子当街踩踏他人头部",
+        "heat": "332637",
+        "label": "新"
       },
       {
         "rank": 14,
-        "title": "打开朋友圈误入玻璃厂",
-        "hot": "43万"
+        "keyword": "杭州四季青半裸男团表演引争议",
+        "heat": "330981",
+        "label": "新"
       },
       {
         "rank": 15,
-        "title": "求严浩翔同款拼豆图",
-        "hot": "39万"
+        "keyword": "李荣浩亲吻杨丞琳播放量2亿",
+        "heat": "328683",
+        "label": ""
       },
       {
         "rank": 16,
-        "title": "职场中不要过度礼貌",
-        "hot": "36万"
+        "keyword": "樊振东回应职业发展传闻",
+        "heat": "327882",
+        "label": "新"
       },
       {
         "rank": 17,
-        "title": "煎饼夏天 戛纳",
-        "hot": "36万"
+        "keyword": "全球央行扫货黄金",
+        "heat": "326870",
+        "label": ""
       },
       {
         "rank": 18,
-        "title": "张凌赫把金靖放在C位",
-        "hot": "36万"
-      }
-    ],
-    "bilibili": [
-      {
-        "rank": 1,
-        "title": "【苏新皓】原创英文单曲《Dawn in my soul》",
-        "author": "苏新皓的时光胶囊",
-        "play": "64.4万",
-        "bvid": "BV1i7LM6oErE"
+        "keyword": "中国不存在所谓强迫劳动",
+        "heat": "325240",
+        "label": ""
       },
       {
-        "rank": 2,
-        "title": "关于“活着”，我们问了问余华",
-        "author": "影视飓风",
-        "play": "290.9万",
-        "bvid": "BV14XLq64EQf"
+        "rank": 19,
+        "keyword": "空调28度会比26度省电吗",
+        "heat": "323030",
+        "label": ""
       },
       {
-        "rank": 3,
-        "title": "杀人犯演电影？全网都在抵制！《监狱来的妈妈》问题到底出在哪里？",
-        "author": "文西与阿漆",
-        "play": "304.3万",
-        "bvid": "BV1nzLw6EEvF"
-      },
-      {
-        "rank": 4,
-        "title": "《狗族大帝》",
-        "author": "搞笑",
-        "play": "—",
-        "bvid": ""
+        "rank": 20,
+        "keyword": "乌军用星链无人机炸毁俄护卫舰",
+        "heat": "321202",
+        "label": "新"
       }
     ],
     "weather": {
       "city": "北京",
-      "temp_C": "23",
-      "feels_like_C": "25",
-      "humidity": "50%",
-      "weather": "多云",
-      "wind": "南南东风 8km/h",
-      "visibility": "10km",
-      "avg_temp_C": "21",
-      "date": "2026-05-20",
-      "sunrise": "04:55",
-      "sunset": "19:27"
-    }
+      "date": "2026-06-04",
+      "temp": "19°C",
+      "feelsLike": "19°C",
+      "humidity": "94%",
+      "weather": "小雨",
+      "wind": "东风 4km/h",
+      "visibility": "7km",
+      "pressure": "1011hPa"
+    },
+    "bilibili": [
+      {
+        "rank": 1,
+        "title": "回忆永远都是加分项",
+        "play": "287.5万",
+        "url": "https://www.bilibili.com/video/BV1QzVR63E3L"
+      },
+      {
+        "rank": 2,
+        "title": "初中生斗胆跳一段jam",
+        "play": "439.6万",
+        "url": "https://www.bilibili.com/video/BV1kCVU65ERM"
+      },
+      {
+        "rank": 3,
+        "title": "不儿，你俩来真的啊？！",
+        "play": "302.2万",
+        "url": "https://www.bilibili.com/video/BV1RvVo6QEqo"
+      },
+      {
+        "rank": 4,
+        "title": "一顿饭只要三块钱，客人吃着吃着，人就“没了”",
+        "play": "139.2万",
+        "url": "https://www.bilibili.com/video/BV15wVB6YECT"
+      },
+      {
+        "rank": 5,
+        "title": "【野餐】你醒啦 现在是2012年的5月份呀",
+        "play": "108.3万",
+        "url": "https://www.bilibili.com/video/BV1jqVS6MECE"
+      },
+      {
+        "rank": 6,
+        "title": "我的世界杯主题曲！IShowSpeed - World Cup (Champions)",
+        "play": "289.2万",
+        "url": "https://www.bilibili.com/video/BV1jwV663EjR"
+      },
+      {
+        "rank": 7,
+        "title": "APP窗口乱跳转的“传送门”该关上了！",
+        "play": "228.8万",
+        "url": "https://www.bilibili.com/video/BV16iV96sEtP"
+      },
+      {
+        "rank": 8,
+        "title": "不止抽象！内娱唯一的硬汉！盘点嘎子谢孟伟职业生涯高光演技",
+        "play": "215.6万",
+        "url": "https://www.bilibili.com/video/BV14FVE6AEze"
+      },
+      {
+        "rank": 9,
+        "title": "《原神》洛恩角色PV——「标准化考核」",
+        "play": "142.9万",
+        "url": "https://www.bilibili.com/video/BV1oqVB6BECd"
+      },
+      {
+        "rank": 10,
+        "title": "🍄欠揍气球🍄",
+        "play": "137.6万",
+        "url": "https://www.bilibili.com/video/BV1W6VZ6MEbd"
+      },
+      {
+        "rank": 11,
+        "title": "做了一把千机伞，能变十三个形态的那种｜最强的武器一定是自制的",
+        "play": "284.5万",
+        "url": "https://www.bilibili.com/video/BV11BVU6mEUe"
+      },
+      {
+        "rank": 12,
+        "title": "二次元老资历童年都在听什么？！老番串烧34首大连唱！",
+        "play": "118.9万",
+        "url": "https://www.bilibili.com/video/BV1B75w6zEG1"
+      },
+      {
+        "rank": 13,
+        "title": "我打孔子，真的假的？",
+        "play": "266.8万",
+        "url": "https://www.bilibili.com/video/BV1xWG16qEBn"
+      },
+      {
+        "rank": 14,
+        "title": "《你来真的啊》",
+        "play": "207.9万",
+        "url": "https://www.bilibili.com/video/BV16BVy6wEfx"
+      },
+      {
+        "rank": 15,
+        "title": "海很大,但比海更辽阔的，是一个人孩子不肯认输的心",
+        "play": "95.1万",
+        "url": "https://www.bilibili.com/video/BV1hAVf6pE43"
+      }
+    ]
   }
 }

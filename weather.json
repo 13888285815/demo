@@ -1,1 +1,1 @@
-{"source": "wttr.in", "fetched_at": "2026-05-21T11:35:00Z", "location": "Shanghai", "current": {"temp_C": "23", "weather": "Sunny", "humidity": "64", "wind": "16 km/h"}, "forecast": [{"date": "2026-05-21", "max": "26", "min": "19", "weather": "Sunny"}, {"date": "2026-05-22", "max": "26", "min": "18", "weather": "Sunny"}, {"date": "2026-05-23", "max": "27", "min": "20", "weather": "Overcast "}]}
+{"city":"北京","date":"2026-06-04","temp":"22°C","feelsLike":"25°C","humidity":"53%","weather":"Light Rain With Thunderstorm","wind":"S 9km/h","visibility":"10km","pressure":"1005hPa"}

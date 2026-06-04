@@ -1,15 +1,1 @@
-{
-  "update_time": "2026-06-04T11:48:00+08:00",
-  "location": "北京",
-  "current": {
-    "temp_C": "22.6",
-    "humidity": "57",
-    "weather": "小毛毛雨",
-    "wind_speed_kmph": "4.1"
-  },
-  "forecast": [
-    {"date": "2026-06-04", "max": "22.8°C", "min": "15.6°C", "weather": "阵雨"},
-    {"date": "2026-06-05", "max": "26.2°C", "min": "15.1°C", "weather": "多云"},
-    {"date": "2026-06-06", "max": "21.0°C", "min": "14.2°C", "weather": "小雨"}
-  ]
-}
+{"city":"北京","date":"2026-06-04","temp":"22°C","feelsLike":"25°C","humidity":"53%","weather":"Light Rain With Thunderstorm","wind":"S 9km/h","visibility":"10km","pressure":"1005hPa"}
