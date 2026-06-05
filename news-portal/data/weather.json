@@ -1,32 +1,58 @@
 {
-  "source": "wttr.in",
-  "fetched_at": "2026-06-04 17:20:00",
-  "location": "上海",
+  "city": "北京",
   "current": {
     "temp_C": "27",
-    "weather": "Sunny",
-    "humidity": "62%",
-    "wind": "6 km/h",
-    "feels_like": "28°C"
+    "feels_like_C": "25",
+    "humidity": "25",
+    "weather": "晴",
+    "weatherCode": "113",
+    "wind_speed_kmph": "9",
+    "wind_dir": "SE",
+    "visibility": "10",
+    "uvIndex": "6",
+    "observation_time": "06:28 AM"
   },
   "forecast": [
     {
-      "date": "2026-06-04",
-      "max": "27°C",
-      "min": "25°C",
-      "weather": "Sunny"
-    },
-    {
       "date": "2026-06-05",
-      "max": "29°C",
-      "min": "24°C",
-      "weather": "Partly cloudy"
+      "day_label": "今天(6/5)",
+      "max_temp_C": "27",
+      "min_temp_C": "17",
+      "avg_temp_C": "23",
+      "weather": "晴转多云",
+      "chance_of_rain": 15,
+      "chance_of_sunshine": 99,
+      "uvIndex": "6"
     },
     {
       "date": "2026-06-06",
-      "max": "28°C",
-      "min": "23°C",
-      "weather": "Cloudy"
+      "day_label": "明天(6/6)",
+      "max_temp_C": "28",
+      "min_temp_C": "17",
+      "avg_temp_C": "23",
+      "weather": "晴",
+      "chance_of_rain": 5,
+      "chance_of_sunshine": 80,
+      "uvIndex": "6"
+    },
+    {
+      "date": "2026-06-07",
+      "day_label": "后天(6/7)",
+      "max_temp_C": "30",
+      "min_temp_C": "18",
+      "avg_temp_C": "24",
+      "weather": "晴间多云",
+      "chance_of_rain": 8,
+      "chance_of_sunshine": 75,
+      "uvIndex": "7"
     }
-  ]
+  ],
+  "astronomy": {
+    "sunrise": "04:47",
+    "sunset": "19:40",
+    "moon_phase": "Waning Gibbous",
+    "moon_illumination": "82"
+  },
+  "source": "wttr.in",
+  "fetched_at": "2026-06-05T14:44 CST"
 }

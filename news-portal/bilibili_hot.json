@@ -1,77 +1,26 @@
 {
-  "update_time": "2026-06-05 08:42",
-  "source": "B站热门/搜索聚合",
-  "items": [
-    {
-      "rank": 1,
-      "title": "翘楚",
-      "category": "网剧",
-      "heat_index": 76.04,
-      "type": "剧集"
-    },
-    {
-      "rank": 2,
-      "title": "低智商犯罪",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 3,
-      "title": "大唐迷雾",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 4,
-      "title": "盛唐奇案",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 5,
-      "title": "佳偶天成",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 6,
-      "title": "欢迎回我的频道",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 7,
-      "title": "逐玉",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 8,
-      "title": "方圆八百米",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 9,
-      "title": "黑夜告白",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 10,
-      "title": "白日提灯",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    }
-  ],
-  "note": "B站热门视频搜索结果偏向剧集热度榜单，更多综合热门视频数据可通过B站官方热门页面获取"
+  "source": "B站全站日榜",
+  "fetched_at": "2026-06-05T14:44 CST",
+  "data": [
+    {"rank": 1, "title": "不儿，你俩来真的啊？！", "play": "401.2万"},
+    {"rank": 2, "title": "初中生斗胆跳一段jam", "play": "497.9万"},
+    {"rank": 3, "title": "50秒一片肉，火力全开，快到起飞", "play": "655.1万"},
+    {"rank": 4, "title": "我的世界杯主题曲！IShowSpeed", "play": "356.4万"},
+    {"rank": 5, "title": "回忆永远都是加分项", "play": "314.2万"},
+    {"rank": 6, "title": "小时候以为的事情", "play": "321.2万"},
+    {"rank": 7, "title": "做了一把千机伞，能变十三个形态", "play": "320.4万"},
+    {"rank": 8, "title": "科比的哲学启示录第十四期", "play": "384.7万"},
+    {"rank": 9, "title": "一顿饭只要三块钱，人就没了", "play": "167.3万"},
+    {"rank": 10, "title": "《你来真的啊》", "play": "252.1万"},
+    {"rank": 11, "title": "《原神》洛恩角色PV", "play": "162.5万"},
+    {"rank": 12, "title": "特朗普的愤怒", "play": "211.3万"},
+    {"rank": 13, "title": "《战神：劳菲》深度玩法演示", "play": "155.8万"},
+    {"rank": 14, "title": "《绝区零》3.0新地块实机演示", "play": "48.1万"},
+    {"rank": 15, "title": "马尔代夫潜水事故6人遇难", "play": "143.4万"},
+    {"rank": 16, "title": "此树扎根之时 便是沧海化桑田之始", "play": "274.7万"},
+    {"rank": 17, "title": "我打孔子，真的假的？", "play": "305.3万"},
+    {"rank": 18, "title": "演员魏宗万去世，享年89岁", "play": "113.3万"},
+    {"rank": 19, "title": "《上海奥特曼4：沪特曼集结！》", "play": "246.2万"},
+    {"rank": 20, "title": "从健身芭比到女企业家帕梅拉", "play": "161.8万"}
+  ]
 }

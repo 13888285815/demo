@@ -6,7 +6,7 @@
   <title>意念科技 - 新闻门户</title>
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='14' fill='%230078d4'/><path d='M10 16l4 4 8-8' stroke='%23fff' stroke-width='2.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
   <meta name="description" content="意念科技新闻门户 - 实时热点、天气、视频一站式服务">
-  <meta name="last-updated" content="2026-05-15T08:35:00+08:00">
+  <meta name="last-updated" content="2026-06-05T14:44:00+08:00">
   <style>
     :root {
       --primary: #0078d4;
@@ -251,66 +251,69 @@
   </div>
 
   <!-- Update Badge -->
-  <div class="update-badge" id="updateBadge">数据更新时间: 2026-05-02 03:33</div>
+  <div class="update-badge" id="updateBadge">数据更新时间: 2026-06-05 14:44</div>
 
   <script>
-    // ==================== 数据定义（2026-05-01 17:06 更新）====================
+    // ==================== 数据定义（2026-06-05 14:44 更新）====================
     const channels = ['首页', '新闻', '体育', '娱乐', '财经', '科技', '视频', '天气'];
     let activeChannel = '首页';
 
-    // 央视新闻数据（2026年5月3日 16:55更新）
+    // 央视新闻数据（2026年6月5日 14:44更新）
     const newsData = [
-      { id: 1, title: '假期首日 高速新能源车充电量创新高', summary: '五一假期首日，全国高速公路新能源车充电量创下历史新高，充电桩使用率大幅攀升。', image: 'https://picsum.photos/800/450?random=901', source: '央视新闻', time: '2026-05-03', category: '国内', isTop: true },
-      { id: 2, title: '南方降雨范围缩减 局地需防范强对流天气', summary: '中央气象台预计，南方地区降雨范围将逐步缩减，但局地仍需防范强对流天气。', image: 'https://picsum.photos/400/250?random=902', source: '央视新闻', time: '2026-05-03', category: '社会' },
-      { id: 3, title: '美国威胁制裁向伊朗缴通行费的航运企业', summary: '美国威胁对向伊朗缴纳通行费的国际航运企业实施制裁，引发国际航运业界广泛关注。', image: 'https://picsum.photos/400/250?random=903', source: '央视新闻', time: '2026-05-03', category: '国际' },
-      { id: 4, title: '奋斗铸伟业：习近平总书记强调艰苦奋斗精神永不变', summary: '习近平总书记强调艰苦奋斗精神永不变，激励广大干部群众在新时代新征程上继续拼搏。', image: 'https://picsum.photos/400/250?random=904', source: '央视新闻', time: '2026-05-03', category: '国内' },
-      { id: 5, title: '山东舰辽宁舰双航母编队强硬回击外军舰机抵近侦察', summary: '我海军山东舰、辽宁舰双航母编队在相关海域执行任务期间，强硬回击外军舰机抵近侦察。', image: 'https://picsum.photos/400/250?random=905', source: '央视新闻', time: '2026-05-03', category: '国际' },
-      { id: 6, title: '多个大国工程假期持续刷新进度条 推动高质量发展', summary: '五一假期多个重大工程施工不停，平陆运河青年枢纽进行注水调试，文昌商业航天发射场二期稳步推进。', image: 'https://picsum.photos/400/250?random=906', source: '央视新闻', time: '2026-05-03', category: '国内' },
-      { id: 7, title: '全国铁路五一假期首日预计发送旅客2480万人次', summary: '假期第一天全国铁路迎来出行高峰，计划加开旅客列车2070列，多地交通枢纽客流涌动。', image: 'https://picsum.photos/400/250?random=907', source: '央视新闻', time: '2026-05-03', category: '社会' },
-      { id: 8, title: '亚洲最长地铁环线一期开通运营', summary: '亚洲最长的地铁环线一期工程正式开通运营，全长59.9公里，进一步完善城市公共交通网络。', image: 'https://picsum.photos/400/250?random=908', source: '央视新闻', time: '2026-05-03', category: '国内' }
+      { id: 1, title: '高考试卷押送车队震撼瞬间', summary: '2026年高考今日开考，各地高考试卷安全押送引发广泛关注。', image: 'https://picsum.photos/800/450?random=801', source: '央视新闻', time: '2026-06-05', category: '国内', isTop: true },
+      { id: 2, title: '网警侦破涉2026高考诈骗案', summary: '多地网警破获高考相关诈骗案件，提醒考生和家长提高警惕。', image: 'https://picsum.photos/400/250?random=802', source: '央视新闻', time: '2026-06-05', category: '社会' },
+      { id: 3, title: '豆包首次付费后月活减少610万', summary: '字节跳动AI产品豆包开启付费模式后，月活跃用户大幅减少610万，引发行业对AI商业化路径的讨论。', image: 'https://picsum.photos/400/250?random=803', source: '综合', time: '2026-06-05', category: '科技' },
+      { id: 4, title: '韩国芯片巨头全线崩盘', summary: '韩国半导体企业面临严峻挑战，三星、SK海力士等芯片巨头全线崩盘。', image: 'https://picsum.photos/400/250?random=804', source: '综合', time: '2026-06-05', category: '国际' },
+      { id: 5, title: '英国间谍2次偷窃中国茶叶机密', summary: '历史档案揭秘英国间谍曾两次偷窃中国茶叶技术机密。', image: 'https://picsum.photos/400/250?random=805', source: '央视新闻', time: '2026-06-05', category: '国内' },
+      { id: 6, title: '中国消费者抛弃耐克比想象中更快', summary: '耐克原价899元数月后变429元，奥特莱斯货架上堆积如山。', image: 'https://picsum.photos/400/250?random=806', source: '知乎/微博', time: '2026-06-05', category: '财经' },
+      { id: 7, title: 'Anthropic呼吁全员停止AI研究', summary: 'AI安全公司Anthropic呼吁行业暂停AI研究，引发业界广泛讨论。', image: 'https://picsum.photos/400/250?random=807', source: '知乎', time: '2026-06-05', category: '科技' },
+      { id: 8, title: '南开大学一学生被电诈220万', summary: '南开大学一名学生遭遇电信诈骗损失220万元，引发社会关注。', image: 'https://picsum.photos/400/250?random=808', source: '微博', time: '2026-06-05', category: '社会' }
     ]
 
-        // B站热门视频数据（2026年5月3日 16:55更新）
+        // B站热门视频数据（2026年6月5日 14:44更新）
     const videoData = [
-      { id: 1, title: '线条重现中式美学世界', thumbnail: 'https://picsum.photos/320/180?random=951', duration: '01:38', views: '738万', author: '左右大大', url: 'https://www.bilibili.com/video/BV1KX9xBHE42' },
-      { id: 2, title: '极致还原Billie jean现场名场面|【定格动画】', thumbnail: 'https://picsum.photos/320/180?random=952', duration: '04:22', views: '564万', author: 'Moouyo默铀', url: 'https://www.bilibili.com/video/BV19K9CB1EoM' },
-      { id: 3, title: '当用学历代表网文中的战力境界【小明修仙传1-4合集】', thumbnail: 'https://picsum.photos/320/180?random=953', duration: '合集', views: '363万', author: '路人甲导演', url: 'https://www.bilibili.com/video/BV1Mo98BNEGP' },
-      { id: 4, title: '在意大利摆摊卖中餐，用烟火温暖异国日常', thumbnail: 'https://picsum.photos/320/180?random=954', duration: '日常', views: '332万', author: '周丽Giuly在意大利', url: 'https://www.bilibili.com/video/BV1Gu98BTEPg' },
-      { id: 5, title: '这一分半我录了3个月，能火吗？', thumbnail: 'https://picsum.photos/320/180?random=955', duration: '01:30', views: '268万', author: 'Fadedbook', url: 'https://www.bilibili.com/video/BV1v49YBHESJ' }
+      { id: 1, title: '50秒一片肉，火力全开，快到起飞', thumbnail: 'https://picsum.photos/320/180?random=851', duration: '06:55', views: '655万', author: '美食UP主', url: 'https://www.bilibili.com/video/av116663122926337/' },
+      { id: 2, title: '初中生斗胆跳一段jam', thumbnail: 'https://picsum.photos/320/180?random=852', duration: '03:28', views: '498万', author: '舞蹈UP主', url: 'https://www.bilibili.com/video/av116669112386149/' },
+      { id: 3, title: '科比的哲学启示录第十四期', thumbnail: 'https://picsum.photos/320/180?random=853', duration: '12:45', views: '385万', author: '篮球UP主', url: 'https://www.bilibili.com/video/av116683775678542/' },
+      { id: 4, title: '不儿，你俩来真的啊？！', thumbnail: 'https://picsum.photos/320/180?random=854', duration: '08:16', views: '401万', author: '搞笑UP主', url: 'https://www.bilibili.com/video/av116674682426936/' },
+      { id: 5, title: '做了一把千机伞，能变十三个形态', thumbnail: 'https://picsum.photos/320/180?random=855', duration: '15:30', views: '320万', author: '手工UP主', url: 'https://www.bilibili.com/video/av116669431157836/' },
+      { id: 6, title: '小时候以为的事情', thumbnail: 'https://picsum.photos/320/180?random=856', duration: '05:12', views: '321万', author: '生活UP主', url: 'https://www.bilibili.com/video/av116680084691098/' },
+      { id: 7, title: '我打孔子，真的假的？', thumbnail: 'https://picsum.photos/320/180?random=857', duration: '09:45', views: '305万', author: '历史UP主', url: 'https://www.bilibili.com/video/av116644936422865/' },
+      { id: 8, title: '《战神：劳菲》深度玩法演示', thumbnail: 'https://picsum.photos/320/180?random=858', duration: '18:22', views: '156万', author: 'IGN', url: 'https://www.bilibili.com/video/av116682852929454/' }
     ]
 
-        // 微博热搜数据（2026年5月3日 16:55更新）
+        // 微博热搜数据（2026年6月5日 14:44更新）
     const trendingData = [
-      { rank: 1, title: '湖南广电 AI播新闻', heat: '112万', trend: 'new' },
-      { rank: 2, title: '上科大39岁教授营救至亲溺水去世', heat: '83万', trend: '' },
-      { rank: 3, title: '这个五一假期惠民福利停不下来', heat: '66万', trend: 'new' },
-      { rank: 4, title: '白鹿被孟子义说挂相', heat: '65万', trend: 'hot' },
-      { rank: 5, title: '把自己当成糖尿病人来吃饭', heat: '61万', trend: '' },
-      { rank: 6, title: '孙俪 我们家的狗装死把邓超吓晕了', heat: '56万', trend: '' },
-      { rank: 7, title: '大睡特睡 修复前额叶', heat: '48万', trend: '' },
-      { rank: 8, title: '河南蒜苔 再说原地址给你补五十斤', heat: '39万', trend: '' },
-      { rank: 9, title: '马龙许昕出发伦敦', heat: '39万', trend: 'new' },
-      { rank: 10, title: '榴莲价格', heat: '33万', trend: '' }
+      { rank: 1, title: '豆包首次付费后月活减少610万', heat: '115万', trend: 'new' },
+      { rank: 2, title: '中餐厅收工合照', heat: '85万', trend: 'hot' },
+      { rank: 3, title: '网警侦破涉2026高考诈骗案', heat: '75万', trend: 'new' },
+      { rank: 4, title: '一馒落三馒生', heat: '74万', trend: '' },
+      { rank: 5, title: '存款达到多少可以提前退休', heat: '72万', trend: '' },
+      { rank: 6, title: '租房的三件套', heat: '69万', trend: '' },
+      { rank: 7, title: '华莱士第五人格联名', heat: '58万', trend: '' },
+      { rank: 8, title: '高考试卷押送车队震撼瞬间', heat: '53万', trend: 'new' },
+      { rank: 9, title: '英国间谍2次偷窃中国茶叶机密', heat: '48万', trend: '' },
+      { rank: 10, title: 'C罗姆巴佩詹姆斯超燃世界杯短片', heat: '39万', trend: 'new' }
     ]
 
-        // 北京天气数据（2026-05-03 16:55 更新）
+        // 北京天气数据（2026-06-05 14:44 更新）
     const weatherData = {
       city: '北京',
-      temp: 21,
+      temp: 27,
       condition: '晴',
-      high: 23,
-      low: 13,
-      humidity: 18,
-      wind: '北北西风 18km/h',
-      pressure: 1015,
-      sunrise: '05:13',
-      sunset: '19:11',
+      high: 27,
+      low: 17,
+      humidity: 25,
+      wind: '东南风 9km/h',
+      pressure: 1009,
+      sunrise: '04:47',
+      sunset: '19:40',
       forecast: [
-        { day: '今天', high: 23, low: 13, icon: '☀️' },
-        { day: '明天', high: 29, low: 14, icon: '☀️' },
-        { day: '后天', high: 34, low: 17, icon: '☀️' }
+        { day: '今天(6/5)', high: 27, low: 17, icon: '☀️' },
+        { day: '明天(6/6)', high: 28, low: 17, icon: '☀️' },
+        { day: '后天(6/7)', high: 30, low: 18, icon: '⛅' }
       ],
-      advice: '五一假期最后两天北京持续晴好，气温逐日攀升至34°C。白天日照强注意防晒，早晚温差较大建议备件薄外套。'
+      advice: '高考日北京天气晴好，气温27°C。未来几天持续晴朗，气温逐步升至30°C。紫外线较强注意防晒，早晚温差约10°C。'
     }
 
         // ==================== 渲染函数 ====================

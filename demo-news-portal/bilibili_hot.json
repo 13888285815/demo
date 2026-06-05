@@ -1,77 +1,62 @@
-{
-  "update_time": "2026-06-05 08:42",
-  "source": "B站热门/搜索聚合",
-  "items": [
-    {
-      "rank": 1,
-      "title": "翘楚",
-      "category": "网剧",
-      "heat_index": 76.04,
-      "type": "剧集"
-    },
-    {
-      "rank": 2,
-      "title": "低智商犯罪",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 3,
-      "title": "大唐迷雾",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 4,
-      "title": "盛唐奇案",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 5,
-      "title": "佳偶天成",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 6,
-      "title": "欢迎回我的频道",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 7,
-      "title": "逐玉",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 8,
-      "title": "方圆八百米",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 9,
-      "title": "黑夜告白",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    },
-    {
-      "rank": 10,
-      "title": "白日提灯",
-      "category": "网剧",
-      "heat_index": null,
-      "type": "剧集"
-    }
-  ],
-  "note": "B站热门视频搜索结果偏向剧集热度榜单，更多综合热门视频数据可通过B站官方热门页面获取"
-}
+[
+  {
+    "rank": 1,
+    "title": "【苏新皓】原创英文单曲《Dawn in my soul》｜灵魂深处的曙光 双向奔赴的告白",
+    "play": "835533",
+    "url": "https://www.bilibili.com/video/av"
+  },
+  {
+    "rank": 2,
+    "title": "关于“活着”，我们问了问余华",
+    "play": "4004050",
+    "url": "https://www.bilibili.com/video/av"
+  },
+  {
+    "rank": 3,
+    "title": "杀人犯演电影？全网都在抵制！《监狱来的妈妈》问题到底出在哪里？",
+    "play": "3381786",
+    "url": "https://www.bilibili.com/video/av"
+  },
+  {
+    "rank": 4,
+    "title": "一个脱胎换骨的\"你\"，正于新世界诞生 | 《逆水寒：新世界》首支预告片",
+    "play": "6237511",
+    "url": "https://www.bilibili.com/video/av"
+  },
+  {
+    "rank": 5,
+    "title": "《原神》角色预告-「尼可：史诗级冒险故事」",
+    "play": "1735909",
+    "url": "https://www.bilibili.com/video/av"
+  },
+  {
+    "rank": 6,
+    "title": "《鸣潮》共鸣者「达妮娅」PV | 人类伪装指南",
+    "play": "2458754",
+    "url": "https://www.bilibili.com/video/av"
+  },
+  {
+    "rank": 7,
+    "title": "有态势豆豆兵",
+    "play": "1359889",
+    "url": "https://www.bilibili.com/video/av"
+  },
+  {
+    "rank": 8,
+    "title": "《狗族大帝》",
+    "play": "2705558",
+    "url": "https://www.bilibili.com/video/av"
+  },
+  {
+    "rank": 9,
+    "title": "开启百亩河道清道夫老巢治理行动第二天",
+    "play": "1261816",
+    "url": "https://www.bilibili.com/video/av"
+  },
+  {
+    "rank": 10,
+    "title": "《上 海 奥 特 曼》",
+    "play": "3168016",
+    "url": "https://www.bilibili.com/video/av"
+  }
+]

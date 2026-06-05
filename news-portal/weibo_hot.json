@@ -1,96 +1,28 @@
 {
-  "update_time": "2026-06-05 08:42",
   "source": "微博热搜榜",
-  "items": [
-    {
-      "rank": 1,
-      "keyword": "一张泛黄发票的故事",
-      "heat": "热",
-      "category": "社会"
-    },
-    {
-      "rank": 2,
-      "keyword": "Gemini 美国豆包",
-      "heat": 1167319,
-      "category": "科技"
-    },
-    {
-      "rank": 3,
-      "keyword": "原价899的耐克降至429消费者仍不买账",
-      "heat": 842130,
-      "category": "消费"
-    },
-    {
-      "rank": 4,
-      "keyword": "美丽中国行",
-      "heat": 813508,
-      "category": "社会"
-    },
-    {
-      "rank": 5,
-      "keyword": "Bin被罚15万",
-      "heat": 809141,
-      "category": "游戏"
-    },
-    {
-      "rank": 6,
-      "keyword": "江语晨来浪姐胖了12斤",
-      "heat": 799188,
-      "category": "综艺"
-    },
-    {
-      "rank": 7,
-      "keyword": "原来面条坨了也有邪修",
-      "heat": 688684,
-      "category": "生活"
-    },
-    {
-      "rank": 8,
-      "keyword": "国企回应保安只让员工孩子进门躲雨",
-      "heat": 404712,
-      "category": "社会"
-    },
-    {
-      "rank": 9,
-      "keyword": "白鹿何与或演开到荼靡",
-      "heat": 392145,
-      "category": "剧集"
-    },
-    {
-      "rank": 10,
-      "keyword": "国企干部公职人员离婚分割近亿财产",
-      "heat": 1201238,
-      "category": "社会"
-    },
-    {
-      "rank": 11,
-      "keyword": "李昊炎加盟巴萨",
-      "heat": 868860,
-      "category": "体育"
-    },
-    {
-      "rank": 12,
-      "keyword": "2026高考安检新变化",
-      "heat": 791596,
-      "category": "教育"
-    },
-    {
-      "rank": 13,
-      "keyword": "刘浩存演技",
-      "heat": 767857,
-      "category": "娱乐"
-    },
-    {
-      "rank": 14,
-      "keyword": "高考前千万不要吃榴莲",
-      "heat": null,
-      "category": "生活"
-    },
-    {
-      "rank": 15,
-      "keyword": "2030年AI耗水量够13亿人用一年",
-      "heat": null,
-      "category": "科技"
-    }
+  "fetched_at": "2026-06-05T14:44 CST",
+  "data": [
+    {"rank": 1, "title": "豆包首次付费后月活减少610万", "hot": "115万"},
+    {"rank": 2, "title": "中餐厅收工合照", "hot": "85万"},
+    {"rank": 3, "title": "网警侦破涉2026高考诈骗案", "hot": "75万"},
+    {"rank": 4, "title": "一馒落三馒生", "hot": "74万"},
+    {"rank": 5, "title": "存款达到多少可以提前退休", "hot": "72万"},
+    {"rank": 6, "title": "租房的三件套", "hot": "69万"},
+    {"rank": 7, "title": "华莱士第五人格联名", "hot": "58万"},
+    {"rank": 8, "title": "高考试卷押送车队震撼瞬间", "hot": "53万"},
+    {"rank": 9, "title": "英国间谍2次偷窃中国茶叶机密", "hot": "48万"},
+    {"rank": 10, "title": "C罗姆巴佩詹姆斯超燃世界杯短片", "hot": "39万"},
+    {"rank": 11, "title": "攻玉官宣", "hot": "35万"},
+    {"rank": 12, "title": "陈学冬 避谶", "hot": "35万"},
+    {"rank": 13, "title": "判断孩子有没有学霸潜质", "hot": "34万"},
+    {"rank": 14, "title": "奚梦瑶模特朋友一个没来", "hot": "33万"},
+    {"rank": 15, "title": "杨紫和郭晶晶一起上台领聘", "hot": "32万"},
+    {"rank": 16, "title": "南开大学一学生被电诈220万", "hot": "31万"},
+    {"rank": 17, "title": "iPhone18ProMax配色", "hot": "28万"},
+    {"rank": 18, "title": "实习医生无证拔牙致患者死亡获刑", "hot": "28万"},
+    {"rank": 19, "title": "网友模仿豆包火了", "hot": "27万"},
+    {"rank": 20, "title": "中国消费者抛弃耐克比想象中更快", "hot": "22万"},
+    {"rank": 21, "title": "韩国芯片巨头全线崩盘", "hot": "15万"},
+    {"rank": 22, "title": "湘雅二医院逾8亿元工程招标疑云", "hot": "18万"}
   ]
 }
