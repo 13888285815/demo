@@ -1,58 +1,11 @@
 {
   "city": "北京",
-  "current": {
-    "temp_C": "27",
-    "feels_like_C": "25",
-    "humidity": "25",
-    "weather": "晴",
-    "weatherCode": "113",
-    "wind_speed_kmph": "9",
-    "wind_dir": "SE",
-    "visibility": "10",
-    "uvIndex": "6",
-    "observation_time": "06:28 AM"
-  },
-  "forecast": [
-    {
-      "date": "2026-06-05",
-      "day_label": "今天(6/5)",
-      "max_temp_C": "27",
-      "min_temp_C": "17",
-      "avg_temp_C": "23",
-      "weather": "晴转多云",
-      "chance_of_rain": 15,
-      "chance_of_sunshine": 99,
-      "uvIndex": "6"
-    },
-    {
-      "date": "2026-06-06",
-      "day_label": "明天(6/6)",
-      "max_temp_C": "28",
-      "min_temp_C": "17",
-      "avg_temp_C": "23",
-      "weather": "晴",
-      "chance_of_rain": 5,
-      "chance_of_sunshine": 80,
-      "uvIndex": "6"
-    },
-    {
-      "date": "2026-06-07",
-      "day_label": "后天(6/7)",
-      "max_temp_C": "30",
-      "min_temp_C": "18",
-      "avg_temp_C": "24",
-      "weather": "晴间多云",
-      "chance_of_rain": 8,
-      "chance_of_sunshine": 75,
-      "uvIndex": "7"
-    }
-  ],
-  "astronomy": {
-    "sunrise": "04:47",
-    "sunset": "19:40",
-    "moon_phase": "Waning Gibbous",
-    "moon_illumination": "82"
-  },
-  "source": "wttr.in",
-  "fetched_at": "2026-06-05T14:44 CST"
+  "date": "2026-06-05",
+  "temp": "28°C",
+  "feelsLike": "26°C",
+  "humidity": "25%",
+  "weather": "Sunny",
+  "wind": "SSE 10km/h",
+  "visibility": "10km",
+  "pressure": "1008hPa"
 }

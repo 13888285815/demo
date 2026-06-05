@@ -1,9 +1,268 @@
 {
-  "update_time": "2026-06-04T11:48:00+08:00",
-  "sources": {
-    "cctv": true,
-    "weibo": true,
-    "weather": true,
-    "bilibili": true
+  "updateTime": "2026-06-05T17:15:56+08:00",
+  "timestamp": 1780650956,
+  "data": {
+    "cctv": [
+      {
+        "title": "2026年高考在即 校园创意活动“花式”助考",
+        "url": "https://news.cctv.com/2026/06/05/ARTIcV5EAzXhDFWyvTw0bk5w260605.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.19",
+        "time": "2026-06-05"
+      },
+      {
+        "title": "2026年高考在即，连日来，多地学校通过各具特色的校园活动，为考生营造轻松积极的备考氛围。",
+        "url": "https://news.cctv.com/2026/06/05/ARTIcV5EAzXhDFWyvTw0bk5w260605.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.19",
+        "time": "2026-06-05"
+      },
+      {
+        "title": "科技赋能让生态环境保护向“新”向“绿”向“智”",
+        "url": "https://news.cctv.com/2026/06/05/ARTIiXvpSgwSsP2TfSydPM2l260605.shtml",
+        "time": "2026-06-05"
+      },
+      {
+        "title": "绿色转型既要依靠制度引领和全民参与，也离不开现代科学技术作为硬核支撑。来认识一批助力绿色转型、赋能生态治理的新科技。",
+        "url": "https://news.cctv.com/2026/06/05/ARTIiXvpSgwSsP2TfSydPM2l260605.shtml",
+        "time": "2026-06-05"
+      },
+      {
+        "title": "我国轴向磁通电机研究取得新突破",
+        "url": "https://news.cctv.com/2026/06/05/ARTI5nazU7YlzdJLyL7R5DTb260605.shtml",
+        "time": "2026-06-05"
+      },
+      {
+        "title": "轴向磁通电机具备高效、轻量化、高功率密度等突出优势，对比传统电机，在同等性能下自重减轻约50%，轴向尺寸缩减50%，是培育新质生产力、推动各产业领域转型升级的关键核心技术。",
+        "url": "https://news.cctv.com/2026/06/05/ARTI5nazU7YlzdJLyL7R5DTb260605.shtml",
+        "time": "2026-06-05"
+      },
+      {
+        "title": "外交部：人工智能不应滑向竞争对抗",
+        "url": "https://tv.cctv.com/2026/06/05/VIDEOZWh5eWUI3yPacUaYIe4260605.shtml",
+        "time": "2026-06-05"
+      }
+    ],
+    "weibo": [
+      {
+        "rank": 1,
+        "keyword": "男子落水7天6夜从海口漂到澄迈",
+        "heat": "1101940",
+        "label": ""
+      },
+      {
+        "rank": 2,
+        "keyword": "康师傅冰红茶卖不动了",
+        "heat": "791547",
+        "label": ""
+      },
+      {
+        "rank": 3,
+        "keyword": "美丽中国行",
+        "heat": "756066",
+        "label": ""
+      },
+      {
+        "rank": 4,
+        "keyword": "全新奔驰纯电GLC",
+        "heat": "755659",
+        "label": ""
+      },
+      {
+        "rank": 5,
+        "keyword": "意识到了一杯奶茶钱真不是小钱",
+        "heat": "749280",
+        "label": "热"
+      },
+      {
+        "rank": 6,
+        "keyword": "小的是多大的 小的是我",
+        "heat": "730177",
+        "label": ""
+      },
+      {
+        "rank": 7,
+        "keyword": "判断孩子有没有学霸潜质",
+        "heat": "478397",
+        "label": ""
+      },
+      {
+        "rank": 8,
+        "keyword": "今日辟谣",
+        "heat": "464146",
+        "label": ""
+      },
+      {
+        "rank": 9,
+        "keyword": "Faker送黄仁勋签名队服",
+        "heat": "461825",
+        "label": "新"
+      },
+      {
+        "rank": 10,
+        "keyword": "时代峰峻两位艺人入选瞩目影人",
+        "heat": "376003",
+        "label": "新"
+      },
+      {
+        "rank": 11,
+        "keyword": "周杰伦北京抢票",
+        "heat": "344399",
+        "label": ""
+      },
+      {
+        "rank": 12,
+        "keyword": "豆包首次付费后月活减少610万",
+        "heat": "334974",
+        "label": ""
+      },
+      {
+        "rank": 13,
+        "keyword": "高考加油红包",
+        "heat": "326631",
+        "label": ""
+      },
+      {
+        "rank": 14,
+        "keyword": "陈学冬 避谶",
+        "heat": "309776",
+        "label": "热"
+      },
+      {
+        "rank": 15,
+        "keyword": "南开大学一学生被电诈220万",
+        "heat": "281617",
+        "label": ""
+      },
+      {
+        "rank": 16,
+        "keyword": "虞书欣花苞公主",
+        "heat": "257608",
+        "label": ""
+      },
+      {
+        "rank": 17,
+        "keyword": "谢震廷自首",
+        "heat": "241638",
+        "label": "新"
+      },
+      {
+        "rank": 18,
+        "keyword": "抖音副总裁回应豆包误判蘑菇",
+        "heat": "231264",
+        "label": ""
+      },
+      {
+        "rank": 19,
+        "keyword": "宋亚轩一把抱住刘耀文",
+        "heat": "229947",
+        "label": ""
+      },
+      {
+        "rank": 20,
+        "keyword": "男子坠海漂7天全身晒到流脓生还",
+        "heat": "225250",
+        "label": "新"
+      }
+    ],
+    "weather": {
+      "city": "北京",
+      "date": "2026-06-05",
+      "temp": "28°C",
+      "feelsLike": "26°C",
+      "humidity": "25%",
+      "weather": "Sunny",
+      "wind": "SSE 10km/h",
+      "visibility": "10km",
+      "pressure": "1008hPa"
+    },
+    "bilibili": [
+      {
+        "rank": 1,
+        "title": "不儿，你俩来真的啊？！",
+        "play": "411.6万",
+        "url": "https://www.bilibili.com/video/BV1RvVo6QEqo"
+      },
+      {
+        "rank": 2,
+        "title": "一顿饭只要三块钱，客人吃着吃着，人就“没了”",
+        "play": "171.6万",
+        "url": "https://www.bilibili.com/video/BV15wVB6YECT"
+      },
+      {
+        "rank": 3,
+        "title": "我的世界杯主题曲！IShowSpeed - World Cup (Champions)",
+        "play": "363.2万",
+        "url": "https://www.bilibili.com/video/BV1jwV663EjR"
+      },
+      {
+        "rank": 4,
+        "title": "回忆永远都是加分项",
+        "play": "317.5万",
+        "url": "https://www.bilibili.com/video/BV1QzVR63E3L"
+      },
+      {
+        "rank": 5,
+        "title": "《你来真的啊》",
+        "play": "255.7万",
+        "url": "https://www.bilibili.com/video/BV16BVy6wEfx"
+      },
+      {
+        "rank": 6,
+        "title": "初中生斗胆跳一段jam",
+        "play": "506.5万",
+        "url": "https://www.bilibili.com/video/BV1kCVU65ERM"
+      },
+      {
+        "rank": 7,
+        "title": "《原神》洛恩角色PV——「标准化考核」",
+        "play": "163.6万",
+        "url": "https://www.bilibili.com/video/BV1oqVB6BECd"
+      },
+      {
+        "rank": 8,
+        "title": "“超微距”下的瑞士长什么样？",
+        "play": "275.8万",
+        "url": "https://www.bilibili.com/video/BV1vkVB6NEuR"
+      },
+      {
+        "rank": 9,
+        "title": "🍄欠揍气球🍄",
+        "play": "217.4万",
+        "url": "https://www.bilibili.com/video/BV1W6VZ6MEbd"
+      },
+      {
+        "rank": 10,
+        "title": "特朗普的愤怒",
+        "play": "217.6万",
+        "url": "https://www.bilibili.com/video/BV1XQ7Z6eEki"
+      },
+      {
+        "rank": 11,
+        "title": "当父母说出了正确答案：",
+        "play": "240.7万",
+        "url": "https://www.bilibili.com/video/BV16kV26TES7"
+      },
+      {
+        "rank": 12,
+        "title": "【野餐】你醒啦 现在是2012年的5月份呀",
+        "play": "124.4万",
+        "url": "https://www.bilibili.com/video/BV1jqVS6MECE"
+      },
+      {
+        "rank": 13,
+        "title": "致敬每一个心中有花，努力奔跑的人",
+        "play": "98.3万",
+        "url": "https://www.bilibili.com/video/BV1Qi7f6eE59"
+      },
+      {
+        "rank": 14,
+        "title": "兄弟们！今天给良子做一个入营测试，这身体身体素质，跟我想的不太一样啊!",
+        "play": "221.7万",
+        "url": "https://www.bilibili.com/video/BV1ogV26FEhB"
+      },
+      {
+        "rank": 15,
+        "title": "二次元老资历童年都在听什么？！老番串烧34首大连唱！",
+        "play": "149.5万",
+        "url": "https://www.bilibili.com/video/BV1B75w6zEG1"
+      }
+    ]
   }
 }

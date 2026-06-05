@@ -1,17 +1,92 @@
-{
-  "update_time": "2026-06-04T11:48:00+08:00",
-  "source": "B站热门 (综合搜索+热搜信息)",
-  "note": "B站API限流(-352)，以下数据综合微博热搜及搜索结果整理",
-  "hot_list": [
-    {"rank": 1, "title": "中国机器人亮相美国达人秀", "author": "综合热门", "views": "未知", "desc": "中国机器人表演引发全场惊叹"},
-    {"rank": 2, "title": "灵魂摆渡十年 首日云合41.8%", "author": "综合热门", "views": "未知", "desc": "经典剧集回归引发热议"},
-    {"rank": 3, "title": "NBA总决赛精彩集锦", "author": "综合热门", "views": "未知", "desc": "NBA总决赛赛事精彩回顾"},
-    {"rank": 4, "title": "黄仁勋躺地喝啤酒", "author": "综合热门", "views": "未知", "desc": "英伟达CEO黄仁勋 Computex 2026 花絮"},
-    {"rank": 5, "title": "最信豆包的人出现了", "author": "综合热门", "views": "未知", "desc": "AI应用话题引发讨论"},
-    {"rank": 6, "title": "3岁宝宝不知妈妈去世每天都要出去找", "author": "综合热门", "views": "未知", "desc": "感人视频引发网友泪目"},
-    {"rank": 7, "title": "日本超市货架正在失去颜色", "author": "综合热门", "views": "未知", "desc": "日本经济现状观察"},
-    {"rank": 8, "title": "Bin行为是否应该受到处罚", "author": "综合热门", "views": "未知", "desc": "电竞圈热议话题"},
-    {"rank": 9, "title": "萨巴伦卡含泪说想放弃网球", "author": "综合热门", "views": "未知", "desc": "法网网球赛事热点"},
-    {"rank": 10, "title": "2026高考安检新变化解读", "author": "综合热门", "views": "未知", "desc": "高考政策变化科普"}
-  ]
-}
+[
+  {
+    "rank": 1,
+    "title": "不儿，你俩来真的啊？！",
+    "play": "411.6万",
+    "url": "https://www.bilibili.com/video/BV1RvVo6QEqo"
+  },
+  {
+    "rank": 2,
+    "title": "一顿饭只要三块钱，客人吃着吃着，人就“没了”",
+    "play": "171.6万",
+    "url": "https://www.bilibili.com/video/BV15wVB6YECT"
+  },
+  {
+    "rank": 3,
+    "title": "我的世界杯主题曲！IShowSpeed - World Cup (Champions)",
+    "play": "363.2万",
+    "url": "https://www.bilibili.com/video/BV1jwV663EjR"
+  },
+  {
+    "rank": 4,
+    "title": "回忆永远都是加分项",
+    "play": "317.5万",
+    "url": "https://www.bilibili.com/video/BV1QzVR63E3L"
+  },
+  {
+    "rank": 5,
+    "title": "《你来真的啊》",
+    "play": "255.7万",
+    "url": "https://www.bilibili.com/video/BV16BVy6wEfx"
+  },
+  {
+    "rank": 6,
+    "title": "初中生斗胆跳一段jam",
+    "play": "506.5万",
+    "url": "https://www.bilibili.com/video/BV1kCVU65ERM"
+  },
+  {
+    "rank": 7,
+    "title": "《原神》洛恩角色PV——「标准化考核」",
+    "play": "163.6万",
+    "url": "https://www.bilibili.com/video/BV1oqVB6BECd"
+  },
+  {
+    "rank": 8,
+    "title": "“超微距”下的瑞士长什么样？",
+    "play": "275.8万",
+    "url": "https://www.bilibili.com/video/BV1vkVB6NEuR"
+  },
+  {
+    "rank": 9,
+    "title": "🍄欠揍气球🍄",
+    "play": "217.4万",
+    "url": "https://www.bilibili.com/video/BV1W6VZ6MEbd"
+  },
+  {
+    "rank": 10,
+    "title": "特朗普的愤怒",
+    "play": "217.6万",
+    "url": "https://www.bilibili.com/video/BV1XQ7Z6eEki"
+  },
+  {
+    "rank": 11,
+    "title": "当父母说出了正确答案：",
+    "play": "240.7万",
+    "url": "https://www.bilibili.com/video/BV16kV26TES7"
+  },
+  {
+    "rank": 12,
+    "title": "【野餐】你醒啦 现在是2012年的5月份呀",
+    "play": "124.4万",
+    "url": "https://www.bilibili.com/video/BV1jqVS6MECE"
+  },
+  {
+    "rank": 13,
+    "title": "致敬每一个心中有花，努力奔跑的人",
+    "play": "98.3万",
+    "url": "https://www.bilibili.com/video/BV1Qi7f6eE59"
+  },
+  {
+    "rank": 14,
+    "title": "兄弟们！今天给良子做一个入营测试，这身体身体素质，跟我想的不太一样啊!",
+    "play": "221.7万",
+    "url": "https://www.bilibili.com/video/BV1ogV26FEhB"
+  },
+  {
+    "rank": 15,
+    "title": "二次元老资历童年都在听什么？！老番串烧34首大连唱！",
+    "play": "149.5万",
+    "url": "https://www.bilibili.com/video/BV1B75w6zEG1"
+  }
+]
