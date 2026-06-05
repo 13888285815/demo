@@ -1,273 +1,268 @@
 {
-  "updateTime": "2026-06-05T07:44:11+08:00",
-  "timestamp": 1780616651,
+  "updateTime": "2026-06-05T13:45:26+08:00",
+  "timestamp": 1780638326,
   "data": {
     "cctv": [
       {
-        "title": "商务部：对进口牛肉实施保障措施并非限制正常贸易",
-        "url": "https://tv.cctv.com/2026/06/04/VIDEOTElOCCfu4MUqCkObU9h260604.shtml",
+        "title": "透过5月份中国大宗商品价格指数看经济发展向稳向好",
+        "url": "https://jingji.cctv.com/2026/06/05/ARTIkV70CV2qie3uZ2wfYfFo260605.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.14",
         "time": "2026-06-05"
       },
       {
-        "title": "中央气象台：北方多雷雨天气 南方再迎新一轮降雨过程",
-        "url": "https://tv.cctv.com/2026/06/04/VIDEbw1vlydosE5R68CNGtL9260604.shtml",
+        "title": "中国物流与采购联合会6月5日公布5月份中国大宗商品价格指数。随着国内需求稳定释放，企业生产活动保持扩张，大宗商品价格指数继续上扬，大宗商品市场整体运行平稳。",
+        "url": "https://jingji.cctv.com/2026/06/05/ARTIkV70CV2qie3uZ2wfYfFo260605.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.14",
         "time": "2026-06-05"
       },
       {
-        "title": "欧盟提出欧洲技术主权一揽子方案",
-        "url": "https://tv.cctv.com/2026/06/04/VIDELsyiGYU3B8wfpHHZllPX260604.shtml",
+        "title": "各麦收省份加强机具调度护航 智能化设备助力颗粒归仓",
+        "url": "https://news.cctv.com/2026/06/05/ARTI2tKHTPIvNpLWlyzzYL6Y260605.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.15",
         "time": "2026-06-05"
       },
       {
-        "title": "工信部：组织开展6G创新发展部省协同试点专项行动",
-        "url": "https://news.cctv.com/2026/06/04/ARTI2lqI2uLdWCSQUwjpq3bt260604.shtml",
+        "title": "截至目前，全国已收获夏粮小麦1.66亿亩，收获进度近五成。各麦收省份加强机具调度，有序推进成熟小麦收晒。",
+        "url": "https://news.cctv.com/2026/06/05/ARTI2tKHTPIvNpLWlyzzYL6Y260605.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.15",
         "time": "2026-06-05"
       },
       {
-        "title": "能源饭碗牢牢端在自己手中 韧性从何而来？",
-        "url": "https://news.cctv.com/2026/06/04/ARTI5YDUVNgI0NUpX9ZES01D260604.shtml",
+        "title": "世界环境日｜我国五大流域同步开展鱼类增殖放流",
+        "url": "https://news.cctv.com/2026/06/05/ARTIa8OmmP2ZISW1YlcrvrMa260605.shtml",
         "time": "2026-06-05"
       },
       {
-        "title": "累计超130头次！长江江豚监测数量创历史新高",
-        "url": "https://news.cctv.com/2026/06/04/ARTI9PSEyNrp62uaNypnDv50260604.shtml",
+        "title": "今年的世界环境日，我国多地围绕“全面绿色转型，共建美丽中国”主题开展系列活动，其中，金沙江、雅砻江、澜沧江等五大流域集中开展鱼类增殖放流活动。",
+        "url": "https://news.cctv.com/2026/06/05/ARTIa8OmmP2ZISW1YlcrvrMa260605.shtml",
         "time": "2026-06-05"
       },
       {
-        "title": "国际能源价格大幅上涨 我国能源供应展现良好韧性",
-        "url": "https://news.cctv.com/2026/06/04/ARTI5YDUVNgI0NUpX9ZES01D260604.shtml",
-        "time": "2026-06-05"
-      },
-      {
-        "title": "6G创新发展：到2029年激发地方和企业创新活力",
-        "url": "https://news.cctv.com/2026/06/04/ARTI2lqI2uLdWCSQUwjpq3bt260604.shtml",
+        "title": "旅游旺季出行 特殊需求旅客如何买票",
+        "url": "https://tv.cctv.com/2026/06/05/VIDEJWfWCNioKECal65ttTCj260605.shtml",
         "time": "2026-06-05"
       }
     ],
     "weibo": [
       {
         "rank": 1,
-        "keyword": "今天才知道潮汕不是一座城市",
-        "heat": "250000",
-        "label": "热"
+        "keyword": "豆包首次付费后月活减少610万",
+        "heat": "1165381",
+        "label": ""
       },
       {
         "rank": 2,
-        "keyword": "原价899的耐克降至429消费者仍不买账",
-        "heat": "180000",
-        "label": "热"
+        "keyword": "英国间谍2次偷窃中国茶叶机密",
+        "heat": "829558",
+        "label": ""
       },
       {
         "rank": 3,
-        "keyword": "高考前这些事要再捋一遍",
-        "heat": "150000",
-        "label": "热"
-      },
-      {
-        "rank": 4,
-        "keyword": "华为nova16系列正式开售",
-        "heat": "130000",
+        "keyword": "网警侦破涉2026高考诈骗案",
+        "heat": "671031",
         "label": "新"
       },
       {
-        "rank": 5,
-        "keyword": "开到荼靡 彭冠英",
-        "heat": "70000",
+        "rank": 4,
+        "keyword": "存款达到多少可以提前退休",
+        "heat": "659542",
         "label": ""
+      },
+      {
+        "rank": 5,
+        "keyword": "一馒落三馒生",
+        "heat": "652356",
+        "label": "新"
       },
       {
         "rank": 6,
-        "keyword": "当我用拼豆拼了一整套麻将",
-        "heat": "60000",
-        "label": ""
+        "keyword": "租房的三件套",
+        "heat": "625115",
+        "label": "新"
       },
       {
         "rank": 7,
-        "keyword": "连扫把都受不了广东的天气了",
-        "heat": "60000",
+        "keyword": "大学生喜爱内容共创计划",
+        "heat": "594093",
         "label": ""
       },
       {
         "rank": 8,
-        "keyword": "拉芳全球品牌代言人鞠婧祎",
-        "heat": "50000",
+        "keyword": "高考试卷押送车队震撼瞬间",
+        "heat": "587738",
         "label": ""
       },
       {
         "rank": 9,
-        "keyword": "江语晨来浪姐胖了12斤",
-        "heat": "50000",
-        "label": ""
+        "keyword": "C罗姆巴佩詹姆斯超燃世界杯短片",
+        "heat": "413659",
+        "label": "新"
       },
       {
         "rank": 10,
-        "keyword": "用热成像偷拍小猫上厕所",
-        "heat": "40000",
+        "keyword": "攻玉官宣",
+        "heat": "405284",
         "label": ""
       },
       {
         "rank": 11,
-        "keyword": "Bin被罚15万",
-        "heat": "40000",
+        "keyword": "孙杨张豆豆不用参加离婚综艺了",
+        "heat": "404804",
         "label": ""
       },
       {
         "rank": 12,
-        "keyword": "原来面条坨了也有邪修",
-        "heat": "30000",
+        "keyword": "高考群也没想到会变成相亲群",
+        "heat": "401966",
         "label": ""
       },
       {
         "rank": 13,
-        "keyword": "好怕现实中也有人长AI这样",
-        "heat": "30000",
-        "label": ""
+        "keyword": "陈学冬 避谶",
+        "heat": "399951",
+        "label": "新"
       },
       {
         "rank": 14,
-        "keyword": "耐克正在被消费者抛弃",
-        "heat": "30000",
-        "label": ""
+        "keyword": "奚梦瑶模特朋友一个没来",
+        "heat": "399218",
+        "label": "新"
       },
       {
         "rank": 15,
-        "keyword": "男子AI写歌月收入十几万",
-        "heat": "30000",
-        "label": ""
+        "keyword": "判断孩子有没有学霸潜质",
+        "heat": "397220",
+        "label": "新"
       },
       {
         "rank": 16,
-        "keyword": "窦靖童妹妹头",
-        "heat": "25000",
-        "label": ""
+        "keyword": "杨紫和郭晶晶一起上台领聘",
+        "heat": "394732",
+        "label": "新"
       },
       {
         "rank": 17,
-        "keyword": "ChatGPT以后可能要没了",
-        "heat": "25000",
-        "label": "新"
+        "keyword": "家业 华莱士",
+        "heat": "393761",
+        "label": ""
       },
       {
         "rank": 18,
-        "keyword": "36氪独家｜2026年字节AI的四个关键命题",
-        "heat": "22000",
-        "label": "新"
+        "keyword": "朋友对研究生的概念",
+        "heat": "391573",
+        "label": ""
       },
       {
         "rank": 19,
-        "keyword": "深圳具身公司获得汇川、中国电信亿元融资",
-        "heat": "20000",
+        "keyword": "张凌赫转账最快的男人",
+        "heat": "389385",
         "label": "新"
       },
       {
         "rank": 20,
-        "keyword": "李宁需要库里，但库里更需要李宁",
-        "heat": "18000",
-        "label": ""
+        "keyword": "黑龙江挪车反杀案二审维持死缓",
+        "heat": "386941",
+        "label": "新"
       }
     ],
+    "weather": {
+      "city": "北京",
+      "date": "2026-06-05",
+      "temp": "27°C",
+      "feelsLike": "25°C",
+      "humidity": "28%",
+      "weather": "Sunny",
+      "wind": "E 6km/h",
+      "visibility": "10km",
+      "pressure": "1010hPa"
+    },
     "bilibili": [
       {
         "rank": 1,
         "title": "不儿，你俩来真的啊？！",
-        "up": "主持人yoyo酱",
-        "play": "385.7万",
+        "play": "398.8万",
         "url": "https://www.bilibili.com/video/BV1RvVo6QEqo"
       },
       {
         "rank": 2,
-        "title": "回忆永远都是加分项",
-        "up": "央视新闻",
-        "play": "306.9万",
-        "url": "https://www.bilibili.com/video/BV1QzVR63E3L"
+        "title": "血战到天亮，22小时挣728元1张馅饼1个茶叶蛋晚安全世界，终于可以睡觉啦",
+        "play": "152.7万",
+        "url": "https://www.bilibili.com/video/BV1tMV16rEA8"
       },
       {
         "rank": 3,
-        "title": "初中生斗胆跳一段jam",
-        "up": "特崮斯",
-        "play": "410.5万",
-        "url": "https://www.bilibili.com/video/BV1kCVU65ERM"
+        "title": "一顿饭只要三块钱，客人吃着吃着，人就“没了”",
+        "play": "166.5万",
+        "url": "https://www.bilibili.com/video/BV15wVB6YECT"
       },
       {
         "rank": 4,
-        "title": "当父母说出了正确答案：",
-        "up": "综合资讯",
-        "play": "106.8万",
-        "url": "https://www.bilibili.com/video/BV16kV26TES7"
+        "title": "我的世界杯主题曲！IShowSpeed - World Cup (Champions)",
+        "play": "353.8万",
+        "url": "https://www.bilibili.com/video/BV1jwV663EjR"
       },
       {
         "rank": 5,
-        "title": "特朗普的愤怒",
-        "up": "综合资讯",
-        "play": "95.2万",
-        "url": "https://www.bilibili.com/video/BV1XkV26TES9"
+        "title": "回忆永远都是加分项",
+        "play": "313.0万",
+        "url": "https://www.bilibili.com/video/BV1QzVR63E3L"
       },
       {
         "rank": 6,
-        "title": "求婚小记录独家放送啦～快给我嗑",
-        "up": "主持人yoyo酱",
-        "play": "385.7万",
-        "url": "https://www.bilibili.com/video/BV1RvVo6QEqo"
+        "title": "初中生斗胆跳一段jam",
+        "play": "495.3万",
+        "url": "https://www.bilibili.com/video/BV1kCVU65ERM"
       },
       {
         "rank": 7,
-        "title": "2.4亿单身群体，捧出了这个红利赛道",
-        "up": "36氪",
-        "play": "78.3万",
-        "url": "https://www.bilibili.com/video/BV2XkV26TES1"
+        "title": "《你来真的啊》",
+        "play": "250.7万",
+        "url": "https://www.bilibili.com/video/BV16BVy6wEfx"
       },
       {
         "rank": 8,
-        "title": "实现芯片设计验证自动化，提升开发效率10倍以上",
-        "up": "36氪首发",
-        "play": "52.1万",
-        "url": "https://www.bilibili.com/video/BV3XkV26TES2"
+        "title": "《原神》洛恩角色PV——「标准化考核」",
+        "play": "162.1万",
+        "url": "https://www.bilibili.com/video/BV1oqVB6BECd"
       },
       {
         "rank": 9,
-        "title": "天涯是文科生的GitHub",
-        "up": "36氪",
-        "play": "45.6万",
-        "url": "https://www.bilibili.com/video/BV4XkV26TES3"
+        "title": "🍄欠揍气球🍄",
+        "play": "196.6万",
+        "url": "https://www.bilibili.com/video/BV1W6VZ6MEbd"
       },
       {
         "rank": 10,
-        "title": "深圳具身公司获得汇川、中国电信亿元融资",
-        "up": "硬氪首发",
-        "play": "38.9万",
-        "url": "https://www.bilibili.com/video/BV5XkV26TES4"
+        "title": "“超微距”下的瑞士长什么样？",
+        "play": "260.3万",
+        "url": "https://www.bilibili.com/video/BV1vkVB6NEuR"
+      },
+      {
+        "rank": 11,
+        "title": "【野餐】你醒啦 现在是2012年的5月份呀",
+        "play": "121.5万",
+        "url": "https://www.bilibili.com/video/BV1jqVS6MECE"
+      },
+      {
+        "rank": 12,
+        "title": "当父母说出了正确答案：",
+        "play": "227.1万",
+        "url": "https://www.bilibili.com/video/BV16kV26TES7"
+      },
+      {
+        "rank": 13,
+        "title": "特朗普的愤怒",
+        "play": "208.2万",
+        "url": "https://www.bilibili.com/video/BV1XQ7Z6eEki"
+      },
+      {
+        "rank": 14,
+        "title": "二次元老资历童年都在听什么？！老番串烧34首大连唱！",
+        "play": "146.2万",
+        "url": "https://www.bilibili.com/video/BV1B75w6zEG1"
+      },
+      {
+        "rank": 15,
+        "title": "初代跑男团战力排行",
+        "play": "165.0万",
+        "url": "https://www.bilibili.com/video/BV1cmVz6DEmi"
       }
-    ],
-    "weather": {
-      "city": "上海",
-      "date": "2026-06-05",
-      "temp": "23°C",
-      "feelsLike": "25°C",
-      "humidity": "78%",
-      "weather": "Sunny",
-      "wind": "NE 12km/h",
-      "visibility": "10km",
-      "pressure": "1008hPa",
-      "forecast": [
-        {
-          "date": "2026-06-05",
-          "max": "27°C",
-          "min": "22°C",
-          "weather": "Partly Cloudy"
-        },
-        {
-          "date": "2026-06-06",
-          "max": "27°C",
-          "min": "21°C",
-          "weather": "Partly Cloudy"
-        },
-        {
-          "date": "2026-06-07",
-          "max": "23°C",
-          "min": "22°C",
-          "weather": "Light Rain"
-        }
-      ]
-    }
+    ]
   }
 }

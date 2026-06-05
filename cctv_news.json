@@ -1,62 +1,37 @@
-{
-  "update_time": "2026-06-05 08:42",
-  "source": "央视新闻/新闻类搜索",
-  "items": [
-    {
-      "title": "七部门联合发文力推\"工业游\"带来哪些利好",
-      "url": "http://www.haiwainet.cn/roll/",
-      "source": "海外网",
-      "date": "2026-06-04",
-      "summary": "晶采观察丨文旅新宠！七部门联合发文力推"工业游"带来哪些利好？鏖战"三北"，绿色长城逐沙生长"
-    },
-    {
-      "title": "全国麦收高效有序推进",
-      "url": "http://www.haiwainet.cn/roll/",
-      "source": "海外网",
-      "date": "2026-06-04",
-      "summary": "【在希望的田野上】全国麦收高效有序推进"
-    },
-    {
-      "title": "北京锚定城市战略定位推进\"十五五\"高质量发展",
-      "url": "http://www.haiwainet.cn/roll/",
-      "source": "海外网",
-      "date": "2026-06-04",
-      "summary": "【\"十五五\"开好局起好步】北京锚定城市战略定位推进\"十五五\"高质量发展"
-    },
-    {
-      "title": "在国家公园，他们怎么和大熊猫做朋友",
-      "url": "http://www.haiwainet.cn/roll/",
-      "source": "海外网",
-      "date": "2026-06-04",
-      "summary": "美丽中国行：在国家公园，他们怎么和大熊猫做朋友"
-    },
-    {
-      "title": "通用汽车因侧气囊安全隐患召回超41万辆皮卡",
-      "url": "http://www.jwview.com/jingwei/kb/pc/07-10/137822.shtml",
-      "source": "中新经纬/央视新闻客户端",
-      "date": "2026-06-04",
-      "summary": "美国NHTSA表示，由于汽车侧气囊出现安全隐患，通用汽车正在召回部分2015年和2016年款雪佛兰索罗德和GMC Sierra卡车，共计410019辆"
-    },
-    {
-      "title": "天津一小区发生燃气爆炸 楼体受损伤者升至10人",
-      "url": "https://www.jfdaily.com/news/detail?id=509142",
-      "source": "上观新闻/央视新闻客户端",
-      "date": "2026-06-04",
-      "summary": "天津北辰区欢颜里小区发生燃气爆燃事故，造成楼体受损，伤者升至10人，均无生命危险"
-    },
-    {
-      "title": "长沙电信大楼突发火灾 明火已扑灭",
-      "url": "https://www.jfdaily.com/news/detail?id=528775",
-      "source": "上观新闻/央视新闻客户端",
-      "date": "2026-06-04",
-      "summary": "长沙中国电信荷花园大楼发生火灾，消防救援人员赶到后很快控制火势，明火已扑灭，未发现伤亡，未影响通信安全"
-    },
-    {
-      "title": "联合国大学报告：人工智能快速扩张正加剧能源水资源和土地压力",
-      "url": "https://weibo.com/a/hot/realtime",
-      "source": "微博/央视新闻关联",
-      "date": "2026-06-04",
-      "summary": "报告指出，到2030年全球AI耗水量够13亿人用一年，对AI基础设施产生的碳足迹、水足迹和土地足迹进行了量化分析"
-    }
-  ]
-}
+[
+  {
+    "title": "透过5月份中国大宗商品价格指数看经济发展向稳向好",
+    "url": "https://jingji.cctv.com/2026/06/05/ARTIkV70CV2qie3uZ2wfYfFo260605.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.14",
+    "time": "2026-06-05"
+  },
+  {
+    "title": "中国物流与采购联合会6月5日公布5月份中国大宗商品价格指数。随着国内需求稳定释放，企业生产活动保持扩张，大宗商品价格指数继续上扬，大宗商品市场整体运行平稳。",
+    "url": "https://jingji.cctv.com/2026/06/05/ARTIkV70CV2qie3uZ2wfYfFo260605.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.14",
+    "time": "2026-06-05"
+  },
+  {
+    "title": "各麦收省份加强机具调度护航 智能化设备助力颗粒归仓",
+    "url": "https://news.cctv.com/2026/06/05/ARTI2tKHTPIvNpLWlyzzYL6Y260605.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.15",
+    "time": "2026-06-05"
+  },
+  {
+    "title": "截至目前，全国已收获夏粮小麦1.66亿亩，收获进度近五成。各麦收省份加强机具调度，有序推进成熟小麦收晒。",
+    "url": "https://news.cctv.com/2026/06/05/ARTI2tKHTPIvNpLWlyzzYL6Y260605.shtml?spm=C96370.PPDB2vhvSivD.ERPyWJCsPwT9.15",
+    "time": "2026-06-05"
+  },
+  {
+    "title": "世界环境日｜我国五大流域同步开展鱼类增殖放流",
+    "url": "https://news.cctv.com/2026/06/05/ARTIa8OmmP2ZISW1YlcrvrMa260605.shtml",
+    "time": "2026-06-05"
+  },
+  {
+    "title": "今年的世界环境日，我国多地围绕“全面绿色转型，共建美丽中国”主题开展系列活动，其中，金沙江、雅砻江、澜沧江等五大流域集中开展鱼类增殖放流活动。",
+    "url": "https://news.cctv.com/2026/06/05/ARTIa8OmmP2ZISW1YlcrvrMa260605.shtml",
+    "time": "2026-06-05"
+  },
+  {
+    "title": "旅游旺季出行 特殊需求旅客如何买票",
+    "url": "https://tv.cctv.com/2026/06/05/VIDEJWfWCNioKECal65ttTCj260605.shtml",
+    "time": "2026-06-05"
+  }
+]

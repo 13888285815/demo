@@ -1,96 +1,122 @@
-{
-  "update_time": "2026-06-05 08:42",
-  "source": "微博热搜榜",
-  "items": [
-    {
-      "rank": 1,
-      "keyword": "一张泛黄发票的故事",
-      "heat": "热",
-      "category": "社会"
-    },
-    {
-      "rank": 2,
-      "keyword": "Gemini 美国豆包",
-      "heat": 1167319,
-      "category": "科技"
-    },
-    {
-      "rank": 3,
-      "keyword": "原价899的耐克降至429消费者仍不买账",
-      "heat": 842130,
-      "category": "消费"
-    },
-    {
-      "rank": 4,
-      "keyword": "美丽中国行",
-      "heat": 813508,
-      "category": "社会"
-    },
-    {
-      "rank": 5,
-      "keyword": "Bin被罚15万",
-      "heat": 809141,
-      "category": "游戏"
-    },
-    {
-      "rank": 6,
-      "keyword": "江语晨来浪姐胖了12斤",
-      "heat": 799188,
-      "category": "综艺"
-    },
-    {
-      "rank": 7,
-      "keyword": "原来面条坨了也有邪修",
-      "heat": 688684,
-      "category": "生活"
-    },
-    {
-      "rank": 8,
-      "keyword": "国企回应保安只让员工孩子进门躲雨",
-      "heat": 404712,
-      "category": "社会"
-    },
-    {
-      "rank": 9,
-      "keyword": "白鹿何与或演开到荼靡",
-      "heat": 392145,
-      "category": "剧集"
-    },
-    {
-      "rank": 10,
-      "keyword": "国企干部公职人员离婚分割近亿财产",
-      "heat": 1201238,
-      "category": "社会"
-    },
-    {
-      "rank": 11,
-      "keyword": "李昊炎加盟巴萨",
-      "heat": 868860,
-      "category": "体育"
-    },
-    {
-      "rank": 12,
-      "keyword": "2026高考安检新变化",
-      "heat": 791596,
-      "category": "教育"
-    },
-    {
-      "rank": 13,
-      "keyword": "刘浩存演技",
-      "heat": 767857,
-      "category": "娱乐"
-    },
-    {
-      "rank": 14,
-      "keyword": "高考前千万不要吃榴莲",
-      "heat": null,
-      "category": "生活"
-    },
-    {
-      "rank": 15,
-      "keyword": "2030年AI耗水量够13亿人用一年",
-      "heat": null,
-      "category": "科技"
-    }
-  ]
-}
+[
+  {
+    "rank": 1,
+    "keyword": "豆包首次付费后月活减少610万",
+    "heat": "1165381",
+    "label": ""
+  },
+  {
+    "rank": 2,
+    "keyword": "英国间谍2次偷窃中国茶叶机密",
+    "heat": "829558",
+    "label": ""
+  },
+  {
+    "rank": 3,
+    "keyword": "网警侦破涉2026高考诈骗案",
+    "heat": "671031",
+    "label": "新"
+  },
+  {
+    "rank": 4,
+    "keyword": "存款达到多少可以提前退休",
+    "heat": "659542",
+    "label": ""
+  },
+  {
+    "rank": 5,
+    "keyword": "一馒落三馒生",
+    "heat": "652356",
+    "label": "新"
+  },
+  {
+    "rank": 6,
+    "keyword": "租房的三件套",
+    "heat": "625115",
+    "label": "新"
+  },
+  {
+    "rank": 7,
+    "keyword": "大学生喜爱内容共创计划",
+    "heat": "594093",
+    "label": ""
+  },
+  {
+    "rank": 8,
+    "keyword": "高考试卷押送车队震撼瞬间",
+    "heat": "587738",
+    "label": ""
+  },
+  {
+    "rank": 9,
+    "keyword": "C罗姆巴佩詹姆斯超燃世界杯短片",
+    "heat": "413659",
+    "label": "新"
+  },
+  {
+    "rank": 10,
+    "keyword": "攻玉官宣",
+    "heat": "405284",
+    "label": ""
+  },
+  {
+    "rank": 11,
+    "keyword": "孙杨张豆豆不用参加离婚综艺了",
+    "heat": "404804",
+    "label": ""
+  },
+  {
+    "rank": 12,
+    "keyword": "高考群也没想到会变成相亲群",
+    "heat": "401966",
+    "label": ""
+  },
+  {
+    "rank": 13,
+    "keyword": "陈学冬 避谶",
+    "heat": "399951",
+    "label": "新"
+  },
+  {
+    "rank": 14,
+    "keyword": "奚梦瑶模特朋友一个没来",
+    "heat": "399218",
+    "label": "新"
+  },
+  {
+    "rank": 15,
+    "keyword": "判断孩子有没有学霸潜质",
+    "heat": "397220",
+    "label": "新"
+  },
+  {
+    "rank": 16,
+    "keyword": "杨紫和郭晶晶一起上台领聘",
+    "heat": "394732",
+    "label": "新"
+  },
+  {
+    "rank": 17,
+    "keyword": "家业 华莱士",
+    "heat": "393761",
+    "label": ""
+  },
+  {
+    "rank": 18,
+    "keyword": "朋友对研究生的概念",
+    "heat": "391573",
+    "label": ""
+  },
+  {
+    "rank": 19,
+    "keyword": "张凌赫转账最快的男人",
+    "heat": "389385",
+    "label": "新"
+  },
+  {
+    "rank": 20,
+    "keyword": "黑龙江挪车反杀案二审维持死缓",
+    "heat": "386941",
+    "label": "新"
+  }
+]
