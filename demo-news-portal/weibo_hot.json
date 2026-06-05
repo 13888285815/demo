@@ -1,122 +1,96 @@
-[
-  {
-    "rank": 1,
-    "keyword": "国产手机突然降价2000元",
-    "heat": "1942613",
-    "label": ""
-  },
-  {
-    "rank": 2,
-    "keyword": "米粉店老板回应本地人7元游客13元",
-    "heat": "1031920",
-    "label": ""
-  },
-  {
-    "rank": 3,
-    "keyword": "小满节气里的烟火诗意",
-    "heat": "1005561",
-    "label": ""
-  },
-  {
-    "rank": 4,
-    "keyword": "新科技旗舰小鹏GX上市26.98万元起",
-    "heat": "1003127",
-    "label": ""
-  },
-  {
-    "rank": 5,
-    "keyword": "孙杨当众让张豆豆给他道歉",
-    "heat": "964992",
-    "label": "新"
-  },
-  {
-    "rank": 6,
-    "keyword": "姜乘澜 化妆要顺应头发质感",
-    "heat": "937865",
-    "label": "新"
-  },
-  {
-    "rank": 7,
-    "keyword": "曝铁证王玉雯换张艺凡",
-    "heat": "903917",
-    "label": "热"
-  },
-  {
-    "rank": 8,
-    "keyword": "拿汛情造谣博流量被依法处罚",
-    "heat": "891842",
-    "label": ""
-  },
-  {
-    "rank": 9,
-    "keyword": "奶奶一天的接待量",
-    "heat": "888631",
-    "label": ""
-  },
-  {
-    "rank": 10,
-    "keyword": "主角 上升期小花禁止恋爱",
-    "heat": "742630",
-    "label": "新"
-  },
-  {
-    "rank": 11,
-    "keyword": "雷霆马刺打得太惨烈了",
-    "heat": "563723",
-    "label": "新"
-  },
-  {
-    "rank": 12,
-    "keyword": "马斯克冲击全球首位万亿美元富翁",
-    "heat": "511868",
-    "label": "新"
-  },
-  {
-    "rank": 13,
-    "keyword": "金秀贤案件反转",
-    "heat": "499146",
-    "label": "新"
-  },
-  {
-    "rank": 14,
-    "keyword": "疑似王鹤棣捏孟子义肩膀说假的",
-    "heat": "493654",
-    "label": ""
-  },
-  {
-    "rank": 15,
-    "keyword": "杨梅",
-    "heat": "477876",
-    "label": "新"
-  },
-  {
-    "rank": 16,
-    "keyword": "王玉雯的资源",
-    "heat": "468959",
-    "label": "新"
-  },
-  {
-    "rank": 17,
-    "keyword": "宋亚轩买家秀vs卖家秀",
-    "heat": "450292",
-    "label": "新"
-  },
-  {
-    "rank": 18,
-    "keyword": "22岁男子杀害34岁女友被判死缓",
-    "heat": "349478",
-    "label": ""
-  },
-  {
-    "rank": 19,
-    "keyword": "比亚迪元PLUS代言人王楚然",
-    "heat": "343545",
-    "label": "新"
-  },
-  {
-    "rank": 20,
-    "keyword": "Angelababy银裙高定",
-    "heat": "342825",
-    "label": ""
-  }
-]
+{
+  "update_time": "2026-06-05 08:42",
+  "source": "微博热搜榜",
+  "items": [
+    {
+      "rank": 1,
+      "keyword": "一张泛黄发票的故事",
+      "heat": "热",
+      "category": "社会"
+    },
+    {
+      "rank": 2,
+      "keyword": "Gemini 美国豆包",
+      "heat": 1167319,
+      "category": "科技"
+    },
+    {
+      "rank": 3,
+      "keyword": "原价899的耐克降至429消费者仍不买账",
+      "heat": 842130,
+      "category": "消费"
+    },
+    {
+      "rank": 4,
+      "keyword": "美丽中国行",
+      "heat": 813508,
+      "category": "社会"
+    },
+    {
+      "rank": 5,
+      "keyword": "Bin被罚15万",
+      "heat": 809141,
+      "category": "游戏"
+    },
+    {
+      "rank": 6,
+      "keyword": "江语晨来浪姐胖了12斤",
+      "heat": 799188,
+      "category": "综艺"
+    },
+    {
+      "rank": 7,
+      "keyword": "原来面条坨了也有邪修",
+      "heat": 688684,
+      "category": "生活"
+    },
+    {
+      "rank": 8,
+      "keyword": "国企回应保安只让员工孩子进门躲雨",
+      "heat": 404712,
+      "category": "社会"
+    },
+    {
+      "rank": 9,
+      "keyword": "白鹿何与或演开到荼靡",
+      "heat": 392145,
+      "category": "剧集"
+    },
+    {
+      "rank": 10,
+      "keyword": "国企干部公职人员离婚分割近亿财产",
+      "heat": 1201238,
+      "category": "社会"
+    },
+    {
+      "rank": 11,
+      "keyword": "李昊炎加盟巴萨",
+      "heat": 868860,
+      "category": "体育"
+    },
+    {
+      "rank": 12,
+      "keyword": "2026高考安检新变化",
+      "heat": 791596,
+      "category": "教育"
+    },
+    {
+      "rank": 13,
+      "keyword": "刘浩存演技",
+      "heat": 767857,
+      "category": "娱乐"
+    },
+    {
+      "rank": 14,
+      "keyword": "高考前千万不要吃榴莲",
+      "heat": null,
+      "category": "生活"
+    },
+    {
+      "rank": 15,
+      "keyword": "2030年AI耗水量够13亿人用一年",
+      "heat": null,
+      "category": "科技"
+    }
+  ]
+}

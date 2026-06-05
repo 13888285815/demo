@@ -1,92 +1,77 @@
-[
-  {
-    "rank": 1,
-    "title": "回忆永远都是加分项",
-    "play": "287.5万",
-    "url": "https://www.bilibili.com/video/BV1QzVR63E3L"
-  },
-  {
-    "rank": 2,
-    "title": "初中生斗胆跳一段jam",
-    "play": "439.6万",
-    "url": "https://www.bilibili.com/video/BV1kCVU65ERM"
-  },
-  {
-    "rank": 3,
-    "title": "不儿，你俩来真的啊？！",
-    "play": "302.2万",
-    "url": "https://www.bilibili.com/video/BV1RvVo6QEqo"
-  },
-  {
-    "rank": 4,
-    "title": "一顿饭只要三块钱，客人吃着吃着，人就“没了”",
-    "play": "139.2万",
-    "url": "https://www.bilibili.com/video/BV15wVB6YECT"
-  },
-  {
-    "rank": 5,
-    "title": "【野餐】你醒啦 现在是2012年的5月份呀",
-    "play": "108.3万",
-    "url": "https://www.bilibili.com/video/BV1jqVS6MECE"
-  },
-  {
-    "rank": 6,
-    "title": "我的世界杯主题曲！IShowSpeed - World Cup (Champions)",
-    "play": "289.2万",
-    "url": "https://www.bilibili.com/video/BV1jwV663EjR"
-  },
-  {
-    "rank": 7,
-    "title": "APP窗口乱跳转的“传送门”该关上了！",
-    "play": "228.8万",
-    "url": "https://www.bilibili.com/video/BV16iV96sEtP"
-  },
-  {
-    "rank": 8,
-    "title": "不止抽象！内娱唯一的硬汉！盘点嘎子谢孟伟职业生涯高光演技",
-    "play": "215.6万",
-    "url": "https://www.bilibili.com/video/BV14FVE6AEze"
-  },
-  {
-    "rank": 9,
-    "title": "《原神》洛恩角色PV——「标准化考核」",
-    "play": "142.9万",
-    "url": "https://www.bilibili.com/video/BV1oqVB6BECd"
-  },
-  {
-    "rank": 10,
-    "title": "🍄欠揍气球🍄",
-    "play": "137.6万",
-    "url": "https://www.bilibili.com/video/BV1W6VZ6MEbd"
-  },
-  {
-    "rank": 11,
-    "title": "做了一把千机伞，能变十三个形态的那种｜最强的武器一定是自制的",
-    "play": "284.5万",
-    "url": "https://www.bilibili.com/video/BV11BVU6mEUe"
-  },
-  {
-    "rank": 12,
-    "title": "二次元老资历童年都在听什么？！老番串烧34首大连唱！",
-    "play": "118.9万",
-    "url": "https://www.bilibili.com/video/BV1B75w6zEG1"
-  },
-  {
-    "rank": 13,
-    "title": "我打孔子，真的假的？",
-    "play": "266.8万",
-    "url": "https://www.bilibili.com/video/BV1xWG16qEBn"
-  },
-  {
-    "rank": 14,
-    "title": "《你来真的啊》",
-    "play": "207.9万",
-    "url": "https://www.bilibili.com/video/BV16BVy6wEfx"
-  },
-  {
-    "rank": 15,
-    "title": "海很大,但比海更辽阔的，是一个人孩子不肯认输的心",
-    "play": "95.1万",
-    "url": "https://www.bilibili.com/video/BV1hAVf6pE43"
-  }
-]
+{
+  "update_time": "2026-06-05 08:42",
+  "source": "B站热门/搜索聚合",
+  "items": [
+    {
+      "rank": 1,
+      "title": "翘楚",
+      "category": "网剧",
+      "heat_index": 76.04,
+      "type": "剧集"
+    },
+    {
+      "rank": 2,
+      "title": "低智商犯罪",
+      "category": "网剧",
+      "heat_index": null,
+      "type": "剧集"
+    },
+    {
+      "rank": 3,
+      "title": "大唐迷雾",
+      "category": "网剧",
+      "heat_index": null,
+      "type": "剧集"
+    },
+    {
+      "rank": 4,
+      "title": "盛唐奇案",
+      "category": "网剧",
+      "heat_index": null,
+      "type": "剧集"
+    },
+    {
+      "rank": 5,
+      "title": "佳偶天成",
+      "category": "网剧",
+      "heat_index": null,
+      "type": "剧集"
+    },
+    {
+      "rank": 6,
+      "title": "欢迎回我的频道",
+      "category": "网剧",
+      "heat_index": null,
+      "type": "剧集"
+    },
+    {
+      "rank": 7,
+      "title": "逐玉",
+      "category": "网剧",
+      "heat_index": null,
+      "type": "剧集"
+    },
+    {
+      "rank": 8,
+      "title": "方圆八百米",
+      "category": "网剧",
+      "heat_index": null,
+      "type": "剧集"
+    },
+    {
+      "rank": 9,
+      "title": "黑夜告白",
+      "category": "网剧",
+      "heat_index": null,
+      "type": "剧集"
+    },
+    {
+      "rank": 10,
+      "title": "白日提灯",
+      "category": "网剧",
+      "heat_index": null,
+      "type": "剧集"
+    }
+  ],
+  "note": "B站热门视频搜索结果偏向剧集热度榜单，更多综合热门视频数据可通过B站官方热门页面获取"
+}
