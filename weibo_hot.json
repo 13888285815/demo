@@ -1,122 +1,363 @@
-[
-  {
-    "rank": 1,
-    "keyword": "豆包首次付费后月活减少610万",
-    "heat": "1165381",
-    "label": ""
-  },
-  {
-    "rank": 2,
-    "keyword": "英国间谍2次偷窃中国茶叶机密",
-    "heat": "829558",
-    "label": ""
-  },
-  {
-    "rank": 3,
-    "keyword": "网警侦破涉2026高考诈骗案",
-    "heat": "671031",
-    "label": "新"
-  },
-  {
-    "rank": 4,
-    "keyword": "存款达到多少可以提前退休",
-    "heat": "659542",
-    "label": ""
-  },
-  {
-    "rank": 5,
-    "keyword": "一馒落三馒生",
-    "heat": "652356",
-    "label": "新"
-  },
-  {
-    "rank": 6,
-    "keyword": "租房的三件套",
-    "heat": "625115",
-    "label": "新"
-  },
-  {
-    "rank": 7,
-    "keyword": "大学生喜爱内容共创计划",
-    "heat": "594093",
-    "label": ""
-  },
-  {
-    "rank": 8,
-    "keyword": "高考试卷押送车队震撼瞬间",
-    "heat": "587738",
-    "label": ""
-  },
-  {
-    "rank": 9,
-    "keyword": "C罗姆巴佩詹姆斯超燃世界杯短片",
-    "heat": "413659",
-    "label": "新"
-  },
-  {
-    "rank": 10,
-    "keyword": "攻玉官宣",
-    "heat": "405284",
-    "label": ""
-  },
-  {
-    "rank": 11,
-    "keyword": "孙杨张豆豆不用参加离婚综艺了",
-    "heat": "404804",
-    "label": ""
-  },
-  {
-    "rank": 12,
-    "keyword": "高考群也没想到会变成相亲群",
-    "heat": "401966",
-    "label": ""
-  },
-  {
-    "rank": 13,
-    "keyword": "陈学冬 避谶",
-    "heat": "399951",
-    "label": "新"
-  },
-  {
-    "rank": 14,
-    "keyword": "奚梦瑶模特朋友一个没来",
-    "heat": "399218",
-    "label": "新"
-  },
-  {
-    "rank": 15,
-    "keyword": "判断孩子有没有学霸潜质",
-    "heat": "397220",
-    "label": "新"
-  },
-  {
-    "rank": 16,
-    "keyword": "杨紫和郭晶晶一起上台领聘",
-    "heat": "394732",
-    "label": "新"
-  },
-  {
-    "rank": 17,
-    "keyword": "家业 华莱士",
-    "heat": "393761",
-    "label": ""
-  },
-  {
-    "rank": 18,
-    "keyword": "朋友对研究生的概念",
-    "heat": "391573",
-    "label": ""
-  },
-  {
-    "rank": 19,
-    "keyword": "张凌赫转账最快的男人",
-    "heat": "389385",
-    "label": "新"
-  },
-  {
-    "rank": 20,
-    "keyword": "黑龙江挪车反杀案二审维持死缓",
-    "heat": "386941",
-    "label": "新"
-  }
-]
+{
+  "update_time": "2026-06-05T15:16:10+08:00",
+  "title": "微博热搜榜",
+  "items": [
+    {
+      "rank": 0,
+      "keyword": "南开大学一学生被电诈220万",
+      "heat": 1181916,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=南开大学一学生被电诈220万"
+    },
+    {
+      "rank": 1,
+      "keyword": "豆包首次付费后月活减少610万",
+      "heat": 847819,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=豆包首次付费后月活减少610万"
+    },
+    {
+      "rank": 2,
+      "keyword": "芒种时节收获美好",
+      "heat": 780653,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=芒种时节收获美好"
+    },
+    {
+      "rank": 2,
+      "keyword": "闲鱼集市破价盛典",
+      "heat": 770169,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=闲鱼集市破价盛典"
+    },
+    {
+      "rank": 3,
+      "keyword": "意识到了一杯奶茶钱真不是小钱",
+      "heat": 766857,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=意识到了一杯奶茶钱真不是小钱"
+    },
+    {
+      "rank": 4,
+      "keyword": "判断孩子有没有学霸潜质",
+      "heat": 741766,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=判断孩子有没有学霸潜质"
+    },
+    {
+      "rank": 5,
+      "keyword": "存款达到多少可以提前退休",
+      "heat": 611395,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=存款达到多少可以提前退休"
+    },
+    {
+      "rank": 6,
+      "keyword": "中餐厅收工合照",
+      "heat": 554763,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=中餐厅收工合照"
+    },
+    {
+      "rank": 7,
+      "keyword": "网警侦破涉2026高考诈骗案",
+      "heat": 461666,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=网警侦破涉2026高考诈骗案"
+    },
+    {
+      "rank": 8,
+      "keyword": "杨洋不让江山杀青",
+      "heat": 376618,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=杨洋不让江山杀青"
+    },
+    {
+      "rank": 9,
+      "keyword": "KPL票价",
+      "heat": 282766,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=KPL票价"
+    },
+    {
+      "rank": 10,
+      "keyword": "陈学冬 避谶",
+      "heat": 280610,
+      "status": "热",
+      "url": "https://s.weibo.com/weibo?q=陈学冬 避谶"
+    },
+    {
+      "rank": 11,
+      "keyword": "黑龙江挪车反杀案二审维持死缓",
+      "heat": 279158,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=黑龙江挪车反杀案二审维持死缓"
+    },
+    {
+      "rank": 12,
+      "keyword": "奚梦瑶模特朋友一个没来",
+      "heat": 277168,
+      "status": "热",
+      "url": "https://s.weibo.com/weibo?q=奚梦瑶模特朋友一个没来"
+    },
+    {
+      "rank": 13,
+      "keyword": "C罗姆巴佩詹姆斯超燃世界杯短片",
+      "heat": 275115,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=C罗姆巴佩詹姆斯超燃世界杯短片"
+    },
+    {
+      "rank": 14,
+      "keyword": "A股",
+      "heat": 273829,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=A股"
+    },
+    {
+      "rank": 15,
+      "keyword": "李晨曾送了好多艺人水晶兔子",
+      "heat": 272611,
+      "status": "热",
+      "url": "https://s.weibo.com/weibo?q=李晨曾送了好多艺人水晶兔子"
+    },
+    {
+      "rank": 16,
+      "keyword": "租房的三件套",
+      "heat": 270114,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=租房的三件套"
+    },
+    {
+      "rank": 17,
+      "keyword": "刘诗诗干练小黑裙",
+      "heat": 268814,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=刘诗诗干练小黑裙"
+    },
+    {
+      "rank": 18,
+      "keyword": "男子落水7天6夜从海口漂到澄迈",
+      "heat": 265201,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=男子落水7天6夜从海口漂到澄迈"
+    },
+    {
+      "rank": 19,
+      "keyword": "宋亚轩一把抱住刘耀文",
+      "heat": 264609,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=宋亚轩一把抱住刘耀文"
+    },
+    {
+      "rank": 20,
+      "keyword": "黄磊孙莉9岁儿子正脸照",
+      "heat": 262819,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=黄磊孙莉9岁儿子正脸照"
+    },
+    {
+      "rank": 21,
+      "keyword": "珠峰夏尔巴向导失踪6天奇迹生还",
+      "heat": 259449,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=珠峰夏尔巴向导失踪6天奇迹生还"
+    },
+    {
+      "rank": 22,
+      "keyword": "一馒落三馒生",
+      "heat": 257982,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=一馒落三馒生"
+    },
+    {
+      "rank": 23,
+      "keyword": "iPhone18ProMax配色",
+      "heat": 256510,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=iPhone18ProMax配色"
+    },
+    {
+      "rank": 24,
+      "keyword": "朵朵说小酒窝是小仙女",
+      "heat": 255148,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=朵朵说小酒窝是小仙女"
+    },
+    {
+      "rank": 25,
+      "keyword": "康师傅冰红茶卖不动了",
+      "heat": 251663,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=康师傅冰红茶卖不动了"
+    },
+    {
+      "rank": 26,
+      "keyword": "家业 华莱士",
+      "heat": 249264,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=家业 华莱士"
+    },
+    {
+      "rank": 27,
+      "keyword": "攻玉官宣",
+      "heat": 249169,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=攻玉官宣"
+    },
+    {
+      "rank": 28,
+      "keyword": "高考试卷押送车队震撼瞬间",
+      "heat": 243160,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=高考试卷押送车队震撼瞬间"
+    },
+    {
+      "rank": 29,
+      "keyword": "实习医生无证拔牙致患者死亡获刑",
+      "heat": 212286,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=实习医生无证拔牙致患者死亡获刑"
+    },
+    {
+      "rank": 30,
+      "keyword": "中央空调才是电费刺客",
+      "heat": 211950,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=中央空调才是电费刺客"
+    },
+    {
+      "rank": 31,
+      "keyword": "曾沛慈说演唱会新专辑计划都在排了",
+      "heat": 206211,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=曾沛慈说演唱会新专辑计划都在排了"
+    },
+    {
+      "rank": 32,
+      "keyword": "张凌赫转账最快的男人",
+      "heat": 197003,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=张凌赫转账最快的男人"
+    },
+    {
+      "rank": 33,
+      "keyword": "果然出来吃火锅还是得戴眼镜",
+      "heat": 189177,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=果然出来吃火锅还是得戴眼镜"
+    },
+    {
+      "rank": 34,
+      "keyword": "杨紫和郭晶晶一起上台领聘",
+      "heat": 184715,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=杨紫和郭晶晶一起上台领聘"
+    },
+    {
+      "rank": 35,
+      "keyword": "陈学冬12部主演作品11部无法上线",
+      "heat": 175990,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=陈学冬12部主演作品11部无法上线"
+    },
+    {
+      "rank": 36,
+      "keyword": "二手油车价格",
+      "heat": 170569,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=二手油车价格"
+    },
+    {
+      "rank": 37,
+      "keyword": "英国间谍2次偷窃中国茶叶机密",
+      "heat": 167481,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=英国间谍2次偷窃中国茶叶机密"
+    },
+    {
+      "rank": 38,
+      "keyword": "男子海上漂流生吃七八十只螃蟹充饥",
+      "heat": 158441,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=男子海上漂流生吃七八十只螃蟹充饥"
+    },
+    {
+      "rank": 39,
+      "keyword": "奚梦瑶会在澳门开答谢宴",
+      "heat": 157508,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=奚梦瑶会在澳门开答谢宴"
+    },
+    {
+      "rank": 40,
+      "keyword": "广东男子开迈巴赫上班失控撞墙",
+      "heat": 149779,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=广东男子开迈巴赫上班失控撞墙"
+    },
+    {
+      "rank": 41,
+      "keyword": "男子高铁上用电风扇被劝阻",
+      "heat": 142147,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=男子高铁上用电风扇被劝阻"
+    },
+    {
+      "rank": 42,
+      "keyword": "VOGUE出图",
+      "heat": 139292,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=VOGUE出图"
+    },
+    {
+      "rank": 43,
+      "keyword": "孟子义回桃花坞晒照",
+      "heat": 133570,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=孟子义回桃花坞晒照"
+    },
+    {
+      "rank": 44,
+      "keyword": "五年后终于懂了刘浩存的眼泪",
+      "heat": 133522,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=五年后终于懂了刘浩存的眼泪"
+    },
+    {
+      "rank": 45,
+      "keyword": "C罗詹姆斯爆笑互让球王",
+      "heat": 133070,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=C罗詹姆斯爆笑互让球王"
+    },
+    {
+      "rank": 46,
+      "keyword": "学生党618该如何选新机",
+      "heat": 132728,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=学生党618该如何选新机"
+    },
+    {
+      "rank": 47,
+      "keyword": "妈妈哄二宝一时性急打掉大宝玩具",
+      "heat": 132599,
+      "status": "",
+      "url": "https://s.weibo.com/weibo?q=妈妈哄二宝一时性急打掉大宝玩具"
+    },
+    {
+      "rank": 48,
+      "keyword": "韩国芯片巨头全线崩盘",
+      "heat": 132324,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=韩国芯片巨头全线崩盘"
+    },
+    {
+      "rank": 49,
+      "keyword": "百元高价速干衣性能抽查不合格",
+      "heat": 132146,
+      "status": "新",
+      "url": "https://s.weibo.com/weibo?q=百元高价速干衣性能抽查不合格"
+    }
+  ]
+}

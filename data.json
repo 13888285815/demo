@@ -1,37 +1,1391 @@
 {
-  "weather": {
-    "source": "wttr.in",
-    "fetched_at": "2026-06-05 13:15:00",
-    "location": "上海",
-    "current": {
-      "temp_C": "26",
-      "weather": "多云",
-      "humidity": "75%",
-      "wind": "12 km/h",
-      "feels_like": "28°C"
+  "update_time": "2026-06-05T15:16:10+08:00",
+  "data_source": "意念科技新闻门户",
+  "sections": {
+    "cctv_news": {
+      "update_time": "2026-06-05T15:16:10+08:00",
+      "title": "央视新闻要闻",
+      "items": [
+        {
+          "title": "新闻内容更新中...",
+          "url": "https://news.cctv.com/",
+          "date": "2026-06-05"
+        }
+      ]
     },
-    "forecast": []
-  },
-  "bilibili": {
-    "source": "Bilibili API",
-    "fetched_at": "2026-06-05 13:15:00",
-    "rankings": []
-  },
-  "weibo": {
-    "source": "微博热搜",
-    "fetched_at": "2026-06-05 13:15:00",
-    "rankings": [
-      {"rank": 1, "keyword": "微博热搜数据获取中", "hot": "暂无数据", "heat": 0}
-    ]
-  },
-  "cctv": {
-    "source": "CCTV News",
-    "fetched_at": "2026-06-05 13:15:00",
-    "news": [
-      {"title": "旅游旺季出行 特殊需求旅客如何买票", "url": "https://tv.cctv.com/2026/06/05/VIDEJWfWCNioKECal65ttTCj260605.shtml", "time": "2026-06-05", "source": "央视新闻"},
-      {"title": ""三北"攻坚进行时 "十大孔兑"综合治理攻坚提速", "url": "https://tv.cctv.com/2026/06/05/VIDE1YFi8S0TAGmKh3Ts04It260605.shtml", "time": "2026-06-05", "source": "央视新闻"},
-      {"title": "夏季血压下降 可以停药吗？", "url": "https://tv.cctv.com/2026/06/05/VIDEkw5LtXN3AOvJCPGQiRDg260605.shtml", "time": "2026-06-05", "source": "央视新闻"}
-    ]
-  },
-  "update_time": "2026-06-05 13:15:00"
+    "weibo_hot": {
+      "update_time": "2026-06-05T15:16:10+08:00",
+      "title": "微博热搜榜",
+      "items": [
+        {
+          "rank": 0,
+          "keyword": "南开大学一学生被电诈220万",
+          "heat": 1181916,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=南开大学一学生被电诈220万"
+        },
+        {
+          "rank": 1,
+          "keyword": "豆包首次付费后月活减少610万",
+          "heat": 847819,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=豆包首次付费后月活减少610万"
+        },
+        {
+          "rank": 2,
+          "keyword": "芒种时节收获美好",
+          "heat": 780653,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=芒种时节收获美好"
+        },
+        {
+          "rank": 2,
+          "keyword": "闲鱼集市破价盛典",
+          "heat": 770169,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=闲鱼集市破价盛典"
+        },
+        {
+          "rank": 3,
+          "keyword": "意识到了一杯奶茶钱真不是小钱",
+          "heat": 766857,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=意识到了一杯奶茶钱真不是小钱"
+        },
+        {
+          "rank": 4,
+          "keyword": "判断孩子有没有学霸潜质",
+          "heat": 741766,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=判断孩子有没有学霸潜质"
+        },
+        {
+          "rank": 5,
+          "keyword": "存款达到多少可以提前退休",
+          "heat": 611395,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=存款达到多少可以提前退休"
+        },
+        {
+          "rank": 6,
+          "keyword": "中餐厅收工合照",
+          "heat": 554763,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=中餐厅收工合照"
+        },
+        {
+          "rank": 7,
+          "keyword": "网警侦破涉2026高考诈骗案",
+          "heat": 461666,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=网警侦破涉2026高考诈骗案"
+        },
+        {
+          "rank": 8,
+          "keyword": "杨洋不让江山杀青",
+          "heat": 376618,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=杨洋不让江山杀青"
+        },
+        {
+          "rank": 9,
+          "keyword": "KPL票价",
+          "heat": 282766,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=KPL票价"
+        },
+        {
+          "rank": 10,
+          "keyword": "陈学冬 避谶",
+          "heat": 280610,
+          "status": "热",
+          "url": "https://s.weibo.com/weibo?q=陈学冬 避谶"
+        },
+        {
+          "rank": 11,
+          "keyword": "黑龙江挪车反杀案二审维持死缓",
+          "heat": 279158,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=黑龙江挪车反杀案二审维持死缓"
+        },
+        {
+          "rank": 12,
+          "keyword": "奚梦瑶模特朋友一个没来",
+          "heat": 277168,
+          "status": "热",
+          "url": "https://s.weibo.com/weibo?q=奚梦瑶模特朋友一个没来"
+        },
+        {
+          "rank": 13,
+          "keyword": "C罗姆巴佩詹姆斯超燃世界杯短片",
+          "heat": 275115,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=C罗姆巴佩詹姆斯超燃世界杯短片"
+        },
+        {
+          "rank": 14,
+          "keyword": "A股",
+          "heat": 273829,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=A股"
+        },
+        {
+          "rank": 15,
+          "keyword": "李晨曾送了好多艺人水晶兔子",
+          "heat": 272611,
+          "status": "热",
+          "url": "https://s.weibo.com/weibo?q=李晨曾送了好多艺人水晶兔子"
+        },
+        {
+          "rank": 16,
+          "keyword": "租房的三件套",
+          "heat": 270114,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=租房的三件套"
+        },
+        {
+          "rank": 17,
+          "keyword": "刘诗诗干练小黑裙",
+          "heat": 268814,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=刘诗诗干练小黑裙"
+        },
+        {
+          "rank": 18,
+          "keyword": "男子落水7天6夜从海口漂到澄迈",
+          "heat": 265201,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=男子落水7天6夜从海口漂到澄迈"
+        },
+        {
+          "rank": 19,
+          "keyword": "宋亚轩一把抱住刘耀文",
+          "heat": 264609,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=宋亚轩一把抱住刘耀文"
+        },
+        {
+          "rank": 20,
+          "keyword": "黄磊孙莉9岁儿子正脸照",
+          "heat": 262819,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=黄磊孙莉9岁儿子正脸照"
+        },
+        {
+          "rank": 21,
+          "keyword": "珠峰夏尔巴向导失踪6天奇迹生还",
+          "heat": 259449,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=珠峰夏尔巴向导失踪6天奇迹生还"
+        },
+        {
+          "rank": 22,
+          "keyword": "一馒落三馒生",
+          "heat": 257982,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=一馒落三馒生"
+        },
+        {
+          "rank": 23,
+          "keyword": "iPhone18ProMax配色",
+          "heat": 256510,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=iPhone18ProMax配色"
+        },
+        {
+          "rank": 24,
+          "keyword": "朵朵说小酒窝是小仙女",
+          "heat": 255148,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=朵朵说小酒窝是小仙女"
+        },
+        {
+          "rank": 25,
+          "keyword": "康师傅冰红茶卖不动了",
+          "heat": 251663,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=康师傅冰红茶卖不动了"
+        },
+        {
+          "rank": 26,
+          "keyword": "家业 华莱士",
+          "heat": 249264,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=家业 华莱士"
+        },
+        {
+          "rank": 27,
+          "keyword": "攻玉官宣",
+          "heat": 249169,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=攻玉官宣"
+        },
+        {
+          "rank": 28,
+          "keyword": "高考试卷押送车队震撼瞬间",
+          "heat": 243160,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=高考试卷押送车队震撼瞬间"
+        },
+        {
+          "rank": 29,
+          "keyword": "实习医生无证拔牙致患者死亡获刑",
+          "heat": 212286,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=实习医生无证拔牙致患者死亡获刑"
+        },
+        {
+          "rank": 30,
+          "keyword": "中央空调才是电费刺客",
+          "heat": 211950,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=中央空调才是电费刺客"
+        },
+        {
+          "rank": 31,
+          "keyword": "曾沛慈说演唱会新专辑计划都在排了",
+          "heat": 206211,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=曾沛慈说演唱会新专辑计划都在排了"
+        },
+        {
+          "rank": 32,
+          "keyword": "张凌赫转账最快的男人",
+          "heat": 197003,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=张凌赫转账最快的男人"
+        },
+        {
+          "rank": 33,
+          "keyword": "果然出来吃火锅还是得戴眼镜",
+          "heat": 189177,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=果然出来吃火锅还是得戴眼镜"
+        },
+        {
+          "rank": 34,
+          "keyword": "杨紫和郭晶晶一起上台领聘",
+          "heat": 184715,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=杨紫和郭晶晶一起上台领聘"
+        },
+        {
+          "rank": 35,
+          "keyword": "陈学冬12部主演作品11部无法上线",
+          "heat": 175990,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=陈学冬12部主演作品11部无法上线"
+        },
+        {
+          "rank": 36,
+          "keyword": "二手油车价格",
+          "heat": 170569,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=二手油车价格"
+        },
+        {
+          "rank": 37,
+          "keyword": "英国间谍2次偷窃中国茶叶机密",
+          "heat": 167481,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=英国间谍2次偷窃中国茶叶机密"
+        },
+        {
+          "rank": 38,
+          "keyword": "男子海上漂流生吃七八十只螃蟹充饥",
+          "heat": 158441,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=男子海上漂流生吃七八十只螃蟹充饥"
+        },
+        {
+          "rank": 39,
+          "keyword": "奚梦瑶会在澳门开答谢宴",
+          "heat": 157508,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=奚梦瑶会在澳门开答谢宴"
+        },
+        {
+          "rank": 40,
+          "keyword": "广东男子开迈巴赫上班失控撞墙",
+          "heat": 149779,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=广东男子开迈巴赫上班失控撞墙"
+        },
+        {
+          "rank": 41,
+          "keyword": "男子高铁上用电风扇被劝阻",
+          "heat": 142147,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=男子高铁上用电风扇被劝阻"
+        },
+        {
+          "rank": 42,
+          "keyword": "VOGUE出图",
+          "heat": 139292,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=VOGUE出图"
+        },
+        {
+          "rank": 43,
+          "keyword": "孟子义回桃花坞晒照",
+          "heat": 133570,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=孟子义回桃花坞晒照"
+        },
+        {
+          "rank": 44,
+          "keyword": "五年后终于懂了刘浩存的眼泪",
+          "heat": 133522,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=五年后终于懂了刘浩存的眼泪"
+        },
+        {
+          "rank": 45,
+          "keyword": "C罗詹姆斯爆笑互让球王",
+          "heat": 133070,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=C罗詹姆斯爆笑互让球王"
+        },
+        {
+          "rank": 46,
+          "keyword": "学生党618该如何选新机",
+          "heat": 132728,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=学生党618该如何选新机"
+        },
+        {
+          "rank": 47,
+          "keyword": "妈妈哄二宝一时性急打掉大宝玩具",
+          "heat": 132599,
+          "status": "",
+          "url": "https://s.weibo.com/weibo?q=妈妈哄二宝一时性急打掉大宝玩具"
+        },
+        {
+          "rank": 48,
+          "keyword": "韩国芯片巨头全线崩盘",
+          "heat": 132324,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=韩国芯片巨头全线崩盘"
+        },
+        {
+          "rank": 49,
+          "keyword": "百元高价速干衣性能抽查不合格",
+          "heat": 132146,
+          "status": "新",
+          "url": "https://s.weibo.com/weibo?q=百元高价速干衣性能抽查不合格"
+        }
+      ]
+    },
+    "bilibili_hot": {
+      "update_time": "2026-06-05T15:16:10+08:00",
+      "title": "B站热门视频",
+      "items": [
+        {
+          "rank": 1,
+          "title": "不儿，你俩来真的啊？！",
+          "author": "主持人yoyo酱",
+          "views": 4023539,
+          "likes": 519723,
+          "url": "https://www.bilibili.com/video/BV1RvVo6QEqo",
+          "category": "搞笑",
+          "duration": 265
+        },
+        {
+          "rank": 2,
+          "title": "一顿饭只要三块钱，客人吃着吃着，人就“没了”",
+          "author": "瞎通不设计了",
+          "views": 1677892,
+          "likes": 217499,
+          "url": "https://www.bilibili.com/video/BV15wVB6YECT",
+          "category": "美食侦探",
+          "duration": 187
+        },
+        {
+          "rank": 3,
+          "title": "我的世界杯主题曲！IShowSpeed - World Cup (Champions)",
+          "author": "ishowspeedsui",
+          "views": 3577428,
+          "likes": 186289,
+          "url": "https://www.bilibili.com/video/BV1jwV663EjR",
+          "category": "竞技体育",
+          "duration": 299
+        },
+        {
+          "rank": 4,
+          "title": "回忆永远都是加分项",
+          "author": "央视新闻",
+          "views": 3147345,
+          "likes": 544916,
+          "url": "https://www.bilibili.com/video/BV1QzVR63E3L",
+          "category": "日常",
+          "duration": 184
+        },
+        {
+          "rank": 5,
+          "title": "初中生斗胆跳一段jam",
+          "author": "特崮斯",
+          "views": 4993517,
+          "likes": 947726,
+          "url": "https://www.bilibili.com/video/BV1kCVU65ERM",
+          "category": "篮球",
+          "duration": 45
+        },
+        {
+          "rank": 6,
+          "title": "《你来真的啊》",
+          "author": "伤心欲茄222",
+          "views": 2527943,
+          "likes": 246994,
+          "url": "https://www.bilibili.com/video/BV16BVy6wEfx",
+          "category": "搞笑",
+          "duration": 116
+        },
+        {
+          "rank": 7,
+          "title": "《原神》洛恩角色PV——「标准化考核」",
+          "author": "原神",
+          "views": 1626732,
+          "likes": 134149,
+          "url": "https://www.bilibili.com/video/BV1oqVB6BECd",
+          "category": "手机游戏",
+          "duration": 702
+        },
+        {
+          "rank": 8,
+          "title": "🍄欠揍气球🍄",
+          "author": "纸片马力欧",
+          "views": 2058865,
+          "likes": 277961,
+          "url": "https://www.bilibili.com/video/BV1W6VZ6MEbd",
+          "category": "日常",
+          "duration": 40
+        },
+        {
+          "rank": 9,
+          "title": "“超微距”下的瑞士长什么样？",
+          "author": "影视飓风",
+          "views": 2684165,
+          "likes": 120570,
+          "url": "https://www.bilibili.com/video/BV1vkVB6NEuR",
+          "category": "娱乐粉丝创作",
+          "duration": 1369
+        },
+        {
+          "rank": 10,
+          "title": "当父母说出了正确答案：",
+          "author": "进击的金厂长",
+          "views": 2310453,
+          "likes": 199808,
+          "url": "https://www.bilibili.com/video/BV16kV26TES7",
+          "category": "搞笑",
+          "duration": 129
+        },
+        {
+          "rank": 11,
+          "title": "特朗普的愤怒",
+          "author": "燕三嘤嘤嘤",
+          "views": 2126150,
+          "likes": 113687,
+          "url": "https://www.bilibili.com/video/BV1XQ7Z6eEki",
+          "category": "人文历史",
+          "duration": 1133
+        },
+        {
+          "rank": 12,
+          "title": "【野餐】你醒啦 现在是2012年的5月份呀",
+          "author": "野餐slu2pcekry",
+          "views": 1224453,
+          "likes": 232451,
+          "url": "https://www.bilibili.com/video/BV1jqVS6MECE",
+          "category": "宅舞",
+          "duration": 182
+        },
+        {
+          "rank": 13,
+          "title": "二次元老资历童年都在听什么？！老番串烧34首大连唱！",
+          "author": "鹿火CAVY",
+          "views": 1478513,
+          "likes": 102731,
+          "url": "https://www.bilibili.com/video/BV1B75w6zEG1",
+          "category": "仿妆cos",
+          "duration": 462
+        },
+        {
+          "rank": 14,
+          "title": "初代跑男团战力排行",
+          "author": "东方日出哇",
+          "views": 1672349,
+          "likes": 128987,
+          "url": "https://www.bilibili.com/video/BV1cmVz6DEmi",
+          "category": "特摄",
+          "duration": 600
+        },
+        {
+          "rank": 15,
+          "title": "兄弟们！今天给良子做一个入营测试，这身体身体素质，跟我想的不太一样啊!",
+          "author": "健身华哥",
+          "views": 2167324,
+          "likes": 106793,
+          "url": "https://www.bilibili.com/video/BV1ogV26FEhB",
+          "category": "运动综合",
+          "duration": 246
+        },
+        {
+          "rank": 16,
+          "title": "下 一 个 抓 谁 ！！！",
+          "author": "啊吗粽",
+          "views": 1114153,
+          "likes": 105735,
+          "url": "https://www.bilibili.com/video/BV1MG7961Efg",
+          "category": "搞笑",
+          "duration": 586
+        },
+        {
+          "rank": 17,
+          "title": "如何拍出电影感大片",
+          "author": "喜欢拍照的皮皮",
+          "views": 2237761,
+          "likes": 190077,
+          "url": "https://www.bilibili.com/video/BV16DVz6UE77",
+          "category": "日常",
+          "duration": 60
+        },
+        {
+          "rank": 18,
+          "title": "今天把我关于《丧尸清道夫》的创作思路分享给大家，如果能帮到你，我会很开心。",
+          "author": "Mx-Shell",
+          "views": 821352,
+          "likes": 54947,
+          "url": "https://www.bilibili.com/video/BV1xuVC6AEbg",
+          "category": "影视剪辑",
+          "duration": 2573
+        },
+        {
+          "rank": 19,
+          "title": "冠以破碎之名：第一集 冰潮寒雨之夏",
+          "author": "Xavier_白昼",
+          "views": 931061,
+          "likes": 71347,
+          "url": "https://www.bilibili.com/video/BV1XEV26XEsz",
+          "category": "综合",
+          "duration": 1106
+        },
+        {
+          "rank": 20,
+          "title": "致敬每一个心中有花，努力奔跑的人",
+          "author": "爱画画的子衿",
+          "views": 894132,
+          "likes": 123125,
+          "url": "https://www.bilibili.com/video/BV1Qi7f6eE59",
+          "category": "亲子",
+          "duration": 313
+        },
+        {
+          "rank": 21,
+          "title": "科比的哲学启示录第十四期",
+          "author": "蟹不肉丨",
+          "views": 3858626,
+          "likes": 243938,
+          "url": "https://www.bilibili.com/video/BV1mhV26yETL",
+          "category": "影视剪辑",
+          "duration": 74
+        },
+        {
+          "rank": 22,
+          "title": "演员魏宗万于6月1日去世，享年89岁",
+          "author": "中国电影报道",
+          "views": 1134238,
+          "likes": 276803,
+          "url": "https://www.bilibili.com/video/BV1sKVr64EXg",
+          "category": "预告·资讯",
+          "duration": 26
+        },
+        {
+          "rank": 23,
+          "title": "星际穿越的我，试图提醒过去的自己....",
+          "author": "考研英语大雁",
+          "views": 1938695,
+          "likes": 246941,
+          "url": "https://www.bilibili.com/video/BV1VWVz6TELx",
+          "category": "校园学习",
+          "duration": 33
+        },
+        {
+          "rank": 24,
+          "title": "一辈子一定要体验一次的游戏，绝对不能被剧透的神作",
+          "author": "易铭小疯子",
+          "views": 904770,
+          "likes": 50388,
+          "url": "https://www.bilibili.com/video/BV1F9Vz62ExS",
+          "category": "网络游戏",
+          "duration": 537
+        },
+        {
+          "rank": 25,
+          "title": "【低成本在家实现牛排自由‼️ 】",
+          "author": "村驴",
+          "views": 733666,
+          "likes": 68536,
+          "url": "https://www.bilibili.com/video/BV1gzVC6kE1S",
+          "category": "美食制作",
+          "duration": 329
+        },
+        {
+          "rank": 26,
+          "title": "竹丝镶嵌",
+          "author": "归乡人山白",
+          "views": 738519,
+          "likes": 106410,
+          "url": "https://www.bilibili.com/video/BV1jBVS6qEPK",
+          "category": "手工",
+          "duration": 577
+        },
+        {
+          "rank": 27,
+          "title": "地牢酒馆-12集 《蜕皮的蜥蜴人与神奇薄荷》",
+          "author": "粘土工厂",
+          "views": 790042,
+          "likes": 116045,
+          "url": "https://www.bilibili.com/video/BV1T2V161E6J",
+          "category": "单机游戏",
+          "duration": 212
+        },
+        {
+          "rank": 28,
+          "title": "小时候以为的事情",
+          "author": "西维西师傅",
+          "views": 3236477,
+          "likes": 199617,
+          "url": "https://www.bilibili.com/video/BV1izVB6TE7i",
+          "category": "搞笑",
+          "duration": 38
+        },
+        {
+          "rank": 29,
+          "title": "【侯绿萝】视频加载中，速速查收惊喜！",
+          "author": "侯绿萝",
+          "views": 1143359,
+          "likes": 109820,
+          "url": "https://www.bilibili.com/video/BV1sC7R6VEF3",
+          "category": "小剧场",
+          "duration": 233
+        },
+        {
+          "rank": 30,
+          "title": "【大鸣王潮1566】谁才是护",
+          "author": "寞桀緣才",
+          "views": 740415,
+          "likes": 73516,
+          "url": "https://www.bilibili.com/video/BV1iCV66GEMq",
+          "category": "同人·手书",
+          "duration": 222
+        },
+        {
+          "rank": 31,
+          "title": "我打孔子，真的假的？",
+          "author": "自动鬼畜中的WZ",
+          "views": 3065558,
+          "likes": 139523,
+          "url": "https://www.bilibili.com/video/BV1xWG16qEBn",
+          "category": "鬼畜调教",
+          "duration": 281
+        },
+        {
+          "rank": 32,
+          "title": "欢迎来到304班娃娃店",
+          "author": "蟹上皇呀",
+          "views": 2115595,
+          "likes": 219746,
+          "url": "https://www.bilibili.com/video/BV1BqVS6MEL8",
+          "category": "日常",
+          "duration": 114
+        },
+        {
+          "rank": 33,
+          "title": "手绘2000多张沙画，历时3年制作",
+          "author": "胡雪朗",
+          "views": 695127,
+          "likes": 154455,
+          "url": "https://www.bilibili.com/video/BV1kzVy6hEGb",
+          "category": "绘画",
+          "duration": 54
+        },
+        {
+          "rank": 34,
+          "title": "【传奇耐熬王】经典排骨💀60天仍然有5人存活💪到最后拼的就是谁身体好！🤦‍♂️",
+          "author": "-超级小能猫-",
+          "views": 1304105,
+          "likes": 57585,
+          "url": "https://www.bilibili.com/video/BV1hAVm6XEE2",
+          "category": "搞笑",
+          "duration": 2617
+        },
+        {
+          "rank": 35,
+          "title": "“当bro以为自己很有影响力时…”",
+          "author": "林宇辉",
+          "views": 635355,
+          "likes": 181036,
+          "url": "https://www.bilibili.com/video/BV1pnVm6GEQG",
+          "category": "社科·法律·心理",
+          "duration": 16
+        },
+        {
+          "rank": 36,
+          "title": "阳寿伏妖  青州篇【一口气看完八小时合集】",
+          "author": "七夜不起夜z",
+          "views": 915918,
+          "likes": 51931,
+          "url": "https://www.bilibili.com/video/BV1uAVo6yE5n",
+          "category": "综合",
+          "duration": 31228
+        },
+        {
+          "rank": 37,
+          "title": "马尔代夫潜水事故，5人洞穴潜水6人遇难",
+          "author": "神秘园",
+          "views": 1439893,
+          "likes": 70131,
+          "url": "https://www.bilibili.com/video/BV1pAVz6DEDB",
+          "category": "影视杂谈",
+          "duration": 812
+        },
+        {
+          "rank": 38,
+          "title": "此树扎根之时 便是沧海化桑田之始",
+          "author": "芳斯塔芙",
+          "views": 2747854,
+          "likes": 48136,
+          "url": "https://www.bilibili.com/video/BV1YcVf69ECW",
+          "category": "科学科普",
+          "duration": 895
+        },
+        {
+          "rank": 39,
+          "title": "《绝区零》3.0新地块实机演示",
+          "author": "绝区零",
+          "views": 511332,
+          "likes": 65376,
+          "url": "https://www.bilibili.com/video/BV13s7z63EjV",
+          "category": "手机游戏",
+          "duration": 599
+        },
+        {
+          "rank": 40,
+          "title": "给我净身出户！听懂了吗！",
+          "author": "ENX叉叉酱",
+          "views": 1212330,
+          "likes": 126406,
+          "url": "https://www.bilibili.com/video/BV12QVi6nEQ1",
+          "category": "同人·手书",
+          "duration": 73
+        },
+        {
+          "rank": 41,
+          "title": "起初我一直以为“霸总”只是大家对王心凌站哥站姐的爱称…",
+          "author": "王心凌FM",
+          "views": 3117303,
+          "likes": 192804,
+          "url": "https://www.bilibili.com/video/BV1nsVf6ME6Q",
+          "category": "音乐现场",
+          "duration": 42
+        },
+        {
+          "rank": 42,
+          "title": "不看后悔！史上最神人店家！",
+          "author": "转生成为毛毛",
+          "views": 1621326,
+          "likes": 72690,
+          "url": "https://www.bilibili.com/video/BV1w6EF6QEjZ",
+          "category": "美食侦探",
+          "duration": 186
+        },
+        {
+          "rank": 43,
+          "title": "理财PK两个月，6位UP主已经彻底疯狂...【理财王5月战绩汇报】",
+          "author": "-LKs-",
+          "views": 1563767,
+          "likes": 58688,
+          "url": "https://www.bilibili.com/video/BV1WgVC6YERr",
+          "category": "财经商业",
+          "duration": 779
+        },
+        {
+          "rank": 44,
+          "title": "朋克的扑满完整版！六一变身巴啦啦小魔丸！",
+          "author": "辉泰廊大王",
+          "views": 987812,
+          "likes": 116130,
+          "url": "https://www.bilibili.com/video/BV1WBVZ6zEZF",
+          "category": "音乐现场",
+          "duration": 87
+        },
+        {
+          "rank": 45,
+          "title": "🐱穷鬼气球",
+          "author": "竹内有虫",
+          "views": 1012400,
+          "likes": 127736,
+          "url": "https://www.bilibili.com/video/BV11DVo6rEo7",
+          "category": "综合",
+          "duration": 40
+        },
+        {
+          "rank": 46,
+          "title": "《上海奥特曼4：沪特曼集结！》",
+          "author": "册那队长",
+          "views": 2473570,
+          "likes": 114900,
+          "url": "https://www.bilibili.com/video/BV1r6V26BE9i",
+          "category": "小剧场",
+          "duration": 53
+        },
+        {
+          "rank": 47,
+          "title": "一个投了3万元必火的视频",
+          "author": "奥利奥利奥是1",
+          "views": 566358,
+          "likes": 142140,
+          "url": "https://www.bilibili.com/video/BV18qVr6KEk8",
+          "category": "日常",
+          "duration": 46
+        },
+        {
+          "rank": 48,
+          "title": "做了一把千机伞，能变十三个形态的那种｜最强的武器一定是自制的",
+          "author": "o小庄o",
+          "views": 3212796,
+          "likes": 157219,
+          "url": "https://www.bilibili.com/video/BV11BVU6mEUe",
+          "category": "仿妆cos",
+          "duration": 172
+        },
+        {
+          "rank": 49,
+          "title": "坏了，这下特朗普都反犹了",
+          "author": "波士顿圆脸",
+          "views": 1322805,
+          "likes": 70756,
+          "url": "https://www.bilibili.com/video/BV1YmV666EoR",
+          "category": "社科·法律·心理",
+          "duration": 915
+        },
+        {
+          "rank": 50,
+          "title": "从\"健身芭比\"到\"女企业家\"，帕梅拉有多会\"赚\"？",
+          "author": "小Lin说",
+          "views": 1624872,
+          "likes": 45837,
+          "url": "https://www.bilibili.com/video/BV1f3VU6KEqy",
+          "category": "财经商业",
+          "duration": 1745
+        },
+        {
+          "rank": 51,
+          "title": "【鹿野/小动画】wonderland [儿童节24h产物]",
+          "author": "民用核武器",
+          "views": 457712,
+          "likes": 145050,
+          "url": "https://www.bilibili.com/video/BV1LVVv6tEPa",
+          "category": "同人·手书",
+          "duration": 37
+        },
+        {
+          "rank": 52,
+          "title": "“少女暴君”翻《荣耀向我俯首》法语完整版！",
+          "author": "芋泥脑袋邹十八",
+          "views": 1156329,
+          "likes": 104412,
+          "url": "https://www.bilibili.com/video/BV16NVZ6wEZw",
+          "category": "翻唱",
+          "duration": 159
+        },
+        {
+          "rank": 53,
+          "title": "\"这一刻，他简直正的发邪\"",
+          "author": "wrizedm",
+          "views": 1209985,
+          "likes": 90339,
+          "url": "https://www.bilibili.com/video/BV1dFV66rEwZ",
+          "category": "影视剪辑",
+          "duration": 115
+        },
+        {
+          "rank": 54,
+          "title": "【IGN】《战神：劳菲（God of War Laufey）》深度玩法演示 |  State of Play",
+          "author": "IGN中国",
+          "views": 1562969,
+          "likes": 34476,
+          "url": "https://www.bilibili.com/video/BV1CYVy6vETT",
+          "category": "单机游戏",
+          "duration": 1425
+        },
+        {
+          "rank": 55,
+          "title": "新三国up锐评楚汉传奇01：是不是我打开的方式不太对？",
+          "author": "吃蛋挞的折棒",
+          "views": 402583,
+          "likes": 54961,
+          "url": "https://www.bilibili.com/video/BV17GEP6xEDW",
+          "category": "影视杂谈",
+          "duration": 1348
+        },
+        {
+          "rank": 56,
+          "title": "金库测金，海峡测雷，万税爷进军测评赛道？",
+          "author": "麻薯波比呀",
+          "views": 1093084,
+          "likes": 66523,
+          "url": "https://www.bilibili.com/video/BV1NoVm62EFd",
+          "category": "社科·法律·心理",
+          "duration": 1010
+        },
+        {
+          "rank": 57,
+          "title": "可不可以买三十块烧腊？",
+          "author": "食深烧腊",
+          "views": 856573,
+          "likes": 94431,
+          "url": "https://www.bilibili.com/video/BV1jLVU6eEXE",
+          "category": "美食测评",
+          "duration": 99
+        },
+        {
+          "rank": 58,
+          "title": "剥蒜的情谊147.0",
+          "author": "NinthA-",
+          "views": 1101467,
+          "likes": 85023,
+          "url": "https://www.bilibili.com/video/BV1LCV66VE45",
+          "category": "网络游戏",
+          "duration": 147
+        },
+        {
+          "rank": 59,
+          "title": "今天的员工够燥的~#异宠 #爬宠 #慢宠时钟 #萌宠",
+          "author": "慢宠日记啊",
+          "views": 3006004,
+          "likes": 113304,
+          "url": "https://www.bilibili.com/video/BV1G1VB6PEro",
+          "category": "日常",
+          "duration": 79
+        },
+        {
+          "rank": 60,
+          "title": "蜘蛛糸モノポリー",
+          "author": "苏酥鱼鱼喵",
+          "views": 447898,
+          "likes": 85880,
+          "url": "https://www.bilibili.com/video/BV1aFVm6REvY",
+          "category": "MMD·3D",
+          "duration": 113
+        },
+        {
+          "rank": 61,
+          "title": "奶香馒头",
+          "author": "夏叔厨房",
+          "views": 940799,
+          "likes": 126261,
+          "url": "https://www.bilibili.com/video/BV1yiEF6WErx",
+          "category": "美食制作",
+          "duration": 76
+        },
+        {
+          "rank": 62,
+          "title": "G胖为上架R18游戏硬刚V社法务 玩家至上 不做干预",
+          "author": "Will游戏堂",
+          "views": 1063569,
+          "likes": 121496,
+          "url": "https://www.bilibili.com/video/BV1ypV66dEru",
+          "category": "数码",
+          "duration": 51
+        },
+        {
+          "rank": 63,
+          "title": "50秒一片肉，火力全开，快到起飞",
+          "author": "左手刀鹏哥",
+          "views": 6564772,
+          "likes": 264761,
+          "url": "https://www.bilibili.com/video/BV1REV56YEjz",
+          "category": "日常",
+          "duration": 59
+        },
+        {
+          "rank": 64,
+          "title": "不止抽象！内娱唯一的硬汉！盘点嘎子谢孟伟职业生涯高光演技",
+          "author": "文西与阿漆",
+          "views": 2368485,
+          "likes": 162552,
+          "url": "https://www.bilibili.com/video/BV14FVE6AEze",
+          "category": "影视杂谈",
+          "duration": 1050
+        },
+        {
+          "rank": 65,
+          "title": "期末到了，你们寝室准备好应对之策了吗",
+          "author": "灵霖七",
+          "views": 1722301,
+          "likes": 80126,
+          "url": "https://www.bilibili.com/video/BV1gWVd6GEna",
+          "category": "日常",
+          "duration": 200
+        },
+        {
+          "rank": 66,
+          "title": "APP窗口乱跳转的“传送门”该关上了！",
+          "author": "人民日报",
+          "views": 2482267,
+          "likes": 339158,
+          "url": "https://www.bilibili.com/video/BV16iV96sEtP",
+          "category": "日常",
+          "duration": 41
+        },
+        {
+          "rank": 67,
+          "title": "《鸣潮》开发组特别对谈——鸣潮演出&PV制作揭秘",
+          "author": "鸣潮",
+          "views": 539257,
+          "likes": 45560,
+          "url": "https://www.bilibili.com/video/BV1s7Vm6VEUw",
+          "category": "动漫杂谈",
+          "duration": 1452
+        },
+        {
+          "rank": 68,
+          "title": "啥龙：医生说我只剩几天了……",
+          "author": "小陈的脚凑凑的",
+          "views": 778979,
+          "likes": 55444,
+          "url": "https://www.bilibili.com/video/BV1uE7d6JEAp",
+          "category": "日常",
+          "duration": 181
+        },
+        {
+          "rank": 69,
+          "title": "说个事儿",
+          "author": "麦片是只小金毛",
+          "views": 483324,
+          "likes": 61182,
+          "url": "https://www.bilibili.com/video/BV1aUVB6cE4P",
+          "category": "社科·法律·心理",
+          "duration": 411
+        },
+        {
+          "rank": 70,
+          "title": "带良子和花胖在华哥训练营偷吃，闷子、板面、大肠都安排上",
+          "author": "俞涛不光会做九转大肠",
+          "views": 1395166,
+          "likes": 66674,
+          "url": "https://www.bilibili.com/video/BV17pVC6WECy",
+          "category": "美食记录",
+          "duration": 247
+        },
+        {
+          "rank": 71,
+          "title": "杀人热浪如何卡死印度发展命脉？",
+          "author": "世界见闻录",
+          "views": 1149173,
+          "likes": 53698,
+          "url": "https://www.bilibili.com/video/BV12SVo6GE6E",
+          "category": "人文历史",
+          "duration": 884
+        },
+        {
+          "rank": 72,
+          "title": "《马老师啊》",
+          "author": "嘞是唐孃孃",
+          "views": 1374704,
+          "likes": 126404,
+          "url": "https://www.bilibili.com/video/BV15tVr6GE6V",
+          "category": "搞笑",
+          "duration": 85
+        },
+        {
+          "rank": 73,
+          "title": "歌剧老师锐评韩娱BLACKPINK  JYP & MAMAOO Red Velvet TWICE",
+          "author": "铁豆钢蛋",
+          "views": 758618,
+          "likes": 40667,
+          "url": "https://www.bilibili.com/video/BV1TL796CE52",
+          "category": "乐评盘点",
+          "duration": 3086
+        },
+        {
+          "rank": 74,
+          "title": "除了它以外，你见过的紫色都是假的…？",
+          "author": "毕的二阶导",
+          "views": 1439681,
+          "likes": 67118,
+          "url": "https://www.bilibili.com/video/BV1NCVz6WESh",
+          "category": "科学科普",
+          "duration": 206
+        },
+        {
+          "rank": 75,
+          "title": "开关灯木头人挑战！",
+          "author": "酱油白米饭原创",
+          "views": 1938606,
+          "likes": 78812,
+          "url": "https://www.bilibili.com/video/BV1rMVz67EMs",
+          "category": "小剧场",
+          "duration": 99
+        },
+        {
+          "rank": 76,
+          "title": "半个小孩，全部的妈妈",
+          "author": "超级猫猫兽",
+          "views": 464872,
+          "likes": 63698,
+          "url": "https://www.bilibili.com/video/BV1Nk7X6TEnq",
+          "category": "同人·手书",
+          "duration": 483
+        },
+        {
+          "rank": 77,
+          "title": "《明日方舟：终末地》干员叙事 [弭弗：煞星]",
+          "author": "明日方舟终末地",
+          "views": 1023665,
+          "likes": 42372,
+          "url": "https://www.bilibili.com/video/BV1dCV66GEgM",
+          "category": "手机游戏",
+          "duration": 637
+        },
+        {
+          "rank": 78,
+          "title": "【aespa】LEMONNNN",
+          "author": "aespa",
+          "views": 3880908,
+          "likes": 66061,
+          "url": "https://www.bilibili.com/video/BV1bwV161Er2",
+          "category": "音乐综合",
+          "duration": 11
+        },
+        {
+          "rank": 79,
+          "title": "谁在等谁的出现",
+          "author": "为了我活下去",
+          "views": 417489,
+          "likes": 124270,
+          "url": "https://www.bilibili.com/video/BV1ps796qErr",
+          "category": "综合",
+          "duration": 36
+        },
+        {
+          "rank": 80,
+          "title": "探访世界上最大的活死人墓，几万人抢着住，直接在坟头做饭，拿棺材当床",
+          "author": "小钟Johnny",
+          "views": 1212554,
+          "likes": 40094,
+          "url": "https://www.bilibili.com/video/BV1oDVv6wENJ",
+          "category": "出行",
+          "duration": 620
+        },
+        {
+          "rank": 81,
+          "title": "卡 布 达 买 瓜",
+          "author": "增殖的发呆",
+          "views": 1670524,
+          "likes": 65042,
+          "url": "https://www.bilibili.com/video/BV1eoVZ64EDP",
+          "category": "搞笑",
+          "duration": 165
+        },
+        {
+          "rank": 82,
+          "title": "突围吧少年！微光汇聚，用爱照亮向新的路",
+          "author": "暗区突围",
+          "views": 399180,
+          "likes": 50421,
+          "url": "https://www.bilibili.com/video/BV1MqVr6KEf6",
+          "category": "短片",
+          "duration": 350
+        },
+        {
+          "rank": 83,
+          "title": "【速凌宇宙】第十九集：哈基蜂化身哈夫克安保队长？？准备摇人？",
+          "author": "高司令-速凌电竞",
+          "views": 1490026,
+          "likes": 81270,
+          "url": "https://www.bilibili.com/video/BV1y8Vk6fEwn",
+          "category": "单机游戏",
+          "duration": 582
+        },
+        {
+          "rank": 84,
+          "title": "海很大,但比海更辽阔的，是一个人孩子不肯认输的心",
+          "author": "李炮炮儿",
+          "views": 1092302,
+          "likes": 128633,
+          "url": "https://www.bilibili.com/video/BV1hAVf6pE43",
+          "category": "搞笑",
+          "duration": 240
+        },
+        {
+          "rank": 85,
+          "title": "我读了你们的评论 把阎王召唤出来了T_T",
+          "author": "汤木檀泽",
+          "views": 910330,
+          "likes": 60908,
+          "url": "https://www.bilibili.com/video/BV1JKEw6QEw9",
+          "category": "日常",
+          "duration": 959
+        },
+        {
+          "rank": 86,
+          "title": "Oi，今天跟老舅争锋相对！！",
+          "author": "花小龙oy",
+          "views": 872689,
+          "likes": 63045,
+          "url": "https://www.bilibili.com/video/BV1DyVm6REs8",
+          "category": "健身",
+          "duration": 218
+        },
+        {
+          "rank": 87,
+          "title": "宗元舞2.0紧绷之人3",
+          "author": "是柳宗元",
+          "views": 942335,
+          "likes": 104696,
+          "url": "https://www.bilibili.com/video/BV1idV26bE2E",
+          "category": "电子竞技",
+          "duration": 51
+        },
+        {
+          "rank": 88,
+          "title": "除草届来了个无关紧要的人",
+          "author": "菜鸡罢了呀",
+          "views": 1514133,
+          "likes": 45070,
+          "url": "https://www.bilibili.com/video/BV17SVZ6wEy1",
+          "category": "搞笑",
+          "duration": 347
+        },
+        {
+          "rank": 89,
+          "title": "东北下岗三十年后，我看见了普通人的生活",
+          "author": "十七岁歌手想打中单",
+          "views": 831876,
+          "likes": 32455,
+          "url": "https://www.bilibili.com/video/BV1iQV26cEfX",
+          "category": "出行",
+          "duration": 3132
+        },
+        {
+          "rank": 90,
+          "title": "复仇整蛊！蛋黄派伪装摄影师突袭周深，几秒就被识破？",
+          "author": "记录生活的蛋黄派",
+          "views": 1057343,
+          "likes": 56739,
+          "url": "https://www.bilibili.com/video/BV1edV26tEsB",
+          "category": "美食测评",
+          "duration": 556
+        },
+        {
+          "rank": 91,
+          "title": "和你聊会儿｜曾沛慈：我花了很久，才找到自己",
+          "author": "澎湃新闻",
+          "views": 797762,
+          "likes": 30852,
+          "url": "https://www.bilibili.com/video/BV1y5Vi61E1v",
+          "category": "社会",
+          "duration": 2255
+        },
+        {
+          "rank": 92,
+          "title": "如果我来挑战拍华语地区的经典MV风格？这一期是粉丝投稿哦！",
+          "author": "李如儒也是李蠕蠕",
+          "views": 919237,
+          "likes": 61832,
+          "url": "https://www.bilibili.com/video/BV1bL796CEpe",
+          "category": "小剧场",
+          "duration": 159
+        },
+        {
+          "rank": 93,
+          "title": "当你看到这条视频的时候我相信你成为我的粉丝不远了",
+          "author": "刮蜡皮小能手",
+          "views": 2587448,
+          "likes": 94178,
+          "url": "https://www.bilibili.com/video/BV1Ak5F61ECk",
+          "category": "日常",
+          "duration": 67
+        },
+        {
+          "rank": 94,
+          "title": "当两个老板点到对方熟悉的护航",
+          "author": "小小蜂鸽鸽",
+          "views": 760908,
+          "likes": 57006,
+          "url": "https://www.bilibili.com/video/BV1Y4Vz6NECv",
+          "category": "网络游戏",
+          "duration": 300
+        },
+        {
+          "rank": 95,
+          "title": "你说你有点难追～",
+          "author": "未知艺术家_611",
+          "views": 1153685,
+          "likes": 113430,
+          "url": "https://www.bilibili.com/video/BV12R7Q6MEJX",
+          "category": "搞笑",
+          "duration": 30
+        },
+        {
+          "rank": 96,
+          "title": "日本人为了让你少吃就流水素面有多拼",
+          "author": "在日本摸鱼的小超人",
+          "views": 1100309,
+          "likes": 48841,
+          "url": "https://www.bilibili.com/video/BV1aaVr6zEm1",
+          "category": "美食侦探",
+          "duration": 222
+        },
+        {
+          "rank": 97,
+          "title": "高考别忘了到考场啊！",
+          "author": "太阳星sunstar",
+          "views": 1399717,
+          "likes": 58168,
+          "url": "https://www.bilibili.com/video/BV1SsVZ6EE1A",
+          "category": "人文历史",
+          "duration": 435
+        },
+        {
+          "rank": 98,
+          "title": "10倍差价，凭什么赢？ 领克如何跑赢保时捷？",
+          "author": "所长Wy",
+          "views": 1036192,
+          "likes": 32493,
+          "url": "https://www.bilibili.com/video/BV1N7Vm65E9z",
+          "category": "汽车生活",
+          "duration": 567
+        },
+        {
+          "rank": 99,
+          "title": "千万级大场面的廉价拍摄方式！别人狠砸半个亿，你十几万就搞定了？",
+          "author": "电影冷知识",
+          "views": 1469827,
+          "likes": 67259,
+          "url": "https://www.bilibili.com/video/BV1g2Vm6WETv",
+          "category": "影视杂谈",
+          "duration": 233
+        },
+        {
+          "rank": 100,
+          "title": "《 儿 捅 节 》",
+          "author": "我叫小白李",
+          "views": 1024807,
+          "likes": 66471,
+          "url": "https://www.bilibili.com/video/BV1quVZ6bEwc",
+          "category": "音MAD",
+          "duration": 135
+        }
+      ]
+    },
+    "weather": {
+      "update_time": "2026-06-05T15:16:10+08:00",
+      "location": "北京",
+      "weather": "Beijing: ☀️  +27°C 25% ↖9km/h"
+    }
+  }
 }

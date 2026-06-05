@@ -1,11 +1,5 @@
 {
-  "city": "北京",
-  "date": "2026-06-05",
-  "temp": "27°C",
-  "feelsLike": "25°C",
-  "humidity": "28%",
-  "weather": "Sunny",
-  "wind": "E 6km/h",
-  "visibility": "10km",
-  "pressure": "1010hPa"
+  "update_time": "2026-06-05T15:16:10+08:00",
+  "location": "北京",
+  "weather": "Beijing: ☀️  +27°C 25% ↖9km/h"
 }
