@@ -1,22 +1,96 @@
-[
-  {"rank": 1, "keyword": "今天才知道潮汕不是一座城市", "heat": "250000", "label": "热"},
-  {"rank": 2, "keyword": "原价899的耐克降至429消费者仍不买账", "heat": "180000", "label": "热"},
-  {"rank": 3, "keyword": "高考前这些事要再捋一遍", "heat": "150000", "label": "热"},
-  {"rank": 4, "keyword": "华为nova16系列正式开售", "heat": "130000", "label": "新"},
-  {"rank": 5, "keyword": "开到荼靡 彭冠英", "heat": "70000", "label": ""},
-  {"rank": 6, "keyword": "当我用拼豆拼了一整套麻将", "heat": "60000", "label": ""},
-  {"rank": 7, "keyword": "连扫把都受不了广东的天气了", "heat": "60000", "label": ""},
-  {"rank": 8, "keyword": "拉芳全球品牌代言人鞠婧祎", "heat": "50000", "label": ""},
-  {"rank": 9, "keyword": "江语晨来浪姐胖了12斤", "heat": "50000", "label": ""},
-  {"rank": 10, "keyword": "用热成像偷拍小猫上厕所", "heat": "40000", "label": ""},
-  {"rank": 11, "keyword": "Bin被罚15万", "heat": "40000", "label": ""},
-  {"rank": 12, "keyword": "原来面条坨了也有邪修", "heat": "30000", "label": ""},
-  {"rank": 13, "keyword": "好怕现实中也有人长AI这样", "heat": "30000", "label": ""},
-  {"rank": 14, "keyword": "耐克正在被消费者抛弃", "heat": "30000", "label": ""},
-  {"rank": 15, "keyword": "男子AI写歌月收入十几万", "heat": "30000", "label": ""},
-  {"rank": 16, "keyword": "窦靖童妹妹头", "heat": "25000", "label": ""},
-  {"rank": 17, "keyword": "ChatGPT以后可能要没了", "heat": "25000", "label": "新"},
-  {"rank": 18, "keyword": "36氪独家｜2026年字节AI的四个关键命题", "heat": "22000", "label": "新"},
-  {"rank": 19, "keyword": "深圳具身公司获得汇川、中国电信亿元融资", "heat": "20000", "label": "新"},
-  {"rank": 20, "keyword": "李宁需要库里，但库里更需要李宁", "heat": "18000", "label": ""}
-]
+{
+  "update_time": "2026-06-05 08:42",
+  "source": "微博热搜榜",
+  "items": [
+    {
+      "rank": 1,
+      "keyword": "一张泛黄发票的故事",
+      "heat": "热",
+      "category": "社会"
+    },
+    {
+      "rank": 2,
+      "keyword": "Gemini 美国豆包",
+      "heat": 1167319,
+      "category": "科技"
+    },
+    {
+      "rank": 3,
+      "keyword": "原价899的耐克降至429消费者仍不买账",
+      "heat": 842130,
+      "category": "消费"
+    },
+    {
+      "rank": 4,
+      "keyword": "美丽中国行",
+      "heat": 813508,
+      "category": "社会"
+    },
+    {
+      "rank": 5,
+      "keyword": "Bin被罚15万",
+      "heat": 809141,
+      "category": "游戏"
+    },
+    {
+      "rank": 6,
+      "keyword": "江语晨来浪姐胖了12斤",
+      "heat": 799188,
+      "category": "综艺"
+    },
+    {
+      "rank": 7,
+      "keyword": "原来面条坨了也有邪修",
+      "heat": 688684,
+      "category": "生活"
+    },
+    {
+      "rank": 8,
+      "keyword": "国企回应保安只让员工孩子进门躲雨",
+      "heat": 404712,
+      "category": "社会"
+    },
+    {
+      "rank": 9,
+      "keyword": "白鹿何与或演开到荼靡",
+      "heat": 392145,
+      "category": "剧集"
+    },
+    {
+      "rank": 10,
+      "keyword": "国企干部公职人员离婚分割近亿财产",
+      "heat": 1201238,
+      "category": "社会"
+    },
+    {
+      "rank": 11,
+      "keyword": "李昊炎加盟巴萨",
+      "heat": 868860,
+      "category": "体育"
+    },
+    {
+      "rank": 12,
+      "keyword": "2026高考安检新变化",
+      "heat": 791596,
+      "category": "教育"
+    },
+    {
+      "rank": 13,
+      "keyword": "刘浩存演技",
+      "heat": 767857,
+      "category": "娱乐"
+    },
+    {
+      "rank": 14,
+      "keyword": "高考前千万不要吃榴莲",
+      "heat": null,
+      "category": "生活"
+    },
+    {
+      "rank": 15,
+      "keyword": "2030年AI耗水量够13亿人用一年",
+      "heat": null,
+      "category": "科技"
+    }
+  ]
+}
